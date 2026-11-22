@@ -1,0 +1,67 @@
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        # 站点不在仓库根目录，所有 run 步骤都在 site/ 下执行。
+        working-directory: 2026-11-19/vocab-site-plan/site
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: 2026-11-19/vocab-site-plan/site/package-lock.json
+
+      - name: Compute base path and site URL
+        # 用户站点 <user>.github.io 用 "/"，其他仓库用 "/<repo>/"。
+        run: |
+          if [[ "${GITHUB_REPOSITORY#*/}" == *.github.io ]]; then
+            echo "BASE_PATH=/" >> "$GITHUB_ENV"
+            echo "SITE_URL=https://${GITHUB_REPOSITORY_OWNER}.github.io" >> "$GITHUB_ENV"
+          else
+            echo "BASE_PATH=/${GITHUB_REPOSITORY#*/}/" >> "$GITHUB_ENV"
+            echo "SITE_URL=https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}" >> "$GITHUB_ENV"
+          fi
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # 该路径相对仓库根目录，而不是上面的 working-directory。
+          path: 2026-11-19/vocab-site-plan/site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
