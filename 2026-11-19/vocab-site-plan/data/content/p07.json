@@ -1,0 +1,831 @@
+{
+  "id": "p07",
+  "title": "The Ninth Floor",
+  "titleZh": "九楼的第一周",
+  "topic": "职场",
+  "paragraphs": [
+    [
+      {
+        "en": "My first week as a new student here already feels busy and long.",
+        "zh": "我作为新学生在这里的第一周已经感觉又忙又漫长。"
+      },
+      {
+        "en": "The busy office on the ninth floor is thirty metres wide and bright.",
+        "zh": "九楼那间忙碌的办公室有三十米宽，而且很明亮。"
+      },
+      {
+        "en": "A tall silver door stands wide open all day.",
+        "zh": "一扇高大的银色门整天敞开着。"
+      },
+      {
+        "en": "The man in the blue shirt simply nods and says yes.",
+        "zh": "蓝衬衫的男人只是点点头，说了声“是”。"
+      },
+      {
+        "en": "The director wants a short, simple speech from me today.",
+        "zh": "今天主管想让我做一段简短的发言。"
+      },
+      {
+        "en": "The job requires a clear, calm and very steady voice.",
+        "zh": "这份工作需要清晰、沉稳而非常平稳的嗓音。"
+      },
+      {
+        "en": "Her kind advice offers a simple, useful method for us.",
+        "zh": "她善意的建议为我们提供了一个简单有用的方法。"
+      },
+      {
+        "en": "One long, difficult sentence still gives him real trouble today.",
+        "zh": "一个又长又难的句子仍然让他很头疼。"
+      },
+      {
+        "en": "My small diary has a dozen empty white pages left.",
+        "zh": "我的小日记本还剩十几页空白。"
+      },
+      {
+        "en": "My mum loves cooking for the whole family each Sunday.",
+        "zh": "我妈妈喜欢每个星期天为全家人做饭。"
+      }
+    ],
+    [
+      {
+        "en": "Her husband brings a warm lunch to the busy office.",
+        "zh": "她丈夫把热腾腾的午饭带到繁忙的办公室。"
+      },
+      {
+        "en": "During the evening, a glass of red wine adds gentle pleasure.",
+        "zh": "傍晚时，一杯红酒添了几分温和的惬意。"
+      },
+      {
+        "en": "The little shop downstairs sells warm, fresh bread every morning.",
+        "zh": "楼下的小店每天早上都卖热乎乎的新鲜面包。"
+      },
+      {
+        "en": "I buy a ticket for the southern night train.",
+        "zh": "我买了一张南下列车的车票。"
+      },
+      {
+        "en": "In early spring, a visitor from the warm south arrives.",
+        "zh": "早春时节，一位来自温暖南方的访客到了。"
+      },
+      {
+        "en": "A kind old engineer pulls a wooden chair nearby at once.",
+        "zh": "一位好心的老工程师立刻搬来一把木椅。"
+      },
+      {
+        "en": "A happy smile appears at noon each working day.",
+        "zh": "每天中午，一个快乐的笑容都会出现。"
+      },
+      {
+        "en": "I cannot believe my own tired, red eye.",
+        "zh": "我无法相信自己疲惫发红的眼睛。"
+      },
+      {
+        "en": "He insists on doing the heavy work all by himself.",
+        "zh": "他坚持所有重活都自己一个人干。"
+      }
+    ],
+    [
+      {
+        "en": "Sir, please wait in the quiet front hall instead of leaving.",
+        "zh": "先生，请别走，在安静的前厅等一会儿。"
+      },
+      {
+        "en": "Then a woman of middle age quietly waits outside alone.",
+        "zh": "随后，一位中年妇人独自在外面静静地等着。"
+      },
+      {
+        "en": "The total cost will rise again next cold winter month.",
+        "zh": "接着，下个寒冷的冬月里总成本还会再涨。"
+      },
+      {
+        "en": "The full report looks smooth and very neat this morning.",
+        "zh": "今早这份完整的报告看上去平整又非常整洁。"
+      },
+      {
+        "en": "He dares to pay the fine completely alone today.",
+        "zh": "他今天完全独自一人敢去交这笔罚款。"
+      },
+      {
+        "en": "I rush out, and besides, the grey sky turns dark.",
+        "zh": "我冲了出去，而且天色也变暗了。"
+      },
+      {
+        "en": "If the box is heavy, do not lift it alone.",
+        "zh": "如果箱子很重，就不要一个人搬。"
+      },
+      {
+        "en": "The small office is quite warm, almost too warm inside.",
+        "zh": "这间小办公室相当暖和，几乎太暖了。"
+      },
+      {
+        "en": "Later your chair stood empty a whole month ago.",
+        "zh": "你的椅子空了整整一个月。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "not",
+      "pos": "adv.",
+      "zh": "不",
+      "stars": 5,
+      "collocation": "do not lift it"
+    },
+    {
+      "lemma": "if",
+      "pos": "conj./n.",
+      "zh": "如果",
+      "stars": 5,
+      "collocation": "If the box"
+    },
+    {
+      "lemma": "your",
+      "pos": "pron.",
+      "zh": "你的",
+      "stars": 5,
+      "collocation": "Later your chair stood"
+    },
+    {
+      "lemma": "man",
+      "pos": "n./v.",
+      "zh": "男人",
+      "stars": 5,
+      "collocation": "The man in the"
+    },
+    {
+      "lemma": "too",
+      "pos": "adv.",
+      "zh": "也",
+      "stars": 5,
+      "collocation": "almost too warm inside."
+    },
+    {
+      "lemma": "yes",
+      "pos": "adv./n./v.",
+      "zh": "是",
+      "stars": 5,
+      "collocation": "says yes."
+    },
+    {
+      "lemma": "week",
+      "pos": "n.",
+      "zh": "星期",
+      "stars": 5,
+      "collocation": "first week as a"
+    },
+    {
+      "lemma": "quite",
+      "pos": "adv.",
+      "zh": "相当",
+      "stars": 5,
+      "collocation": "is quite warm, almost"
+    },
+    {
+      "lemma": "eye",
+      "pos": "n./v.",
+      "zh": "眼睛",
+      "stars": 5,
+      "collocation": "red eye."
+    },
+    {
+      "lemma": "believe",
+      "pos": "v.",
+      "zh": "相信",
+      "stars": 5,
+      "collocation": "cannot believe my own"
+    },
+    {
+      "lemma": "himself",
+      "pos": "pron.",
+      "zh": "他自己",
+      "stars": 5,
+      "collocation": "by himself."
+    },
+    {
+      "lemma": "door",
+      "pos": "n.",
+      "zh": "门",
+      "stars": 5,
+      "collocation": "silver door stands wide"
+    },
+    {
+      "lemma": "full",
+      "pos": "n./adj./adv./v.",
+      "zh": "全部",
+      "stars": 5,
+      "collocation": "The full report looks"
+    },
+    {
+      "lemma": "age",
+      "pos": "n./v.",
+      "zh": "年龄",
+      "stars": 5,
+      "collocation": "middle age quietly waits"
+    },
+    {
+      "lemma": "clear",
+      "pos": "adj./adv./v.",
+      "zh": "清楚的",
+      "stars": 5,
+      "collocation": "a clear, calm and"
+    },
+    {
+      "lemma": "student",
+      "pos": "n.",
+      "zh": "学生",
+      "stars": 5,
+      "collocation": "new student here already"
+    },
+    {
+      "lemma": "sell",
+      "pos": "v./n.",
+      "zh": "卖",
+      "stars": 5,
+      "collocation": "downstairs sells warm, fresh"
+    },
+    {
+      "lemma": "ago",
+      "pos": "adv.",
+      "zh": "以前",
+      "stars": 5,
+      "collocation": "month ago."
+    },
+    {
+      "lemma": "sir",
+      "pos": "n.",
+      "zh": "先生",
+      "stars": 5,
+      "collocation": "Sir, please wait"
+    },
+    {
+      "lemma": "director",
+      "pos": "n.",
+      "zh": "主管",
+      "stars": 5,
+      "collocation": "The director wants a"
+    },
+    {
+      "lemma": "rise",
+      "pos": "n./v.",
+      "zh": "上升",
+      "stars": 5,
+      "collocation": "will rise again next"
+    },
+    {
+      "lemma": "total",
+      "pos": "adj./v./n.",
+      "zh": "全体的",
+      "stars": 5,
+      "collocation": "The total cost will"
+    },
+    {
+      "lemma": "middle",
+      "pos": "n./adj.",
+      "zh": "中央",
+      "stars": 5,
+      "collocation": "of middle age quietly"
+    },
+    {
+      "lemma": "me",
+      "pos": "pron.",
+      "zh": "我",
+      "stars": 5,
+      "collocation": "from me today."
+    },
+    {
+      "lemma": "require",
+      "pos": "v.",
+      "zh": "需要",
+      "stars": 4,
+      "collocation": "job requires a clear,"
+    },
+    {
+      "lemma": "method",
+      "pos": "n.",
+      "zh": "方法",
+      "stars": 4,
+      "collocation": "useful method for us."
+    },
+    {
+      "lemma": "shop",
+      "pos": "n./v.",
+      "zh": "商店",
+      "stars": 4,
+      "collocation": "little shop downstairs sells"
+    },
+    {
+      "lemma": "pull",
+      "pos": "v./n.",
+      "zh": "拉",
+      "stars": 4,
+      "collocation": "engineer pulls a wooden"
+    },
+    {
+      "lemma": "happy",
+      "pos": "adj.",
+      "zh": "快乐的",
+      "stars": 4,
+      "collocation": "A happy smile appears"
+    },
+    {
+      "lemma": "husband",
+      "pos": "n./v.",
+      "zh": "丈夫",
+      "stars": 4,
+      "collocation": "Her husband brings a"
+    },
+    {
+      "lemma": "smile",
+      "pos": "n./v.",
+      "zh": "微笑",
+      "stars": 4,
+      "collocation": "happy smile appears at"
+    },
+    {
+      "lemma": "advice",
+      "pos": "n.",
+      "zh": "忠告",
+      "stars": 4,
+      "collocation": "kind advice offers a"
+    },
+    {
+      "lemma": "trouble",
+      "pos": "n./v.",
+      "zh": "烦恼",
+      "stars": 4,
+      "collocation": "real trouble today."
+    },
+    {
+      "lemma": "speech",
+      "pos": "n.",
+      "zh": "演讲",
+      "stars": 4,
+      "collocation": "simple speech from me"
+    },
+    {
+      "lemma": "sentence",
+      "pos": "n./v.",
+      "zh": "句子",
+      "stars": 4,
+      "collocation": "difficult sentence still gives"
+    },
+    {
+      "lemma": "instead",
+      "pos": "adv.",
+      "zh": "作为替代",
+      "stars": 4,
+      "collocation": "hall instead of leaving."
+    },
+    {
+      "lemma": "wine",
+      "pos": "n./v.",
+      "zh": "葡萄酒",
+      "stars": 4,
+      "collocation": "red wine adds gentle"
+    },
+    {
+      "lemma": "insist",
+      "pos": "v.",
+      "zh": "坚持",
+      "stars": 4,
+      "collocation": "He insists on doing"
+    },
+    {
+      "lemma": "spring",
+      "pos": "n./adj./v.",
+      "zh": "春天",
+      "stars": 4,
+      "collocation": "early spring, a visitor"
+    },
+    {
+      "lemma": "lunch",
+      "pos": "n.",
+      "zh": "午餐",
+      "stars": 4,
+      "collocation": "warm lunch to the"
+    },
+    {
+      "lemma": "southern",
+      "pos": "n./adj.",
+      "zh": "南方人",
+      "stars": 4,
+      "collocation": "the southern night train."
+    },
+    {
+      "lemma": "ticket",
+      "pos": "n./v.",
+      "zh": "票",
+      "stars": 4,
+      "collocation": "a ticket for the"
+    },
+    {
+      "lemma": "dozen",
+      "pos": "n./adj.",
+      "zh": "打",
+      "stars": 4,
+      "collocation": "a dozen empty white"
+    },
+    {
+      "lemma": "ninth",
+      "pos": "num.",
+      "zh": "第九",
+      "stars": 4,
+      "collocation": "the ninth floor is"
+    },
+    {
+      "lemma": "fine",
+      "pos": "n./adj./v.",
+      "zh": "罚款",
+      "stars": 3,
+      "collocation": "the fine completely alone"
+    },
+    {
+      "lemma": "visitor",
+      "pos": "n.",
+      "zh": "参观者",
+      "stars": 3,
+      "collocation": "a visitor from the"
+    },
+    {
+      "lemma": "pleasure",
+      "pos": "n./v.",
+      "zh": "快乐",
+      "stars": 3,
+      "collocation": "gentle pleasure."
+    },
+    {
+      "lemma": "tall",
+      "pos": "adj./adv.",
+      "zh": "高的",
+      "stars": 3,
+      "collocation": "A tall silver door"
+    },
+    {
+      "lemma": "engineer",
+      "pos": "n./v.",
+      "zh": "工程师",
+      "stars": 3,
+      "collocation": "old engineer pulls a"
+    },
+    {
+      "lemma": "metre",
+      "pos": "n.",
+      "zh": "公尺",
+      "stars": 3,
+      "collocation": "thirty metres wide and"
+    },
+    {
+      "lemma": "silver",
+      "pos": "n./adj./v.",
+      "zh": "银",
+      "stars": 3,
+      "collocation": "tall silver door stands"
+    },
+    {
+      "lemma": "shirt",
+      "pos": "n.",
+      "zh": "衬衫",
+      "stars": 3,
+      "collocation": "blue shirt simply nods"
+    },
+    {
+      "lemma": "rush",
+      "pos": "n./v./adj.",
+      "zh": "匆促",
+      "stars": 3,
+      "collocation": "I rush out, and"
+    },
+    {
+      "lemma": "smooth",
+      "pos": "adj./v./n.",
+      "zh": "平滑的",
+      "stars": 3,
+      "collocation": "looks smooth and very"
+    },
+    {
+      "lemma": "diary",
+      "pos": "n.",
+      "zh": "日记",
+      "stars": 3,
+      "collocation": "small diary has a"
+    },
+    {
+      "lemma": "dare",
+      "pos": "n./v.",
+      "zh": "挑战",
+      "stars": 3,
+      "collocation": "He dares to pay"
+    },
+    {
+      "lemma": "besides",
+      "pos": "prep./adv.",
+      "zh": "除...之外",
+      "stars": 3,
+      "collocation": "and besides, the grey"
+    },
+    {
+      "lemma": "mum",
+      "pos": "n./adj./v.",
+      "zh": "菊花",
+      "stars": 3,
+      "collocation": "My mum loves cooking"
+    },
+    {
+      "lemma": "cooking",
+      "pos": "n.",
+      "zh": "烹饪",
+      "stars": 3,
+      "collocation": "loves cooking for the"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“director” 的意思是：",
+      "options": [
+        "主管",
+        "工程师",
+        "学生",
+        "访客"
+      ],
+      "answer": 0,
+      "speak": "director"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The job ___ a clear, calm and very steady voice.",
+      "options": [
+        "requires",
+        "sells",
+        "pulls",
+        "dares"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“pleasure” 的意思是：",
+      "options": [
+        "快乐",
+        "建议",
+        "麻烦",
+        "年龄"
+      ],
+      "answer": 0,
+      "speak": "pleasure"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Her kind ___ offers a simple, useful method for us.",
+      "options": [
+        "advice",
+        "trouble",
+        "speech",
+        "sentence"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "If the box is heavy, do ___ lift it alone.",
+      "options": [
+        "not",
+        "too",
+        "quite",
+        "yes"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“metre” 的意思是：",
+      "options": [
+        "公尺",
+        "银",
+        "票",
+        "日记"
+      ],
+      "answer": 0,
+      "speak": "metre"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A tall silver ___ stands wide open all day.",
+      "options": [
+        "door",
+        "shirt",
+        "chair",
+        "report"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“southern” 的意思是：",
+      "options": [
+        "南方的",
+        "第九的",
+        "全体的",
+        "平滑的"
+      ],
+      "answer": 0,
+      "speak": "southern"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My first week as a new ",
+        "hint": "st",
+        "after": " here already feels busy and long.",
+        "answer": "student"
+      },
+      {
+        "before": "The busy office on the ",
+        "hint": "ni",
+        "after": " floor is thirty metres wide and bright.",
+        "answer": "ninth"
+      },
+      {
+        "before": "A tall ",
+        "hint": "si",
+        "after": " door stands wide open all day.",
+        "answer": "silver"
+      },
+      {
+        "before": "The man in the blue ",
+        "hint": "sh",
+        "after": " simply nods and says yes.",
+        "answer": "shirt"
+      },
+      {
+        "before": "The ",
+        "hint": "di",
+        "after": " wants a short, simple speech from me today.",
+        "answer": "director"
+      },
+      {
+        "before": "The job ",
+        "hint": "re",
+        "after": " a clear, calm and very steady voice.",
+        "answer": "requires"
+      },
+      {
+        "before": "Her kind advice offers a simple, useful ",
+        "hint": "me",
+        "after": " for us.",
+        "answer": "method"
+      },
+      {
+        "before": "One long, difficult sentence still gives him real ",
+        "hint": "tr",
+        "after": " today.",
+        "answer": "trouble"
+      },
+      {
+        "before": "My small ",
+        "hint": "di",
+        "after": " has a dozen empty white pages left.",
+        "answer": "diary"
+      },
+      {
+        "before": "My mum loves ",
+        "hint": "co",
+        "after": " for the whole family each Sunday.",
+        "answer": "cooking"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Her husband brings a warm ",
+        "hint": "lu",
+        "after": " to the busy office.",
+        "answer": "lunch"
+      },
+      {
+        "before": "During the evening, a glass of red ",
+        "hint": "wi",
+        "after": " adds gentle pleasure.",
+        "answer": "wine"
+      },
+      {
+        "before": "The little ",
+        "hint": "sh",
+        "after": " downstairs sells warm, fresh bread every morning.",
+        "answer": "shop"
+      },
+      {
+        "before": "I buy a ",
+        "hint": "ti",
+        "after": " for the southern night train.",
+        "answer": "ticket"
+      },
+      {
+        "before": "In early ",
+        "hint": "sp",
+        "after": ", a visitor from the warm south arrives.",
+        "answer": "spring"
+      },
+      {
+        "before": "A kind old ",
+        "hint": "en",
+        "after": " pulls a wooden chair nearby at once.",
+        "answer": "engineer"
+      },
+      {
+        "before": "A ",
+        "hint": "ha",
+        "after": " smile appears at noon each working day.",
+        "answer": "happy"
+      },
+      {
+        "before": "I cannot ",
+        "hint": "be",
+        "after": " my own tired, red eye.",
+        "answer": "believe"
+      },
+      {
+        "before": "He insists on doing the heavy work all by ",
+        "hint": "hi",
+        "after": ".",
+        "answer": "himself"
+      },
+      {
+        "before": "Sir, please wait in the quiet front hall ",
+        "hint": "in",
+        "after": " of leaving.",
+        "answer": "instead"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我作为新学生在这里的第一周已经感觉又忙又漫长。",
+        "keywords": [
+          "week",
+          "student",
+          "busy"
+        ]
+      },
+      {
+        "zh": "今天主管想让我做一段简短的发言。",
+        "keywords": [
+          "director",
+          "speech",
+          "short"
+        ]
+      },
+      {
+        "zh": "楼下的小店每天早上都卖热乎乎的新鲜面包。",
+        "keywords": [
+          "shop",
+          "sell",
+          "bread"
+        ]
+      },
+      {
+        "zh": "早春时节，一位来自温暖南方的访客到了。",
+        "keywords": [
+          "spring",
+          "visitor",
+          "south"
+        ]
+      },
+      {
+        "zh": "接着，下个寒冷的冬月里总成本还会再涨。",
+        "keywords": [
+          "total",
+          "rise",
+          "month"
+        ]
+      },
+      {
+        "zh": "你的椅子空了整整一个月。",
+        "keywords": [
+          "chair",
+          "empty",
+          "ago"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 283,
+    "sentences": 28,
+    "newDensity": 0.208,
+    "targetTokenDensity": 0.208,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "以一名学生到工程公司实习的第一周为主线，写他准备发言、写日记、吃午饭和独自坐车南下的见闻。"
+}

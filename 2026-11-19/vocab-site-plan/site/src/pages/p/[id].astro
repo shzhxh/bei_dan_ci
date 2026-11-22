@@ -1,0 +1,1026 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { STAGES } from '../../data/course';
+import { getCatalog } from '../../lib/catalog.server';
+import type { CatalogPassage } from '../../lib/catalog.server';
+import { url } from '../../lib/paths';
+
+export function getStaticPaths() {
+  return getCatalog().passages.map((passage) => ({
+    params: { id: passage.slug },
+    props: { passage },
+  }));
+}
+
+interface Props {
+  passage: CatalogPassage;
+}
+
+const { passage } = Astro.props as Props;
+const catalog = getCatalog();
+const isSupplement = passage.track === 'supplement';
+const stage = STAGES.find((item) => item.stage === passage.stage);
+const index = catalog.passages.findIndex((item) => item.id === passage.id);
+const prev = index > 0 ? catalog.passages[index - 1] : null;
+const next = index < catalog.passages.length - 1 ? catalog.passages[index + 1] : null;
+
+const content = passage.content;
+const escapeHtml = (text: string) =>
+  text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+const tokenize = (text: string) =>
+  escapeHtml(text).replace(/([A-Za-z][A-Za-z'’-]*)/g, '<span class="t-word">$1</span>');
+
+const chunk = <T,>(list: T[], size: number): T[][] => {
+  const groups: T[][] = [];
+  for (let i = 0; i < list.length; i += size) groups.push(list.slice(i, i + size));
+  return groups;
+};
+const wordGroups = content ? chunk(content.words, 60) : [];
+const sentenceCount = content?.flatSentences.length ?? 0;
+const title = `p${passage.slug} · ${passage.title}`;
+const trackLabel = isSupplement ? '考纲补漏 · 非星级词' : stage?.label;
+
+const passageData = {
+  id: passage.id,
+  track: passage.track,
+  lemmas: passage.lemmas,
+  words: content?.words ?? [],
+  sentences: content?.flatSentences ?? [],
+  quiz: content?.quiz ?? [],
+};
+const passageJson = JSON.stringify(passageData).replace(/</g, '\\u003c');
+---
+
+<BaseLayout
+  title={title}
+  description={`${passage.title}（${passage.titleZh}）· 第 ${passage.order} 篇短文，${passage.targetCount} 个目标词。`}
+>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href={url('/course/')}>课程</a>
+      <span aria-hidden="true">/</span>
+      <span>{isSupplement ? '考纲补漏' : stage?.label}</span>
+      <span aria-hidden="true">/</span>
+      <span>第 {passage.slug} 篇</span>
+    </div>
+
+    <header class="passage-head">
+      <h1>{passage.title}</h1>
+      <p class="zh-title">{passage.titleZh}</p>
+      <div class="passage-meta">
+        <span class="badge badge-accent">第 {passage.order} 篇</span>
+        {isSupplement ? (
+          <span class="badge badge-gold">考纲补漏 · 非星级词</span>
+        ) : (
+          <span class="badge">{stage?.label}</span>
+        )}
+        <span>{passage.targetCount} 个目标词</span>
+        <span aria-hidden="true">·</span>
+        <span>{passage.wordCount > 0 ? `正文 ${passage.wordCount} 词` : '篇长待成稿'}</span>
+        <span aria-hidden="true">·</span>
+        <span>主题：{passage.topic}</span>
+        <span aria-hidden="true">·</span>
+        <span class="badge" data-read-badge>未开始</span>
+      </div>
+      {
+        !content ? (
+          <div class="notice">
+            <b>内容制作中</b>
+            <span>
+              本篇已按分配账簿预留 {passage.targetCount} 个目标词（{isSupplement
+                ? 'assignment-supplement.tsv'
+                : 'assignment.tsv'}）。
+              正文、译文、词表与题目尚未接入 <code>data/content/</code>；接入后本页会自动显示。
+              当前仍可查看结构、阅读设置与本地进度记录。
+            </span>
+          </div>
+        ) : isSupplement ? (
+          <div class="notice">
+            <b>考纲补漏</b>
+            <span>
+              本篇收纳无 Collins 星级的中考词，仅在中考路线使用，不计入主线 50 篇的完成度分母。
+            </span>
+          </div>
+        ) : null
+      }
+    </header>
+
+    <div class="tabs" role="tablist" aria-label="学习状态">
+      <button class="tab" role="tab" id="tab-read" aria-controls="panel-read" aria-selected="true" data-tab="read">阅读</button>
+      <button class="tab" role="tab" id="tab-study" aria-controls="panel-study" aria-selected="false" data-tab="study">精讲</button>
+      <button class="tab" role="tab" id="tab-recite" aria-controls="panel-recite" aria-selected="false" data-tab="recite">背诵</button>
+      <button class="tab" role="tab" id="tab-quiz" aria-controls="panel-quiz" aria-selected="false" data-tab="quiz">检测</button>
+    </div>
+
+    <section class="panel" id="panel-read" role="tabpanel" aria-labelledby="tab-read">
+      <div class="reader-layout">
+        <div>
+          <div class="reader-toolbar" aria-label="阅读设置">
+            <span class="tool-label">字号</span>
+            <div class="tool-group">
+              <button class="icon-btn" type="button" id="font-down" aria-label="减小字号">A−</button>
+              <button class="icon-btn" type="button" id="font-up" aria-label="增大字号">A+</button>
+            </div>
+            <span class="tool-label" style="margin-left: 10px;">行距</span>
+            <button class="btn btn-sm btn-ghost" type="button" id="leading-toggle">标准</button>
+            <span class="toolbar-spacer"></span>
+            <label class="toggle">
+              <input type="checkbox" id="zh-toggle" />
+              译文
+            </label>
+            <button class="btn btn-sm" type="button" id="speak-all">朗读全文</button>
+            <button class="btn btn-sm btn-ghost" type="button" id="speak-stop">停止</button>
+          </div>
+
+          <article class="article" id="article" data-passage-id={passage.id}>
+            <h2 class="article-title">{passage.title}</h2>
+            <p class="article-sub">
+              {passage.titleZh} · {trackLabel}{content ? '' : ' · 内容制作中'}
+            </p>
+            {
+              content ? (
+                <div class="article-body">
+                  {content.paragraphs.map((paragraph) => (
+                    <p>
+                      {paragraph.map((sentence) => (
+                        <>
+                          <span class="sentence" data-en={sentence.en} data-zh={sentence.zh}>
+                            <Fragment set:html={tokenize(sentence.en)} />
+                          </span>{' '}
+                          <span class="sentence-zh" hidden>{sentence.zh}</span>
+                        </>
+                      ))}
+                    </p>
+                  ))}
+                </div>
+              ) : (
+                <div class="article-body">
+                  <div class="empty-state" style="border: 0; padding: 24px 0;">
+                    <h3>这篇短文正在制作</h3>
+                    <p>
+                      正文、逐句译文与目标词表尚未接入。分篇词表已经在
+                      <code>data/assignment.tsv</code> 中就位，成稿写入
+                      <code>data/content/p{passage.slug}.json</code> 后会自动出现在这里。
+                    </p>
+                  </div>
+                </div>
+              )
+            }
+            <div class="btn-row" style="margin-top: 28px;">
+              <button class="btn btn-primary btn-sm" type="button" id="mark-read">标记本篇已首读</button>
+              <span class="text-muted text-small" id="mark-read-hint" style="align-self: center;">
+                首读后按本篇目标词自动生成 SRS 卡片
+              </span>
+            </div>
+          </article>
+        </div>
+
+        <aside class="word-panel" aria-labelledby="word-panel-title">
+          <h3 id="word-panel-title">词卡</h3>
+          <p class="word-panel-hint">
+            {content
+              ? '点击正文中的任意单词查看词卡；再点句末空白处可朗读该句。'
+              : '本篇内容制作中；成稿接入后，点击正文单词即可查看释义与搭配。'}
+          </p>
+          <div class="word-panel-body" id="word-panel-body">
+            <p class="text-muted text-small">尚未选择单词。</p>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-study" role="tabpanel" aria-labelledby="tab-study" hidden>
+      <div class="panel-head">
+        <h2>精讲 · {passage.targetCount} 词{content && wordGroups.length > 1 ? `（分 ${wordGroups.length} 组）` : ''}</h2>
+        <span class="panel-note">
+          {content ? '点击词条可查看释义、搭配与篇内出处。' : '已按分配账簿列出本篇目标词；释义与搭配待成稿接入。'}
+        </span>
+      </div>
+
+      {
+        content ? (
+          <div class="study-grid">
+            <div>
+              {wordGroups.map((group, groupIndex) => (
+                <div class="word-group">
+                  <div class="word-group-head">
+                    <h3>
+                      第 {groupIndex * 60 + 1}–{Math.min(passage.targetCount, groupIndex * 60 + group.length)} 词
+                    </h3>
+                    <span class="text-muted text-small">{group.length} 个目标词</span>
+                  </div>
+                  <div class="word-table-wrap">
+                    <table class="word-table">
+                      <thead>
+                        <tr>
+                          <th scope="col">词</th>
+                          <th scope="col">词性</th>
+                          <th scope="col">释义</th>
+                          <th scope="col">搭配</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {group.map((word) => (
+                          <tr>
+                            <td class="word-lemma">{word.lemma}</td>
+                            <td class="text-muted">{word.pos || '—'}</td>
+                            <td>{word.zh || '待补'}</td>
+                            <td class="text-muted">{word.collocation || '—'}</td>
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              ))}
+            </div>
+            <aside class="study-aside">
+              <div class="card">
+                <h3 style="font-size: 15px;">本篇指标</h3>
+                <div class="insight-list">
+                  <li>目标词 {passage.targetCount} 个</li>
+                  <li>正文 {sentenceCount} 句，共 {content.paragraphs.length} 段</li>
+                  <li>总词数 {passage.wordCount}</li>
+                  {content.metrics?.newDensity ? (
+                    <li>目标词密度 {(content.metrics.newDensity * 100).toFixed(0)}%</li>
+                  ) : null}
+                  {content.metrics?.targetTokenDensity ? (
+                    <li>目标词词次密度 {(content.metrics.targetTokenDensity * 100).toFixed(0)}%</li>
+                  ) : null}
+                </div>
+              </div>
+              {content.metrics?.patterns?.length ? (
+                <div class="card">
+                  <h3 style="font-size: 15px;">句式模板</h3>
+                  <div class="insight-list">
+                    {content.metrics.patterns.map((pattern) => <li>{pattern}</li>)}
+                  </div>
+                </div>
+              ) : null}
+            </aside>
+          </div>
+        ) : (
+          <div class="card">
+            <h3 style="font-size: 16px;">分配词汇（按 assignment 账簿）</h3>
+            <p class="text-muted text-small" style="margin-top: 6px;">
+              成稿前先列出本篇要覆盖的目标词；顺序与分配以 <code>data/assignment.tsv</code> 为准。
+            </p>
+            <div class="chip-list">
+              {passage.lemmas.map((lemma) => (
+                <span class="chip" data-word-chip={lemma}>{lemma}</span>
+              ))}
+            </div>
+          </div>
+        )
+      }
+    </section>
+
+    <section class="panel" id="panel-recite" role="tabpanel" aria-labelledby="tab-recite" hidden>
+      <div class="panel-head">
+        <h2>背诵 · 四阶</h2>
+        <span class="panel-note">可跳阶，但建议按 B1 → B4 顺序。</span>
+      </div>
+
+      {
+        content ? (
+          <div class="recite-grid">
+            <article class="recite-card" data-recite-card="b1">
+              <div class="recite-head">
+                <div>
+                  <div class="recite-step">B1</div>
+                  <div class="recite-name">跟读</div>
+                </div>
+                <span class="badge" data-recite-badge="b1">未完成</span>
+              </div>
+              <p class="recite-desc">按句跟读：当前句高亮，可逐句播放或自动连读；长文在句列表内滚动。</p>
+              <div class="recite-reader">
+                <div class="recite-progress">
+                  <div class="bar-track">
+                    <div class="bar-fill" id="recite-sentence-bar" style="width: 0%"></div>
+                  </div>
+                  <span class="mono" id="recite-sentence-progress">1 / {sentenceCount}</span>
+                </div>
+                <ol class="recite-sentences" id="recite-sentences">
+                  {content.flatSentences.map((sentence, sentenceIndex) => (
+                    <li
+                      class="recite-sentence"
+                      data-recite-sentence={sentenceIndex}
+                      data-en={sentence.en}
+                    >
+                      <span class="recite-sentence-index mono">
+                        {String(sentenceIndex + 1).padStart(2, '0')}
+                      </span>
+                      <span>{sentence.en}</span>
+                    </li>
+                  ))}
+                </ol>
+                <div class="btn-row">
+                  <button class="btn btn-sm btn-ghost" type="button" id="recite-prev">上句</button>
+                  <button class="btn btn-sm" type="button" id="recite-one">播放本句</button>
+                  <button class="btn btn-sm" type="button" id="recite-auto">自动连读</button>
+                  <button class="btn btn-sm btn-ghost" type="button" id="recite-next">下句</button>
+                  <button class="btn btn-sm btn-ghost" type="button" data-complete="b1">标记完成</button>
+                </div>
+              </div>
+              <p class="recite-result">语速跟随阅读设置；使用浏览器 TTS，无音频文件。</p>
+            </article>
+
+            <article class="recite-card" data-recite-card="b2">
+              <div class="recite-head">
+                <div>
+                  <div class="recite-step">B2</div>
+                  <div class="recite-name">挖空</div>
+                </div>
+                <span class="badge" data-recite-badge="b2">未完成</span>
+              </div>
+              <p class="recite-desc">首字母提示，补全目标词；全部正确即记录完成。</p>
+              {content.recite.b2.length ? (
+                <>
+                  <div class="cloze-progress">
+                    <span>已填 <b data-cloze-count="b2">0</b> / {content.recite.b2.length}</span>
+                    <div class="bar-track">
+                      <div class="bar-fill" data-cloze-bar="b2" style="width: 0%"></div>
+                    </div>
+                  </div>
+                  <div class="cloze-scroll">
+                    {content.recite.b2.map((item) => (
+                      <div class="cloze-item cloze" data-cloze-item>
+                        <span>{item.before}</span>
+                        <input type="text" data-answer={item.answer} placeholder={`${item.hint}…`} aria-label={`填入 ${item.hint} 开头的单词`} />
+                        <span>{item.after}</span>
+                      </div>
+                    ))}
+                  </div>
+                </>
+              ) : (
+                <p class="recite-empty">B2 挖空题待成稿接入。</p>
+              )}
+              <div class="btn-row">
+                <button class="btn btn-sm" type="button" data-check="b2" disabled={!content.recite.b2.length}>检查</button>
+                <span class="recite-result" data-result="b2"></span>
+              </div>
+            </article>
+
+            <article class="recite-card" data-recite-card="b3">
+              <div class="recite-head">
+                <div>
+                  <div class="recite-step">B3</div>
+                  <div class="recite-name">首字母</div>
+                </div>
+                <span class="badge" data-recite-badge="b3">未完成</span>
+              </div>
+              <p class="recite-desc">每句只给首字母，补全整句关键词。</p>
+              {content.recite.b3.length ? (
+                <>
+                  <div class="cloze-progress">
+                    <span>已填 <b data-cloze-count="b3">0</b> / {content.recite.b3.length}</span>
+                    <div class="bar-track">
+                      <div class="bar-fill" data-cloze-bar="b3" style="width: 0%"></div>
+                    </div>
+                  </div>
+                  <div class="cloze-scroll">
+                    {content.recite.b3.map((item) => (
+                      <div class="cloze-item cloze" data-cloze-item>
+                        <span>{item.before}</span>
+                        <input type="text" data-answer={item.answer} placeholder={`${item.hint}…`} aria-label={`填入 ${item.hint} 开头的单词`} />
+                        <span>{item.after}</span>
+                      </div>
+                    ))}
+                  </div>
+                </>
+              ) : (
+                <p class="recite-empty">B3 首字母题待成稿接入。</p>
+              )}
+              <div class="btn-row">
+                <button class="btn btn-sm" type="button" data-check="b3" disabled={!content.recite.b3.length}>检查</button>
+                <span class="recite-result" data-result="b3"></span>
+              </div>
+            </article>
+
+            <article class="recite-card" data-recite-card="b4">
+              <div class="recite-head">
+                <div>
+                  <div class="recite-step">B4</div>
+                  <div class="recite-name">回译</div>
+                </div>
+                <span class="badge" data-recite-badge="b4">未完成</span>
+              </div>
+              <p class="recite-desc">只看中文，口头或书面说出英文；命中关键词即算通过。</p>
+              {content.recite.b4.length ? (
+                <>
+                  <p class="recite-subcount">共 {content.recite.b4.length} 句 · 在框内滚动逐句回译</p>
+                  <div class="b4-scroll">
+                    <div class="b4-prompt">
+                      {content.recite.b4.map((item) => (
+                        <div class="b4-row">
+                          <p>{item.zh}</p>
+                          <p class="b4-keywords">关键词：{item.keywords.join(' / ')}</p>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                </>
+              ) : (
+                <p class="recite-empty">B4 回译提示待成稿接入。</p>
+              )}
+              <div class="btn-row">
+                <button class="btn btn-sm btn-ghost" type="button" data-complete="b4">自评通过</button>
+              </div>
+            </article>
+          </div>
+        ) : (
+          <div class="empty-state">
+            <h3>背诵内容制作中</h3>
+            <p>
+              B1 跟读、B2 挖空、B3 首字母、B4 回译四个阶段的结构已就绪；
+              正文与题目接入后即可练习，进度仍按篇记录在本地。
+            </p>
+            <div class="btn-row">
+              <a class="btn btn-sm" href={url('/method/')}>查看学习方法</a>
+            </div>
+          </div>
+        )
+      }
+    </section>
+
+    <section class="panel" id="panel-quiz" role="tabpanel" aria-labelledby="tab-quiz" hidden>
+      <div class="panel-head">
+        <h2>检测 · {content?.quiz.length ? `${content.quiz.length} 题` : '待接入'}</h2>
+        <span class="panel-note">提交后自动判分，成绩记入本地；长文题目在框内滚动作答。</span>
+      </div>
+
+      {
+        content?.quiz.length ? (
+          <div>
+            <div class="quiz-progress">
+              <span>已答 <b id="quiz-answered">0</b> / {content.quiz.length}</span>
+              <div class="bar-track">
+                <div class="bar-fill" id="quiz-answered-bar" style="width: 0%"></div>
+              </div>
+              <button class="btn btn-sm btn-ghost" type="button" id="quiz-jump">跳到未答</button>
+            </div>
+            <div class="quiz-list" id="quiz-list">
+              {content.quiz.map((question, questionIndex) => (
+                <article class="quiz-item" data-question={question.id}>
+                  <div class="quiz-head">
+                    <span class="quiz-index mono">{String(questionIndex + 1).padStart(2, '0')}</span>
+                    <span class="badge">{question.type}</span>
+                  </div>
+                  <p class="quiz-prompt">
+                    {question.speak ? (
+                      <>
+                        <button class="btn btn-sm" type="button" data-speak={question.speak}>播放发音</button>
+                        <span style="margin-left: 10px;">{question.prompt}</span>
+                      </>
+                    ) : (
+                      question.prompt
+                    )}
+                  </p>
+                  <div class="quiz-options">
+                    {question.options.map((option, optionIndex) => (
+                      <label class="quiz-option">
+                        <input type="radio" name={question.id} value={optionIndex} />
+                        <span>{option}</span>
+                      </label>
+                    ))}
+                  </div>
+                </article>
+              ))}
+            </div>
+            <div class="quiz-footer">
+              <button class="btn btn-primary" type="button" id="quiz-submit">提交答案</button>
+              <button class="btn btn-sm btn-ghost" type="button" id="quiz-reset">重做</button>
+              <span class="quiz-score" id="quiz-score" aria-live="polite"></span>
+            </div>
+          </div>
+        ) : (
+          <div class="empty-state">
+            <h3>检测题目制作中</h3>
+            <p>
+              题目结构支持词义、填空、搭配、听音与理解题；本篇词表与题目接入后自动出现在这里。
+            </p>
+          </div>
+        )
+      }
+    </section>
+
+    <nav class="section" aria-label="篇目导航" style="display: flex; gap: 12px; justify-content: space-between; border-top: 1px solid var(--line); padding-top: 22px;">
+      {
+        prev ? (
+          <a class="btn btn-sm" href={url(`/p/${prev.slug}/`)}>← 第 {prev.slug} 篇</a>
+        ) : (
+          <span class="text-muted text-small" style="align-self: center;">已经是第一篇</span>
+        )
+      }
+      <a class="btn btn-sm btn-ghost" href={url('/course/')}>返回课程</a>
+      {
+        next ? (
+          <a class="btn btn-sm" href={url(`/p/${next.slug}/`)}>第 {next.slug} 篇 →</a>
+        ) : (
+          <span class="text-muted text-small" style="align-self: center;">已经是最后一篇</span>
+        )
+      }
+    </nav>
+  </div>
+
+  <script type="application/json" id="passage-data" set:html={passageJson}></script>
+
+  <script>
+    import {
+      loadProgress,
+      markPassageRead,
+      recordQuiz,
+      saveSettings,
+      setReciteStage,
+      visitPassage,
+    } from '../../lib/progress';
+    import type { ReciteState } from '../../lib/progress';
+
+    interface PassageWord {
+      lemma: string;
+      pos: string;
+      zh: string;
+      collocation: string;
+    }
+    interface PassageSentence {
+      en: string;
+      zh: string;
+    }
+    interface PassageQuiz {
+      id: string;
+      type: string;
+      prompt: string;
+      options: string[];
+      answer: number;
+      speak?: string;
+    }
+    interface PassageData {
+      id: string;
+      track: string;
+      lemmas: string[];
+      words: PassageWord[];
+      sentences: PassageSentence[];
+      quiz: PassageQuiz[];
+    }
+
+    const dataNode = document.getElementById('passage-data');
+    const data: PassageData = dataNode?.textContent
+      ? (JSON.parse(dataNode.textContent) as PassageData)
+      : { id: '', track: 'main', lemmas: [], words: [], sentences: [], quiz: [] };
+
+    const article = document.getElementById('article');
+    const passageId = article?.dataset.passageId ?? data.id;
+    const hasContent = data.sentences.length > 0 && data.words.length > 0;
+
+    const live = loadProgress();
+    visitPassage(passageId);
+
+    const toast = (message: string) =>
+      window.dispatchEvent(new CustomEvent('vocab:toast', { detail: message }));
+
+    /* ---------- 标签页 ---------- */
+    const tabs = Array.from(document.querySelectorAll<HTMLButtonElement>('.tab'));
+    const panels: Record<string, HTMLElement | null> = {
+      read: document.getElementById('panel-read'),
+      study: document.getElementById('panel-study'),
+      recite: document.getElementById('panel-recite'),
+      quiz: document.getElementById('panel-quiz'),
+    };
+
+    const selectTab = (name: string) => {
+      for (const tab of tabs) {
+        const active = tab.dataset.tab === name;
+        tab.setAttribute('aria-selected', String(active));
+      }
+      for (const [key, panel] of Object.entries(panels)) {
+        if (panel) panel.hidden = key !== name;
+      }
+    };
+
+    for (const tab of tabs) {
+      tab.addEventListener('click', () => {
+        const name = tab.dataset.tab ?? 'read';
+        selectTab(name);
+        history.replaceState(null, '', `#${name}`);
+      });
+    }
+    const initial = window.location.hash.replace('#', '');
+    if (['read', 'study', 'recite', 'quiz'].includes(initial)) selectTab(initial);
+
+    /* ---------- 阅读设置 ---------- */
+    const articleBody = document.querySelector<HTMLElement>('.article-body');
+    const fontDown = document.getElementById('font-down');
+    const fontUp = document.getElementById('font-up');
+    const leadingToggle = document.getElementById('leading-toggle');
+    let fontSize = live.settings.fontSize;
+    let leading = live.settings.lineHeight;
+
+    const applyReader = () => {
+      articleBody?.style.setProperty('--reader-size', `${fontSize}px`);
+      articleBody?.style.setProperty('--reader-size-mobile', `${Math.max(15, fontSize - 2)}px`);
+      articleBody?.style.setProperty('--reader-leading', String(leading));
+      if (leadingToggle) leadingToggle.textContent = leading > 1.9 ? '宽松' : '标准';
+      saveSettings({ fontSize, lineHeight: leading });
+    };
+    applyReader();
+
+    fontDown?.addEventListener('click', () => {
+      fontSize = Math.max(15, fontSize - 1);
+      applyReader();
+    });
+    fontUp?.addEventListener('click', () => {
+      fontSize = Math.min(26, fontSize + 1);
+      applyReader();
+    });
+    leadingToggle?.addEventListener('click', () => {
+      leading = leading > 1.9 ? 1.7 : 2.1;
+      applyReader();
+    });
+
+    const zhToggle = document.getElementById('zh-toggle') as HTMLInputElement | null;
+    zhToggle?.addEventListener('change', () => {
+      for (const node of document.querySelectorAll<HTMLElement>('.sentence-zh')) {
+        node.hidden = !zhToggle.checked;
+      }
+    });
+
+    /* ---------- 朗读 ---------- */
+    const synth = window.speechSynthesis;
+    let speakingNode: HTMLElement | null = null;
+    const pickVoice = () => {
+      const voices = synth?.getVoices() ?? [];
+      return voices.find((voice) => /en[-_]US/i.test(voice.lang)) ?? voices.find((voice) => /^en/i.test(voice.lang));
+    };
+    const speak = (text: string, node?: HTMLElement, onEnd?: () => void) => {
+      if (!text) {
+        toast('本篇内容制作中，暂无可朗读的正文');
+        onEnd?.();
+        return;
+      }
+      if (!synth) {
+        toast('当前浏览器不支持语音合成');
+        onEnd?.();
+        return;
+      }
+      synth.cancel();
+      speakingNode?.classList.remove('is-speaking');
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = 'en-US';
+      utterance.rate = live.settings.rate;
+      const voice = pickVoice();
+      if (voice) utterance.voice = voice;
+      speakingNode = node ?? null;
+      node?.classList.add('is-speaking');
+      let finished = false;
+      const finish = () => {
+        if (finished) return;
+        finished = true;
+        node?.classList.remove('is-speaking');
+        if (speakingNode === node) speakingNode = null;
+        onEnd?.();
+      };
+      utterance.onend = finish;
+      utterance.onerror = finish;
+      synth.speak(utterance);
+    };
+
+    document.getElementById('speak-all')?.addEventListener('click', () => {
+      const text = Array.from(document.querySelectorAll('.sentence'))
+        .map((node) => node.getAttribute('data-en') ?? node.textContent ?? '')
+        .join(' ');
+      speak(text);
+    });
+    document.getElementById('speak-stop')?.addEventListener('click', () => {
+      synth?.cancel();
+      speakingNode?.classList.remove('is-speaking');
+      speakingNode = null;
+    });
+
+    for (const sentence of document.querySelectorAll<HTMLElement>('.sentence')) {
+      sentence.addEventListener('click', (event) => {
+        if ((event.target as HTMLElement).classList.contains('t-word')) return;
+        const en = sentence.getAttribute('data-en');
+        if (en) speak(en, sentence);
+      });
+    }
+
+    /* ---------- 词卡 ---------- */
+    const wordMap = new Map(data.words.map((word) => [word.lemma.toLowerCase(), word]));
+    const wordPanel = document.getElementById('word-panel-body');
+    const showWord = (raw: string) => {
+      if (!wordPanel) return;
+      const lemma = raw.toLowerCase().replace(/[^a-z'-]/g, '');
+      const word = wordMap.get(lemma);
+      if (!word) {
+        wordPanel.innerHTML = `<p class="text-muted text-small">“${lemma}” 不在本篇目标词中；${
+          hasContent ? '派生词会逐步补充 lemma 还原。' : '本篇内容制作中，词卡暂未接入。'
+        }</p>`;
+        return;
+      }
+      wordPanel.innerHTML = `
+        <div class="word-entry">
+          <div class="word-entry-head">
+            <span class="word-entry-lemma">${word.lemma}</span>
+            <span class="word-entry-pos">${word.pos || '—'}</span>
+          </div>
+          <p class="word-entry-zh">${word.zh || '释义待补'}</p>
+          <div class="word-entry-row"><b>搭配</b>${word.collocation || '—'}</div>
+          <div class="word-entry-row"><b>发音</b><button class="btn btn-sm btn-ghost" type="button" id="word-speak">播放</button></div>
+        </div>`;
+      document.getElementById('word-speak')?.addEventListener('click', () => speak(word.lemma));
+    };
+
+    for (const wordNode of document.querySelectorAll<HTMLElement>('.t-word')) {
+      wordNode.addEventListener('click', () => showWord(wordNode.textContent ?? ''));
+    }
+    for (const chip of document.querySelectorAll<HTMLElement>('[data-word-chip]')) {
+      chip.addEventListener('click', () => showWord(chip.dataset.wordChip ?? chip.textContent ?? ''));
+    }
+
+    /* ---------- 首读与 SRS ---------- */
+    const escapeRegExp = (text: string) => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const sentenceFor = (lemma: string): PassageSentence | undefined =>
+      data.sentences.find((sentence) =>
+        new RegExp(`\\b${escapeRegExp(lemma)}\\b`, 'i').test(sentence.en),
+      );
+
+    const readBadge = document.querySelector<HTMLElement>('[data-read-badge]');
+    const markReadButton = document.getElementById('mark-read') as HTMLButtonElement | null;
+    const markReadHint = document.getElementById('mark-read-hint');
+    const refreshReadState = () => {
+      const current = loadProgress().passages[passageId];
+      if (readBadge) {
+        readBadge.textContent = current?.read ? '已首读' : current?.visits ? '学习中' : '未开始';
+        readBadge.classList.toggle('badge-accent', Boolean(current?.read));
+      }
+      if (markReadButton) {
+        markReadButton.disabled = Boolean(current?.read);
+        markReadButton.textContent = current?.read ? '已首读' : '标记本篇已首读';
+      }
+      if (markReadHint && current?.read) {
+        markReadHint.textContent = 'SRS 卡片已生成，可在复习页查看';
+      }
+    };
+    refreshReadState();
+
+    markReadButton?.addEventListener('click', () => {
+      const seeds = data.words.length
+        ? data.words.map((word) => {
+            const sentence = sentenceFor(word.lemma);
+            return { lemma: word.lemma, sentence: sentence?.en, zh: word.zh };
+          })
+        : data.lemmas.map((lemma) => ({ lemma }));
+      markPassageRead(passageId, seeds);
+      refreshReadState();
+      toast(`已记录首读，本篇 ${seeds.length} 张卡片已加入复习队列`);
+    });
+
+    /* ---------- 背诵 ---------- */
+    const reciteBadges = document.querySelectorAll<HTMLElement>('[data-recite-badge]');
+    const refreshRecite = () => {
+      const current = loadProgress().passages[passageId];
+      for (const badge of Array.from(reciteBadges)) {
+        const stageKey = badge.dataset.reciteBadge as keyof ReciteState;
+        const done = Boolean(current?.recite?.[stageKey]);
+        badge.textContent = done ? '已完成' : '未完成';
+        badge.classList.toggle('badge-accent', done);
+        const card = badge.closest<HTMLElement>('[data-recite-card]');
+        card?.classList.toggle('is-done', done);
+      }
+    };
+    refreshRecite();
+
+    const completeStage = (stageKey: keyof ReciteState) => {
+      setReciteStage(passageId, stageKey);
+      refreshRecite();
+      toast(`已记录 ${stageKey.toUpperCase()} 完成`);
+    };
+
+    for (const button of document.querySelectorAll<HTMLButtonElement>('[data-complete]')) {
+      button.addEventListener('click', () => {
+        completeStage((button.dataset.complete ?? 'b1') as keyof ReciteState);
+      });
+    }
+
+    // B1 长文分段跟读：当前句高亮 + 进度条 + 自动连读
+    const reciteSentences = Array.from(
+      document.querySelectorAll<HTMLElement>('[data-recite-sentence]'),
+    );
+    const reciteContainer = document.getElementById('recite-sentences');
+    const reciteBar = document.getElementById('recite-sentence-bar');
+    const reciteProgress = document.getElementById('recite-sentence-progress');
+    const reciteAutoButton = document.getElementById('recite-auto');
+    let reciteIndex = 0;
+    let reciteAuto = false;
+    let reciteSequence = 0;
+
+    const showReciteIndex = (index: number, scroll = true) => {
+      if (!reciteSentences.length) return;
+      reciteIndex = Math.max(0, Math.min(index, reciteSentences.length - 1));
+      reciteSentences.forEach((item, itemIndex) => {
+        item.classList.toggle('is-current', itemIndex === reciteIndex);
+      });
+      if (reciteBar) {
+        reciteBar.style.width = `${((reciteIndex + 1) / reciteSentences.length) * 100}%`;
+      }
+      if (reciteProgress) {
+        reciteProgress.textContent = `${reciteIndex + 1} / ${reciteSentences.length}`;
+      }
+      if (scroll && reciteContainer) {
+        const node = reciteSentences[reciteIndex];
+        const top = node.offsetTop - reciteContainer.clientHeight / 2 + node.clientHeight / 2;
+        reciteContainer.scrollTo({ top: Math.max(0, top), behavior: 'smooth' });
+      }
+    };
+
+    const stopRecite = () => {
+      reciteAuto = false;
+      reciteSequence += 1;
+      synth?.cancel();
+      speakingNode?.classList.remove('is-speaking');
+      speakingNode = null;
+      if (reciteAutoButton) reciteAutoButton.textContent = '自动连读';
+    };
+
+    const playRecite = (index: number, chain = false) => {
+      if (!reciteSentences.length) return;
+      showReciteIndex(index);
+      const node = reciteSentences[reciteIndex];
+      const text = node.dataset.en ?? node.textContent ?? '';
+      const sequence = ++reciteSequence;
+      speak(text, node, () => {
+        if (sequence !== reciteSequence) return;
+        if (chain && reciteAuto && reciteIndex + 1 < reciteSentences.length) {
+          playRecite(reciteIndex + 1, true);
+        } else if (chain) {
+          reciteAuto = false;
+          if (reciteAutoButton) reciteAutoButton.textContent = '自动连读';
+        }
+      });
+    };
+
+    if (reciteSentences.length) showReciteIndex(0, false);
+    document.getElementById('recite-prev')?.addEventListener('click', () => {
+      stopRecite();
+      showReciteIndex(reciteIndex - 1);
+    });
+    document.getElementById('recite-next')?.addEventListener('click', () => {
+      stopRecite();
+      showReciteIndex(reciteIndex + 1);
+    });
+    document.getElementById('recite-one')?.addEventListener('click', () => {
+      stopRecite();
+      playRecite(reciteIndex);
+    });
+    reciteAutoButton?.addEventListener('click', () => {
+      if (reciteAuto) {
+        stopRecite();
+        return;
+      }
+      reciteAuto = true;
+      reciteAutoButton.textContent = '停止连读';
+      playRecite(reciteIndex, true);
+    });
+    for (const sentence of reciteSentences) {
+      sentence.addEventListener('click', () => {
+        if (reciteAuto) stopRecite();
+        playRecite(Number(sentence.dataset.reciteSentence ?? 0));
+      });
+    }
+    for (const tab of tabs) {
+      tab.addEventListener('click', () => {
+        if (tab.dataset.tab !== 'recite') stopRecite();
+      });
+    }
+
+    // B2 / B3 长文挖空：滚动区 + 已填进度
+    const updateClozeProgress = (stageKey: string) => {
+      const card = document.querySelector<HTMLElement>(`[data-recite-card="${stageKey}"]`);
+      const inputs = Array.from(
+        card?.querySelectorAll<HTMLInputElement>('input[data-answer]') ?? [],
+      );
+      if (!inputs.length) return;
+      const filled = inputs.filter((input) => input.value.trim().length > 0).length;
+      const count = document.querySelector<HTMLElement>(`[data-cloze-count="${stageKey}"]`);
+      const bar = document.querySelector<HTMLElement>(`[data-cloze-bar="${stageKey}"]`);
+      if (count) count.textContent = String(filled);
+      if (bar) bar.style.width = `${(filled / inputs.length) * 100}%`;
+    };
+
+    for (const input of document.querySelectorAll<HTMLInputElement>(
+      '.cloze-scroll input[data-answer]',
+    )) {
+      input.addEventListener('input', () => {
+        const card = input.closest<HTMLElement>('[data-recite-card]');
+        const stageKey = card?.dataset.reciteCard;
+        if (stageKey === 'b2' || stageKey === 'b3') updateClozeProgress(stageKey);
+      });
+    }
+
+    for (const button of document.querySelectorAll<HTMLButtonElement>('[data-check]')) {
+      button.addEventListener('click', () => {
+        const stageKey = (button.dataset.check ?? 'b2') as 'b2' | 'b3';
+        const card = button.closest<HTMLElement>('[data-recite-card]');
+        const inputs = Array.from(card?.querySelectorAll<HTMLInputElement>('input[data-answer]') ?? []);
+        if (!inputs.length) return;
+        let correct = 0;
+        for (const input of inputs) {
+          const answer = (input.dataset.answer ?? '').toLowerCase();
+          const ok = input.value.trim().toLowerCase() === answer;
+          input.classList.toggle('is-correct', ok);
+          input.classList.toggle('is-wrong', !ok && input.value.trim().length > 0);
+          if (ok) correct += 1;
+        }
+        const result = card?.querySelector<HTMLElement>(`[data-result="${stageKey}"]`);
+        if (result) {
+          result.textContent = `${correct} / ${inputs.length} 正确` + (correct === inputs.length ? ' · 已记录完成' : '');
+        }
+        updateClozeProgress(stageKey);
+        if (correct === inputs.length) completeStage(stageKey);
+      });
+    }
+
+    /* ---------- 检测 ---------- */
+    const quizList = document.getElementById('quiz-list');
+    const scoreNode = document.getElementById('quiz-score');
+    const submitButton = document.getElementById('quiz-submit') as HTMLButtonElement | null;
+    const resetButton = document.getElementById('quiz-reset') as HTMLButtonElement | null;
+    const quizAnsweredNode = document.getElementById('quiz-answered');
+    const quizAnsweredBar = document.getElementById('quiz-answered-bar');
+
+    const answeredQuestionIds = () =>
+      new Set(
+        Array.from(
+          quizList?.querySelectorAll<HTMLInputElement>('.quiz-option input:checked') ?? [],
+        ).map((input) => input.name),
+      );
+
+    const updateQuizProgress = () => {
+      const answered = answeredQuestionIds().size;
+      if (quizAnsweredNode) quizAnsweredNode.textContent = String(answered);
+      if (quizAnsweredBar) {
+        quizAnsweredBar.style.width = `${data.quiz.length ? (answered / data.quiz.length) * 100 : 0}%`;
+      }
+    };
+
+    for (const input of document.querySelectorAll<HTMLInputElement>('.quiz-option input')) {
+      input.addEventListener('change', updateQuizProgress);
+    }
+
+    document.getElementById('quiz-jump')?.addEventListener('click', () => {
+      const answered = answeredQuestionIds();
+      const first = data.quiz.find((question) => !answered.has(question.id));
+      if (!first || !quizList) {
+        toast('所有题目都已作答');
+        return;
+      }
+      const item = quizList.querySelector<HTMLElement>(`[data-question="${first.id}"]`);
+      if (item) {
+        quizList.scrollTo({ top: Math.max(0, item.offsetTop - 12), behavior: 'smooth' });
+      }
+    });
+    updateQuizProgress();
+
+    for (const button of document.querySelectorAll<HTMLButtonElement>('[data-speak]')) {
+      button.addEventListener('click', () => speak(button.dataset.speak ?? ''));
+    }
+
+    submitButton?.addEventListener('click', () => {
+      let score = 0;
+      for (const question of data.quiz) {
+        const item = quizList?.querySelector<HTMLElement>(`[data-question="${question.id}"]`);
+        if (!item) continue;
+        const options = Array.from(item.querySelectorAll<HTMLElement>('.quiz-option'));
+        const selected = item.querySelector<HTMLInputElement>('input[type="radio"]:checked');
+        options.forEach((option, optionIndex) => {
+          option.classList.toggle('is-correct', optionIndex === question.answer);
+          option.classList.toggle(
+            'is-wrong',
+            optionIndex === Number(selected?.value) && optionIndex !== question.answer,
+          );
+        });
+        if (selected && Number(selected.value) === question.answer) score += 1;
+      }
+      recordQuiz(passageId, score, data.quiz.length);
+      if (scoreNode) {
+        scoreNode.textContent = `得分 ${score} / ${data.quiz.length}`;
+        scoreNode.classList.toggle('is-low', score < data.quiz.length * 0.7);
+      }
+      toast(`已记录成绩：${score} / ${data.quiz.length}`);
+    });
+
+    resetButton?.addEventListener('click', () => {
+      for (const input of document.querySelectorAll<HTMLInputElement>('.quiz-option input')) {
+        input.checked = false;
+      }
+      for (const option of document.querySelectorAll<HTMLElement>('.quiz-option')) {
+        option.classList.remove('is-correct', 'is-wrong');
+      }
+      if (scoreNode) {
+        scoreNode.textContent = '';
+        scoreNode.classList.remove('is-low');
+      }
+      updateQuizProgress();
+    });
+  </script>
+</BaseLayout>

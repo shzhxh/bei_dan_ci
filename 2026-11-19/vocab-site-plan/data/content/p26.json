@@ -1,0 +1,829 @@
+{
+  "id": "p26",
+  "title": "The Mystery at the Auto Museum",
+  "titleZh": "汽车博物馆的谜案",
+  "topic": "旧工厂博物馆",
+  "paragraphs": [
+    [
+      {
+        "en": "My cousin works at a former auto empire near the town.",
+        "zh": "我的表亲在小镇附近一家旧汽车帝国工作。"
+      },
+      {
+        "en": "One rider won a championship with the power of this engine.",
+        "zh": "一位骑手用这台发动机的动力赢得过冠军。"
+      },
+      {
+        "en": "Two firms compete, and their ownership and relationship stay unclear.",
+        "zh": "两家公司竞争，它们的归属和关系仍不清楚。"
+      },
+      {
+        "en": "My aunt's small organization plans a historic show about the plant.",
+        "zh": "我姑姑的小机构计划为这家工厂办一场历史展览。"
+      },
+      {
+        "en": "It marks a demonstration and a ceasefire from the old days.",
+        "zh": "它记录了旧日的一场游行和一次停火。"
+      },
+      {
+        "en": "A brief wall text explains the communist period and its old leaders.",
+        "zh": "一段简短的墙面文字解释共产主义时期及其老领导人。"
+      },
+      {
+        "en": "One room remembers the violence and a young victim.",
+        "zh": "一个展厅纪念那场暴力和一位年轻的受害者。"
+      },
+      {
+        "en": "Another shows the tragedy that ruined the northern site.",
+        "zh": "另一个展厅展示毁掉北区厂址的悲剧。"
+      },
+      {
+        "en": "An ordinary worker kept the old machines stable for many years.",
+        "zh": "一位普通工人让那些旧机器稳定运转了许多年。"
+      },
+      {
+        "en": "His long journey to work went via two busy river bridges.",
+        "zh": "他上班的长途路程要经过两座繁忙的河桥。"
+      }
+    ],
+    [
+      {
+        "en": "The plant covers many acres of raw, open ground today.",
+        "zh": "如今这家工厂占地许多英亩，是一片未开发的土地。"
+      },
+      {
+        "en": "A grey uniform hangs beside a faded company flag on the wall.",
+        "zh": "墙上一件灰色制服挂在一面褪色的公司旗旁。"
+      },
+      {
+        "en": "Workers install an electronic guide beside each old car.",
+        "zh": "工人在每辆老车旁安装电子讲解器。"
+      },
+      {
+        "en": "Then a strange mystery occurs during the quiet night.",
+        "zh": "然后，安静的夜里发生了一件奇怪的谜事。"
+      },
+      {
+        "en": "A guard investigates the rooms and assesses every lock.",
+        "zh": "一名保安检查房间，评估每一把锁。"
+      },
+      {
+        "en": "One obvious clue earns him credit with the museum director.",
+        "zh": "一个明显的线索让他在馆长那里赢得赞誉。"
+      },
+      {
+        "en": "Someone removed a small box of old stuff from the desk.",
+        "zh": "有人从桌上拿走了一小箱旧东西。"
+      },
+      {
+        "en": "Later she edits her draft about the missing wooden box.",
+        "zh": "后来她编辑关于那只丢失木箱的草稿。"
+      },
+      {
+        "en": "My sister, a creative youngster, draws the scene from memory.",
+        "zh": "我妹妹是个有创意的孩子，凭记忆画下了那个场景。"
+      },
+      {
+        "en": "On behalf of the museum, she makes a firm pledge.",
+        "zh": "她代表博物馆郑重许下承诺。"
+      }
+    ],
+    [
+      {
+        "en": "A museum convention follows, and subsequent rules change slowly.",
+        "zh": "随后博物馆召开大会，之后的规则慢慢改变。"
+      },
+      {
+        "en": "The mood is tense, and a few tired guests look upset.",
+        "zh": "气氛紧张，几位疲惫的客人显得不安。"
+      },
+      {
+        "en": "Then confusion may arise before the morning chaos ends.",
+        "zh": "然后，在清晨的混乱结束前可能会出现困惑。"
+      },
+      {
+        "en": "From another angle, the old box shows a characteristic mark.",
+        "zh": "从另一个角度看，那只旧箱子有一个特有的标记。"
+      },
+      {
+        "en": "Careful preparation brings a clear improvement to the whole show.",
+        "zh": "细致的准备让整场展览有了明显的提升。"
+      },
+      {
+        "en": "The economics of the plant imply a slow and quiet decline.",
+        "zh": "这家工厂的经济状况暗示着缓慢而安静的衰落。"
+      },
+      {
+        "en": "A previous owner began his long career in this hall.",
+        "zh": "一位前任老板在这个大厅里开始了他的漫长职业生涯。"
+      },
+      {
+        "en": "Specifically, the old banner vanished overnight without any trace.",
+        "zh": "具体来说，那条旧横幅一夜之间消失得无影无踪。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "power",
+      "pos": "n./v.",
+      "zh": "力",
+      "stars": 5,
+      "collocation": "the power of this"
+    },
+    {
+      "lemma": "former",
+      "pos": "adj./n.",
+      "zh": "从前的",
+      "stars": 5,
+      "collocation": "a former auto empire"
+    },
+    {
+      "lemma": "relationship",
+      "pos": "n.",
+      "zh": "关系",
+      "stars": 4,
+      "collocation": "and relationship stay unclear."
+    },
+    {
+      "lemma": "occur",
+      "pos": "v.",
+      "zh": "发生",
+      "stars": 4,
+      "collocation": "mystery occurs during the"
+    },
+    {
+      "lemma": "remove",
+      "pos": "v./n.",
+      "zh": "移动",
+      "stars": 4,
+      "collocation": "Someone removed a small"
+    },
+    {
+      "lemma": "organization",
+      "pos": "n.",
+      "zh": "组织",
+      "stars": 4,
+      "collocation": "small organization plans a"
+    },
+    {
+      "lemma": "obvious",
+      "pos": "adj.",
+      "zh": "明显的",
+      "stars": 4,
+      "collocation": "One obvious clue earns"
+    },
+    {
+      "lemma": "credit",
+      "pos": "n./v.",
+      "zh": "信用",
+      "stars": 4,
+      "collocation": "him credit with the"
+    },
+    {
+      "lemma": "victim",
+      "pos": "n.",
+      "zh": "受害人",
+      "stars": 4,
+      "collocation": "young victim."
+    },
+    {
+      "lemma": "assess",
+      "pos": "v.",
+      "zh": "估定",
+      "stars": 4,
+      "collocation": "and assesses every lock."
+    },
+    {
+      "lemma": "violence",
+      "pos": "n.",
+      "zh": "猛烈",
+      "stars": 4,
+      "collocation": "the violence and a"
+    },
+    {
+      "lemma": "brief",
+      "pos": "n./adj./v.",
+      "zh": "摘要",
+      "stars": 4,
+      "collocation": "A brief wall text"
+    },
+    {
+      "lemma": "communist",
+      "pos": "n.",
+      "zh": "共产主义者",
+      "stars": 4,
+      "collocation": "the communist period and"
+    },
+    {
+      "lemma": "stable",
+      "pos": "n./adj./v.",
+      "zh": "马房",
+      "stars": 4,
+      "collocation": "machines stable for many"
+    },
+    {
+      "lemma": "arise",
+      "pos": "v.",
+      "zh": "站立",
+      "stars": 3,
+      "collocation": "may arise before the"
+    },
+    {
+      "lemma": "ordinary",
+      "pos": "adj./n.",
+      "zh": "平常的",
+      "stars": 3,
+      "collocation": "An ordinary worker kept"
+    },
+    {
+      "lemma": "journey",
+      "pos": "n./v.",
+      "zh": "旅程",
+      "stars": 3,
+      "collocation": "long journey to work"
+    },
+    {
+      "lemma": "characteristic",
+      "pos": "n./adj.",
+      "zh": "特性",
+      "stars": 3,
+      "collocation": "a characteristic mark."
+    },
+    {
+      "lemma": "via",
+      "pos": "prep.",
+      "zh": "经由",
+      "stars": 3,
+      "collocation": "went via two busy"
+    },
+    {
+      "lemma": "preparation",
+      "pos": "n.",
+      "zh": "准备",
+      "stars": 3,
+      "collocation": "Careful preparation brings a"
+    },
+    {
+      "lemma": "empire",
+      "pos": "n.",
+      "zh": "帝国",
+      "stars": 3,
+      "collocation": "auto empire near the"
+    },
+    {
+      "lemma": "angle",
+      "pos": "n./v.",
+      "zh": "角",
+      "stars": 3,
+      "collocation": "another angle, the old"
+    },
+    {
+      "lemma": "electronic",
+      "pos": "adj.",
+      "zh": "电子的",
+      "stars": 3,
+      "collocation": "an electronic guide beside"
+    },
+    {
+      "lemma": "compete",
+      "pos": "v.",
+      "zh": "竞争",
+      "stars": 3,
+      "collocation": "firms compete, and their"
+    },
+    {
+      "lemma": "ownership",
+      "pos": "n.",
+      "zh": "所有权",
+      "stars": 3,
+      "collocation": "their ownership and relationship"
+    },
+    {
+      "lemma": "draft",
+      "pos": "n./v.",
+      "zh": "气流",
+      "stars": 3,
+      "collocation": "her draft about the"
+    },
+    {
+      "lemma": "raw",
+      "pos": "n./adj./v.",
+      "zh": "擦伤处",
+      "stars": 3,
+      "collocation": "of raw, open ground"
+    },
+    {
+      "lemma": "acre",
+      "pos": "n.",
+      "zh": "英亩",
+      "stars": 3,
+      "collocation": "many acres of raw,"
+    },
+    {
+      "lemma": "uniform",
+      "pos": "n./adj.",
+      "zh": "制服",
+      "stars": 3,
+      "collocation": "grey uniform hangs beside"
+    },
+    {
+      "lemma": "upset",
+      "pos": "adj./v.",
+      "zh": "弄翻的",
+      "stars": 3,
+      "collocation": "look upset."
+    },
+    {
+      "lemma": "chaos",
+      "pos": "n.",
+      "zh": "大混乱",
+      "stars": 3,
+      "collocation": "morning chaos ends."
+    },
+    {
+      "lemma": "behalf",
+      "pos": "n.",
+      "zh": "利益",
+      "stars": 3,
+      "collocation": "On behalf of the"
+    },
+    {
+      "lemma": "ruin",
+      "pos": "n./v.",
+      "zh": "毁灭",
+      "stars": 3,
+      "collocation": "that ruined the northern"
+    },
+    {
+      "lemma": "grey",
+      "pos": "n./adj./v.",
+      "zh": "灰色",
+      "stars": 5,
+      "collocation": "A grey uniform hangs"
+    },
+    {
+      "lemma": "previous",
+      "pos": "adj.",
+      "zh": "早先的",
+      "stars": 4,
+      "collocation": "A previous owner began"
+    },
+    {
+      "lemma": "career",
+      "pos": "n.",
+      "zh": "事业",
+      "stars": 4,
+      "collocation": "long career in this"
+    },
+    {
+      "lemma": "stuff",
+      "pos": "n./v.",
+      "zh": "原料",
+      "stars": 4,
+      "collocation": "old stuff from the"
+    },
+    {
+      "lemma": "investigate",
+      "pos": "v.",
+      "zh": "调查",
+      "stars": 4,
+      "collocation": "guard investigates the rooms"
+    },
+    {
+      "lemma": "economics",
+      "pos": "n.",
+      "zh": "经济学",
+      "stars": 4,
+      "collocation": "The economics of the"
+    },
+    {
+      "lemma": "improvement",
+      "pos": "n.",
+      "zh": "进步",
+      "stars": 3,
+      "collocation": "clear improvement to the"
+    },
+    {
+      "lemma": "imply",
+      "pos": "v.",
+      "zh": "暗示",
+      "stars": 3,
+      "collocation": "plant imply a slow"
+    },
+    {
+      "lemma": "convention",
+      "pos": "n.",
+      "zh": "大会",
+      "stars": 3,
+      "collocation": "museum convention follows, and"
+    },
+    {
+      "lemma": "subsequent",
+      "pos": "adj.",
+      "zh": "后来的",
+      "stars": 3,
+      "collocation": "and subsequent rules change"
+    },
+    {
+      "lemma": "mood",
+      "pos": "n.",
+      "zh": "心情",
+      "stars": 3,
+      "collocation": "The mood is tense,"
+    },
+    {
+      "lemma": "install",
+      "pos": "v.",
+      "zh": "安装",
+      "stars": 3,
+      "collocation": "Workers install an electronic"
+    },
+    {
+      "lemma": "mystery",
+      "pos": "n.",
+      "zh": "秘密",
+      "stars": 3,
+      "collocation": "strange mystery occurs during"
+    },
+    {
+      "lemma": "creative",
+      "pos": "adj.",
+      "zh": "有创造力的",
+      "stars": 3,
+      "collocation": "a creative youngster, draws"
+    },
+    {
+      "lemma": "youngster",
+      "pos": "n.",
+      "zh": "小孩",
+      "stars": 3,
+      "collocation": "creative youngster, draws the"
+    },
+    {
+      "lemma": "tragedy",
+      "pos": "n.",
+      "zh": "悲剧",
+      "stars": 3,
+      "collocation": "the tragedy that ruined"
+    },
+    {
+      "lemma": "rider",
+      "pos": "n.",
+      "zh": "骑手",
+      "stars": 3,
+      "collocation": "One rider won a"
+    },
+    {
+      "lemma": "overnight",
+      "pos": "n./adj./adv.",
+      "zh": "前一天晚上",
+      "stars": 3,
+      "collocation": "vanished overnight without any"
+    },
+    {
+      "lemma": "auto",
+      "pos": "n.",
+      "zh": "汽车",
+      "stars": 3,
+      "collocation": "former auto empire near"
+    },
+    {
+      "lemma": "specifically",
+      "pos": "adv.",
+      "zh": "特定地",
+      "stars": 3,
+      "collocation": "Specifically, the old"
+    },
+    {
+      "lemma": "historic",
+      "pos": "adj.",
+      "zh": "历史上著名的",
+      "stars": 3,
+      "collocation": "a historic show about"
+    },
+    {
+      "lemma": "edit",
+      "pos": "v.",
+      "zh": "编辑",
+      "stars": 3,
+      "collocation": "she edits her draft"
+    },
+    {
+      "lemma": "pledge",
+      "pos": "n./v.",
+      "zh": "诺言",
+      "stars": 3,
+      "collocation": "firm pledge."
+    },
+    {
+      "lemma": "championship",
+      "pos": "n.",
+      "zh": "冠军身份",
+      "stars": 4,
+      "collocation": "a championship with the"
+    },
+    {
+      "lemma": "demonstration",
+      "pos": "n.",
+      "zh": "示范",
+      "stars": 3,
+      "collocation": "a demonstration and a"
+    },
+    {
+      "lemma": "ceasefire",
+      "pos": "n.",
+      "zh": "停火",
+      "stars": 3,
+      "collocation": "a ceasefire from the"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“empire” 的意思是：",
+      "options": [
+        "帝国",
+        "组织",
+        "受害者",
+        "冠军"
+      ],
+      "answer": 0,
+      "speak": "empire"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "It marks a demonstration and a ___ from the old days.",
+      "options": [
+        "ceasefire",
+        "ownership",
+        "draft",
+        "angle"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“tragedy” 的意思是：",
+      "options": [
+        "悲剧",
+        "制服",
+        "谜团",
+        "草稿"
+      ],
+      "answer": 0,
+      "speak": "tragedy"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A grey ___ hangs beside a faded company flag on the wall.",
+      "options": [
+        "uniform",
+        "victim",
+        "mood",
+        "career"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A guard investigates the rooms and ___ every lock.",
+      "options": [
+        "assesses",
+        "installs",
+        "edits",
+        "implies"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“chaos” 的意思是：",
+      "options": [
+        "混乱",
+        "准备",
+        "后续",
+        "经济"
+      ],
+      "answer": 0,
+      "speak": "chaos"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Careful ___ brings a clear improvement to the whole show.",
+      "options": [
+        "preparation",
+        "violence",
+        "ownership",
+        "cable"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“overnight” 的意思是：",
+      "options": [
+        "一夜之间",
+        "具体地",
+        "明显地",
+        "稳定地"
+      ],
+      "answer": 0,
+      "speak": "overnight"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My cousin works at a ",
+        "hint": "fo",
+        "after": " auto empire near the town.",
+        "answer": "former"
+      },
+      {
+        "before": "One ",
+        "hint": "ri",
+        "after": " won a championship with the power of this engine.",
+        "answer": "rider"
+      },
+      {
+        "before": "Two firms compete, and their ",
+        "hint": "ow",
+        "after": " and relationship stay unclear.",
+        "answer": "ownership"
+      },
+      {
+        "before": "My aunt's small ",
+        "hint": "or",
+        "after": " plans a historic show about the plant.",
+        "answer": "organization"
+      },
+      {
+        "before": "It marks a demonstration and a ",
+        "hint": "ce",
+        "after": " from the old days.",
+        "answer": "ceasefire"
+      },
+      {
+        "before": "A brief wall text explains the ",
+        "hint": "co",
+        "after": " period and its old leaders.",
+        "answer": "communist"
+      },
+      {
+        "before": "One room remembers the ",
+        "hint": "vi",
+        "after": " and a young victim.",
+        "answer": "violence"
+      },
+      {
+        "before": "Another shows the ",
+        "hint": "tr",
+        "after": " that ruined the northern site.",
+        "answer": "tragedy"
+      },
+      {
+        "before": "An ordinary worker kept the old machines ",
+        "hint": "st",
+        "after": " for many years.",
+        "answer": "stable"
+      },
+      {
+        "before": "His long journey to work went ",
+        "hint": "vi",
+        "after": " two busy river bridges.",
+        "answer": "via"
+      }
+    ],
+    "b3": [
+      {
+        "before": "My sister, a ",
+        "hint": "cr",
+        "after": " youngster, draws the scene from memory.",
+        "answer": "creative"
+      },
+      {
+        "before": "On ",
+        "hint": "be",
+        "after": " of the museum, she makes a firm pledge.",
+        "answer": "behalf"
+      },
+      {
+        "before": "A museum ",
+        "hint": "co",
+        "after": " follows, and subsequent rules change slowly.",
+        "answer": "convention"
+      },
+      {
+        "before": "The ",
+        "hint": "mo",
+        "after": " is tense, and a few tired guests look upset.",
+        "answer": "mood"
+      },
+      {
+        "before": "Then confusion may arise before the morning ",
+        "hint": "ch",
+        "after": " ends.",
+        "answer": "chaos"
+      },
+      {
+        "before": "From another ",
+        "hint": "an",
+        "after": ", the old box shows a characteristic mark.",
+        "answer": "angle"
+      },
+      {
+        "before": "Careful ",
+        "hint": "pr",
+        "after": " brings a clear improvement to the whole show.",
+        "answer": "preparation"
+      },
+      {
+        "before": "The ",
+        "hint": "ec",
+        "after": " of the plant imply a slow and quiet decline.",
+        "answer": "economics"
+      },
+      {
+        "before": "A previous owner began his long ",
+        "hint": "ca",
+        "after": " in this hall.",
+        "answer": "career"
+      },
+      {
+        "before": "Specifically, the old banner vanished ",
+        "hint": "ov",
+        "after": " without any trace.",
+        "answer": "overnight"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我的表亲在小镇附近一家旧汽车帝国工作。",
+        "keywords": [
+          "former",
+          "auto",
+          "empire"
+        ]
+      },
+      {
+        "zh": "一个展厅纪念那场暴力和一位年轻的受害者。",
+        "keywords": [
+          "violence",
+          "victim"
+        ]
+      },
+      {
+        "zh": "然后，安静的夜里发生了一件奇怪的谜事。",
+        "keywords": [
+          "mystery",
+          "occurs",
+          "night"
+        ]
+      },
+      {
+        "zh": "有人从桌上拿走了一小箱旧东西。",
+        "keywords": [
+          "removed",
+          "stuff",
+          "box"
+        ]
+      },
+      {
+        "zh": "气氛紧张，几位疲惫的客人显得不安。",
+        "keywords": [
+          "mood",
+          "upset"
+        ]
+      },
+      {
+        "zh": "具体来说，那条旧横幅一夜之间消失得无影无踪。",
+        "keywords": [
+          "banner",
+          "overnight",
+          "trace"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 285,
+    "sentences": 28,
+    "newDensity": 0.207,
+    "targetTokenDensity": 0.207,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写旧汽车厂改建的博物馆：旧帝国、冠军骑手、共产主义时期与停火展区，夜里旧物箱失踪，保安调查、馆长、承诺与大会，结尾是前辈的职业生涯与一夜消失的横幅。"
+}

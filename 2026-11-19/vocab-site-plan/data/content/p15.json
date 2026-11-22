@@ -1,0 +1,830 @@
+{
+  "id": "p15",
+  "title": "The Art Market by the River",
+  "titleZh": "河边的艺术市集",
+  "topic": "市集",
+  "paragraphs": [
+    [
+      {
+        "en": "A bright art market opens early beside the quiet river.",
+        "zh": "一个明亮的艺术市集一早在安静的河边开张。"
+      },
+      {
+        "en": "She comes with her cousin very early on a cool morning.",
+        "zh": "她在一个凉爽的早晨很早就和她的表亲一起来了。"
+      },
+      {
+        "en": "One long wooden board holds a picture of the old bridge.",
+        "zh": "一块长木板上面挂着一幅老桥的画。"
+      },
+      {
+        "en": "Any fresh vegetable here is cheap and very good for us.",
+        "zh": "这里任何新鲜的蔬菜都便宜，对我们很有好处。"
+      },
+      {
+        "en": "We must arrive early because the best space goes fast.",
+        "zh": "我们必须早点到，因为最好的位置很快就没了。"
+      },
+      {
+        "en": "Then her pictures show a different side of our old town.",
+        "zh": "然后她的画展现了我们老镇的另一面。"
+      },
+      {
+        "en": "Both happy children help us fix the old wooden table.",
+        "zh": "两个快乐的孩子帮我们修那张旧木桌。"
+      },
+      {
+        "en": "A little sign explains each term in plain, simple words.",
+        "zh": "一块小牌子用朴素简单的词解释每一个术语。"
+      },
+      {
+        "en": "We are sure the tall shelf is easy to reach.",
+        "zh": "我们确信那个高架子很容易够到。"
+      },
+      {
+        "en": "They raise a bright flag across the narrow, busy street.",
+        "zh": "他们把一面鲜艳的旗子举过狭窄繁忙的街道。"
+      }
+    ],
+    [
+      {
+        "en": "We love the deep blue paint on the back wall.",
+        "zh": "我们喜欢后墙那层深蓝色的漆。"
+      },
+      {
+        "en": "My brother brings a small radio and a loud drum.",
+        "zh": "我哥哥带来一台小收音机和一面响亮的鼓。"
+      },
+      {
+        "en": "Then eighty people visit our stall during the first happy period.",
+        "zh": "然后八十个人在第一个愉快的时段来看我们的摊位。"
+      },
+      {
+        "en": "Someone with real knowledge explains every small detail to us.",
+        "zh": "一位真正有知识的人给我们讲解每一个小细节。"
+      },
+      {
+        "en": "Her new skill moves our small stall forward this year.",
+        "zh": "她的新技能今年把我们的小摊位往前推了一步。"
+      },
+      {
+        "en": "Later we listen and discover a sweet new song from them.",
+        "zh": "后来我们听着，从他们那里发现了一首甜美的新歌。"
+      },
+      {
+        "en": "My grandfather's old wooden chair is worth real money now.",
+        "zh": "我祖父那把旧木椅现在值不少钱。"
+      },
+      {
+        "en": "A quick review finds a missing pair of warm gloves.",
+        "zh": "一次快速核对发现少了一双暖和的手套。"
+      },
+      {
+        "en": "My aunt sits alone and answers the ringing telephone again.",
+        "zh": "我姑姑独自坐着，又一次接起响个不停的电话。"
+      },
+      {
+        "en": "Dinner brings hot soup, fresh bread, and a boiled egg.",
+        "zh": "晚餐端来热汤、新鲜面包和一个煮鸡蛋。"
+      }
+    ],
+    [
+      {
+        "en": "A dry road makes the bike ride safe and short.",
+        "zh": "干燥的路让自行车骑起来又安全又短。"
+      },
+      {
+        "en": "The fifth teacher will dismiss the noisy class at noon.",
+        "zh": "第五位老师会在中午让吵闹的班级下课。"
+      },
+      {
+        "en": "A short text starts a long, warm conversation about music.",
+        "zh": "一条短短的信息开启了关于音乐的长而温暖的对话。"
+      },
+      {
+        "en": "They buy cold drinks near the lake, and the noise grows.",
+        "zh": "他们在湖边买冷饮，噪音越来越大。"
+      },
+      {
+        "en": "Sweet yellow sugar sits in a small glass bowl on the shelf.",
+        "zh": "甜甜的黄糖放在架子上一个小玻璃碗里。"
+      },
+      {
+        "en": "The proud girl holds a big red apple high above us.",
+        "zh": "那个骄傲的女孩高高举起一个大红苹果。"
+      },
+      {
+        "en": "A long pen and a soft brush lie together in the bag.",
+        "zh": "一支长钢笔和一把软刷子一起放在袋子里。"
+      },
+      {
+        "en": "A parliamentary commentator writes about our small town each week.",
+        "zh": "一位国会评论员每周写一篇关于我们小镇的文章。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "she",
+      "pos": "pron.",
+      "zh": "她",
+      "stars": 5,
+      "collocation": "She comes with"
+    },
+    {
+      "lemma": "one",
+      "pos": "n./pron./num./adj.",
+      "zh": "一",
+      "stars": 5,
+      "collocation": "One long wooden"
+    },
+    {
+      "lemma": "any",
+      "pos": "adj./pron.",
+      "zh": "任何的",
+      "stars": 5,
+      "collocation": "Any fresh vegetable"
+    },
+    {
+      "lemma": "because",
+      "pos": "conj.",
+      "zh": "因为",
+      "stars": 5,
+      "collocation": "early because the best"
+    },
+    {
+      "lemma": "must",
+      "pos": "n./v.",
+      "zh": "必须",
+      "stars": 5,
+      "collocation": "We must arrive early"
+    },
+    {
+      "lemma": "show",
+      "pos": "n./v.",
+      "zh": "显示",
+      "stars": 5,
+      "collocation": "pictures show a different"
+    },
+    {
+      "lemma": "different",
+      "pos": "adj.",
+      "zh": "不同的",
+      "stars": 5,
+      "collocation": "a different side of"
+    },
+    {
+      "lemma": "help",
+      "pos": "n./v.",
+      "zh": "帮忙",
+      "stars": 5,
+      "collocation": "children help us fix"
+    },
+    {
+      "lemma": "both",
+      "pos": "adj./adv./pron.",
+      "zh": "两者的",
+      "stars": 5,
+      "collocation": "Both happy children"
+    },
+    {
+      "lemma": "market",
+      "pos": "n./v.",
+      "zh": "市场",
+      "stars": 5,
+      "collocation": "art market opens early"
+    },
+    {
+      "lemma": "little",
+      "pos": "n./adj./adv.",
+      "zh": "一点点",
+      "stars": 5,
+      "collocation": "A little sign explains"
+    },
+    {
+      "lemma": "term",
+      "pos": "n./v.",
+      "zh": "术语",
+      "stars": 5,
+      "collocation": "each term in plain,"
+    },
+    {
+      "lemma": "buy",
+      "pos": "v./n.",
+      "zh": "买",
+      "stars": 5,
+      "collocation": "They buy cold drinks"
+    },
+    {
+      "lemma": "sure",
+      "pos": "adj./adv.",
+      "zh": "确信",
+      "stars": 5,
+      "collocation": "are sure the tall"
+    },
+    {
+      "lemma": "reach",
+      "pos": "n./v.",
+      "zh": "伸出",
+      "stars": 5,
+      "collocation": "to reach."
+    },
+    {
+      "lemma": "across",
+      "pos": "prep./adv.",
+      "zh": "越过",
+      "stars": 5,
+      "collocation": "flag across the narrow,"
+    },
+    {
+      "lemma": "art",
+      "pos": "n.",
+      "zh": "艺术",
+      "stars": 5,
+      "collocation": "bright art market opens"
+    },
+    {
+      "lemma": "raise",
+      "pos": "n./v.",
+      "zh": "上升",
+      "stars": 5,
+      "collocation": "They raise a bright"
+    },
+    {
+      "lemma": "wall",
+      "pos": "n./adj./v.",
+      "zh": "墙",
+      "stars": 5,
+      "collocation": "back wall."
+    },
+    {
+      "lemma": "love",
+      "pos": "n./v.",
+      "zh": "爱",
+      "stars": 5,
+      "collocation": "We love the deep"
+    },
+    {
+      "lemma": "brother",
+      "pos": "n.",
+      "zh": "兄弟",
+      "stars": 5,
+      "collocation": "My brother brings a"
+    },
+    {
+      "lemma": "radio",
+      "pos": "n./v.",
+      "zh": "无线电",
+      "stars": 5,
+      "collocation": "small radio and a"
+    },
+    {
+      "lemma": "eighty",
+      "pos": "num.",
+      "zh": "八十",
+      "stars": 5,
+      "collocation": "Then eighty people visit"
+    },
+    {
+      "lemma": "period",
+      "pos": "n./adj.",
+      "zh": "时期",
+      "stars": 4,
+      "collocation": "happy period."
+    },
+    {
+      "lemma": "someone",
+      "pos": "pron.",
+      "zh": "有人",
+      "stars": 4,
+      "collocation": "Someone with real"
+    },
+    {
+      "lemma": "board",
+      "pos": "n./v.",
+      "zh": "木板",
+      "stars": 4,
+      "collocation": "wooden board holds a"
+    },
+    {
+      "lemma": "knowledge",
+      "pos": "n.",
+      "zh": "知识",
+      "stars": 4,
+      "collocation": "real knowledge explains every"
+    },
+    {
+      "lemma": "forward",
+      "pos": "adj./v./adv.",
+      "zh": "向前的",
+      "stars": 4,
+      "collocation": "stall forward this year."
+    },
+    {
+      "lemma": "skill",
+      "pos": "n.",
+      "zh": "技术",
+      "stars": 4,
+      "collocation": "new skill moves our"
+    },
+    {
+      "lemma": "listen",
+      "pos": "v./n.",
+      "zh": "听",
+      "stars": 4,
+      "collocation": "we listen and discover"
+    },
+    {
+      "lemma": "discover",
+      "pos": "v.",
+      "zh": "发现",
+      "stars": 4,
+      "collocation": "and discover a sweet"
+    },
+    {
+      "lemma": "worth",
+      "pos": "n./adj.",
+      "zh": "价值",
+      "stars": 4,
+      "collocation": "is worth real money"
+    },
+    {
+      "lemma": "chair",
+      "pos": "n./v.",
+      "zh": "椅子",
+      "stars": 4,
+      "collocation": "wooden chair is worth"
+    },
+    {
+      "lemma": "review",
+      "pos": "n./v.",
+      "zh": "检讨",
+      "stars": 4,
+      "collocation": "quick review finds a"
+    },
+    {
+      "lemma": "pair",
+      "pos": "n./v.",
+      "zh": "一双",
+      "stars": 4,
+      "collocation": "missing pair of warm"
+    },
+    {
+      "lemma": "alone",
+      "pos": "adj./adv.",
+      "zh": "孤独的",
+      "stars": 4,
+      "collocation": "sits alone and answers"
+    },
+    {
+      "lemma": "telephone",
+      "pos": "n./v.",
+      "zh": "电话",
+      "stars": 4,
+      "collocation": "ringing telephone again."
+    },
+    {
+      "lemma": "dinner",
+      "pos": "n.",
+      "zh": "晚餐",
+      "stars": 4,
+      "collocation": "Dinner brings hot"
+    },
+    {
+      "lemma": "egg",
+      "pos": "n./v.",
+      "zh": "蛋",
+      "stars": 4,
+      "collocation": "boiled egg."
+    },
+    {
+      "lemma": "dry",
+      "pos": "adj./v./n.",
+      "zh": "干的",
+      "stars": 4,
+      "collocation": "A dry road makes"
+    },
+    {
+      "lemma": "ride",
+      "pos": "n./v.",
+      "zh": "骑马",
+      "stars": 4,
+      "collocation": "bike ride safe and"
+    },
+    {
+      "lemma": "dismiss",
+      "pos": "v.",
+      "zh": "解散",
+      "stars": 4,
+      "collocation": "will dismiss the noisy"
+    },
+    {
+      "lemma": "fifth",
+      "pos": "num.",
+      "zh": "第五",
+      "stars": 4,
+      "collocation": "The fifth teacher will"
+    },
+    {
+      "lemma": "cousin",
+      "pos": "n.",
+      "zh": "堂兄弟姊妹",
+      "stars": 4,
+      "collocation": "her cousin very early"
+    },
+    {
+      "lemma": "text",
+      "pos": "n.",
+      "zh": "文本",
+      "stars": 3,
+      "collocation": "short text starts a"
+    },
+    {
+      "lemma": "conversation",
+      "pos": "n.",
+      "zh": "会话",
+      "stars": 3,
+      "collocation": "warm conversation about music."
+    },
+    {
+      "lemma": "noise",
+      "pos": "n./v.",
+      "zh": "噪音",
+      "stars": 3,
+      "collocation": "the noise grows."
+    },
+    {
+      "lemma": "lake",
+      "pos": "n./v.",
+      "zh": "湖",
+      "stars": 3,
+      "collocation": "the lake, and the"
+    },
+    {
+      "lemma": "fix",
+      "pos": "v./n.",
+      "zh": "使固定",
+      "stars": 3,
+      "collocation": "us fix the old"
+    },
+    {
+      "lemma": "yellow",
+      "pos": "n./adj.",
+      "zh": "黄色",
+      "stars": 3,
+      "collocation": "Sweet yellow sugar sits"
+    },
+    {
+      "lemma": "sugar",
+      "pos": "n./v.",
+      "zh": "糖",
+      "stars": 3,
+      "collocation": "yellow sugar sits in"
+    },
+    {
+      "lemma": "apple",
+      "pos": "n.",
+      "zh": "苹果",
+      "stars": 3,
+      "collocation": "red apple high above"
+    },
+    {
+      "lemma": "proud",
+      "pos": "adj.",
+      "zh": "骄傲的",
+      "stars": 3,
+      "collocation": "The proud girl holds"
+    },
+    {
+      "lemma": "vegetable",
+      "pos": "n./adj.",
+      "zh": "蔬菜",
+      "stars": 3,
+      "collocation": "fresh vegetable here is"
+    },
+    {
+      "lemma": "pen",
+      "pos": "n./v.",
+      "zh": "钢笔",
+      "stars": 3,
+      "collocation": "long pen and a"
+    },
+    {
+      "lemma": "brush",
+      "pos": "n./v.",
+      "zh": "刷子",
+      "stars": 3,
+      "collocation": "soft brush lie together"
+    },
+    {
+      "lemma": "drum",
+      "pos": "n./v.",
+      "zh": "鼓",
+      "stars": 3,
+      "collocation": "loud drum."
+    },
+    {
+      "lemma": "parliamentary",
+      "pos": "adj.",
+      "zh": "国会的",
+      "stars": 3,
+      "collocation": "A parliamentary commentator writes"
+    },
+    {
+      "lemma": "commentator",
+      "pos": "n.",
+      "zh": "评论员",
+      "stars": 3,
+      "collocation": "parliamentary commentator writes about"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“commentator” 的意思是：",
+      "options": [
+        "评论员",
+        "表亲",
+        "老师",
+        "姑姑"
+      ],
+      "answer": 0,
+      "speak": "commentator"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "Both children help us ___ the old wooden table.",
+      "options": [
+        "fix",
+        "raise",
+        "dismiss",
+        "reach"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“knowledge” 的意思是：",
+      "options": [
+        "知识",
+        "技能",
+        "术语",
+        "细节"
+      ],
+      "answer": 0,
+      "speak": "knowledge"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Sweet yellow sugar sits in a small glass ___.",
+      "options": [
+        "bowl",
+        "brush",
+        "board",
+        "pair"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "My grandfather's old wooden chair is worth real ___ now.",
+      "options": [
+        "money",
+        "knowledge",
+        "skill",
+        "period"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“parliamentary” 的意思是：",
+      "options": [
+        "国会的",
+        "骄傲的",
+        "干燥的",
+        "第五的"
+      ],
+      "answer": 0,
+      "speak": "parliamentary"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "The fifth teacher will ___ the noisy class at noon.",
+      "options": [
+        "dismiss",
+        "discover",
+        "listen",
+        "review"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“vegetable” 的意思是：",
+      "options": [
+        "蔬菜",
+        "苹果",
+        "糖",
+        "鸡蛋"
+      ],
+      "answer": 0,
+      "speak": "vegetable"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "A bright art ",
+        "hint": "ma",
+        "after": " opens early beside the quiet river.",
+        "answer": "market"
+      },
+      {
+        "before": "She comes with her ",
+        "hint": "co",
+        "after": " very early on a cool morning.",
+        "answer": "cousin"
+      },
+      {
+        "before": "One long wooden ",
+        "hint": "bo",
+        "after": " holds a picture of the old bridge.",
+        "answer": "board"
+      },
+      {
+        "before": "Any fresh ",
+        "hint": "ve",
+        "after": " here is cheap and very good for us.",
+        "answer": "vegetable"
+      },
+      {
+        "before": "We must arrive early ",
+        "hint": "be",
+        "after": " the best space goes fast.",
+        "answer": "because"
+      },
+      {
+        "before": "Then her pictures show a ",
+        "hint": "di",
+        "after": " side of our old town.",
+        "answer": "different"
+      },
+      {
+        "before": "Both happy children help us ",
+        "hint": "fi",
+        "after": " the old wooden table.",
+        "answer": "fix"
+      },
+      {
+        "before": "A little sign explains each ",
+        "hint": "te",
+        "after": " in plain, simple words.",
+        "answer": "term"
+      },
+      {
+        "before": "We are sure the tall shelf is easy to ",
+        "hint": "re",
+        "after": ".",
+        "answer": "reach"
+      },
+      {
+        "before": "They raise a bright flag ",
+        "hint": "ac",
+        "after": " the narrow, busy street.",
+        "answer": "across"
+      }
+    ],
+    "b3": [
+      {
+        "before": "We ",
+        "hint": "lo",
+        "after": " the deep blue paint on the back wall.",
+        "answer": "love"
+      },
+      {
+        "before": "My brother brings a small ",
+        "hint": "ra",
+        "after": " and a loud drum.",
+        "answer": "radio"
+      },
+      {
+        "before": "Then eighty people visit our stall during the first happy ",
+        "hint": "pe",
+        "after": ".",
+        "answer": "period"
+      },
+      {
+        "before": "Someone with real ",
+        "hint": "kn",
+        "after": " explains every small detail to us.",
+        "answer": "knowledge"
+      },
+      {
+        "before": "Her new skill moves our small stall ",
+        "hint": "fo",
+        "after": " this year.",
+        "answer": "forward"
+      },
+      {
+        "before": "Later we listen and ",
+        "hint": "di",
+        "after": " a sweet new song from them.",
+        "answer": "discover"
+      },
+      {
+        "before": "My grandfather's old wooden chair is ",
+        "hint": "wo",
+        "after": " real money now.",
+        "answer": "worth"
+      },
+      {
+        "before": "A quick review finds a missing ",
+        "hint": "pa",
+        "after": " of warm gloves.",
+        "answer": "pair"
+      },
+      {
+        "before": "My aunt sits alone and answers the ringing ",
+        "hint": "te",
+        "after": " again.",
+        "answer": "telephone"
+      },
+      {
+        "before": "Dinner brings hot soup, fresh bread, and a boiled ",
+        "hint": "eg",
+        "after": ".",
+        "answer": "egg"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "一个明亮的艺术市集一早在安静的河边开张。",
+        "keywords": [
+          "market",
+          "river",
+          "art"
+        ]
+      },
+      {
+        "zh": "两个快乐的孩子帮我们修那张旧木桌。",
+        "keywords": [
+          "both",
+          "help",
+          "table"
+        ]
+      },
+      {
+        "zh": "然后八十个人在第一个愉快的时段来看我们的摊位。",
+        "keywords": [
+          "eighty",
+          "period",
+          "stall"
+        ]
+      },
+      {
+        "zh": "一次快速核对发现少了一双暖和的手套。",
+        "keywords": [
+          "review",
+          "pair",
+          "gloves"
+        ]
+      },
+      {
+        "zh": "我姑姑独自坐着，又一次接起响个不停的电话。",
+        "keywords": [
+          "alone",
+          "telephone"
+        ]
+      },
+      {
+        "zh": "那个骄傲的女孩高高举起一个大红苹果。",
+        "keywords": [
+          "proud",
+          "apple",
+          "high"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 292,
+    "sentences": 28,
+    "newDensity": 0.202,
+    "targetTokenDensity": 0.202,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写河边艺术市集的一天：木板上挂画、蔬菜与黄糖摆摊、哥哥打鼓、评论员来采访，中途有核对、电话、晚餐和收摊前的对话。"
+}

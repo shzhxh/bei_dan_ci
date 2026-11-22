@@ -1,0 +1,832 @@
+{
+  "id": "p31",
+  "title": "The Last Edition",
+  "titleZh": "最后一期",
+  "topic": "地方周报停刊",
+  "paragraphs": [
+    [
+      {
+        "en": "My publisher runs a weekly paper with a regular staff.",
+        "zh": "我的发行人经营一份周报，员工都很稳定。"
+      },
+      {
+        "en": "I am the correspondent here, and I cover the mill.",
+        "zh": "我是这里的记者，负责报道那家磨坊。"
+      },
+      {
+        "en": "Our revenue is small, and our average print run falls.",
+        "zh": "我们的收入很少，平均印量也在下滑。"
+      },
+      {
+        "en": "A regular reader phones about a criminal case near the border.",
+        "zh": "一位老读者打来电话，说边境附近有桩刑事案件。"
+      },
+      {
+        "en": "The story involves a gang, a bar, and a stolen pack.",
+        "zh": "这案子涉及一个团伙、一家酒吧，还有一包被偷的东西。"
+      },
+      {
+        "en": "Then a senator calls, and her argument sounds extreme.",
+        "zh": "接着一位参议员来电，她的论点听起来很极端。"
+      }
+    ],
+    [
+      {
+        "en": "The publisher announces a closure, and the whole staff is unable to speak.",
+        "zh": "发行人宣布停刊，全体员工都说不出话来。"
+      },
+      {
+        "en": "Suddenly a leak explains the failure, and the news is not acceptable.",
+        "zh": "忽然一则泄密解释了这次失败，这消息让人无法接受。"
+      },
+      {
+        "en": "We argue about the code, but the executive stays calm.",
+        "zh": "我们为新闻准则争论，可那位主管始终镇定。"
+      },
+      {
+        "en": "Our publisher is a homosexual man, and his partner owns a bookshop.",
+        "zh": "我们的发行人是一位同性恋者，他的伴侣开着一家书店。"
+      },
+      {
+        "en": "He tells the old myth of the founder with real expression.",
+        "zh": "他讲起创办人的旧传说，神情真切。"
+      },
+      {
+        "en": "A lord and a prince once wrote for this same tiny paper.",
+        "zh": "一位勋爵和一位王子都曾为这份小报写过稿。"
+      }
+    ],
+    [
+      {
+        "en": "Our farewell ceremony fills the mill on a cold evening.",
+        "zh": "一个寒冷的晚上，我们的告别仪式挤满了磨坊。"
+      },
+      {
+        "en": "A minister speaks, and a player from the local team listens.",
+        "zh": "一位部长讲话，本地球队的一名球员在听。"
+      },
+      {
+        "en": "People chat and wipe their eyes, and the mood is warm.",
+        "zh": "人们聊着，擦着眼泪，气氛温暖。"
+      },
+      {
+        "en": "The executive announces his retirement, and the crowd claps.",
+        "zh": "主管宣布退休，人群鼓起掌来。"
+      },
+      {
+        "en": "Our mutual respect is a real asset, and it will not vanish.",
+        "zh": "我们彼此的尊重是真正的财富，不会消失。"
+      },
+      {
+        "en": "Then he praises our unique and lasting connection to the town.",
+        "zh": "接着他称赞我们与这座小镇独特而持久的联系。"
+      }
+    ],
+    [
+      {
+        "en": "My desk is quiet, and commerce shows a clear trend.",
+        "zh": "我的桌子安静下来，商业也显出清晰的趋势。"
+      },
+      {
+        "en": "Our last issue will instruct readers and spur a debate.",
+        "zh": "我们最后一期将给读者以教益，也激起一场讨论。"
+      },
+      {
+        "en": "A complaint about a superior officer reaches the desk.",
+        "zh": "一封投诉上级军官的信送到了桌上。"
+      },
+      {
+        "en": "Therefore we print it, and a few readers complain.",
+        "zh": "于是我们把它登出来，少数读者开始抱怨。"
+      },
+      {
+        "en": "My final script is impressive, and the design is clean.",
+        "zh": "我最后一篇稿子很出色，版面也干净。"
+      }
+    ],
+    [
+      {
+        "en": "Later a jury hears the conflict, and the arrival is tense.",
+        "zh": "后来陪审团审理这场冲突，到场时气氛紧张。"
+      },
+      {
+        "en": "A maker of church music relates religion to daily life.",
+        "zh": "一位教堂音乐创作者把宗教与日常生活联系起来。"
+      },
+      {
+        "en": "My salary is modest, and my deposit is small.",
+        "zh": "我的薪水不高，存款也少。"
+      },
+      {
+        "en": "The town deserves better, and the paper was a super friend.",
+        "zh": "这座小镇值得更好的，而这份报纸曾是个极好的朋友。"
+      },
+      {
+        "en": "Its end is inevitable, but our desperate hope remains.",
+        "zh": "它的终结不可避免，但我们仍抱着迫切的希望。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "minister",
+      "pos": "n/v.",
+      "zh": "部长；服侍",
+      "stars": 5,
+      "collocation": "A minister speaks"
+    },
+    {
+      "lemma": "player",
+      "pos": "n.",
+      "zh": "竞赛者",
+      "stars": 5,
+      "collocation": "a player from"
+    },
+    {
+      "lemma": "therefore",
+      "pos": "adv.",
+      "zh": "因此",
+      "stars": 4,
+      "collocation": "Therefore we"
+    },
+    {
+      "lemma": "argue",
+      "pos": "v.",
+      "zh": "提出理由；主张",
+      "stars": 4,
+      "collocation": "We argue about"
+    },
+    {
+      "lemma": "argument",
+      "pos": "n.",
+      "zh": "争论",
+      "stars": 4,
+      "collocation": "her argument sounds"
+    },
+    {
+      "lemma": "bar",
+      "pos": "n/v.",
+      "zh": "条；禁止",
+      "stars": 4,
+      "collocation": "a bar, and"
+    },
+    {
+      "lemma": "failure",
+      "pos": "n.",
+      "zh": "失败",
+      "stars": 4,
+      "collocation": "the failure, and"
+    },
+    {
+      "lemma": "regular",
+      "pos": "adj/n/adv.",
+      "zh": "规则的；正规军",
+      "stars": 4,
+      "collocation": "a regular staff"
+    },
+    {
+      "lemma": "conflict",
+      "pos": "n/v.",
+      "zh": "战斗；争执",
+      "stars": 4,
+      "collocation": "the conflict, and"
+    },
+    {
+      "lemma": "average",
+      "pos": "n/adj/v.",
+      "zh": "平均；平均的",
+      "stars": 4,
+      "collocation": "our average print"
+    },
+    {
+      "lemma": "border",
+      "pos": "n/v.",
+      "zh": "边缘；在...上镶边",
+      "stars": 4,
+      "collocation": "the border"
+    },
+    {
+      "lemma": "criminal",
+      "pos": "n/adj.",
+      "zh": "罪犯；犯了罪的",
+      "stars": 4,
+      "collocation": "a criminal case"
+    },
+    {
+      "lemma": "pack",
+      "pos": "n/v.",
+      "zh": "包裹；包装",
+      "stars": 4,
+      "collocation": "stolen pack"
+    },
+    {
+      "lemma": "relate",
+      "pos": "v.",
+      "zh": "讲；有关",
+      "stars": 3,
+      "collocation": "music relates religion"
+    },
+    {
+      "lemma": "expression",
+      "pos": "n.",
+      "zh": "表达",
+      "stars": 3,
+      "collocation": "real expression"
+    },
+    {
+      "lemma": "unable",
+      "pos": "adj.",
+      "zh": "不能的",
+      "stars": 3,
+      "collocation": "is unable to"
+    },
+    {
+      "lemma": "connection",
+      "pos": "n.",
+      "zh": "连接",
+      "stars": 3,
+      "collocation": "lasting connection to"
+    },
+    {
+      "lemma": "religion",
+      "pos": "n.",
+      "zh": "宗教",
+      "stars": 3,
+      "collocation": "relates religion to"
+    },
+    {
+      "lemma": "trend",
+      "pos": "n/v.",
+      "zh": "趋势；倾向",
+      "stars": 3,
+      "collocation": "clear trend"
+    },
+    {
+      "lemma": "unique",
+      "pos": "adj.",
+      "zh": "独一无二的",
+      "stars": 3,
+      "collocation": "our unique and"
+    },
+    {
+      "lemma": "arrival",
+      "pos": "n.",
+      "zh": "到达",
+      "stars": 3,
+      "collocation": "the arrival is"
+    },
+    {
+      "lemma": "deposit",
+      "pos": "n/v.",
+      "zh": "存款；存放",
+      "stars": 3,
+      "collocation": "my deposit is"
+    },
+    {
+      "lemma": "extreme",
+      "pos": "n/adj.",
+      "zh": "极端；极端的",
+      "stars": 3,
+      "collocation": "sounds extreme"
+    },
+    {
+      "lemma": "deserve",
+      "pos": "v.",
+      "zh": "该得到；应得报答",
+      "stars": 3,
+      "collocation": "town deserves better"
+    },
+    {
+      "lemma": "salary",
+      "pos": "n/v.",
+      "zh": "薪水；给...加薪",
+      "stars": 3,
+      "collocation": "My salary is"
+    },
+    {
+      "lemma": "desperate",
+      "pos": "adj.",
+      "zh": "不顾一切的",
+      "stars": 3,
+      "collocation": "our desperate hope"
+    },
+    {
+      "lemma": "wipe",
+      "pos": "n/v.",
+      "zh": "擦拭；擦",
+      "stars": 3,
+      "collocation": "and wipe their"
+    },
+    {
+      "lemma": "ceremony",
+      "pos": "n.",
+      "zh": "典礼",
+      "stars": 3,
+      "collocation": "farewell ceremony fills"
+    },
+    {
+      "lemma": "superior",
+      "pos": "n/adj.",
+      "zh": "长者；上级的",
+      "stars": 3,
+      "collocation": "a superior officer"
+    },
+    {
+      "lemma": "instruct",
+      "pos": "v.",
+      "zh": "教",
+      "stars": 3,
+      "collocation": "will instruct readers"
+    },
+    {
+      "lemma": "super",
+      "pos": "n/adj/adv.",
+      "zh": "跑龙套角色；上等的",
+      "stars": 3,
+      "collocation": "a super friend"
+    },
+    {
+      "lemma": "chat",
+      "pos": "n/v.",
+      "zh": "闲谈",
+      "stars": 3,
+      "collocation": "People chat and"
+    },
+    {
+      "lemma": "leak",
+      "pos": "n/v.",
+      "zh": "漏洞；漏",
+      "stars": 3,
+      "collocation": "a leak explains"
+    },
+    {
+      "lemma": "lord",
+      "pos": "n/v.",
+      "zh": "统治者；称王",
+      "stars": 4,
+      "collocation": "A lord and"
+    },
+    {
+      "lemma": "suddenly",
+      "pos": "adv.",
+      "zh": "突然",
+      "stars": 4,
+      "collocation": "Suddenly a"
+    },
+    {
+      "lemma": "executive",
+      "pos": "n/adj.",
+      "zh": "执行部门；执行的",
+      "stars": 4,
+      "collocation": "the executive stays"
+    },
+    {
+      "lemma": "prince",
+      "pos": "n.",
+      "zh": "王子",
+      "stars": 4,
+      "collocation": "a prince once"
+    },
+    {
+      "lemma": "complain",
+      "pos": "v.",
+      "zh": "抱怨",
+      "stars": 4,
+      "collocation": "readers complain"
+    },
+    {
+      "lemma": "correspondent",
+      "pos": "n.",
+      "zh": "通讯记者",
+      "stars": 4,
+      "collocation": "the correspondent here"
+    },
+    {
+      "lemma": "code",
+      "pos": "n/v.",
+      "zh": "代码；把...编码",
+      "stars": 3,
+      "collocation": "the code, but"
+    },
+    {
+      "lemma": "revenue",
+      "pos": "n.",
+      "zh": "收入",
+      "stars": 3,
+      "collocation": "Our revenue is"
+    },
+    {
+      "lemma": "complaint",
+      "pos": "n.",
+      "zh": "诉苦",
+      "stars": 3,
+      "collocation": "A complaint about"
+    },
+    {
+      "lemma": "mill",
+      "pos": "n/v.",
+      "zh": "压榨机；碾磨",
+      "stars": 3,
+      "collocation": "the mill"
+    },
+    {
+      "lemma": "acceptable",
+      "pos": "adj.",
+      "zh": "可接受的",
+      "stars": 3,
+      "collocation": "not acceptable"
+    },
+    {
+      "lemma": "impressive",
+      "pos": "adj.",
+      "zh": "给人深刻印象的",
+      "stars": 3,
+      "collocation": "is impressive, and"
+    },
+    {
+      "lemma": "inevitable",
+      "pos": "adj.",
+      "zh": "不可避免的",
+      "stars": 3,
+      "collocation": "is inevitable, but"
+    },
+    {
+      "lemma": "jury",
+      "pos": "n/adj.",
+      "zh": "陪审团；应急的",
+      "stars": 3,
+      "collocation": "a jury hears"
+    },
+    {
+      "lemma": "mutual",
+      "pos": "adj.",
+      "zh": "相互的",
+      "stars": 3,
+      "collocation": "Our mutual respect"
+    },
+    {
+      "lemma": "gang",
+      "pos": "n/v.",
+      "zh": "队；成群结队",
+      "stars": 3,
+      "collocation": "a gang, a"
+    },
+    {
+      "lemma": "commerce",
+      "pos": "n.",
+      "zh": "商业",
+      "stars": 3,
+      "collocation": "and commerce shows"
+    },
+    {
+      "lemma": "spur",
+      "pos": "n/v.",
+      "zh": "马刺；刺激",
+      "stars": 3,
+      "collocation": "and spur a"
+    },
+    {
+      "lemma": "asset",
+      "pos": "n.",
+      "zh": "资产",
+      "stars": 4,
+      "collocation": "real asset, and"
+    },
+    {
+      "lemma": "retirement",
+      "pos": "n.",
+      "zh": "退休",
+      "stars": 3,
+      "collocation": "his retirement, and"
+    },
+    {
+      "lemma": "myth",
+      "pos": "n.",
+      "zh": "神话",
+      "stars": 3,
+      "collocation": "old myth of"
+    },
+    {
+      "lemma": "script",
+      "pos": "n/v.",
+      "zh": "手迹；改编为演出本",
+      "stars": 3,
+      "collocation": "final script is"
+    },
+    {
+      "lemma": "senator",
+      "pos": "n.",
+      "zh": "参议员",
+      "stars": 3,
+      "collocation": "a senator calls"
+    },
+    {
+      "lemma": "maker",
+      "pos": "n.",
+      "zh": "制造者",
+      "stars": 4,
+      "collocation": "A maker of"
+    },
+    {
+      "lemma": "publisher",
+      "pos": "n.",
+      "zh": "出版者",
+      "stars": 3,
+      "collocation": "My publisher runs"
+    },
+    {
+      "lemma": "homosexual",
+      "pos": "adj/n.",
+      "zh": "同性恋的；同性恋者",
+      "stars": 3,
+      "collocation": "a homosexual man"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“jury” 的意思是：",
+      "options": [
+        "收入",
+        "陪审团",
+        "神话",
+        "边境"
+      ],
+      "answer": 1,
+      "speak": "jury"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "Our ___ is small, and our average print run falls.",
+      "options": [
+        "revenue",
+        "gang",
+        "myth",
+        "code"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“inevitable” 的意思是：",
+      "options": [
+        "不可避免的",
+        "令人印象深刻的",
+        "相互的",
+        "极端的"
+      ],
+      "answer": 0,
+      "speak": "inevitable"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A regular reader phones about a criminal case near the ___.",
+      "options": [
+        "salary",
+        "deposit",
+        "border",
+        "ceremony"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A minister speaks, and a ___ from the local team listens.",
+      "options": [
+        "argument",
+        "player",
+        "publisher",
+        "maker"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“desperate” 的意思是：",
+      "options": [
+        "定期的",
+        "绝望的",
+        "合格的",
+        "优越的"
+      ],
+      "answer": 1,
+      "speak": "desperate"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "The publisher announces a closure, and the whole staff is ___ to speak.",
+      "options": [
+        "unique",
+        "inevitable",
+        "unable",
+        "acceptable"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "We argue about the ___, but the executive stays calm.",
+      "options": [
+        "pack",
+        "jury",
+        "deposit",
+        "code"
+      ],
+      "answer": 3
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My ",
+        "hint": "pu",
+        "after": " runs a weekly paper with a regular staff.",
+        "answer": "publisher"
+      },
+      {
+        "before": "I am the ",
+        "hint": "co",
+        "after": " here, and I cover the mill.",
+        "answer": "correspondent"
+      },
+      {
+        "before": "Our ",
+        "hint": "re",
+        "after": " is small, and our average print run falls.",
+        "answer": "revenue"
+      },
+      {
+        "before": "A regular reader phones about a ",
+        "hint": "cr",
+        "after": " case near the border.",
+        "answer": "criminal"
+      },
+      {
+        "before": "Then a ",
+        "hint": "se",
+        "after": " calls, and her argument sounds extreme.",
+        "answer": "senator"
+      },
+      {
+        "before": "Suddenly a ",
+        "hint": "le",
+        "after": " explains the failure, and the news is not acceptable.",
+        "answer": "leak"
+      },
+      {
+        "before": "We argue about the ",
+        "hint": "co",
+        "after": ", but the executive stays calm.",
+        "answer": "code"
+      },
+      {
+        "before": "Our farewell ",
+        "hint": "ce",
+        "after": " fills the mill on a cold evening.",
+        "answer": "ceremony"
+      },
+      {
+        "before": "Our mutual respect is a real ",
+        "hint": "as",
+        "after": ", and it will not vanish.",
+        "answer": "asset"
+      },
+      {
+        "before": "Later a ",
+        "hint": "ju",
+        "after": " hears the conflict, and the arrival is tense.",
+        "answer": "jury"
+      }
+    ],
+    "b3": [
+      {
+        "before": "I am the correspondent here, and I cover the ",
+        "hint": "m",
+        "after": ".",
+        "answer": "mill"
+      },
+      {
+        "before": "A regular reader phones about a criminal case near the ",
+        "hint": "b",
+        "after": ".",
+        "answer": "border"
+      },
+      {
+        "before": "The story involves a gang, a ",
+        "hint": "b",
+        "after": ", and a stolen pack.",
+        "answer": "bar"
+      },
+      {
+        "before": "Suddenly a leak explains the ",
+        "hint": "f",
+        "after": ", and the news is not acceptable.",
+        "answer": "failure"
+      },
+      {
+        "before": "We ",
+        "hint": "a",
+        "after": " about the code, but the executive stays calm.",
+        "answer": "argue"
+      },
+      {
+        "before": "He tells the old ",
+        "hint": "m",
+        "after": " of the founder with real expression.",
+        "answer": "myth"
+      },
+      {
+        "before": "A ",
+        "hint": "l",
+        "after": " and a prince once wrote for this same tiny paper.",
+        "answer": "lord"
+      },
+      {
+        "before": "People chat and ",
+        "hint": "w",
+        "after": " their eyes, and the mood is warm.",
+        "answer": "wipe"
+      },
+      {
+        "before": "The executive announces his ",
+        "hint": "r",
+        "after": ", and the crowd claps.",
+        "answer": "retirement"
+      },
+      {
+        "before": "Our last issue will instruct readers and ",
+        "hint": "s",
+        "after": " a debate.",
+        "answer": "spur"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我的发行人经营一份周报，员工都很稳定。",
+        "keywords": [
+          "publisher",
+          "weekly",
+          "staff"
+        ]
+      },
+      {
+        "zh": "发行人宣布停刊，全体员工都说不出话来。",
+        "keywords": [
+          "publisher",
+          "closure",
+          "unable"
+        ]
+      },
+      {
+        "zh": "一位老读者打来电话，说边境附近有桩刑事案件。",
+        "keywords": [
+          "regular",
+          "criminal",
+          "border"
+        ]
+      },
+      {
+        "zh": "一个寒冷的晚上，我们的告别仪式挤满了磨坊。",
+        "keywords": [
+          "farewell",
+          "ceremony",
+          "mill"
+        ]
+      },
+      {
+        "zh": "我们彼此的尊重是真正的财富，不会消失。",
+        "keywords": [
+          "mutual",
+          "asset"
+        ]
+      },
+      {
+        "zh": "它的终结不可避免，但我们仍抱着迫切的希望。",
+        "keywords": [
+          "inevitable",
+          "desperate"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 293,
+    "sentences": 28,
+    "newDensity": 0.201,
+    "targetTokenDensity": 0.218,
+    "patterns": [
+      "My + N + V（4 次）",
+      "A + 形容词 + N + V（5 次）",
+      "Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p31：约 300 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

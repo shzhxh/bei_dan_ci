@@ -1,0 +1,884 @@
+{
+  "id": "b04",
+  "title": "A Night at the Zoo Camp",
+  "titleZh": "动物园夜营的一晚",
+  "topic": "出行",
+  "paragraphs": [
+    [
+      {
+        "en": "We get up before the sun and pack our heavy schoolbag.",
+        "zh": "我们在太阳出来前起床，收拾好沉重的书包。"
+      },
+      {
+        "en": "I pack warm jeans and a heavy, long winter overcoat.",
+        "zh": "我装进暖和的牛仔裤和一件厚重的大衣。"
+      },
+      {
+        "en": "My passport and a small present fill the front coat pocket.",
+        "zh": "我的护照和一份小礼物塞满了前面的外套口袋。"
+      },
+      {
+        "en": "The sky is cloudy, so we hurry to the front gate.",
+        "zh": "天空阴沉，所以我们赶紧走向大门。"
+      },
+      {
+        "en": "Our teacher leads us to a short, friendly, warm introduction.",
+        "zh": "老师带我们做了一个简短、友好又温暖的介绍。"
+      },
+      {
+        "en": "Our everyday count is twenty, but today we are more.",
+        "zh": "我们平时点数是二十人，但今天人数更多。"
+      }
+    ],
+    [
+      {
+        "en": "The city zoo has tall bamboo near the front gate.",
+        "zh": "城市动物园的前门附近长着高高的竹子。"
+      },
+      {
+        "en": "A sleepy panda chews fresh green leaves behind the glass.",
+        "zh": "一只困倦的熊猫在玻璃后面嚼着新鲜的绿叶。"
+      },
+      {
+        "en": "A zebra and a giraffe share one long wooden fence.",
+        "zh": "一匹斑马和一只长颈鹿共用一道长长的木栅栏。"
+      },
+      {
+        "en": "An elephant eats, and a small brown monkey makes faces.",
+        "zh": "一头大象在吃东西，一只棕色的小猴子在做鬼脸。"
+      },
+      {
+        "en": "A small mouse stays awake near our old stone wall.",
+        "zh": "一只小老鼠在我们旁边的旧石墙边醒着。"
+      },
+      {
+        "en": "Our green tent sits on a bank above the lake.",
+        "zh": "我们的绿色帐篷搭在湖上面的岸坡上。"
+      }
+    ],
+    [
+      {
+        "en": "Warm soup and a green salad wait at the table.",
+        "zh": "热汤和一份绿色沙拉在桌上等着我们。"
+      },
+      {
+        "en": "A hot hamburger and one red strawberry fill my plate.",
+        "zh": "一个热汉堡和一颗红草莓装满了我的盘子。"
+      },
+      {
+        "en": "A silver fork rests beside a ripe yellow banana.",
+        "zh": "一把银色叉子放在一根熟黄香蕉旁边。"
+      },
+      {
+        "en": "The old cooker smells, so we take out the rubbish.",
+        "zh": "旧炉子有味道，所以我们把垃圾拿出去。"
+      },
+      {
+        "en": "A small doll and a toy robot watch us eat.",
+        "zh": "一个小娃娃和一个玩具机器人看着我们吃饭。"
+      },
+      {
+        "en": "A basket of fruit waits beside the chess board.",
+        "zh": "一篮水果放在棋盘旁边。"
+      }
+    ],
+    [
+      {
+        "en": "The old piano sounds boring after our long walk.",
+        "zh": "走了那么久之后，那架旧钢琴听起来很无聊。"
+      },
+      {
+        "en": "After lunch, we practise volleyball until the sky grows dark.",
+        "zh": "午饭后，我们练排球一直练到天色变暗。"
+      },
+      {
+        "en": "A big dictionary helps me pronounce each new word.",
+        "zh": "一本大词典帮我读出每一个新单词的发音。"
+      },
+      {
+        "en": "Her soft, clear accent makes the poem fun to recite.",
+        "zh": "她柔和清晰的口音让这首诗念起来很有趣。"
+      },
+      {
+        "en": "A long western film ends before our math class today.",
+        "zh": "一部很长的西部片今天在我们的数学课前结束了。"
+      },
+      {
+        "en": "My homework is lost under a bottle of ink.",
+        "zh": "我的作业丢在一瓶墨水下面。"
+      }
+    ],
+    [
+      {
+        "en": "By early morning, a high fever and the flu arrive.",
+        "zh": "一大早，高烧和流感就来了。"
+      },
+      {
+        "en": "The cold night wind feels cruel and mean outside now.",
+        "zh": "夜里外面的冷风让人觉得又残酷又刻薄。"
+      },
+      {
+        "en": "My grandfather sends a long postcard from the blue Pacific.",
+        "zh": "我的祖父从蓝色的太平洋寄来一张长长的明信片。"
+      },
+      {
+        "en": "A red skirt in the gift shop excites my sister.",
+        "zh": "礼品店里一条红裙子让妹妹兴奋不已。"
+      },
+      {
+        "en": "We pick up litter before we leave the zoo.",
+        "zh": "离开动物园前，我们把垃圾捡起来。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "up",
+      "pos": "adj./adv./prep.",
+      "zh": "向上；起来",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "We get up before"
+    },
+    {
+      "lemma": "mean",
+      "pos": "adj./v./n.",
+      "zh": "吝啬的；意思是",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "cruel and mean"
+    },
+    {
+      "lemma": "lead",
+      "pos": "n./v./adj.",
+      "zh": "带领；通向",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Our teacher leads us"
+    },
+    {
+      "lemma": "bank",
+      "pos": "n.",
+      "zh": "岸；银行",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "on a bank above the lake"
+    },
+    {
+      "lemma": "present",
+      "pos": "n./adj./v.",
+      "zh": "礼物；现在的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a small present"
+    },
+    {
+      "lemma": "western",
+      "pos": "n./adj.",
+      "zh": "西方的；西部片",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A long western film ends"
+    },
+    {
+      "lemma": "introduction",
+      "pos": "n.",
+      "zh": "介绍；引言",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a short, friendly, warm introduction"
+    },
+    {
+      "lemma": "count",
+      "pos": "v./n.",
+      "zh": "数；计算",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "everyday count is twenty"
+    },
+    {
+      "lemma": "practise",
+      "pos": "v.",
+      "zh": "练习",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "we practise volleyball"
+    },
+    {
+      "lemma": "mouse",
+      "pos": "n./v.",
+      "zh": "老鼠",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A small mouse stays awake"
+    },
+    {
+      "lemma": "pacific",
+      "pos": "n./adj.",
+      "zh": "太平洋；平静的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the blue Pacific"
+    },
+    {
+      "lemma": "hurry",
+      "pos": "n./v.",
+      "zh": "匆忙；赶快",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "we hurry to the front gate"
+    },
+    {
+      "lemma": "rubbish",
+      "pos": "n.",
+      "zh": "垃圾",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "take out the rubbish"
+    },
+    {
+      "lemma": "dictionary",
+      "pos": "n.",
+      "zh": "词典",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A big dictionary helps"
+    },
+    {
+      "lemma": "everyday",
+      "pos": "adj.",
+      "zh": "日常的；每天的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Our everyday count"
+    },
+    {
+      "lemma": "piano",
+      "pos": "n.",
+      "zh": "钢琴",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The old piano sounds"
+    },
+    {
+      "lemma": "skirt",
+      "pos": "n./v.",
+      "zh": "裙子",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A red skirt"
+    },
+    {
+      "lemma": "accent",
+      "pos": "n./v.",
+      "zh": "口音；重音",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Her soft, clear accent"
+    },
+    {
+      "lemma": "basket",
+      "pos": "n./v.",
+      "zh": "篮子",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A basket of fruit"
+    },
+    {
+      "lemma": "boring",
+      "pos": "adj.",
+      "zh": "无聊的；乏味的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "sounds boring"
+    },
+    {
+      "lemma": "tent",
+      "pos": "n./v.",
+      "zh": "帐篷",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Our green tent sits"
+    },
+    {
+      "lemma": "grandfather",
+      "pos": "n.",
+      "zh": "祖父；外祖父",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "My grandfather sends"
+    },
+    {
+      "lemma": "elephant",
+      "pos": "n.",
+      "zh": "大象",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "An elephant eats"
+    },
+    {
+      "lemma": "soup",
+      "pos": "n./v.",
+      "zh": "汤",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Warm soup and a green salad"
+    },
+    {
+      "lemma": "cruel",
+      "pos": "adj.",
+      "zh": "残酷的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "feels cruel and mean"
+    },
+    {
+      "lemma": "salad",
+      "pos": "n.",
+      "zh": "沙拉",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a green salad"
+    },
+    {
+      "lemma": "awake",
+      "pos": "adj./v.",
+      "zh": "醒着的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "stays awake"
+    },
+    {
+      "lemma": "jeans",
+      "pos": "n.",
+      "zh": "牛仔裤",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "warm jeans"
+    },
+    {
+      "lemma": "pronounce",
+      "pos": "v.",
+      "zh": "发音；读作",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "helps me pronounce"
+    },
+    {
+      "lemma": "doll",
+      "pos": "n.",
+      "zh": "洋娃娃",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A small doll and a toy robot"
+    },
+    {
+      "lemma": "passport",
+      "pos": "n.",
+      "zh": "护照",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "My passport and a small present"
+    },
+    {
+      "lemma": "fever",
+      "pos": "n.",
+      "zh": "发烧",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a high fever and the flu"
+    },
+    {
+      "lemma": "monkey",
+      "pos": "n./v.",
+      "zh": "猴子",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a small brown monkey makes faces"
+    },
+    {
+      "lemma": "fork",
+      "pos": "n./v.",
+      "zh": "叉子",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A silver fork rests"
+    },
+    {
+      "lemma": "banana",
+      "pos": "n.",
+      "zh": "香蕉",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a ripe yellow banana"
+    },
+    {
+      "lemma": "postcard",
+      "pos": "n.",
+      "zh": "明信片",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "sends a long postcard"
+    },
+    {
+      "lemma": "ink",
+      "pos": "n./v.",
+      "zh": "墨水",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a bottle of ink"
+    },
+    {
+      "lemma": "zoo",
+      "pos": "n.",
+      "zh": "动物园",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The city zoo"
+    },
+    {
+      "lemma": "homework",
+      "pos": "n.",
+      "zh": "家庭作业",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "My homework is lost"
+    },
+    {
+      "lemma": "litter",
+      "pos": "n./v.",
+      "zh": "垃圾；乱扔",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "pick up litter"
+    },
+    {
+      "lemma": "robot",
+      "pos": "n.",
+      "zh": "机器人",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a toy robot watch"
+    },
+    {
+      "lemma": "chess",
+      "pos": "n.",
+      "zh": "国际象棋",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the chess board"
+    },
+    {
+      "lemma": "cooker",
+      "pos": "n.",
+      "zh": "炉灶；炊具",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The old cooker smells"
+    },
+    {
+      "lemma": "excite",
+      "pos": "v.",
+      "zh": "使兴奋；使激动",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "excites my sister"
+    },
+    {
+      "lemma": "strawberry",
+      "pos": "n.",
+      "zh": "草莓",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "one red strawberry"
+    },
+    {
+      "lemma": "flu",
+      "pos": "n.",
+      "zh": "流感",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the flu arrive"
+    },
+    {
+      "lemma": "recite",
+      "pos": "v.",
+      "zh": "背诵；朗诵",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "fun to recite"
+    },
+    {
+      "lemma": "sleepy",
+      "pos": "adj.",
+      "zh": "困倦的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A sleepy panda chews"
+    },
+    {
+      "lemma": "overcoat",
+      "pos": "n.",
+      "zh": "大衣；外套",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a heavy, long winter overcoat"
+    },
+    {
+      "lemma": "cloudy",
+      "pos": "adj.",
+      "zh": "多云的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The sky is cloudy"
+    },
+    {
+      "lemma": "bamboo",
+      "pos": "n.",
+      "zh": "竹子",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "tall bamboo"
+    },
+    {
+      "lemma": "hamburger",
+      "pos": "n.",
+      "zh": "汉堡包",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A hot hamburger and one red strawberry"
+    },
+    {
+      "lemma": "panda",
+      "pos": "n.",
+      "zh": "熊猫",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A sleepy panda"
+    },
+    {
+      "lemma": "zebra",
+      "pos": "n.",
+      "zh": "斑马",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A zebra and a giraffe"
+    },
+    {
+      "lemma": "giraffe",
+      "pos": "n.",
+      "zh": "长颈鹿",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "share one long wooden fence"
+    },
+    {
+      "lemma": "volleyball",
+      "pos": "n.",
+      "zh": "排球",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "practise volleyball until"
+    },
+    {
+      "lemma": "math",
+      "pos": "n.",
+      "zh": "数学",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "before our math class"
+    },
+    {
+      "lemma": "schoolbag",
+      "pos": "n.",
+      "zh": "书包",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "our heavy schoolbag"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“practise” 的意思是：",
+      "options": [
+        "预测",
+        "练习",
+        "保护",
+        "准备"
+      ],
+      "answer": 1,
+      "speak": "practise"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A ___ panda chews green leaves behind the glass.",
+      "options": [
+        "cloudy",
+        "cruel",
+        "sleepy",
+        "everyday"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“overcoat” 的意思是：",
+      "options": [
+        "外套",
+        "帐篷",
+        "护照",
+        "围裙"
+      ],
+      "answer": 0,
+      "speak": "overcoat"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "We ___ volleyball until the sky grows dark.",
+      "options": [
+        "praise",
+        "protect",
+        "practise",
+        "prefer"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A zebra and a ___ share one long wooden fence.",
+      "options": [
+        "panda",
+        "giraffe",
+        "doll",
+        "robot"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“cruel” 的意思是：",
+      "options": [
+        "困倦的",
+        "多云的",
+        "残酷的",
+        "无聊的"
+      ],
+      "answer": 2,
+      "speak": "cruel"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "My homework is lost under a bottle of ___.",
+      "options": [
+        "soup",
+        "salad",
+        "silk",
+        "ink"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "q8",
+      "type": "语境填空",
+      "prompt": "We pick up ___ before we leave the zoo.",
+      "options": [
+        "litter",
+        "soup",
+        "chess",
+        "ink"
+      ],
+      "answer": 0
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "We get ",
+        "hint": "up",
+        "after": " before the sun and pack our heavy schoolbag.",
+        "answer": "up"
+      },
+      {
+        "before": "I pack warm ",
+        "hint": "je",
+        "after": " and a heavy, long winter overcoat.",
+        "answer": "jeans"
+      },
+      {
+        "before": "My ",
+        "hint": "pa",
+        "after": " and a small present fill the front coat pocket.",
+        "answer": "passport"
+      },
+      {
+        "before": "The sky is ",
+        "hint": "cl",
+        "after": ", so we hurry to the front gate.",
+        "answer": "cloudy"
+      },
+      {
+        "before": "Our teacher ",
+        "hint": "le",
+        "after": " us to a short, friendly, warm introduction.",
+        "answer": "leads"
+      },
+      {
+        "before": "The city zoo has tall ",
+        "hint": "ba",
+        "after": " near the front gate.",
+        "answer": "bamboo"
+      },
+      {
+        "before": "A ",
+        "hint": "sl",
+        "after": " panda chews fresh green leaves behind the glass.",
+        "answer": "sleepy"
+      },
+      {
+        "before": "A zebra and a ",
+        "hint": "gi",
+        "after": " share one long wooden fence.",
+        "answer": "giraffe"
+      },
+      {
+        "before": "A ",
+        "hint": "ba",
+        "after": " of fruit waits beside the chess board.",
+        "answer": "basket"
+      },
+      {
+        "before": "We ",
+        "hint": "pr",
+        "after": " volleyball until the sky grows dark.",
+        "answer": "practise"
+      }
+    ],
+    "b3": [
+      {
+        "before": "We get up before the sun and pack our heavy ",
+        "hint": "s",
+        "after": ".",
+        "answer": "schoolbag"
+      },
+      {
+        "before": "My passport and a small ",
+        "hint": "p",
+        "after": " fill the front coat pocket.",
+        "answer": "present"
+      },
+      {
+        "before": "The city ",
+        "hint": "z",
+        "after": " has tall bamboo near the front gate.",
+        "answer": "zoo"
+      },
+      {
+        "before": "A small ",
+        "hint": "m",
+        "after": " stays awake near our old stone wall.",
+        "answer": "mouse"
+      },
+      {
+        "before": "Our green ",
+        "hint": "t",
+        "after": " sits on a bank above the lake.",
+        "answer": "tent"
+      },
+      {
+        "before": "The old ",
+        "hint": "c",
+        "after": " smells, so we take out the rubbish.",
+        "answer": "cooker"
+      },
+      {
+        "before": "The old piano sounds ",
+        "hint": "b",
+        "after": " after our long walk.",
+        "answer": "boring"
+      },
+      {
+        "before": "A big dictionary helps me ",
+        "hint": "p",
+        "after": " each new word.",
+        "answer": "pronounce"
+      },
+      {
+        "before": "Her soft, clear ",
+        "hint": "a",
+        "after": " makes the poem fun to recite.",
+        "answer": "accent"
+      },
+      {
+        "before": "My grandfather sends a long ",
+        "hint": "p",
+        "after": " from the blue Pacific.",
+        "answer": "postcard"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "动物园的前门附近长着高高的竹子。",
+        "keywords": [
+          "zoo",
+          "bamboo"
+        ]
+      },
+      {
+        "zh": "一只困倦的熊猫在玻璃后面嚼着绿叶。",
+        "keywords": [
+          "panda",
+          "sleepy"
+        ]
+      },
+      {
+        "zh": "走了那么久之后，那架旧钢琴听起来很无聊。",
+        "keywords": [
+          "piano",
+          "boring"
+        ]
+      },
+      {
+        "zh": "午饭后，我们练排球一直练到天色变暗。",
+        "keywords": [
+          "volleyball",
+          "practise"
+        ]
+      },
+      {
+        "zh": "我的祖父从蓝色的太平洋寄来一张明信片。",
+        "keywords": [
+          "grandfather",
+          "postcard",
+          "pacific"
+        ]
+      },
+      {
+        "zh": "离开动物园前，我们把垃圾捡起来。",
+        "keywords": [
+          "litter",
+          "zoo"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 287,
+    "sentences": 29,
+    "newDensity": 0.202,
+    "targetTokenDensity": 0.209,
+    "patterns": [
+      "A + 形容词 + N + V（10 次）",
+      "My / Our + N + V（6 次）",
+      "After 开头（1 次）"
+    ]
+  },
+  "note": "b04 补漏成稿（出行/动物园夜营）：287 词 / 29 句；58 个目标词（stars=0、star_source=zhongkao）全部出现（zoo 回指 1 次，Pacific 为专名 1 处）；回引主线 p01–p22 已学词作骨架；写作与自查规则见 work/p01-写作规则与自查清单.md，补漏校验见 work/qc_check_supplement.py。"
+}

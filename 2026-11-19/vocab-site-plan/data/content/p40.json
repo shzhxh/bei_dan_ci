@@ -1,0 +1,831 @@
+{
+  "id": "p40",
+  "title": "The Pub, the Pitch, and the Old Commander",
+  "titleZh": "酒馆、球场与老司令",
+  "topic": "偏远村庄酒馆与板球队",
+  "paragraphs": [
+    [
+      {
+        "en": "The remote village keeps one small pub and a cricket field.",
+        "zh": "这个偏远的村庄保留着一家小酒馆和一块板球场。"
+      },
+      {
+        "en": "A retired commander rents the pub for a modest monthly sum.",
+        "zh": "一位退役司令以不多的月租租下这家酒馆。"
+      },
+      {
+        "en": "His beer is cheap, and a warm pot of soup costs little.",
+        "zh": "他的啤酒很便宜，一锅热汤也花不了多少钱。"
+      },
+      {
+        "en": "A slice of bread is free, and the small bill is due.",
+        "zh": "一片面包是免费的，而那笔小账单到期了。"
+      },
+      {
+        "en": "A range of old instruments hangs above the wooden rail.",
+        "zh": "一排旧乐器挂在木栏杆上方。"
+      },
+      {
+        "en": "My uncle plays an occasional tune to entertain the guests.",
+        "zh": "我叔叔偶尔弹一支曲子来娱乐客人。"
+      },
+      {
+        "en": "A young reader studies the definition of every local rule.",
+        "zh": "一位年轻读者研究每一条本地规则的定义。"
+      },
+      {
+        "en": "The club needs new players, and the association will ensure fair play.",
+        "zh": "俱乐部需要新球员，而协会将确保公平比赛。"
+      },
+      {
+        "en": "They elect a captain, but one small faction disputes the result.",
+        "zh": "他们选出一位队长，但一个小派系对结果提出异议。"
+      },
+      {
+        "en": "The minority group accepts defeat and merely asks for a rematch.",
+        "zh": "少数一方接受失败，只是要求再赛一场。"
+      }
+    ],
+    [
+      {
+        "en": "A satellite dish likely brings matches from a distant city.",
+        "zh": "一口卫星天线很可能把小城的比赛带到这里。"
+      },
+      {
+        "en": "The atmosphere in the pub is warm and rather unusual.",
+        "zh": "酒馆里的气氛温暖，而且相当不同寻常。"
+      },
+      {
+        "en": "Few civilians here recognize the old man at the corner.",
+        "zh": "这里很少有平民认出角落里的那位老人。"
+      },
+      {
+        "en": "His quiet profile belongs to a man who once led troops.",
+        "zh": "他安静的侧影属于一个曾经带过兵的人。"
+      },
+      {
+        "en": "He keeps a firm balance between duty and a sense of liberty.",
+        "zh": "他在责任与自由感之间保持着稳固的平衡。"
+      },
+      {
+        "en": "A sudden burst of rain sends an urgent call for cover.",
+        "zh": "一阵突然的雨引来紧急的避雨呼喊。"
+      },
+      {
+        "en": "They handle the leak by simple means and a steady hand.",
+        "zh": "他们用简单的方法和一只稳手处理漏水。"
+      },
+      {
+        "en": "They replace one broken element in the club's long plan.",
+        "zh": "他们更换了俱乐部长期计划中一个损坏的元件。"
+      },
+      {
+        "en": "Then, given the circumstance, they await a clearer date.",
+        "zh": "然后，鉴于这种情况，他们等待一个更清楚的日期。"
+      },
+      {
+        "en": "Later a manufacturer offers bats with the committee's approval.",
+        "zh": "后来一位制造商在委员会的批准下提供了球拍。"
+      }
+    ],
+    [
+      {
+        "en": "A weekend session teaches the youngest players how to qualify.",
+        "zh": "一次周末课程教最年轻的球员如何取得资格。"
+      },
+      {
+        "en": "During the season, their coach hopes to keep going to the fifteenth round.",
+        "zh": "赛季期间，他们的教练希望一路打进第十五轮。"
+      },
+      {
+        "en": "A local paper alleges a charge of theft and a missing sum.",
+        "zh": "一份本地报纸声称有一项盗窃指控和一笔失踪的款项。"
+      },
+      {
+        "en": "My aunt denies it and shows an ideal withdrawal record.",
+        "zh": "我姑姑否认此事，并出示了一份理想的取款记录。"
+      },
+      {
+        "en": "An abandoned shed becomes a store and gives two men employment.",
+        "zh": "一间废弃的棚屋成了仓库，并给两个人提供了工作。"
+      },
+      {
+        "en": "My father's stories of hell never bore the young players.",
+        "zh": "我父亲关于地狱的故事从不使年轻球员厌烦。"
+      },
+      {
+        "en": "They liberate the club from debt, though one old friend chose suicide.",
+        "zh": "他们把俱乐部从债务中解放出来，尽管一位老朋友选择了自杀。"
+      },
+      {
+        "en": "Later a brief pause follows, and the old couple quietly divorce.",
+        "zh": "随后是一段短暂的停顿，那对老夫妇平静地离婚了。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "likely",
+      "pos": "adj./adv.",
+      "zh": "有可能的",
+      "stars": 5,
+      "collocation": "dish likely brings matches"
+    },
+    {
+      "lemma": "charge",
+      "pos": "n./v.",
+      "zh": "指控",
+      "stars": 5,
+      "collocation": "a charge of theft"
+    },
+    {
+      "lemma": "range",
+      "pos": "n./v.",
+      "zh": "排",
+      "stars": 4,
+      "collocation": "A range of old"
+    },
+    {
+      "lemma": "association",
+      "pos": "n.",
+      "zh": "协会",
+      "stars": 4,
+      "collocation": "the association will ensure"
+    },
+    {
+      "lemma": "replace",
+      "pos": "v.",
+      "zh": "代替",
+      "stars": 4,
+      "collocation": "They replace one broken"
+    },
+    {
+      "lemma": "means",
+      "pos": "n.",
+      "zh": "方法",
+      "stars": 4,
+      "collocation": "simple means and a"
+    },
+    {
+      "lemma": "balance",
+      "pos": "n./v.",
+      "zh": "平衡",
+      "stars": 4,
+      "collocation": "firm balance between duty"
+    },
+    {
+      "lemma": "due",
+      "pos": "n./adj.",
+      "zh": "应得的东西",
+      "stars": 4,
+      "collocation": "is due."
+    },
+    {
+      "lemma": "session",
+      "pos": "n.",
+      "zh": "期间",
+      "stars": 4,
+      "collocation": "weekend session teaches the"
+    },
+    {
+      "lemma": "handle",
+      "pos": "n./v.",
+      "zh": "柄",
+      "stars": 4,
+      "collocation": "They handle the leak"
+    },
+    {
+      "lemma": "elect",
+      "pos": "n./adj./v.",
+      "zh": "当选人",
+      "stars": 4,
+      "collocation": "They elect a captain,"
+    },
+    {
+      "lemma": "minority",
+      "pos": "n./adj.",
+      "zh": "少数",
+      "stars": 4,
+      "collocation": "The minority group accepts"
+    },
+    {
+      "lemma": "defeat",
+      "pos": "n./v.",
+      "zh": "败北",
+      "stars": 4,
+      "collocation": "accepts defeat and merely"
+    },
+    {
+      "lemma": "circumstance",
+      "pos": "n.",
+      "zh": "环境",
+      "stars": 3,
+      "collocation": "the circumstance, they await"
+    },
+    {
+      "lemma": "merely",
+      "pos": "adv.",
+      "zh": "只",
+      "stars": 3,
+      "collocation": "and merely asks for"
+    },
+    {
+      "lemma": "belong",
+      "pos": "v.",
+      "zh": "属于",
+      "stars": 3,
+      "collocation": "profile belongs to a"
+    },
+    {
+      "lemma": "instrument",
+      "pos": "n.",
+      "zh": "工具",
+      "stars": 3,
+      "collocation": "old instruments hangs above"
+    },
+    {
+      "lemma": "atmosphere",
+      "pos": "n.",
+      "zh": "大气",
+      "stars": 3,
+      "collocation": "The atmosphere in the"
+    },
+    {
+      "lemma": "rail",
+      "pos": "n./v.",
+      "zh": "横杆",
+      "stars": 3,
+      "collocation": "wooden rail."
+    },
+    {
+      "lemma": "unusual",
+      "pos": "adj.",
+      "zh": "不寻常的",
+      "stars": 3,
+      "collocation": "rather unusual."
+    },
+    {
+      "lemma": "beer",
+      "pos": "n.",
+      "zh": "啤酒",
+      "stars": 3,
+      "collocation": "His beer is cheap,"
+    },
+    {
+      "lemma": "rent",
+      "pos": "n./v./adj.",
+      "zh": "租金",
+      "stars": 3,
+      "collocation": "commander rents the pub"
+    },
+    {
+      "lemma": "pause",
+      "pos": "n./v.",
+      "zh": "暂停",
+      "stars": 3,
+      "collocation": "brief pause follows, and"
+    },
+    {
+      "lemma": "remote",
+      "pos": "adj.",
+      "zh": "遥远的",
+      "stars": 3,
+      "collocation": "The remote village keeps"
+    },
+    {
+      "lemma": "pot",
+      "pos": "n./v.",
+      "zh": "盆",
+      "stars": 3,
+      "collocation": "warm pot of soup"
+    },
+    {
+      "lemma": "burst",
+      "pos": "n./v.",
+      "zh": "破裂",
+      "stars": 3,
+      "collocation": "sudden burst of rain"
+    },
+    {
+      "lemma": "urgent",
+      "pos": "adj.",
+      "zh": "紧急的",
+      "stars": 3,
+      "collocation": "an urgent call for"
+    },
+    {
+      "lemma": "satellite",
+      "pos": "n.",
+      "zh": "人造卫星",
+      "stars": 3,
+      "collocation": "A satellite dish likely"
+    },
+    {
+      "lemma": "liberty",
+      "pos": "n.",
+      "zh": "自由",
+      "stars": 3,
+      "collocation": "of liberty."
+    },
+    {
+      "lemma": "divorce",
+      "pos": "n./v.",
+      "zh": "离婚",
+      "stars": 3,
+      "collocation": "quietly divorce."
+    },
+    {
+      "lemma": "slice",
+      "pos": "n./v.",
+      "zh": "薄的切片",
+      "stars": 3,
+      "collocation": "A slice of bread"
+    },
+    {
+      "lemma": "civilian",
+      "pos": "n./adj.",
+      "zh": "平民",
+      "stars": 3,
+      "collocation": "Few civilians here recognize"
+    },
+    {
+      "lemma": "liberate",
+      "pos": "v.",
+      "zh": "解放",
+      "stars": 3,
+      "collocation": "They liberate the club"
+    },
+    {
+      "lemma": "ensure",
+      "pos": "v.",
+      "zh": "确定",
+      "stars": 4,
+      "collocation": "will ensure fair play."
+    },
+    {
+      "lemma": "element",
+      "pos": "n.",
+      "zh": "元件",
+      "stars": 4,
+      "collocation": "broken element in the"
+    },
+    {
+      "lemma": "reader",
+      "pos": "n.",
+      "zh": "读者",
+      "stars": 4,
+      "collocation": "young reader studies the"
+    },
+    {
+      "lemma": "recognize",
+      "pos": "v.",
+      "zh": "认出",
+      "stars": 4,
+      "collocation": "here recognize the old"
+    },
+    {
+      "lemma": "ideal",
+      "pos": "n./adj.",
+      "zh": "理想",
+      "stars": 4,
+      "collocation": "an ideal withdrawal record."
+    },
+    {
+      "lemma": "employment",
+      "pos": "n.",
+      "zh": "雇用",
+      "stars": 3,
+      "collocation": "men employment."
+    },
+    {
+      "lemma": "definition",
+      "pos": "n.",
+      "zh": "定义",
+      "stars": 3,
+      "collocation": "the definition of every"
+    },
+    {
+      "lemma": "hell",
+      "pos": "n./v.",
+      "zh": "地狱",
+      "stars": 3,
+      "collocation": "of hell never bore"
+    },
+    {
+      "lemma": "manufacturer",
+      "pos": "n.",
+      "zh": "制造业者",
+      "stars": 3,
+      "collocation": "a manufacturer offers bats"
+    },
+    {
+      "lemma": "approval",
+      "pos": "n.",
+      "zh": "赞成",
+      "stars": 3,
+      "collocation": "committee's approval."
+    },
+    {
+      "lemma": "cricket",
+      "pos": "n.",
+      "zh": "蟋蟀",
+      "stars": 3,
+      "collocation": "a cricket field."
+    },
+    {
+      "lemma": "qualify",
+      "pos": "v.",
+      "zh": "取得资格",
+      "stars": 3,
+      "collocation": "to qualify."
+    },
+    {
+      "lemma": "occasional",
+      "pos": "adj.",
+      "zh": "偶然的",
+      "stars": 3,
+      "collocation": "an occasional tune to"
+    },
+    {
+      "lemma": "commander",
+      "pos": "n.",
+      "zh": "司令官",
+      "stars": 3,
+      "collocation": "retired commander rents the"
+    },
+    {
+      "lemma": "await",
+      "pos": "v.",
+      "zh": "等候",
+      "stars": 3,
+      "collocation": "they await a clearer"
+    },
+    {
+      "lemma": "monthly",
+      "pos": "n./adj.",
+      "zh": "月刊",
+      "stars": 3,
+      "collocation": "modest monthly sum."
+    },
+    {
+      "lemma": "entertain",
+      "pos": "v.",
+      "zh": "娱乐",
+      "stars": 3,
+      "collocation": "to entertain the guests."
+    },
+    {
+      "lemma": "bore",
+      "pos": "n./v.",
+      "zh": "令人讨厌的人",
+      "stars": 3,
+      "collocation": "never bore the young"
+    },
+    {
+      "lemma": "allege",
+      "pos": "v.",
+      "zh": "宣称",
+      "stars": 4,
+      "collocation": "paper alleges a charge"
+    },
+    {
+      "lemma": "profile",
+      "pos": "n./v.",
+      "zh": "侧面",
+      "stars": 3,
+      "collocation": "quiet profile belongs to"
+    },
+    {
+      "lemma": "suicide",
+      "pos": "n./v./adj.",
+      "zh": "自杀",
+      "stars": 3,
+      "collocation": "chose suicide."
+    },
+    {
+      "lemma": "faction",
+      "pos": "n.",
+      "zh": "小派系",
+      "stars": 3,
+      "collocation": "small faction disputes the"
+    },
+    {
+      "lemma": "going",
+      "pos": "n./adj.",
+      "zh": "去",
+      "stars": 5,
+      "collocation": "keep going to the"
+    },
+    {
+      "lemma": "fifteenth",
+      "pos": "num.",
+      "zh": "第十五",
+      "stars": 4,
+      "collocation": "the fifteenth round."
+    },
+    {
+      "lemma": "withdrawal",
+      "pos": "n.",
+      "zh": "提款",
+      "stars": 3,
+      "collocation": "ideal withdrawal record."
+    },
+    {
+      "lemma": "abandoned",
+      "pos": "adj.",
+      "zh": "被抛弃的",
+      "stars": 3,
+      "collocation": "An abandoned shed becomes"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“remote” 的意思是：",
+      "options": [
+        "遥远的",
+        "紧急的",
+        "理想的",
+        "不寻常的"
+      ],
+      "answer": 0,
+      "speak": "remote"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A retired commander ___ the pub for a modest monthly sum.",
+      "options": [
+        "rents",
+        "handles",
+        "replaces",
+        "liberates"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“liberty” 的意思是：",
+      "options": [
+        "自由",
+        "平衡",
+        "批准",
+        "定义"
+      ],
+      "answer": 0,
+      "speak": "liberty"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A range of old ___ hangs above the wooden rail.",
+      "options": [
+        "instruments",
+        "elements",
+        "civilians",
+        "readers"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A weekend session teaches the youngest players how to ___.",
+      "options": [
+        "qualify",
+        "entertain",
+        "await",
+        "pause"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“unusual” 的意思是：",
+      "options": [
+        "不寻常的",
+        "有可能的",
+        "紧急的",
+        "被抛弃的"
+      ],
+      "answer": 0,
+      "speak": "unusual"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "An abandoned shed becomes a store and gives two men ___.",
+      "options": [
+        "employment",
+        "approval",
+        "withdrawal",
+        "atmosphere"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“minority” 的意思是：",
+      "options": [
+        "少数",
+        "派系",
+        "司令",
+        "制造商"
+      ],
+      "answer": 0,
+      "speak": "minority"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "The ",
+        "hint": "re",
+        "after": " village keeps one small pub and a cricket field.",
+        "answer": "remote"
+      },
+      {
+        "before": "A retired ",
+        "hint": "co",
+        "after": " rents the pub for a modest monthly sum.",
+        "answer": "commander"
+      },
+      {
+        "before": "His ",
+        "hint": "be",
+        "after": " is cheap, and a warm pot of soup costs little.",
+        "answer": "beer"
+      },
+      {
+        "before": "A ",
+        "hint": "sl",
+        "after": " of bread is free, and the small bill is due.",
+        "answer": "slice"
+      },
+      {
+        "before": "A ",
+        "hint": "ra",
+        "after": " of old instruments hangs above the wooden rail.",
+        "answer": "range"
+      },
+      {
+        "before": "My uncle plays an ",
+        "hint": "oc",
+        "after": " tune to entertain the guests.",
+        "answer": "occasional"
+      },
+      {
+        "before": "A young ",
+        "hint": "re",
+        "after": " studies the definition of every local rule.",
+        "answer": "reader"
+      },
+      {
+        "before": "The club needs new players, and the ",
+        "hint": "as",
+        "after": " will ensure fair play.",
+        "answer": "association"
+      },
+      {
+        "before": "They ",
+        "hint": "el",
+        "after": " a captain, but one small faction disputes the result.",
+        "answer": "elect"
+      },
+      {
+        "before": "The ",
+        "hint": "mi",
+        "after": " group accepts defeat and merely asks for a rematch.",
+        "answer": "minority"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Then, given the ",
+        "hint": "ci",
+        "after": ", they await a clearer date.",
+        "answer": "circumstance"
+      },
+      {
+        "before": "Later a manufacturer offers bats with the committee's ",
+        "hint": "ap",
+        "after": ".",
+        "answer": "approval"
+      },
+      {
+        "before": "A weekend session teaches the youngest players how to ",
+        "hint": "qu",
+        "after": ".",
+        "answer": "qualify"
+      },
+      {
+        "before": "During the season, their coach hopes to keep going to the ",
+        "hint": "fi",
+        "after": " round.",
+        "answer": "fifteenth"
+      },
+      {
+        "before": "A local paper ",
+        "hint": "al",
+        "after": " a charge of theft and a missing sum.",
+        "answer": "alleges"
+      },
+      {
+        "before": "My aunt denies it and shows an ideal ",
+        "hint": "wi",
+        "after": " record.",
+        "answer": "withdrawal"
+      },
+      {
+        "before": "An ",
+        "hint": "ab",
+        "after": " shed becomes a store and gives two men employment.",
+        "answer": "abandoned"
+      },
+      {
+        "before": "My father's stories of hell never ",
+        "hint": "bo",
+        "after": " the young players.",
+        "answer": "bore"
+      },
+      {
+        "before": "They ",
+        "hint": "li",
+        "after": " the club from debt, though one old friend chose suicide.",
+        "answer": "liberate"
+      },
+      {
+        "before": "Later a brief pause follows, and the old couple quietly ",
+        "hint": "di",
+        "after": ".",
+        "answer": "divorce"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "这个偏远的村庄保留着一家小酒馆和一块板球场。",
+        "keywords": [
+          "remote",
+          "pub",
+          "cricket"
+        ]
+      },
+      {
+        "zh": "一排旧乐器挂在木栏杆上方。",
+        "keywords": [
+          "range",
+          "instruments",
+          "rail"
+        ]
+      },
+      {
+        "zh": "一口卫星天线很可能把小城的比赛带到这里。",
+        "keywords": [
+          "satellite",
+          "dish",
+          "matches"
+        ]
+      },
+      {
+        "zh": "他在责任与自由感之间保持着稳固的平衡。",
+        "keywords": [
+          "balance",
+          "duty",
+          "liberty"
+        ]
+      },
+      {
+        "zh": "一份本地报纸声称有一项盗窃指控和一笔失踪的款项。",
+        "keywords": [
+          "paper",
+          "charge",
+          "theft"
+        ]
+      },
+      {
+        "zh": "他们把俱乐部从债务中解放出来，尽管一位老朋友选择了自杀。",
+        "keywords": [
+          "liberate",
+          "debt",
+          "suicide"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 302,
+    "sentences": 28,
+    "newDensity": 0.195,
+    "targetTokenDensity": 0.195,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写偏远村庄的小酒馆与板球队：退役司令租房、便宜啤酒与面包、旧乐器与卫星天线、选举与派系、漏雨与更换元件、制造商赞助，结尾是盗窃指控、废弃棚屋与老友的往事。"
+}

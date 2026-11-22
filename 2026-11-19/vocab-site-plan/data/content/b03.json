@@ -1,0 +1,884 @@
+{
+  "id": "b03",
+  "title": "The Purse by the Pond",
+  "titleZh": "池塘边的钱包",
+  "topic": "社区",
+  "paragraphs": [
+    [
+      {
+        "en": "Our last chemistry class ends with a short word game.",
+        "zh": "我们最后一节化学课以一个短短的词语游戏结束。"
+      },
+      {
+        "en": "A riddle in white chalk covers the old board.",
+        "zh": "一道用白色粉笔写的谜语占满了旧黑板。"
+      },
+      {
+        "en": "We read the answer aloud in the quiet classroom.",
+        "zh": "我们在安静的教室里大声读出答案。"
+      },
+      {
+        "en": "Her fingers dance on the keyboard, and we all clap loudly.",
+        "zh": "她的手指在键盘上飞舞，我们都大声鼓掌。"
+      },
+      {
+        "en": "After our physics class, we walk around the old gymnasium.",
+        "zh": "物理课后，我们绕着旧体育馆走了一圈。"
+      },
+      {
+        "en": "Vacation starts today, and the warm sun shines again.",
+        "zh": "假期今天开始，温暖的阳光又照了下来。"
+      }
+    ],
+    [
+      {
+        "en": "We walk down the hill and cross the small, quiet street.",
+        "zh": "我们走下山坡，穿过那条安静的小街。"
+      },
+      {
+        "en": "I skate past a boy on an old red bicycle.",
+        "zh": "我滑着旱冰经过一个骑着旧红色自行车的男孩。"
+      },
+      {
+        "en": "A white goat stands near the quiet, green pond.",
+        "zh": "一只白山羊站在安静的绿色池塘边。"
+      },
+      {
+        "en": "A wet hen hides under one big black umbrella.",
+        "zh": "一只湿漉漉的母鸡躲在一把黑色大伞下面。"
+      },
+      {
+        "en": "The polite postman waves and asks about our long day.",
+        "zh": "有礼貌的邮递员朝我们挥手，问我们今天过得怎么样。"
+      },
+      {
+        "en": "A brown purse holds a coin and an old photo.",
+        "zh": "一个棕色的钱包里装着一枚硬币和一张旧照片。"
+      },
+      {
+        "en": "A license and a single cent sit inside it now.",
+        "zh": "里面还放着一张证件和一枚一分硬币。"
+      }
+    ],
+    [
+      {
+        "en": "The silk lining is soft, and the purse is hers.",
+        "zh": "丝绸内衬很柔软，这个钱包是她的。"
+      },
+      {
+        "en": "The photo is theirs, and we connect the two names.",
+        "zh": "照片是他们的，我们把两个名字联系了起来。"
+      },
+      {
+        "en": "Its owner is deaf and seldom leaves her warm house.",
+        "zh": "它的主人耳朵听不见，很少离开她温暖的家。"
+      },
+      {
+        "en": "She was a pioneer, and her grandchild lives far away.",
+        "zh": "她曾是这个小镇的开拓者，她的孙辈住在很远的地方。"
+      },
+      {
+        "en": "We send an email and wait downstairs by the door.",
+        "zh": "我们发了一封电子邮件，然后在楼下门口等着。"
+      }
+    ],
+    [
+      {
+        "en": "She walks to the old stairs with a clean towel.",
+        "zh": "她拿着一块干净的毛巾走到旧楼梯边。"
+      },
+      {
+        "en": "My headache grows, but the hot beef smells good.",
+        "zh": "我的头越来越疼，但热牛肉闻起来很香。"
+      },
+      {
+        "en": "A lamb dish and a dumpling sit on the table.",
+        "zh": "一盘羊肉和一只饺子摆在桌上。"
+      },
+      {
+        "en": "One sandwich weighs almost a kilogram, I really think.",
+        "zh": "一个三明治差不多有一公斤重，我真是这么觉得。"
+      },
+      {
+        "en": "A watermelon and a bag of grapes wait for us.",
+        "zh": "一个西瓜和一袋葡萄在等着我们。"
+      },
+      {
+        "en": "A pear ends our warm supper that quiet evening.",
+        "zh": "那个安静的傍晚，一个梨为我们的热晚饭收了尾。"
+      }
+    ],
+    [
+      {
+        "en": "We take the long path home before the dark.",
+        "zh": "我们在天黑前沿着长长的小路回家。"
+      },
+      {
+        "en": "She used a taxi to visit us last cold winter.",
+        "zh": "去年寒冷的冬天，她坐出租车来看过我们。"
+      },
+      {
+        "en": "I draw a small fox for her with my pencil.",
+        "zh": "我用铅笔画了一只小狐狸送给她。"
+      },
+      {
+        "en": "Her grandson brings the old handbag to our door.",
+        "zh": "她的孙子把那个旧手提包送到我们家门口。"
+      },
+      {
+        "en": "Her handwriting is neat, and the grandparent smiles.",
+        "zh": "她的字迹很工整，那位祖母朝我们笑了。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "take",
+      "pos": "v./n.",
+      "zh": "带走；花费",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "take the long path"
+    },
+    {
+      "lemma": "down",
+      "pos": "adj./adv./prep./n.",
+      "zh": "向下；沿着",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "walk down the hill"
+    },
+    {
+      "lemma": "home",
+      "pos": "n./adj./adv.",
+      "zh": "家；回家",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "path home before the dark"
+    },
+    {
+      "lemma": "short",
+      "pos": "adj./adv./n./v.",
+      "zh": "短的；矮的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "with a short word game"
+    },
+    {
+      "lemma": "used",
+      "pos": "adj.",
+      "zh": "使用过；过去常常",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "She used a taxi"
+    },
+    {
+      "lemma": "sun",
+      "pos": "n./v.",
+      "zh": "太阳；阳光",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the warm sun shines"
+    },
+    {
+      "lemma": "cross",
+      "pos": "n./adj./v.",
+      "zh": "穿过；横过",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "cross the small, quiet street"
+    },
+    {
+      "lemma": "connect",
+      "pos": "v.",
+      "zh": "连接；联系",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "we connect the two names"
+    },
+    {
+      "lemma": "stairs",
+      "pos": "n.",
+      "zh": "楼梯",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "to the old stairs"
+    },
+    {
+      "lemma": "classroom",
+      "pos": "n.",
+      "zh": "教室",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "in the quiet classroom"
+    },
+    {
+      "lemma": "deaf",
+      "pos": "adj.",
+      "zh": "聋的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Its owner is deaf"
+    },
+    {
+      "lemma": "coin",
+      "pos": "n./v.",
+      "zh": "硬币",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "holds a coin and an old photo"
+    },
+    {
+      "lemma": "hers",
+      "pos": "pron.",
+      "zh": "她的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the purse is hers"
+    },
+    {
+      "lemma": "silk",
+      "pos": "n./adj.",
+      "zh": "丝绸",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The silk lining"
+    },
+    {
+      "lemma": "taxi",
+      "pos": "n./v.",
+      "zh": "出租车",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "used a taxi to visit"
+    },
+    {
+      "lemma": "pond",
+      "pos": "n./v.",
+      "zh": "池塘",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the quiet, green pond"
+    },
+    {
+      "lemma": "chemistry",
+      "pos": "n.",
+      "zh": "化学",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Our last chemistry class"
+    },
+    {
+      "lemma": "sandwich",
+      "pos": "n./v.",
+      "zh": "三明治",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "One sandwich weighs"
+    },
+    {
+      "lemma": "physics",
+      "pos": "n.",
+      "zh": "物理学",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "After our physics class"
+    },
+    {
+      "lemma": "downstairs",
+      "pos": "n./adj./adv.",
+      "zh": "在楼下；往楼下",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "wait downstairs by the door"
+    },
+    {
+      "lemma": "supper",
+      "pos": "n.",
+      "zh": "晚饭",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "our warm supper"
+    },
+    {
+      "lemma": "lamb",
+      "pos": "n./v.",
+      "zh": "羔羊肉；小羊",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A lamb dish"
+    },
+    {
+      "lemma": "beef",
+      "pos": "n./v.",
+      "zh": "牛肉",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the hot beef smells good"
+    },
+    {
+      "lemma": "seldom",
+      "pos": "adj./adv.",
+      "zh": "很少；不常",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "seldom leaves her warm house"
+    },
+    {
+      "lemma": "pencil",
+      "pos": "n./v.",
+      "zh": "铅笔",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "with my pencil"
+    },
+    {
+      "lemma": "fox",
+      "pos": "n./v.",
+      "zh": "狐狸",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a small fox"
+    },
+    {
+      "lemma": "towel",
+      "pos": "n./v.",
+      "zh": "毛巾",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "with a clean towel"
+    },
+    {
+      "lemma": "polite",
+      "pos": "adj.",
+      "zh": "有礼貌的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The polite postman"
+    },
+    {
+      "lemma": "headache",
+      "pos": "n.",
+      "zh": "头痛",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "My headache grows"
+    },
+    {
+      "lemma": "goat",
+      "pos": "n.",
+      "zh": "山羊",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A white goat stands"
+    },
+    {
+      "lemma": "bicycle",
+      "pos": "n.",
+      "zh": "自行车",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "an old red bicycle"
+    },
+    {
+      "lemma": "keyboard",
+      "pos": "n.",
+      "zh": "键盘",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "dance on the keyboard"
+    },
+    {
+      "lemma": "theirs",
+      "pos": "pron.",
+      "zh": "他们的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The photo is theirs"
+    },
+    {
+      "lemma": "umbrella",
+      "pos": "n./adj./v.",
+      "zh": "伞",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "one big black umbrella"
+    },
+    {
+      "lemma": "pioneer",
+      "pos": "n./v./adj.",
+      "zh": "开拓者；先驱",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "She was a pioneer"
+    },
+    {
+      "lemma": "aloud",
+      "pos": "adv.",
+      "zh": "大声地",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "read the answer aloud"
+    },
+    {
+      "lemma": "chalk",
+      "pos": "n./v.",
+      "zh": "粉笔",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "in white chalk"
+    },
+    {
+      "lemma": "hen",
+      "pos": "n.",
+      "zh": "母鸡",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A wet hen hides"
+    },
+    {
+      "lemma": "purse",
+      "pos": "n./v.",
+      "zh": "钱包；女用手提包",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the purse is hers"
+    },
+    {
+      "lemma": "grape",
+      "pos": "n.",
+      "zh": "葡萄",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a bag of grapes"
+    },
+    {
+      "lemma": "license",
+      "pos": "n./v.",
+      "zh": "执照；证件",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A license and a single cent"
+    },
+    {
+      "lemma": "grandson",
+      "pos": "n.",
+      "zh": "孙子；外孙",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Her grandson brings"
+    },
+    {
+      "lemma": "handbag",
+      "pos": "n.",
+      "zh": "手提包",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the old handbag"
+    },
+    {
+      "lemma": "grandparent",
+      "pos": "n.",
+      "zh": "祖父或祖母；外祖父或外祖母",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the grandparent smiles"
+    },
+    {
+      "lemma": "handwriting",
+      "pos": "n.",
+      "zh": "字迹；书写",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Her handwriting is neat"
+    },
+    {
+      "lemma": "clap",
+      "pos": "n./v.",
+      "zh": "鼓掌；拍手",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "we all clap loudly"
+    },
+    {
+      "lemma": "pear",
+      "pos": "n.",
+      "zh": "梨",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A pear ends"
+    },
+    {
+      "lemma": "vacation",
+      "pos": "n.",
+      "zh": "假期",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Vacation starts today"
+    },
+    {
+      "lemma": "cent",
+      "pos": "n.",
+      "zh": "分（货币单位）",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a single cent sit"
+    },
+    {
+      "lemma": "postman",
+      "pos": "n.",
+      "zh": "邮递员",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The polite postman waves"
+    },
+    {
+      "lemma": "skate",
+      "pos": "n./v.",
+      "zh": "滑冰；溜旱冰",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "I skate past a boy"
+    },
+    {
+      "lemma": "riddle",
+      "pos": "n./v.",
+      "zh": "谜语",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A riddle in white chalk"
+    },
+    {
+      "lemma": "gymnasium",
+      "pos": "n.",
+      "zh": "体育馆",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the old gymnasium"
+    },
+    {
+      "lemma": "kilogram",
+      "pos": "n.",
+      "zh": "千克；公斤",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "almost a kilogram"
+    },
+    {
+      "lemma": "grandchild",
+      "pos": "n.",
+      "zh": "孙辈；孙子或孙女",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "her grandchild lives far away"
+    },
+    {
+      "lemma": "dumpling",
+      "pos": "n.",
+      "zh": "饺子；汤团",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a dumpling sit on the table"
+    },
+    {
+      "lemma": "watermelon",
+      "pos": "n.",
+      "zh": "西瓜",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A watermelon and a bag"
+    },
+    {
+      "lemma": "email",
+      "pos": "n.",
+      "zh": "电子邮件",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "We send an email"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“seldom” 的意思是：",
+      "options": [
+        "经常",
+        "突然",
+        "很少",
+        "一起"
+      ],
+      "answer": 2,
+      "speak": "seldom"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A wet hen hides under one big black ___.",
+      "options": [
+        "bicycle",
+        "pencil",
+        "towel",
+        "umbrella"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“polite” 的意思是：",
+      "options": [
+        "粗心的",
+        "有礼貌的",
+        "富有的",
+        "困倦的"
+      ],
+      "answer": 1,
+      "speak": "polite"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "We read the answer ___ in the quiet classroom.",
+      "options": [
+        "alone",
+        "along",
+        "aloud",
+        "around"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A license and a single ___ sit inside it now.",
+      "options": [
+        "pond",
+        "cent",
+        "goat",
+        "chalk"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“pioneer” 的意思是：",
+      "options": [
+        "邮递员",
+        "渔夫",
+        "开拓者",
+        "邻居"
+      ],
+      "answer": 2,
+      "speak": "pioneer"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "We walk down the hill and ___ the small, quiet street.",
+      "options": [
+        "clap",
+        "count",
+        "cover",
+        "cross"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“handwriting” 的意思是：",
+      "options": [
+        "手提包",
+        "字迹",
+        "假期",
+        "池塘"
+      ],
+      "answer": 1,
+      "speak": "handwriting"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "Our last chemistry class ends with a ",
+        "hint": "sh",
+        "after": " word game.",
+        "answer": "short"
+      },
+      {
+        "before": "A ",
+        "hint": "ri",
+        "after": " in white chalk covers the old board.",
+        "answer": "riddle"
+      },
+      {
+        "before": "We read the answer ",
+        "hint": "al",
+        "after": " in the quiet classroom.",
+        "answer": "aloud"
+      },
+      {
+        "before": "After our physics class, we walk around the old ",
+        "hint": "gy",
+        "after": ".",
+        "answer": "gymnasium"
+      },
+      {
+        "before": "Vacation starts today, and the warm ",
+        "hint": "su",
+        "after": " shines again.",
+        "answer": "sun"
+      },
+      {
+        "before": "I skate past a boy on an old red ",
+        "hint": "bi",
+        "after": ".",
+        "answer": "bicycle"
+      },
+      {
+        "before": "A white goat stands near the quiet, green ",
+        "hint": "po",
+        "after": ".",
+        "answer": "pond"
+      },
+      {
+        "before": "The ",
+        "hint": "po",
+        "after": " postman waves and asks about our long day.",
+        "answer": "polite"
+      },
+      {
+        "before": "A brown ",
+        "hint": "pu",
+        "after": " holds a coin and an old photo.",
+        "answer": "purse"
+      },
+      {
+        "before": "A license and a single ",
+        "hint": "ce",
+        "after": " sit inside it now.",
+        "answer": "cent"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Our last ",
+        "hint": "c",
+        "after": " class ends with a short word game.",
+        "answer": "chemistry"
+      },
+      {
+        "before": "Her fingers dance on the ",
+        "hint": "k",
+        "after": ", and we all clap loudly.",
+        "answer": "keyboard"
+      },
+      {
+        "before": "We walk ",
+        "hint": "d",
+        "after": " the hill and cross the small, quiet street.",
+        "answer": "down"
+      },
+      {
+        "before": "A wet ",
+        "hint": "h",
+        "after": " hides under one big black umbrella.",
+        "answer": "hen"
+      },
+      {
+        "before": "A brown purse holds a ",
+        "hint": "c",
+        "after": " and an old photo.",
+        "answer": "coin"
+      },
+      {
+        "before": "Its owner is ",
+        "hint": "d",
+        "after": " and seldom leaves her warm house.",
+        "answer": "deaf"
+      },
+      {
+        "before": "We send an ",
+        "hint": "e",
+        "after": " and wait downstairs by the door.",
+        "answer": "email"
+      },
+      {
+        "before": "My ",
+        "hint": "h",
+        "after": " grows, but the hot beef smells good.",
+        "answer": "headache"
+      },
+      {
+        "before": "One sandwich weighs almost a ",
+        "hint": "k",
+        "after": ", I really think.",
+        "answer": "kilogram"
+      },
+      {
+        "before": "I draw a small ",
+        "hint": "f",
+        "after": " for her with my pencil.",
+        "answer": "fox"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我们最后一节化学课以一个短短的词语游戏结束。",
+        "keywords": [
+          "chemistry",
+          "short"
+        ]
+      },
+      {
+        "zh": "我们走下山坡，穿过那条安静的小街。",
+        "keywords": [
+          "down",
+          "cross"
+        ]
+      },
+      {
+        "zh": "照片是他们的，我们把两个名字联系了起来。",
+        "keywords": [
+          "theirs",
+          "connect"
+        ]
+      },
+      {
+        "zh": "她的孙子把那个旧手提包送到我们家门口。",
+        "keywords": [
+          "grandson",
+          "handbag"
+        ]
+      },
+      {
+        "zh": "那个安静的傍晚，一个梨为我们的热晚饭收了尾。",
+        "keywords": [
+          "pear",
+          "supper"
+        ]
+      },
+      {
+        "zh": "去年寒冷的冬天，她坐出租车来看过我们。",
+        "keywords": [
+          "used",
+          "taxi"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 280,
+    "sentences": 29,
+    "newDensity": 0.207,
+    "targetTokenDensity": 0.211,
+    "patterns": [
+      "A + 形容词 + N + V（8 次）",
+      "My / Our + N + V（2 次）",
+      "After 开头（1 次）"
+    ]
+  },
+  "note": "b03 补漏成稿（社区/池塘边失物招领）：280 词 / 29 句；58 个目标词（stars=0、star_source=zhongkao）全部出现，每句 2 个（purse 回指 1 次）；回引主线 p01–p22 已学词作骨架；写作与自查规则见 work/p01-写作规则与自查清单.md，补漏校验见 work/qc_check_supplement.py。"
+}

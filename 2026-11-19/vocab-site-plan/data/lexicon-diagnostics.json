@@ -1,0 +1,145 @@
+{
+ "raw": {
+  "rows": 770611,
+  "star_rows_all_entries": {
+   "1": 7540,
+   "2": 3036,
+   "3": 1418,
+   "4": 1009,
+   "5": 630
+  },
+  "rejected_word_shape": 405124,
+  "rejected_no_gloss": 98454,
+  "rejected_inflected": 28891,
+  "rejected_unrated_non_exam": 223689,
+  "deduped_entries": 0,
+  "zk_invalid": {
+   "non_single_word": 50,
+   "inflected_variant": 4
+  }
+ },
+ "base_headwords_by_star": {
+  "3": 1386,
+  "4": 967,
+  "5": 600
+ },
+ "selection": {
+  "final_total": 2953,
+  "zk_total": 1258,
+  "final_star_counts": {
+   "5": 600,
+   "4": 967,
+   "3": 1386
+  },
+  "final_star_source": {
+   "collins": 2953
+  }
+ },
+ "assignment": {
+  "groups": 50,
+  "sizes": [
+   60,
+   60,
+   60,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59
+  ],
+  "route_capacity": 1301,
+  "zk_in_route": 1301,
+  "family_collisions": [],
+  "pos_capability_min": {
+   "n": 38,
+   "v": 20,
+   "adj": 12,
+   "adv": 1
+  },
+  "pos_capability_avg": {
+   "n": 42.3,
+   "v": 27.4,
+   "adj": 16.5,
+   "adv": 5.4
+  }
+ },
+ "supplement": {
+  "supplement_total": 289,
+  "supplement_star_source": {
+   "zhongkao": 289
+  },
+  "supplement_stars": {
+   "0": 289
+  },
+  "groups": 5,
+  "sizes": [
+   58,
+   58,
+   58,
+   58,
+   57
+  ],
+  "family_collisions": [],
+  "pos_capability_min": {
+   "n": 46,
+   "v": 20,
+   "adj": 11,
+   "adv": 1
+  },
+  "pos_capability_avg": {
+   "n": 47.0,
+   "v": 21.4,
+   "adj": 13.2,
+   "adv": 3.4
+  }
+ },
+ "combined": {
+  "main_total": 2953,
+  "supplement_total": 289,
+  "total": 3242,
+  "passages": 55,
+  "zhongkao": 1547
+ }
+}

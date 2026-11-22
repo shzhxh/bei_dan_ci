@@ -1,0 +1,829 @@
+{
+  "id": "p25",
+  "title": "The Charity Day at the Airfield",
+  "titleZh": "机场的慈善日",
+  "topic": "慈善活动与事故",
+  "paragraphs": [
+    [
+      {
+        "en": "A local airfield welcomes a royal guest this sunny morning.",
+        "zh": "一个本地小机场在这个晴朗的早晨迎来一位王室贵宾。"
+      },
+      {
+        "en": "A young princess and a famous actor open the charity day.",
+        "zh": "一位年轻的公主和一位著名演员为慈善日揭幕。"
+      },
+      {
+        "en": "They play golf beside the main tent of a drinks brand.",
+        "zh": "他们在一个饮料品牌的主帐篷旁打高尔夫。"
+      },
+      {
+        "en": "My aunt's small van sells ice cream in every sweet flavour.",
+        "zh": "我姑姑的小货车卖各种甜味的冰淇淋。"
+      },
+      {
+        "en": "A bright display shows how they apply the new design.",
+        "zh": "一个明亮的展台展示了他们如何应用新设计。"
+      },
+      {
+        "en": "Guests from every continent give tremendous praise to the team.",
+        "zh": "来自各大洲的客人对团队大加赞赏。"
+      },
+      {
+        "en": "Then a small aircraft waits while a loud warning tests the speakers.",
+        "zh": "然后一架小飞机等待着，响亮的警报声在测试喇叭。"
+      },
+      {
+        "en": "Suddenly a kitchen pump begins to explode with a sharp bang.",
+        "zh": "突然，厨房里的水泵轰的一声开始爆裂。"
+      },
+      {
+        "en": "The damage is small, but one injury still needs quick help.",
+        "zh": "损坏不大，但有一处伤仍需要紧急处理。"
+      },
+      {
+        "en": "Helpers transport the cook and commit to his full care.",
+        "zh": "帮手们把厨师送走，并承诺全力照顾他。"
+      }
+    ],
+    [
+      {
+        "en": "A safety inspector checks the permit beside the open gate.",
+        "zh": "一位安全检查员在开着的大门旁检查许可证。"
+      },
+      {
+        "en": "Officials withdraw the licence and arrest the careless night manager.",
+        "zh": "官员吊销了执照，并逮捕了粗心的夜班经理。"
+      },
+      {
+        "en": "The operator blames weak management for the failed test.",
+        "zh": "运营商把失败的测试归咎于管理薄弱。"
+      },
+      {
+        "en": "An internal report describes a slow shift in one key aspect.",
+        "zh": "一份内部报告描述了某个关键方面缓慢的转变。"
+      },
+      {
+        "en": "Later their professional team admits it was not prepared.",
+        "zh": "后来他们的专业团队承认没有做好准备。"
+      },
+      {
+        "en": "A written declaration must explain each broken part clearly.",
+        "zh": "一份书面声明必须清楚地解释每个损坏的部件。"
+      },
+      {
+        "en": "The scientific team works in a calm and careful manner.",
+        "zh": "科学团队以冷静细致的方式工作。"
+      },
+      {
+        "en": "Moreover, public faith in the small airfield falls very fast.",
+        "zh": "此外，公众对这个小机场的信心下降得很快。"
+      },
+      {
+        "en": "My father, basically, wants a sensible plan for safety.",
+        "zh": "我父亲基本上想要一个明智的安全方案。"
+      },
+      {
+        "en": "A prominent doctor asks a favour for the injured cook.",
+        "zh": "一位有名望的医生为受伤的厨师求了一个人情。"
+      }
+    ],
+    [
+      {
+        "en": "We owe the guests an appropriate answer and a full refund.",
+        "zh": "我们欠客人一个恰当的答复和全额退款。"
+      },
+      {
+        "en": "This valuable lesson changes the ambition of the whole team.",
+        "zh": "这个宝贵的教训改变了整个团队的志向。"
+      },
+      {
+        "en": "Twin goals win widespread support across the little town.",
+        "zh": "双重目标赢得了小镇上的广泛支持。"
+      },
+      {
+        "en": "During the week, the accident has a real impact on every small household.",
+        "zh": "这一周里，这起事故对每个小家庭都有实际影响。"
+      },
+      {
+        "en": "They renew the old film reel about the early days of flight.",
+        "zh": "他们续订了那卷关于早期飞行的老胶片。"
+      },
+      {
+        "en": "Further tests will find a safer alternative in an instant.",
+        "zh": "进一步的测试会在一瞬间找到更安全的替代方案。"
+      },
+      {
+        "en": "No worker is immune to the striking facts in the final report.",
+        "zh": "没有工人能对最终报告里那些触目惊心的事实免疫。"
+      },
+      {
+        "en": "My sister, considering the cost, leans toward a much simpler plan.",
+        "zh": "我姐姐考虑成本后，倾向于一个简单得多的方案。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "local",
+      "pos": "adj./n.",
+      "zh": "地方性的",
+      "stars": 5,
+      "collocation": "A local airfield welcomes"
+    },
+    {
+      "lemma": "design",
+      "pos": "n./v.",
+      "zh": "设计",
+      "stars": 5,
+      "collocation": "new design."
+    },
+    {
+      "lemma": "apply",
+      "pos": "v.",
+      "zh": "涂",
+      "stars": 4,
+      "collocation": "they apply the new"
+    },
+    {
+      "lemma": "royal",
+      "pos": "n./adj.",
+      "zh": "王室",
+      "stars": 4,
+      "collocation": "a royal guest this"
+    },
+    {
+      "lemma": "aspect",
+      "pos": "n.",
+      "zh": "外观",
+      "stars": 4,
+      "collocation": "key aspect."
+    },
+    {
+      "lemma": "damage",
+      "pos": "n./v.",
+      "zh": "损害",
+      "stars": 4,
+      "collocation": "The damage is small,"
+    },
+    {
+      "lemma": "transport",
+      "pos": "n./v.",
+      "zh": "运输",
+      "stars": 4,
+      "collocation": "Helpers transport the cook"
+    },
+    {
+      "lemma": "injury",
+      "pos": "n.",
+      "zh": "伤害",
+      "stars": 4,
+      "collocation": "one injury still needs"
+    },
+    {
+      "lemma": "commit",
+      "pos": "v.",
+      "zh": "委托",
+      "stars": 4,
+      "collocation": "and commit to his"
+    },
+    {
+      "lemma": "aircraft",
+      "pos": "n.",
+      "zh": "航空器",
+      "stars": 4,
+      "collocation": "small aircraft waits while"
+    },
+    {
+      "lemma": "alternative",
+      "pos": "n./adj.",
+      "zh": "两者择一",
+      "stars": 4,
+      "collocation": "safer alternative in an"
+    },
+    {
+      "lemma": "withdraw",
+      "pos": "v.",
+      "zh": "撤回",
+      "stars": 4,
+      "collocation": "Officials withdraw the licence"
+    },
+    {
+      "lemma": "arrest",
+      "pos": "n./v.",
+      "zh": "逮捕",
+      "stars": 4,
+      "collocation": "and arrest the careless"
+    },
+    {
+      "lemma": "favour",
+      "pos": "n./v.",
+      "zh": "好感",
+      "stars": 4,
+      "collocation": "a favour for the"
+    },
+    {
+      "lemma": "appropriate",
+      "pos": "adj.",
+      "zh": "适当的",
+      "stars": 3,
+      "collocation": "an appropriate answer and"
+    },
+    {
+      "lemma": "manner",
+      "pos": "n.",
+      "zh": "样子",
+      "stars": 3,
+      "collocation": "careful manner."
+    },
+    {
+      "lemma": "scientific",
+      "pos": "adj.",
+      "zh": "科学的",
+      "stars": 3,
+      "collocation": "The scientific team works"
+    },
+    {
+      "lemma": "faith",
+      "pos": "n.",
+      "zh": "信心",
+      "stars": 3,
+      "collocation": "public faith in the"
+    },
+    {
+      "lemma": "warning",
+      "pos": "n.",
+      "zh": "警告",
+      "stars": 3,
+      "collocation": "loud warning tests the"
+    },
+    {
+      "lemma": "permit",
+      "pos": "n./v.",
+      "zh": "许可证",
+      "stars": 3,
+      "collocation": "the permit beside the"
+    },
+    {
+      "lemma": "valuable",
+      "pos": "adj.",
+      "zh": "有价值的",
+      "stars": 3,
+      "collocation": "This valuable lesson changes"
+    },
+    {
+      "lemma": "owe",
+      "pos": "v.",
+      "zh": "亏欠",
+      "stars": 3,
+      "collocation": "We owe the guests"
+    },
+    {
+      "lemma": "actor",
+      "pos": "n.",
+      "zh": "男演员",
+      "stars": 3,
+      "collocation": "famous actor open the"
+    },
+    {
+      "lemma": "golf",
+      "pos": "n./v.",
+      "zh": "高尔夫球",
+      "stars": 3,
+      "collocation": "play golf beside the"
+    },
+    {
+      "lemma": "widespread",
+      "pos": "adj.",
+      "zh": "充分伸展的",
+      "stars": 3,
+      "collocation": "win widespread support across"
+    },
+    {
+      "lemma": "operator",
+      "pos": "n.",
+      "zh": "操作员",
+      "stars": 3,
+      "collocation": "The operator blames weak"
+    },
+    {
+      "lemma": "twin",
+      "pos": "n./adj./v.",
+      "zh": "双胞胎中一人",
+      "stars": 3,
+      "collocation": "Twin goals win"
+    },
+    {
+      "lemma": "ambition",
+      "pos": "n.",
+      "zh": "野心",
+      "stars": 3,
+      "collocation": "the ambition of the"
+    },
+    {
+      "lemma": "brand",
+      "pos": "n./v.",
+      "zh": "商标",
+      "stars": 3,
+      "collocation": "drinks brand."
+    },
+    {
+      "lemma": "continent",
+      "pos": "n./adj.",
+      "zh": "大陆",
+      "stars": 3,
+      "collocation": "every continent give tremendous"
+    },
+    {
+      "lemma": "explode",
+      "pos": "v.",
+      "zh": "爆炸",
+      "stars": 3,
+      "collocation": "to explode with a"
+    },
+    {
+      "lemma": "pump",
+      "pos": "n./v.",
+      "zh": "抽水机",
+      "stars": 3,
+      "collocation": "kitchen pump begins to"
+    },
+    {
+      "lemma": "instant",
+      "pos": "n./adj.",
+      "zh": "立即",
+      "stars": 3,
+      "collocation": "an instant."
+    },
+    {
+      "lemma": "further",
+      "pos": "adj./v./adv.",
+      "zh": "更远的",
+      "stars": 5,
+      "collocation": "Further tests will"
+    },
+    {
+      "lemma": "management",
+      "pos": "n.",
+      "zh": "经营",
+      "stars": 4,
+      "collocation": "weak management for the"
+    },
+    {
+      "lemma": "professional",
+      "pos": "n./adj.",
+      "zh": "专业人才",
+      "stars": 4,
+      "collocation": "their professional team admits"
+    },
+    {
+      "lemma": "impact",
+      "pos": "n./v.",
+      "zh": "冲击",
+      "stars": 4,
+      "collocation": "real impact on every"
+    },
+    {
+      "lemma": "display",
+      "pos": "n./v.",
+      "zh": "显示",
+      "stars": 4,
+      "collocation": "bright display shows how"
+    },
+    {
+      "lemma": "princess",
+      "pos": "n.",
+      "zh": "公主",
+      "stars": 4,
+      "collocation": "young princess and a"
+    },
+    {
+      "lemma": "internal",
+      "pos": "adj.",
+      "zh": "内在的",
+      "stars": 3,
+      "collocation": "An internal report describes"
+    },
+    {
+      "lemma": "household",
+      "pos": "n./adj.",
+      "zh": "一家人",
+      "stars": 3,
+      "collocation": "small household."
+    },
+    {
+      "lemma": "lean",
+      "pos": "n./adj./v.",
+      "zh": "瘦肉",
+      "stars": 3,
+      "collocation": "cost, leans toward a"
+    },
+    {
+      "lemma": "moreover",
+      "pos": "adv.",
+      "zh": "而且",
+      "stars": 3,
+      "collocation": "Moreover, public faith"
+    },
+    {
+      "lemma": "shift",
+      "pos": "n./v.",
+      "zh": "变化",
+      "stars": 3,
+      "collocation": "slow shift in one"
+    },
+    {
+      "lemma": "basically",
+      "pos": "adv.",
+      "zh": "基本上",
+      "stars": 3,
+      "collocation": "father, basically, wants a"
+    },
+    {
+      "lemma": "sensible",
+      "pos": "adj.",
+      "zh": "有感觉的",
+      "stars": 3,
+      "collocation": "a sensible plan for"
+    },
+    {
+      "lemma": "van",
+      "pos": "n./v.",
+      "zh": "货车",
+      "stars": 3,
+      "collocation": "small van sells ice"
+    },
+    {
+      "lemma": "prominent",
+      "pos": "adj.",
+      "zh": "卓越的",
+      "stars": 3,
+      "collocation": "A prominent doctor asks"
+    },
+    {
+      "lemma": "tremendous",
+      "pos": "adj.",
+      "zh": "巨大的",
+      "stars": 3,
+      "collocation": "give tremendous praise to"
+    },
+    {
+      "lemma": "flavour",
+      "pos": "n./v.",
+      "zh": "味",
+      "stars": 3,
+      "collocation": "sweet flavour."
+    },
+    {
+      "lemma": "renew",
+      "pos": "v.",
+      "zh": "使更新",
+      "stars": 3,
+      "collocation": "They renew the old"
+    },
+    {
+      "lemma": "reel",
+      "pos": "n./v.",
+      "zh": "卷轴",
+      "stars": 3,
+      "collocation": "film reel about the"
+    },
+    {
+      "lemma": "inspector",
+      "pos": "n.",
+      "zh": "检查员",
+      "stars": 3,
+      "collocation": "safety inspector checks the"
+    },
+    {
+      "lemma": "declaration",
+      "pos": "n.",
+      "zh": "宣告",
+      "stars": 3,
+      "collocation": "written declaration must explain"
+    },
+    {
+      "lemma": "striking",
+      "pos": "adj.",
+      "zh": "醒目的",
+      "stars": 3,
+      "collocation": "the striking facts in"
+    },
+    {
+      "lemma": "immune",
+      "pos": "adj./n.",
+      "zh": "免疫的",
+      "stars": 3,
+      "collocation": "is immune to the"
+    },
+    {
+      "lemma": "prepared",
+      "pos": "adj.",
+      "zh": "准备好的",
+      "stars": 4,
+      "collocation": "not prepared."
+    },
+    {
+      "lemma": "written",
+      "pos": "adj.",
+      "zh": "书面的",
+      "stars": 3,
+      "collocation": "A written declaration must"
+    },
+    {
+      "lemma": "considering",
+      "pos": "prep./conj.",
+      "zh": "就...而论",
+      "stars": 3,
+      "collocation": "sister, considering the cost,"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“aircraft” 的意思是：",
+      "options": [
+        "飞机",
+        "货车",
+        "水泵",
+        "执照"
+      ],
+      "answer": 0,
+      "speak": "aircraft"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The damage is small, but one ___ still needs quick help.",
+      "options": [
+        "injury",
+        "warning",
+        "ambition",
+        "aspect"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“inspector” 的意思是：",
+      "options": [
+        "检查员",
+        "运营商",
+        "经理",
+        "公主"
+      ],
+      "answer": 0,
+      "speak": "inspector"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "The scientific team works in a calm and careful ___.",
+      "options": [
+        "manner",
+        "design",
+        "reel",
+        "brand"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "Officials withdraw the licence and ___ the careless night manager.",
+      "options": [
+        "arrest",
+        "owe",
+        "lean",
+        "renew"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“household” 的意思是：",
+      "options": [
+        "家庭",
+        "公司",
+        "机场",
+        "大陆"
+      ],
+      "answer": 0,
+      "speak": "household"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Further tests will find a safer ___ in an instant.",
+      "options": [
+        "alternative",
+        "declaration",
+        "flavour",
+        "display"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“ambition” 的意思是：",
+      "options": [
+        "志向",
+        "损坏",
+        "信心",
+        "影响"
+      ],
+      "answer": 0,
+      "speak": "ambition"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "A local airfield welcomes a ",
+        "hint": "ro",
+        "after": " guest this sunny morning.",
+        "answer": "royal"
+      },
+      {
+        "before": "A young ",
+        "hint": "pr",
+        "after": " and a famous actor open the charity day.",
+        "answer": "princess"
+      },
+      {
+        "before": "They play golf beside the main tent of a drinks ",
+        "hint": "br",
+        "after": ".",
+        "answer": "brand"
+      },
+      {
+        "before": "My aunt's small van sells ice cream in every sweet ",
+        "hint": "fl",
+        "after": ".",
+        "answer": "flavour"
+      },
+      {
+        "before": "A bright display shows how they ",
+        "hint": "ap",
+        "after": " the new design.",
+        "answer": "apply"
+      },
+      {
+        "before": "Guests from every ",
+        "hint": "co",
+        "after": " give tremendous praise to the team.",
+        "answer": "continent"
+      },
+      {
+        "before": "Then a small aircraft waits while a loud ",
+        "hint": "wa",
+        "after": " tests the speakers.",
+        "answer": "warning"
+      },
+      {
+        "before": "Suddenly a kitchen pump begins to ",
+        "hint": "ex",
+        "after": " with a sharp bang.",
+        "answer": "explode"
+      },
+      {
+        "before": "The damage is small, but one ",
+        "hint": "in",
+        "after": " still needs quick help.",
+        "answer": "injury"
+      },
+      {
+        "before": "Helpers ",
+        "hint": "tr",
+        "after": " the cook and commit to his full care.",
+        "answer": "transport"
+      }
+    ],
+    "b3": [
+      {
+        "before": "My father, basically, wants a ",
+        "hint": "se",
+        "after": " plan for safety.",
+        "answer": "sensible"
+      },
+      {
+        "before": "A prominent doctor asks a ",
+        "hint": "fa",
+        "after": " for the injured cook.",
+        "answer": "favour"
+      },
+      {
+        "before": "We ",
+        "hint": "ow",
+        "after": " the guests an appropriate answer and a full refund.",
+        "answer": "owe"
+      },
+      {
+        "before": "This valuable lesson changes the ",
+        "hint": "am",
+        "after": " of the whole team.",
+        "answer": "ambition"
+      },
+      {
+        "before": "Twin goals win ",
+        "hint": "wi",
+        "after": " support across the little town.",
+        "answer": "widespread"
+      },
+      {
+        "before": "During the week, the accident has a real impact on every small ",
+        "hint": "ho",
+        "after": ".",
+        "answer": "household"
+      },
+      {
+        "before": "They renew the old film ",
+        "hint": "re",
+        "after": " about the early days of flight.",
+        "answer": "reel"
+      },
+      {
+        "before": "Further tests will find a safer ",
+        "hint": "al",
+        "after": " in an instant.",
+        "answer": "alternative"
+      },
+      {
+        "before": "No worker is ",
+        "hint": "im",
+        "after": " to the striking facts in the final report.",
+        "answer": "immune"
+      },
+      {
+        "before": "My sister, ",
+        "hint": "co",
+        "after": " the cost, leans toward a much simpler plan.",
+        "answer": "considering"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "一个本地小机场在这个晴朗的早晨迎来一位王室贵宾。",
+        "keywords": [
+          "local",
+          "royal",
+          "guest"
+        ]
+      },
+      {
+        "zh": "突然，厨房里的水泵轰的一声开始爆裂。",
+        "keywords": [
+          "pump",
+          "explode",
+          "bang"
+        ]
+      },
+      {
+        "zh": "一份内部报告描述了某个关键方面缓慢的转变。",
+        "keywords": [
+          "internal",
+          "shift",
+          "aspect"
+        ]
+      },
+      {
+        "zh": "科学团队以冷静细致的方式工作。",
+        "keywords": [
+          "scientific",
+          "manner"
+        ]
+      },
+      {
+        "zh": "我们欠客人一个恰当的答复和全额退款。",
+        "keywords": [
+          "owe",
+          "appropriate",
+          "refund"
+        ]
+      },
+      {
+        "zh": "这一周里，这起事故对每个小家庭都有实际影响。",
+        "keywords": [
+          "impact",
+          "household"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 292,
+    "sentences": 28,
+    "newDensity": 0.202,
+    "targetTokenDensity": 0.202,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写小机场慈善日：公主与演员揭幕、高尔夫、冰淇淋小货车，飞机与警报测试，随后厨房水泵爆裂引发轻伤、检查员与执照、内部报告与声明，结尾是赔偿、替代方案与家庭考虑。"
+}

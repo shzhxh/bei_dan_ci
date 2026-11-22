@@ -1,0 +1,841 @@
+{
+  "id": "p03",
+  "title": "The Wet Camp",
+  "titleZh": "雨中的营地",
+  "topic": "校园",
+  "paragraphs": [
+    [
+      {
+        "en": "My school trip starts on a wet Monday morning in late May.",
+        "zh": "我的学校旅行在一个潮湿的五月周一早上开始。"
+      },
+      {
+        "en": "Our teacher writes tion on the board and says: attention, please.",
+        "zh": "老师在黑板上写下 tion，说：请注意。"
+      },
+      {
+        "en": "A young girl brings similar old words up to the front board.",
+        "zh": "一个年轻女孩把几个相似的旧词带到前面的板子上。"
+      },
+      {
+        "en": "Here the whole class reads them aloud as one happy, noisy team.",
+        "zh": "全班在这里把它们大声读出来，像一个开心的、吵闹的小队。"
+      },
+      {
+        "en": "Perhaps we shall finish the whole programme before the old bus leaves.",
+        "zh": "也许我们会在旧巴士开走前把整个节目演完。"
+      },
+      {
+        "en": "Each small job on the paper list is available to almost anyone.",
+        "zh": "纸单上的每一份小工作几乎谁都能做。"
+      },
+      {
+        "en": "The bus takes us near a huge airport beside the grey sea.",
+        "zh": "公交车把我们带到灰色海边一个巨大机场的附近。"
+      },
+      {
+        "en": "Cold rain falls on an empty path and makes the ground soft.",
+        "zh": "冷雨落在空荡的小路上，把地面弄得松软。"
+      },
+      {
+        "en": "We walk a bit slowly and nod to the silent tent owner.",
+        "zh": "我们慢慢走了一点，朝沉默的帐篷主人点了点头。"
+      }
+    ],
+    [
+      {
+        "en": "My mother packs a warm coat and a small lamp for me.",
+        "zh": "我母亲给我装了一件暖外套和一盏小灯。"
+      },
+      {
+        "en": "A single dollar buys warm sweets at the little camp shop.",
+        "zh": "一美元就能在营地小店里买到热乎的糖果。"
+      },
+      {
+        "en": "Yesterday fear kept two small girls inside the cold, shaky tent.",
+        "zh": "昨天，恐惧让两个小女孩留在了又冷又晃的帐篷里。"
+      },
+      {
+        "en": "Whose small foot left this long dark mark by the wooden door?",
+        "zh": "是谁的小脚在木门边留下这道长长的黑印？"
+      },
+      {
+        "en": "They find their own way and pitch the heavy tent themselves.",
+        "zh": "他们自己找到路，亲手把沉重的帐篷搭起来。"
+      },
+      {
+        "en": "An army truck waits beside the grey ship at the shore.",
+        "zh": "一辆军车停在岸边那艘灰船旁边。"
+      },
+      {
+        "en": "A little blood on its wing shows no disease at all.",
+        "zh": "它翅膀上有一点血，却看不出任何疾病。"
+      },
+      {
+        "en": "The bird is alive, so we wrap it in a soft cloth.",
+        "zh": "这只鸟还活着，于是我们用一块软布把它裹起来。"
+      },
+      {
+        "en": "Then our slow progress serves one clear purpose: a dry, safe tent.",
+        "zh": "后来，我们缓慢的进展服务着一个明确目的：一顶干燥、安全的帐篷。"
+      },
+      {
+        "en": "We cannot cook unless the old lamp gives enough light.",
+        "zh": "除非那盏旧灯能给出足够的光，否则我们没法做饭。"
+      }
+    ],
+    [
+      {
+        "en": "A birthday box holds dark chocolate and a few sweet nuts.",
+        "zh": "一个生日盒子里装着黑巧克力和几颗甜坚果。"
+      },
+      {
+        "en": "One pleasant smell drifts slowly from the small kitchen tent.",
+        "zh": "一股好闻的味道从厨房小帐篷里缓缓飘出来。"
+      },
+      {
+        "en": "An old servant keeps a habit: singing very softly at night.",
+        "zh": "一位老仆人有个习惯：夜里很轻地唱歌。"
+      },
+      {
+        "en": "Later we regret nothing at all; fixing the tent was a coup.",
+        "zh": "后来我们一点也不后悔；把帐篷修好是一记妙招。"
+      },
+      {
+        "en": "This dangerous storm surprises the whole wide world tonight.",
+        "zh": "这场危险的风暴今晚惊动了整个世界。"
+      },
+      {
+        "en": "We have a good supply of dry wood and clean water.",
+        "zh": "我们有一批充足的干柴和干净的水。"
+      },
+      {
+        "en": "Then the winner gets a dry tent and the bright camp flag.",
+        "zh": "接着，获胜者得到一顶干帐篷和那面鲜亮的营地旗。"
+      },
+      {
+        "en": "We shall bring this good habit back to our town.",
+        "zh": "我们会把这个好习惯带回我们的镇子。"
+      },
+      {
+        "en": "My mother will hear of our small coup and smile with pride.",
+        "zh": "我母亲听到我们这记小妙招，会带着骄傲笑起来。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "of",
+      "pos": "prep.",
+      "zh": "的",
+      "stars": 5,
+      "collocation": "supply of dry wood"
+    },
+    {
+      "lemma": "have",
+      "pos": "v.",
+      "zh": "有",
+      "stars": 5,
+      "collocation": "We have a good supply"
+    },
+    {
+      "lemma": "as",
+      "pos": "adv./prep./conj.",
+      "zh": "同样地",
+      "stars": 5,
+      "collocation": "aloud as one happy"
+    },
+    {
+      "lemma": "my",
+      "pos": "pron.",
+      "zh": "我的",
+      "stars": 5,
+      "collocation": "My school trip"
+    },
+    {
+      "lemma": "way",
+      "pos": "n./adv.",
+      "zh": "路",
+      "stars": 5,
+      "collocation": "their own way"
+    },
+    {
+      "lemma": "here",
+      "pos": "adv./n.",
+      "zh": "在这里",
+      "stars": 5,
+      "collocation": "Here the whole class"
+    },
+    {
+      "lemma": "world",
+      "pos": "n.",
+      "zh": "世界",
+      "stars": 5,
+      "collocation": "whole wide world"
+    },
+    {
+      "lemma": "school",
+      "pos": "n./v.",
+      "zh": "学校",
+      "stars": 5,
+      "collocation": "school trip starts"
+    },
+    {
+      "lemma": "bring",
+      "pos": "v.",
+      "zh": "带来",
+      "stars": 5,
+      "collocation": "brings similar old words"
+    },
+    {
+      "lemma": "young",
+      "pos": "adj./n.",
+      "zh": "年轻的",
+      "stars": 5,
+      "collocation": "A young girl brings"
+    },
+    {
+      "lemma": "perhaps",
+      "pos": "adv.",
+      "zh": "也许",
+      "stars": 5,
+      "collocation": "Perhaps we shall finish"
+    },
+    {
+      "lemma": "job",
+      "pos": "n./v.",
+      "zh": "工作",
+      "stars": 5,
+      "collocation": "Each small job"
+    },
+    {
+      "lemma": "mother",
+      "pos": "n./v.",
+      "zh": "母亲",
+      "stars": 5,
+      "collocation": "My mother packs"
+    },
+    {
+      "lemma": "available",
+      "pos": "adj.",
+      "zh": "可利用的",
+      "stars": 5,
+      "collocation": "available to almost anyone"
+    },
+    {
+      "lemma": "programme",
+      "pos": "n./v.",
+      "zh": "节目",
+      "stars": 5,
+      "collocation": "whole programme before"
+    },
+    {
+      "lemma": "themselves",
+      "pos": "pron.",
+      "zh": "他们自己",
+      "stars": 5,
+      "collocation": "pitch the heavy tent themselves"
+    },
+    {
+      "lemma": "team",
+      "pos": "n./v.",
+      "zh": "队",
+      "stars": 5,
+      "collocation": "one happy, noisy team"
+    },
+    {
+      "lemma": "foot",
+      "pos": "n./v.",
+      "zh": "脚",
+      "stars": 5,
+      "collocation": "small foot left"
+    },
+    {
+      "lemma": "whose",
+      "pos": "pron.",
+      "zh": "谁的",
+      "stars": 5,
+      "collocation": "Whose small foot"
+    },
+    {
+      "lemma": "yesterday",
+      "pos": "n./adv.",
+      "zh": "昨天",
+      "stars": 5,
+      "collocation": "Yesterday fear kept"
+    },
+    {
+      "lemma": "bit",
+      "pos": "n./v.",
+      "zh": "少量",
+      "stars": 5,
+      "collocation": "a bit slowly"
+    },
+    {
+      "lemma": "near",
+      "pos": "adj./adv./prep./v.",
+      "zh": "近的",
+      "stars": 5,
+      "collocation": "near a huge airport"
+    },
+    {
+      "lemma": "army",
+      "pos": "n.",
+      "zh": "军队",
+      "stars": 5,
+      "collocation": "An army truck waits"
+    },
+    {
+      "lemma": "fear",
+      "pos": "n./v.",
+      "zh": "恐怖",
+      "stars": 5,
+      "collocation": "fear kept two small"
+    },
+    {
+      "lemma": "dollar",
+      "pos": "n.",
+      "zh": "美元",
+      "stars": 5,
+      "collocation": "single dollar buys"
+    },
+    {
+      "lemma": "shall",
+      "pos": "v.",
+      "zh": "将",
+      "stars": 4,
+      "collocation": "we shall finish"
+    },
+    {
+      "lemma": "similar",
+      "pos": "adj./n.",
+      "zh": "相似的",
+      "stars": 4,
+      "collocation": "similar old words"
+    },
+    {
+      "lemma": "purpose",
+      "pos": "n./v.",
+      "zh": "目的",
+      "stars": 4,
+      "collocation": "one clear purpose"
+    },
+    {
+      "lemma": "attention",
+      "pos": "n.",
+      "zh": "注意",
+      "stars": 4,
+      "collocation": "says: attention, please"
+    },
+    {
+      "lemma": "please",
+      "pos": "adv./v.",
+      "zh": "请",
+      "stars": 4,
+      "collocation": "attention, please"
+    },
+    {
+      "lemma": "finish",
+      "pos": "n./v.",
+      "zh": "完成",
+      "stars": 4,
+      "collocation": "shall finish the whole"
+    },
+    {
+      "lemma": "unless",
+      "pos": "conj./prep.",
+      "zh": "除非",
+      "stars": 4,
+      "collocation": "cannot cook unless"
+    },
+    {
+      "lemma": "disease",
+      "pos": "n.",
+      "zh": "疾病",
+      "stars": 4,
+      "collocation": "no disease at all"
+    },
+    {
+      "lemma": "blood",
+      "pos": "n./v.",
+      "zh": "血",
+      "stars": 4,
+      "collocation": "little blood on its wing"
+    },
+    {
+      "lemma": "bird",
+      "pos": "n./v.",
+      "zh": "鸟",
+      "stars": 4,
+      "collocation": "The bird is alive"
+    },
+    {
+      "lemma": "owner",
+      "pos": "n.",
+      "zh": "拥有者",
+      "stars": 4,
+      "collocation": "silent tent owner"
+    },
+    {
+      "lemma": "huge",
+      "pos": "adj.",
+      "zh": "极大的",
+      "stars": 4,
+      "collocation": "a huge airport beside"
+    },
+    {
+      "lemma": "progress",
+      "pos": "n./v.",
+      "zh": "进步",
+      "stars": 4,
+      "collocation": "slow progress serves"
+    },
+    {
+      "lemma": "ship",
+      "pos": "n./v.",
+      "zh": "船",
+      "stars": 4,
+      "collocation": "grey ship at the shore"
+    },
+    {
+      "lemma": "rain",
+      "pos": "n./v.",
+      "zh": "雨",
+      "stars": 4,
+      "collocation": "Cold rain falls"
+    },
+    {
+      "lemma": "dangerous",
+      "pos": "adj.",
+      "zh": "危险的",
+      "stars": 4,
+      "collocation": "This dangerous storm"
+    },
+    {
+      "lemma": "trip",
+      "pos": "n./v.",
+      "zh": "旅行",
+      "stars": 4,
+      "collocation": "school trip starts"
+    },
+    {
+      "lemma": "winner",
+      "pos": "n.",
+      "zh": "胜利者",
+      "stars": 4,
+      "collocation": "Then the winner gets"
+    },
+    {
+      "lemma": "camp",
+      "pos": "n./v.",
+      "zh": "露营",
+      "stars": 4,
+      "collocation": "little camp shop"
+    },
+    {
+      "lemma": "airport",
+      "pos": "n.",
+      "zh": "飞机场",
+      "stars": 4,
+      "collocation": "huge airport beside"
+    },
+    {
+      "lemma": "light",
+      "pos": "n./adj./v.",
+      "zh": "光",
+      "stars": 3,
+      "collocation": "enough light"
+    },
+    {
+      "lemma": "path",
+      "pos": "n.",
+      "zh": "路径",
+      "stars": 3,
+      "collocation": "an empty path"
+    },
+    {
+      "lemma": "nod",
+      "pos": "n./v.",
+      "zh": "点头",
+      "stars": 3,
+      "collocation": "slowly and nod to"
+    },
+    {
+      "lemma": "empty",
+      "pos": "adj./n./v.",
+      "zh": "空的",
+      "stars": 3,
+      "collocation": "on an empty path"
+    },
+    {
+      "lemma": "servant",
+      "pos": "n.",
+      "zh": "仆人",
+      "stars": 3,
+      "collocation": "An old servant keeps"
+    },
+    {
+      "lemma": "alive",
+      "pos": "adj.",
+      "zh": "活着的",
+      "stars": 3,
+      "collocation": "bird is alive"
+    },
+    {
+      "lemma": "habit",
+      "pos": "n./v.",
+      "zh": "习惯",
+      "stars": 3,
+      "collocation": "a habit: singing"
+    },
+    {
+      "lemma": "wet",
+      "pos": "n./adj./v.",
+      "zh": "湿气",
+      "stars": 3,
+      "collocation": "on a wet Monday"
+    },
+    {
+      "lemma": "birthday",
+      "pos": "n.",
+      "zh": "生日",
+      "stars": 3,
+      "collocation": "A birthday box holds"
+    },
+    {
+      "lemma": "smell",
+      "pos": "n./v.",
+      "zh": "味道",
+      "stars": 3,
+      "collocation": "pleasant smell drifts"
+    },
+    {
+      "lemma": "pleasant",
+      "pos": "adj.",
+      "zh": "愉快的",
+      "stars": 3,
+      "collocation": "One pleasant smell"
+    },
+    {
+      "lemma": "chocolate",
+      "pos": "n./adj.",
+      "zh": "巧克力",
+      "stars": 3,
+      "collocation": "dark chocolate and"
+    },
+    {
+      "lemma": "regret",
+      "pos": "n./v.",
+      "zh": "遗憾",
+      "stars": 3,
+      "collocation": "Later we regret nothing"
+    },
+    {
+      "lemma": "tion",
+      "pos": "n.",
+      "zh": "象征式互动",
+      "stars": 4,
+      "collocation": "writes tion on the board"
+    },
+    {
+      "lemma": "coup",
+      "pos": "n.",
+      "zh": "砰然的一击",
+      "stars": 3,
+      "collocation": "was a coup"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“programme” 在短文里最接近的意思是：",
+      "options": [
+        "节目",
+        "仆人",
+        "疾病",
+        "美元"
+      ],
+      "answer": 0,
+      "speak": "programme"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The bus takes us ___ a huge airport beside the grey sea.",
+      "options": [
+        "near",
+        "whose",
+        "bit",
+        "unless"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“servant” 的意思是：",
+      "options": [
+        "仆人",
+        "主人",
+        "胜利者",
+        "鸟"
+      ],
+      "answer": 0,
+      "speak": "servant"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A little blood on its wing shows no ___ at all.",
+      "options": [
+        "disease",
+        "progress",
+        "purpose",
+        "attention"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "We cannot cook ___ the old lamp gives enough light.",
+      "options": [
+        "unless",
+        "perhaps",
+        "similar",
+        "available"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“coup” 在短文里指的是：",
+      "options": [
+        "妙招",
+        "遗憾",
+        "习惯",
+        "生日"
+      ],
+      "answer": 0,
+      "speak": "coup"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "One pleasant ___ drifts slowly from the small kitchen tent.",
+      "options": [
+        "smell",
+        "light",
+        "path",
+        "rain"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“available” 的意思是：",
+      "options": [
+        "可获得的",
+        "危险的",
+        "空的",
+        "湿的"
+      ],
+      "answer": 0,
+      "speak": "available"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My school ",
+        "hint": "tr",
+        "after": " starts on a wet Monday morning in late May.",
+        "answer": "trip"
+      },
+      {
+        "before": "A young girl ",
+        "hint": "br",
+        "after": " similar old words up to the front board.",
+        "answer": "brings"
+      },
+      {
+        "before": "Cold ",
+        "hint": "ra",
+        "after": " falls on an empty path and makes the ground soft.",
+        "answer": "rain"
+      },
+      {
+        "before": "We walk a bit slowly and ",
+        "hint": "no",
+        "after": " to the silent tent owner.",
+        "answer": "nod"
+      },
+      {
+        "before": "A single ",
+        "hint": "do",
+        "after": " buys warm sweets at the little camp shop.",
+        "answer": "dollar"
+      },
+      {
+        "before": "Whose small ",
+        "hint": "fo",
+        "after": " left this long dark mark by the wooden door?",
+        "answer": "foot"
+      },
+      {
+        "before": "An army truck waits beside the grey ",
+        "hint": "sh",
+        "after": " at the shore.",
+        "answer": "ship"
+      },
+      {
+        "before": "A birthday box holds dark ",
+        "hint": "ch",
+        "after": " and a few sweet nuts.",
+        "answer": "chocolate"
+      },
+      {
+        "before": "An old ",
+        "hint": "se",
+        "after": " keeps a habit: singing very softly at night.",
+        "answer": "servant"
+      },
+      {
+        "before": "The bus takes us near a ",
+        "hint": "hu",
+        "after": " airport beside the grey sea.",
+        "answer": "huge"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Here the whole class reads them aloud as one happy, noisy ",
+        "hint": "t",
+        "after": ".",
+        "answer": "team"
+      },
+      {
+        "before": "Perhaps we shall ",
+        "hint": "f",
+        "after": " the whole programme before the old bus leaves.",
+        "answer": "finish"
+      },
+      {
+        "before": "Each small job on the paper list is ",
+        "hint": "a",
+        "after": " to almost anyone.",
+        "answer": "available"
+      },
+      {
+        "before": "Yesterday ",
+        "hint": "f",
+        "after": " kept two small girls inside the cold, shaky tent.",
+        "answer": "fear"
+      },
+      {
+        "before": "They find their own ",
+        "hint": "w",
+        "after": " and pitch the heavy tent themselves.",
+        "answer": "way"
+      },
+      {
+        "before": "The bird is ",
+        "hint": "a",
+        "after": ", so we wrap it in a soft cloth.",
+        "answer": "alive"
+      },
+      {
+        "before": "Then our slow ",
+        "hint": "p",
+        "after": " serves one clear purpose: a dry, safe tent.",
+        "answer": "progress"
+      },
+      {
+        "before": "Later we ",
+        "hint": "r",
+        "after": " nothing at all; fixing the tent was a coup.",
+        "answer": "regret"
+      },
+      {
+        "before": "This ",
+        "hint": "d",
+        "after": " storm surprises the whole wide world tonight.",
+        "answer": "dangerous"
+      },
+      {
+        "before": "Then the ",
+        "hint": "w",
+        "after": " gets a dry tent and the bright camp flag.",
+        "answer": "winner"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我的学校旅行在一个潮湿的五月周一早上开始。",
+        "keywords": [
+          "school",
+          "trip",
+          "wet"
+        ]
+      },
+      {
+        "zh": "公交车把我们带到灰色海边一个巨大机场的附近。",
+        "keywords": [
+          "bus",
+          "near",
+          "huge",
+          "airport"
+        ]
+      },
+      {
+        "zh": "我们在空荡的小路上慢慢走着，朝沉默的帐篷主人点了点头。",
+        "keywords": [
+          "empty",
+          "path",
+          "nod",
+          "owner"
+        ]
+      },
+      {
+        "zh": "一只鸟还活着，翅膀上有血，却看不出有病。",
+        "keywords": [
+          "bird",
+          "alive",
+          "blood",
+          "disease"
+        ]
+      },
+      {
+        "zh": "一股好闻的味道从厨房小帐篷里慢慢飘出来。",
+        "keywords": [
+          "pleasant",
+          "smell",
+          "kitchen"
+        ]
+      },
+      {
+        "zh": "后来我们一点也不后悔；把帐篷修好是一记妙招。",
+        "keywords": [
+          "regret",
+          "coup",
+          "tent"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 318,
+    "sentences": 28,
+    "newDensity": 0.189,
+    "targetTokenDensity": 0.217,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（4 次）",
+      "During / Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p03 稿：318 词 / 28 句；60 个目标词各出现 ≥1 次，目标词次 69（21.7%）；每句 9–12 词、2–4 个目标词。写作与自查规则见 work/p01-写作规则与自查清单.md。"
+}

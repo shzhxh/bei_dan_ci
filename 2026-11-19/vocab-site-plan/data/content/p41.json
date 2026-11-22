@@ -1,0 +1,831 @@
+{
+  "id": "p41",
+  "title": "The Marathon Ledger",
+  "titleZh": "马拉松账目",
+  "topic": "公益马拉松与捐款欺诈",
+  "paragraphs": [
+    [
+      {
+        "en": "My professor leads a charity project in a poor region.",
+        "zh": "我的教授在一个贫困地区主持一个慈善项目。"
+      },
+      {
+        "en": "A public agency provides a modest income and a small quiet office.",
+        "zh": "一家公共机构提供一份不多的经费和一间小办公室。"
+      },
+      {
+        "en": "We intend to hold a running event and raise a fortune.",
+        "zh": "我们打算办一场跑步活动，筹一大笔钱。"
+      },
+      {
+        "en": "A brilliant assistant designs the route and the safety gear.",
+        "zh": "一位出色的助手设计路线和安全装备。"
+      },
+      {
+        "en": "Local shops offer a discount, and nearby farms donate food.",
+        "zh": "本地商店给出折扣，附近农场捐来食物。"
+      },
+      {
+        "en": "Then an elderly teacher joins as an amateur runner.",
+        "zh": "接着一位年长的教师作为业余跑者加入。"
+      }
+    ],
+    [
+      {
+        "en": "A thousand runners participate in the league tournament.",
+        "zh": "上千名跑者参加这场联赛锦标赛。"
+      },
+      {
+        "en": "The motor pool lends a van, and the cooks fry eggs for all.",
+        "zh": "车队借来一辆货车，厨师们为大家煎鸡蛋。"
+      },
+      {
+        "en": "A sudden bomb threat causes real panic near the finish line.",
+        "zh": "一个突如其来的炸弹威胁在终点线附近引起恐慌。"
+      },
+      {
+        "en": "The police execute a search and lower the yellow curtain.",
+        "zh": "警察执行搜查，并放下黄色的帷幕。"
+      },
+      {
+        "en": "A relative of mine helps the children walk to a safe shed.",
+        "zh": "我的一位亲戚帮孩子们走到安全的棚屋。"
+      },
+      {
+        "en": "We appreciate every volunteer and assist the virtually exhausted crowd.",
+        "zh": "我们感激每位志愿者，也帮助几乎筋疲力尽的人群。"
+      }
+    ],
+    [
+      {
+        "en": "An analyst samples the accounts and finds a strange component.",
+        "zh": "一位分析师抽样核对账目，发现一个奇怪的组成部分。"
+      },
+      {
+        "en": "A shell company took a billion in donations, including ours.",
+        "zh": "一家空壳公司拿走了十亿捐款，包括我们的那笔。"
+      },
+      {
+        "en": "The scholar is beaten by criticism, but she will not deny it.",
+        "zh": "这位学者被批评压得抬不起头，但她不会否认。"
+      },
+      {
+        "en": "A protest grows, and the exposure threatens the whole plan.",
+        "zh": "抗议在扩大，曝光威胁着整个计划。"
+      },
+      {
+        "en": "She has sufficient proof and a clear understanding of the fraud.",
+        "zh": "她有足够的证据，也清楚这场欺诈的来龙去脉。"
+      },
+      {
+        "en": "The board presumably recommends a full audit and a report.",
+        "zh": "董事会想必会建议进行一次全面审计并出具报告。"
+      }
+    ],
+    [
+      {
+        "en": "My assistant finds a thirteenth invoice from the same firm.",
+        "zh": "我的助手发现了同一家公司开出的第十三张发票。"
+      },
+      {
+        "en": "My file names a convict who had a share of the fortune.",
+        "zh": "我的档案里点出一个分到这笔钱的罪犯。"
+      },
+      {
+        "en": "Then the court hears the case, and justice is slow but still effective.",
+        "zh": "接着法庭审理此案，正义虽慢却有效。"
+      },
+      {
+        "en": "The conviction ends the scam, and the shell firm is closed.",
+        "zh": "一项定罪终结了这场骗局，那家空壳公司也被关闭。"
+      },
+      {
+        "en": "A whip of wind shakes the curtain, and the race goes on.",
+        "zh": "一阵风抽动帷幕，比赛继续进行。"
+      },
+      {
+        "en": "The principal praises the tired young runners, and the medal shines.",
+        "zh": "校长称赞疲惫的跑者，奖牌闪闪发亮。"
+      }
+    ],
+    [
+      {
+        "en": "Later the publishing team prints the accounts and the income returns.",
+        "zh": "后来出版团队印出账目，收入也回来了。"
+      },
+      {
+        "en": "A revolution in local giving reveals the potential of small donors.",
+        "zh": "本地捐赠的一场变革显出小额捐助者的潜力。"
+      },
+      {
+        "en": "We contribute a sample of the new plan to the board.",
+        "zh": "我们把新方案的一份样本交给董事会。"
+      },
+      {
+        "en": "The staff celebrate, and the region remembers the long marathon.",
+        "zh": "员工们庆祝，这个地区也记住了这场漫长的马拉松。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "staff",
+      "pos": "n/adj/v.",
+      "zh": "全体人员；职员的",
+      "stars": 5,
+      "collocation": "The staff celebrate"
+    },
+    {
+      "lemma": "billion",
+      "pos": "num.",
+      "zh": "十亿",
+      "stars": 5,
+      "collocation": "a billion in"
+    },
+    {
+      "lemma": "project",
+      "pos": "n/v.",
+      "zh": "计划",
+      "stars": 4,
+      "collocation": "charity project in"
+    },
+    {
+      "lemma": "income",
+      "pos": "n.",
+      "zh": "收入",
+      "stars": 4,
+      "collocation": "modest income and"
+    },
+    {
+      "lemma": "intend",
+      "pos": "v.",
+      "zh": "计划",
+      "stars": 4,
+      "collocation": "We intend to"
+    },
+    {
+      "lemma": "agency",
+      "pos": "n.",
+      "zh": "代理机构",
+      "stars": 4,
+      "collocation": "public agency provides"
+    },
+    {
+      "lemma": "league",
+      "pos": "n/v.",
+      "zh": "同盟；组联盟",
+      "stars": 4,
+      "collocation": "the league tournament"
+    },
+    {
+      "lemma": "justice",
+      "pos": "n.",
+      "zh": "正义",
+      "stars": 4,
+      "collocation": "and justice is"
+    },
+    {
+      "lemma": "potential",
+      "pos": "n/adj.",
+      "zh": "潜在性；有潜力的",
+      "stars": 4,
+      "collocation": "the potential of"
+    },
+    {
+      "lemma": "recommend",
+      "pos": "v.",
+      "zh": "推荐",
+      "stars": 4,
+      "collocation": "presumably recommends a"
+    },
+    {
+      "lemma": "professor",
+      "pos": "n.",
+      "zh": "教授",
+      "stars": 4,
+      "collocation": "My professor leads"
+    },
+    {
+      "lemma": "motor",
+      "pos": "n/adj/v.",
+      "zh": "马达；马达的",
+      "stars": 4,
+      "collocation": "The motor pool"
+    },
+    {
+      "lemma": "bomb",
+      "pos": "n/v.",
+      "zh": "炸弹；轰炸",
+      "stars": 4,
+      "collocation": "sudden bomb threat"
+    },
+    {
+      "lemma": "running",
+      "pos": "n/adj.",
+      "zh": "赛跑；流动的",
+      "stars": 4,
+      "collocation": "a running event"
+    },
+    {
+      "lemma": "understanding",
+      "pos": "n.",
+      "zh": "理解",
+      "stars": 3,
+      "collocation": "clear understanding of"
+    },
+    {
+      "lemma": "contribute",
+      "pos": "v.",
+      "zh": "有助于；出力",
+      "stars": 3,
+      "collocation": "We contribute a"
+    },
+    {
+      "lemma": "component",
+      "pos": "n/adj.",
+      "zh": "元件；组成的",
+      "stars": 3,
+      "collocation": "strange component"
+    },
+    {
+      "lemma": "revolution",
+      "pos": "n.",
+      "zh": "革命",
+      "stars": 3,
+      "collocation": "A revolution in"
+    },
+    {
+      "lemma": "appreciate",
+      "pos": "v.",
+      "zh": "赏识；增值",
+      "stars": 3,
+      "collocation": "We appreciate every"
+    },
+    {
+      "lemma": "assist",
+      "pos": "n/v.",
+      "zh": "帮助",
+      "stars": 3,
+      "collocation": "and assist the"
+    },
+    {
+      "lemma": "relative",
+      "pos": "n/adj.",
+      "zh": "亲戚；有关系的",
+      "stars": 3,
+      "collocation": "A relative of"
+    },
+    {
+      "lemma": "brilliant",
+      "pos": "adj.",
+      "zh": "光辉的",
+      "stars": 3,
+      "collocation": "A brilliant assistant"
+    },
+    {
+      "lemma": "curtain",
+      "pos": "n/v.",
+      "zh": "帐；装帘子于",
+      "stars": 3,
+      "collocation": "yellow curtain"
+    },
+    {
+      "lemma": "fortune",
+      "pos": "n.",
+      "zh": "财富",
+      "stars": 3,
+      "collocation": "a fortune"
+    },
+    {
+      "lemma": "participate",
+      "pos": "v.",
+      "zh": "参加；分享",
+      "stars": 3,
+      "collocation": "runners participate in"
+    },
+    {
+      "lemma": "assistant",
+      "pos": "n/adj.",
+      "zh": "助手；有帮助的",
+      "stars": 3,
+      "collocation": "brilliant assistant designs"
+    },
+    {
+      "lemma": "discount",
+      "pos": "n/v.",
+      "zh": "折扣；打折扣",
+      "stars": 3,
+      "collocation": "a discount, and"
+    },
+    {
+      "lemma": "nearby",
+      "pos": "adj/adv/prep.",
+      "zh": "附近的；在附近",
+      "stars": 3,
+      "collocation": "and nearby farms"
+    },
+    {
+      "lemma": "tournament",
+      "pos": "n.",
+      "zh": "比赛",
+      "stars": 3,
+      "collocation": "league tournament"
+    },
+    {
+      "lemma": "panic",
+      "pos": "n/adj/v.",
+      "zh": "恐慌；惊慌的",
+      "stars": 3,
+      "collocation": "real panic near"
+    },
+    {
+      "lemma": "medal",
+      "pos": "n/v.",
+      "zh": "奖牌；授勋予",
+      "stars": 3,
+      "collocation": "the medal shines"
+    },
+    {
+      "lemma": "amateur",
+      "pos": "n.",
+      "zh": "业余爱好者",
+      "stars": 3,
+      "collocation": "an amateur runner"
+    },
+    {
+      "lemma": "fry",
+      "pos": "n/v.",
+      "zh": "油炸食物；油炸",
+      "stars": 3,
+      "collocation": "cooks fry eggs"
+    },
+    {
+      "lemma": "region",
+      "pos": "n.",
+      "zh": "区域",
+      "stars": 4,
+      "collocation": "poor region"
+    },
+    {
+      "lemma": "effective",
+      "pos": "adj/n.",
+      "zh": "有效的；有生力量",
+      "stars": 4,
+      "collocation": "still effective"
+    },
+    {
+      "lemma": "deny",
+      "pos": "v.",
+      "zh": "否认",
+      "stars": 4,
+      "collocation": "not deny it"
+    },
+    {
+      "lemma": "criticism",
+      "pos": "n.",
+      "zh": "批评",
+      "stars": 4,
+      "collocation": "by criticism, but"
+    },
+    {
+      "lemma": "protest",
+      "pos": "n/v.",
+      "zh": "抗议；反对",
+      "stars": 4,
+      "collocation": "A protest grows"
+    },
+    {
+      "lemma": "sample",
+      "pos": "n/v.",
+      "zh": "样品；抽样",
+      "stars": 3,
+      "collocation": "analyst samples the"
+    },
+    {
+      "lemma": "sufficient",
+      "pos": "adj.",
+      "zh": "充分的",
+      "stars": 3,
+      "collocation": "has sufficient proof"
+    },
+    {
+      "lemma": "elderly",
+      "pos": "adj.",
+      "zh": "过了中年的",
+      "stars": 3,
+      "collocation": "an elderly teacher"
+    },
+    {
+      "lemma": "virtually",
+      "pos": "adv.",
+      "zh": "事实上",
+      "stars": 3,
+      "collocation": "the virtually exhausted"
+    },
+    {
+      "lemma": "principal",
+      "pos": "n/adj.",
+      "zh": "校长；主要的",
+      "stars": 3,
+      "collocation": "The principal praises"
+    },
+    {
+      "lemma": "presumably",
+      "pos": "adv.",
+      "zh": "推测上",
+      "stars": 3,
+      "collocation": "board presumably recommends"
+    },
+    {
+      "lemma": "shell",
+      "pos": "n/v.",
+      "zh": "贝壳；去壳",
+      "stars": 3,
+      "collocation": "A shell company"
+    },
+    {
+      "lemma": "lower",
+      "pos": "adj/v.",
+      "zh": "低的；降低",
+      "stars": 3,
+      "collocation": "and lower the"
+    },
+    {
+      "lemma": "exposure",
+      "pos": "n.",
+      "zh": "暴露",
+      "stars": 3,
+      "collocation": "the exposure threatens"
+    },
+    {
+      "lemma": "gear",
+      "pos": "n/v.",
+      "zh": "齿轮；以齿轮连起",
+      "stars": 3,
+      "collocation": "safety gear"
+    },
+    {
+      "lemma": "execute",
+      "pos": "v.",
+      "zh": "执行",
+      "stars": 3,
+      "collocation": "police execute a"
+    },
+    {
+      "lemma": "shed",
+      "pos": "n/v.",
+      "zh": "车棚；使流出",
+      "stars": 3,
+      "collocation": "safe shed"
+    },
+    {
+      "lemma": "whip",
+      "pos": "n/v.",
+      "zh": "鞭子；鞭打",
+      "stars": 3,
+      "collocation": "A whip of"
+    },
+    {
+      "lemma": "analyst",
+      "pos": "n.",
+      "zh": "分析者",
+      "stars": 4,
+      "collocation": "An analyst samples"
+    },
+    {
+      "lemma": "conviction",
+      "pos": "n.",
+      "zh": "定罪",
+      "stars": 3,
+      "collocation": "The conviction ends"
+    },
+    {
+      "lemma": "fraud",
+      "pos": "n.",
+      "zh": "欺骗",
+      "stars": 3,
+      "collocation": "the fraud"
+    },
+    {
+      "lemma": "convict",
+      "pos": "n/v.",
+      "zh": "囚犯；宣告有罪",
+      "stars": 3,
+      "collocation": "a convict who"
+    },
+    {
+      "lemma": "including",
+      "pos": "prep.",
+      "zh": "包含",
+      "stars": 5,
+      "collocation": "donations, including ours"
+    },
+    {
+      "lemma": "thirteenth",
+      "pos": "num.",
+      "zh": "第十三",
+      "stars": 4,
+      "collocation": "a thirteenth invoice"
+    },
+    {
+      "lemma": "publishing",
+      "pos": "n.",
+      "zh": "出版",
+      "stars": 3,
+      "collocation": "the publishing team"
+    },
+    {
+      "lemma": "beaten",
+      "pos": "adj.",
+      "zh": "被打败了的；beat的过去分词",
+      "stars": 3,
+      "collocation": "is beaten by"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“conviction” 的意思是：",
+      "options": [
+        "定罪",
+        "捐赠",
+        "批评",
+        "惊慌"
+      ],
+      "answer": 0,
+      "speak": "conviction"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A sudden bomb threat causes ___ near the finish line.",
+      "options": [
+        "gear",
+        "panic",
+        "discount",
+        "curtain"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“sufficient” 的意思是：",
+      "options": [
+        "业余的",
+        "足够的",
+        "有效的",
+        "邻近的"
+      ],
+      "answer": 1,
+      "speak": "sufficient"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "An ___ samples the accounts and finds a strange component.",
+      "options": [
+        "amateur",
+        "assistant",
+        "analyst",
+        "principal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A shell company took a ___ in donations, including ours.",
+      "options": [
+        "medal",
+        "discount",
+        "billion",
+        "gear"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“virtually” 的意思是：",
+      "options": [
+        "几乎",
+        "慷慨地",
+        "逐渐地",
+        "严厉地"
+      ],
+      "answer": 0,
+      "speak": "virtually"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "We intend to hold a ___ event and raise a fortune.",
+      "options": [
+        "beaten",
+        "running",
+        "sufficient",
+        "nearby"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "The board presumably recommends a full ___ and a report.",
+      "options": [
+        "sample",
+        "medal",
+        "audit",
+        "gear"
+      ],
+      "answer": 2
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My ",
+        "hint": "pr",
+        "after": " leads a charity project in a poor region.",
+        "answer": "professor"
+      },
+      {
+        "before": "We ",
+        "hint": "in",
+        "after": " to hold a running event and raise a fortune.",
+        "answer": "intend"
+      },
+      {
+        "before": "A brilliant ",
+        "hint": "as",
+        "after": " designs the route and the safety gear.",
+        "answer": "assistant"
+      },
+      {
+        "before": "A thousand runners participate in the league ",
+        "hint": "to",
+        "after": ".",
+        "answer": "tournament"
+      },
+      {
+        "before": "The police ",
+        "hint": "ex",
+        "after": " a search and lower the yellow curtain.",
+        "answer": "execute"
+      },
+      {
+        "before": "We appreciate every volunteer and ",
+        "hint": "as",
+        "after": " the virtually exhausted crowd.",
+        "answer": "assist"
+      },
+      {
+        "before": "An analyst samples the accounts and finds a strange ",
+        "hint": "co",
+        "after": ".",
+        "answer": "component"
+      },
+      {
+        "before": "A ",
+        "hint": "sh",
+        "after": " company took a billion in donations, including ours.",
+        "answer": "shell"
+      },
+      {
+        "before": "The scholar is ",
+        "hint": "be",
+        "after": " by criticism, but she will not deny it.",
+        "answer": "beaten"
+      },
+      {
+        "before": "Then the court hears the case, and ",
+        "hint": "ju",
+        "after": " is slow but still effective.",
+        "answer": "justice"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Local shops offer a ",
+        "hint": "d",
+        "after": ", and nearby farms donate food.",
+        "answer": "discount"
+      },
+      {
+        "before": "A sudden bomb threat causes real ",
+        "hint": "p",
+        "after": " near the finish line.",
+        "answer": "panic"
+      },
+      {
+        "before": "A relative of mine helps the children walk to a safe ",
+        "hint": "s",
+        "after": ".",
+        "answer": "shed"
+      },
+      {
+        "before": "She has sufficient proof and a clear ",
+        "hint": "u",
+        "after": " of the fraud.",
+        "answer": "understanding"
+      },
+      {
+        "before": "The board ",
+        "hint": "p",
+        "after": " recommends a full audit and a report.",
+        "answer": "presumably"
+      },
+      {
+        "before": "My assistant finds a ",
+        "hint": "t",
+        "after": " invoice from the same firm.",
+        "answer": "thirteenth"
+      },
+      {
+        "before": "My file names a ",
+        "hint": "c",
+        "after": " who had a share of the fortune.",
+        "answer": "convict"
+      },
+      {
+        "before": "The ",
+        "hint": "c",
+        "after": " ends the scam, and the shell firm is closed.",
+        "answer": "conviction"
+      },
+      {
+        "before": "A whip of wind shakes the ",
+        "hint": "c",
+        "after": ", and the race goes on.",
+        "answer": "curtain"
+      },
+      {
+        "before": "We ",
+        "hint": "c",
+        "after": " a sample of the new plan to the board.",
+        "answer": "contribute"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我的教授在一个贫困地区主持一个慈善项目。",
+        "keywords": [
+          "professor",
+          "project",
+          "region"
+        ]
+      },
+      {
+        "zh": "我们打算办一场跑步活动，为孩子们筹一大笔钱。",
+        "keywords": [
+          "intend",
+          "running",
+          "fortune"
+        ]
+      },
+      {
+        "zh": "一个突如其来的炸弹威胁在终点线附近引起恐慌。",
+        "keywords": [
+          "bomb",
+          "panic"
+        ]
+      },
+      {
+        "zh": "一位分析师抽样核对账目，发现一个奇怪的组成部分。",
+        "keywords": [
+          "analyst",
+          "sample",
+          "component"
+        ]
+      },
+      {
+        "zh": "一项定罪终结了这场欺诈，那家假公司也被关闭。",
+        "keywords": [
+          "conviction",
+          "fraud"
+        ]
+      },
+      {
+        "zh": "后来出版团队印出账目，收入也回来了。",
+        "keywords": [
+          "publishing",
+          "income"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 301,
+    "sentences": 28,
+    "newDensity": 0.196,
+    "targetTokenDensity": 0.219,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（8 次）",
+      "Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p41：约 308 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

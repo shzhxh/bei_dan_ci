@@ -1,0 +1,831 @@
+{
+  "id": "p50",
+  "title": "The Winning Shot",
+  "titleZh": "获奖照片",
+  "topic": "市政厅摄影比赛与争议照片",
+  "paragraphs": [
+    [
+      {
+        "en": "The town hall show has a firm base in local character.",
+        "zh": "市政厅的展览扎根于本地的性格。"
+      },
+      {
+        "en": "Entries show various styles and a bold new camera technique.",
+        "zh": "参赛作品展示了各种风格和一种大胆的新摄影技术。"
+      },
+      {
+        "en": "Hundreds attend the show at the old city art institute.",
+        "zh": "数百人参加了在老城市艺术学院举办的展览。"
+      },
+      {
+        "en": "The strength of each photo lies in its quiet battle.",
+        "zh": "每张照片的力量都在于它安静的斗争。"
+      },
+      {
+        "en": "A short piece of writing draws a huge mass of visitors.",
+        "zh": "一篇短文吸引了大量参观者。"
+      },
+      {
+        "en": "The judges defend the choice in a special edition.",
+        "zh": "评委在一期特刊中为这个选择辩护。"
+      },
+      {
+        "en": "My own analysis is practical and easy to follow.",
+        "zh": "我自己的分析实用且容易跟上。"
+      },
+      {
+        "en": "A long sheet of handwritten notes hangs in the quiet gallery.",
+        "zh": "一张写满手写笔记的长纸挂在安静的画廊里。"
+      },
+      {
+        "en": "Then one photo shows a rusted tank and a badly worn fence.",
+        "zh": "然后一张照片显示一个生锈的储罐和一道严重破损的围栏。"
+      },
+      {
+        "en": "Another frames the old port zone at the first soft light.",
+        "zh": "另一张在第一缕柔光中框住了旧港口区。"
+      }
+    ],
+    [
+      {
+        "en": "The photographer had permission and seemed altogether calm.",
+        "zh": "摄影师获得了许可，看起来完全平静。"
+      },
+      {
+        "en": "An announcement names a small crop field as the winning shot.",
+        "zh": "一项公告把一片小农田命名为获奖作品。"
+      },
+      {
+        "en": "Local folk enjoy the humour and bite of every entry.",
+        "zh": "本地人喜欢每个参赛作品中的幽默与尖锐。"
+      },
+      {
+        "en": "A mild reply at the front counter ends the first complaint.",
+        "zh": "前台的温和回复结束了第一起投诉。"
+      },
+      {
+        "en": "My aunt says a boom in visitors lifts the cafe's fare.",
+        "zh": "我姑姑说游客的激增提升了咖啡馆的饭菜。"
+      },
+      {
+        "en": "One picture shows spray on a field, particularly at dawn.",
+        "zh": "一张照片显示田野上的喷洒，尤其是在黎明。"
+      },
+      {
+        "en": "The winning image gives the young photographer real confidence.",
+        "zh": "获奖图像给了年轻摄影师真正的信心。"
+      },
+      {
+        "en": "Some older viewers recall a federal report from that year.",
+        "zh": "一些年长的观众回忆起那一年的联邦报告。"
+      },
+      {
+        "en": "My cousin's employer takes the complaint seriously at once.",
+        "zh": "我表姐的雇主立刻严肃对待这起投诉。"
+      },
+      {
+        "en": "The judges put emphasis on beauty and try to justify it.",
+        "zh": "评委强调美，并试图为此辩护。"
+      }
+    ],
+    [
+      {
+        "en": "Later a quiet resistance grows against the old formula.",
+        "zh": "后来一种安静的反抗针对旧的公式生长。"
+      },
+      {
+        "en": "A proof of the date stirs a long public debate.",
+        "zh": "一个日期的证据激起了一场漫长的公开辩论。"
+      },
+      {
+        "en": "The mayor gives a clear hint of a second public review.",
+        "zh": "市长明确暗示会有第二次公开审查。"
+      },
+      {
+        "en": "Some say the whole contest was a deliberate political act.",
+        "zh": "有人说整场比赛是一场蓄意的政治行为。"
+      },
+      {
+        "en": "One lens caught the face of the old regime.",
+        "zh": "一只镜头捕捉到了旧政权的面孔。"
+      },
+      {
+        "en": "The council concedes a dividend for the arts fund.",
+        "zh": "议会为艺术基金让出一笔红利。"
+      },
+      {
+        "en": "Later no one will prosecute, and apparently the show stays.",
+        "zh": "后来没有人会起诉，显然展览留了下来。"
+      },
+      {
+        "en": "Finally, with the ninetieth banner done, the coloured show ends.",
+        "zh": "最后，随着第九十面横幅完成，彩色的展览结束了。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "base",
+      "pos": "n./v./adj.",
+      "zh": "底部",
+      "stars": 5,
+      "collocation": "firm base in local"
+    },
+    {
+      "lemma": "bite",
+      "pos": "n./v.",
+      "zh": "咬",
+      "stars": 5,
+      "collocation": "and bite of every"
+    },
+    {
+      "lemma": "various",
+      "pos": "adj.",
+      "zh": "不同的",
+      "stars": 4,
+      "collocation": "show various styles and"
+    },
+    {
+      "lemma": "character",
+      "pos": "n.",
+      "zh": "个性",
+      "stars": 4,
+      "collocation": "local character."
+    },
+    {
+      "lemma": "technique",
+      "pos": "n.",
+      "zh": "技巧",
+      "stars": 4,
+      "collocation": "camera technique."
+    },
+    {
+      "lemma": "attend",
+      "pos": "v.",
+      "zh": "参加",
+      "stars": 4,
+      "collocation": "Hundreds attend the show"
+    },
+    {
+      "lemma": "strength",
+      "pos": "n.",
+      "zh": "力量",
+      "stars": 4,
+      "collocation": "The strength of each"
+    },
+    {
+      "lemma": "battle",
+      "pos": "n./v.",
+      "zh": "战役",
+      "stars": 4,
+      "collocation": "quiet battle."
+    },
+    {
+      "lemma": "writing",
+      "pos": "n.",
+      "zh": "书写",
+      "stars": 4,
+      "collocation": "of writing draws a"
+    },
+    {
+      "lemma": "institute",
+      "pos": "n./v.",
+      "zh": "学会",
+      "stars": 4,
+      "collocation": "art institute."
+    },
+    {
+      "lemma": "mass",
+      "pos": "n./adj./v.",
+      "zh": "块",
+      "stars": 4,
+      "collocation": "huge mass of visitors."
+    },
+    {
+      "lemma": "defend",
+      "pos": "v.",
+      "zh": "防护",
+      "stars": 4,
+      "collocation": "judges defend the choice"
+    },
+    {
+      "lemma": "edition",
+      "pos": "n.",
+      "zh": "版本",
+      "stars": 4,
+      "collocation": "special edition."
+    },
+    {
+      "lemma": "analysis",
+      "pos": "n.",
+      "zh": "分析",
+      "stars": 3,
+      "collocation": "own analysis is practical"
+    },
+    {
+      "lemma": "practical",
+      "pos": "adj.",
+      "zh": "实际的",
+      "stars": 3,
+      "collocation": "is practical and easy"
+    },
+    {
+      "lemma": "sheet",
+      "pos": "n./v./adj.",
+      "zh": "床单",
+      "stars": 3,
+      "collocation": "long sheet of handwritten"
+    },
+    {
+      "lemma": "gallery",
+      "pos": "n.",
+      "zh": "走廊",
+      "stars": 3,
+      "collocation": "quiet gallery."
+    },
+    {
+      "lemma": "tank",
+      "pos": "n./v.",
+      "zh": "槽",
+      "stars": 3,
+      "collocation": "rusted tank and a"
+    },
+    {
+      "lemma": "badly",
+      "pos": "adv.",
+      "zh": "严重地",
+      "stars": 3,
+      "collocation": "a badly worn fence."
+    },
+    {
+      "lemma": "port",
+      "pos": "n./v.",
+      "zh": "港口",
+      "stars": 3,
+      "collocation": "old port zone at"
+    },
+    {
+      "lemma": "zone",
+      "pos": "n./v.",
+      "zh": "地带",
+      "stars": 3,
+      "collocation": "port zone at the"
+    },
+    {
+      "lemma": "permission",
+      "pos": "n.",
+      "zh": "许可",
+      "stars": 3,
+      "collocation": "had permission and seemed"
+    },
+    {
+      "lemma": "altogether",
+      "pos": "adv.",
+      "zh": "完全地",
+      "stars": 3,
+      "collocation": "seemed altogether calm."
+    },
+    {
+      "lemma": "crop",
+      "pos": "n./v.",
+      "zh": "农作物",
+      "stars": 3,
+      "collocation": "small crop field as"
+    },
+    {
+      "lemma": "announcement",
+      "pos": "n.",
+      "zh": "公告",
+      "stars": 3,
+      "collocation": "An announcement names a"
+    },
+    {
+      "lemma": "folk",
+      "pos": "n./adj.",
+      "zh": "人们",
+      "stars": 3,
+      "collocation": "Local folk enjoy the"
+    },
+    {
+      "lemma": "humour",
+      "pos": "n./v.",
+      "zh": "幽默",
+      "stars": 3,
+      "collocation": "the humour and bite"
+    },
+    {
+      "lemma": "counter",
+      "pos": "n./adj./adv.",
+      "zh": "计算器",
+      "stars": 3,
+      "collocation": "front counter ends the"
+    },
+    {
+      "lemma": "mild",
+      "pos": "adj.",
+      "zh": "温和的",
+      "stars": 3,
+      "collocation": "A mild reply at"
+    },
+    {
+      "lemma": "boom",
+      "pos": "n./v.",
+      "zh": "繁荣",
+      "stars": 3,
+      "collocation": "a boom in visitors"
+    },
+    {
+      "lemma": "fare",
+      "pos": "n./v.",
+      "zh": "费用",
+      "stars": 3,
+      "collocation": "cafe's fare."
+    },
+    {
+      "lemma": "spray",
+      "pos": "n./v.",
+      "zh": "水沫",
+      "stars": 3,
+      "collocation": "shows spray on a"
+    },
+    {
+      "lemma": "particularly",
+      "pos": "adv.",
+      "zh": "特别",
+      "stars": 4,
+      "collocation": "field, particularly at dawn."
+    },
+    {
+      "lemma": "finally",
+      "pos": "adv.",
+      "zh": "最后",
+      "stars": 4,
+      "collocation": "Finally, with the"
+    },
+    {
+      "lemma": "image",
+      "pos": "n./v.",
+      "zh": "影像",
+      "stars": 4,
+      "collocation": "winning image gives the"
+    },
+    {
+      "lemma": "confidence",
+      "pos": "n.",
+      "zh": "信心",
+      "stars": 4,
+      "collocation": "real confidence."
+    },
+    {
+      "lemma": "recall",
+      "pos": "n./v.",
+      "zh": "回忆",
+      "stars": 4,
+      "collocation": "viewers recall a federal"
+    },
+    {
+      "lemma": "federal",
+      "pos": "adj.",
+      "zh": "联邦的",
+      "stars": 4,
+      "collocation": "a federal report from"
+    },
+    {
+      "lemma": "employer",
+      "pos": "n.",
+      "zh": "雇主",
+      "stars": 3,
+      "collocation": "cousin's employer takes the"
+    },
+    {
+      "lemma": "seriously",
+      "pos": "adv.",
+      "zh": "严肃地",
+      "stars": 3,
+      "collocation": "complaint seriously at once."
+    },
+    {
+      "lemma": "emphasis",
+      "pos": "n.",
+      "zh": "强调",
+      "stars": 3,
+      "collocation": "put emphasis on beauty"
+    },
+    {
+      "lemma": "justify",
+      "pos": "v.",
+      "zh": "替...辩护",
+      "stars": 3,
+      "collocation": "to justify it."
+    },
+    {
+      "lemma": "resistance",
+      "pos": "n.",
+      "zh": "抵抗力",
+      "stars": 3,
+      "collocation": "quiet resistance grows against"
+    },
+    {
+      "lemma": "formula",
+      "pos": "n.",
+      "zh": "客套语",
+      "stars": 3,
+      "collocation": "old formula."
+    },
+    {
+      "lemma": "proof",
+      "pos": "n./adj./v.",
+      "zh": "证据",
+      "stars": 3,
+      "collocation": "A proof of the"
+    },
+    {
+      "lemma": "stir",
+      "pos": "n./v.",
+      "zh": "骚动",
+      "stars": 3,
+      "collocation": "date stirs a long"
+    },
+    {
+      "lemma": "mayor",
+      "pos": "n.",
+      "zh": "市长",
+      "stars": 3,
+      "collocation": "The mayor gives a"
+    },
+    {
+      "lemma": "hint",
+      "pos": "n./v.",
+      "zh": "暗示",
+      "stars": 3,
+      "collocation": "clear hint of a"
+    },
+    {
+      "lemma": "contest",
+      "pos": "n./v.",
+      "zh": "竞赛",
+      "stars": 3,
+      "collocation": "whole contest was a"
+    },
+    {
+      "lemma": "deliberate",
+      "pos": "adj./v.",
+      "zh": "深思熟虑的",
+      "stars": 3,
+      "collocation": "a deliberate political act."
+    },
+    {
+      "lemma": "lens",
+      "pos": "n./v.",
+      "zh": "透镜",
+      "stars": 3,
+      "collocation": "One lens caught the"
+    },
+    {
+      "lemma": "regime",
+      "pos": "n.",
+      "zh": "政权",
+      "stars": 3,
+      "collocation": "old regime."
+    },
+    {
+      "lemma": "dividend",
+      "pos": "n.",
+      "zh": "被除数",
+      "stars": 3,
+      "collocation": "a dividend for the"
+    },
+    {
+      "lemma": "concede",
+      "pos": "v.",
+      "zh": "承认",
+      "stars": 3,
+      "collocation": "council concedes a dividend"
+    },
+    {
+      "lemma": "prosecute",
+      "pos": "v.",
+      "zh": "告发",
+      "stars": 3,
+      "collocation": "will prosecute, and apparently"
+    },
+    {
+      "lemma": "apparently",
+      "pos": "adv.",
+      "zh": "表面上",
+      "stars": 4,
+      "collocation": "and apparently the show"
+    },
+    {
+      "lemma": "ninetieth",
+      "pos": "num.",
+      "zh": "第九十",
+      "stars": 4,
+      "collocation": "the ninetieth banner done,"
+    },
+    {
+      "lemma": "coloured",
+      "pos": "adj./n.",
+      "zh": "有色的",
+      "stars": 3,
+      "collocation": "the coloured show ends."
+    },
+    {
+      "lemma": "done",
+      "pos": "adj.",
+      "zh": "完成了的",
+      "stars": 3,
+      "collocation": "banner done, the coloured"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“various” 的意思是：",
+      "options": [
+        "各种各样的",
+        "宏伟的",
+        "温和的",
+        "蓄意的"
+      ],
+      "answer": 0,
+      "speak": "various"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "Entries show various styles and a bold new camera ___.",
+      "options": [
+        "technique",
+        "tank",
+        "crop",
+        "formula"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“strength” 的意思是：",
+      "options": [
+        "力量",
+        "证据",
+        "红利",
+        "许可"
+      ],
+      "answer": 0,
+      "speak": "strength"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "An announcement names a small ___ field as the winning shot.",
+      "options": [
+        "crop",
+        "port",
+        "fare",
+        "tank"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A proof of the date ___ a long public debate.",
+      "options": [
+        "stirs",
+        "defends",
+        "attends",
+        "concedes"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“regime” 的意思是：",
+      "options": [
+        "政权",
+        "储罐",
+        "镜头",
+        "画廊"
+      ],
+      "answer": 0,
+      "speak": "regime"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "The council ___ a dividend for the arts fund.",
+      "options": [
+        "concedes",
+        "prosecutes",
+        "justifies",
+        "recalls"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“deliberate” 的意思是：",
+      "options": [
+        "蓄意的",
+        "各种的",
+        "生锈的",
+        "彩色的"
+      ],
+      "answer": 0,
+      "speak": "deliberate"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "The town hall show has a firm ",
+        "hint": "ba",
+        "after": " in local character.",
+        "answer": "base"
+      },
+      {
+        "before": "Entries show various styles and a bold new camera ",
+        "hint": "te",
+        "after": ".",
+        "answer": "technique"
+      },
+      {
+        "before": "Hundreds ",
+        "hint": "at",
+        "after": " the show at the old city art institute.",
+        "answer": "attend"
+      },
+      {
+        "before": "The ",
+        "hint": "st",
+        "after": " of each photo lies in its quiet battle.",
+        "answer": "strength"
+      },
+      {
+        "before": "A short piece of writing draws a huge ",
+        "hint": "ma",
+        "after": " of visitors.",
+        "answer": "mass"
+      },
+      {
+        "before": "The judges defend the choice in a special ",
+        "hint": "ed",
+        "after": ".",
+        "answer": "edition"
+      },
+      {
+        "before": "My own ",
+        "hint": "an",
+        "after": " is practical and easy to follow.",
+        "answer": "analysis"
+      },
+      {
+        "before": "A long sheet of handwritten notes hangs in the quiet ",
+        "hint": "ga",
+        "after": ".",
+        "answer": "gallery"
+      },
+      {
+        "before": "Then one photo shows a rusted ",
+        "hint": "ta",
+        "after": " and a badly worn fence.",
+        "answer": "tank"
+      },
+      {
+        "before": "Another frames the old ",
+        "hint": "po",
+        "after": " zone at the first soft light.",
+        "answer": "port"
+      }
+    ],
+    "b3": [
+      {
+        "before": "My cousin's ",
+        "hint": "em",
+        "after": " takes the complaint seriously at once.",
+        "answer": "employer"
+      },
+      {
+        "before": "The judges put emphasis on beauty and try to ",
+        "hint": "ju",
+        "after": " it.",
+        "answer": "justify"
+      },
+      {
+        "before": "Later a quiet ",
+        "hint": "re",
+        "after": " grows against the old formula.",
+        "answer": "resistance"
+      },
+      {
+        "before": "A ",
+        "hint": "pr",
+        "after": " of the date stirs a long public debate.",
+        "answer": "proof"
+      },
+      {
+        "before": "The mayor gives a clear ",
+        "hint": "hi",
+        "after": " of a second public review.",
+        "answer": "hint"
+      },
+      {
+        "before": "Some say the whole contest was a ",
+        "hint": "de",
+        "after": " political act.",
+        "answer": "deliberate"
+      },
+      {
+        "before": "One lens caught the face of the old ",
+        "hint": "re",
+        "after": ".",
+        "answer": "regime"
+      },
+      {
+        "before": "The council concedes a ",
+        "hint": "di",
+        "after": " for the arts fund.",
+        "answer": "dividend"
+      },
+      {
+        "before": "Later no one will ",
+        "hint": "pr",
+        "after": ", and apparently the show stays.",
+        "answer": "prosecute"
+      },
+      {
+        "before": "Finally, with the ",
+        "hint": "ni",
+        "after": " banner done, the coloured show ends.",
+        "answer": "ninetieth"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "市政厅的展览扎根于本地的性格。",
+        "keywords": [
+          "town",
+          "base",
+          "character"
+        ]
+      },
+      {
+        "zh": "评委在一期特刊中为这个选择辩护。",
+        "keywords": [
+          "judges",
+          "defend",
+          "edition"
+        ]
+      },
+      {
+        "zh": "然后一张照片显示一个生锈的储罐和一道严重破损的围栏。",
+        "keywords": [
+          "photo",
+          "tank",
+          "fence"
+        ]
+      },
+      {
+        "zh": "本地人喜欢每个参赛作品中的幽默与尖锐。",
+        "keywords": [
+          "folk",
+          "humour",
+          "bite"
+        ]
+      },
+      {
+        "zh": "有人说整场比赛是一场蓄意的政治行为。",
+        "keywords": [
+          "contest",
+          "deliberate",
+          "political"
+        ]
+      },
+      {
+        "zh": "最后，随着第九十面横幅完成，彩色的展览结束了。",
+        "keywords": [
+          "ninetieth",
+          "banner",
+          "coloured"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 282,
+    "sentences": 28,
+    "newDensity": 0.209,
+    "targetTokenDensity": 0.209,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写市政厅第九十届摄影展：各种风格与新技术、评委与特刊、生锈储罐与旧港口区的照片、农田获奖作品引发争议，结尾是市长的暗示、旧政权的面孔与无人起诉的收场。"
+}

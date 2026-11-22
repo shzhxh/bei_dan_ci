@@ -1,0 +1,830 @@
+{
+  "id": "p04",
+  "title": "The Island Party",
+  "titleZh": "岛上的聚会",
+  "topic": "相聚",
+  "paragraphs": [
+    [
+      {
+        "en": "Our small boat reaches the quiet island coast just before dark.",
+        "zh": "我们的小船在入夜前抵达安静的岛屿海岸。"
+      },
+      {
+        "en": "Above the gate, a winter flag moves slowly in the cold wind.",
+        "zh": "门上方，一面冬日的旗子在冷风里慢慢飘动。"
+      },
+      {
+        "en": "The venue is a small, warm flat near the quiet harbour.",
+        "zh": "场地是安静港口附近一间小而暖的公寓。"
+      },
+      {
+        "en": "The key turns by itself, and the old wooden door opens.",
+        "zh": "钥匙自己转了一下，那扇旧木门就开了。"
+      },
+      {
+        "en": "My friend's wife plans a party for their tenth happy marriage year.",
+        "zh": "我朋友的妻子为他们的第十个幸福婚姻年筹办一场聚会。"
+      },
+      {
+        "en": "Thirteen guests arrive with bags of fresh bread, cheese and fruit.",
+        "zh": "十三位客人带着新鲜面包、奶酪和水果来了。"
+      },
+      {
+        "en": "Milk and sweet cake wait on a wide wooden table by the wall.",
+        "zh": "牛奶和甜蛋糕摆在靠墙的一张宽木桌上。"
+      },
+      {
+        "en": "A kid runs past us with a small, excited brown dog.",
+        "zh": "一个小孩带着一只兴奋的小棕狗从我们身边跑过。"
+      },
+      {
+        "en": "A policeman at the front door makes a very polite excuse.",
+        "zh": "前门的一位警察很客气地找了个借口。"
+      }
+    ],
+    [
+      {
+        "en": "Her warm voice says welcome, and every tired guest smiles back.",
+        "zh": "她温暖的嗓音说着欢迎，每位疲倦的客人都回以微笑。"
+      },
+      {
+        "en": "However, the old heater is still cold and rather weak tonight.",
+        "zh": "然而，那台旧暖气今晚还是冷的，而且相当弱。"
+      },
+      {
+        "en": "Heavy coats hold the heat inside the small, crowded front room.",
+        "zh": "厚外套把小而拥挤的前屋里的热气留住。"
+      },
+      {
+        "en": "The guests dance with easy joy and loud, happy, open laughter.",
+        "zh": "客人们带着轻松的喜悦和响亮、欢快的笑声跳舞。"
+      },
+      {
+        "en": "The music has an easy beat that everyone follows with their hands.",
+        "zh": "音乐有一种轻快的节拍，每个人都用手跟着打。"
+      },
+      {
+        "en": "Children draw bright pictures in every colour they can possibly find.",
+        "zh": "孩子们用他们能找到的每一种颜色画出明亮的图画。"
+      },
+      {
+        "en": "A boy tries to catch a red ball near the bright fire.",
+        "zh": "一个男孩在明亮的火边试着接住一个红球。"
+      },
+      {
+        "en": "Then we send a short message: the last boat leaves tomorrow.",
+        "zh": "然后我们发了一条简短的消息：最后一班船明天开。"
+      },
+      {
+        "en": "The family has an agreement, and the simple policy is clear.",
+        "zh": "这家人有一个约定，而那条简单的规矩很清楚。"
+      },
+      {
+        "en": "Her concerned face shows that something is quite wrong tonight.",
+        "zh": "她担忧的脸说明今晚有什么事情相当不对。"
+      }
+    ],
+    [
+      {
+        "en": "Although the wind is cold, we enjoy it with real delight.",
+        "zh": "尽管风很冷，我们还是很享受它。"
+      },
+      {
+        "en": "We step out to the side yard for a little cool air.",
+        "zh": "我们走到侧院，想透一点凉气。"
+      },
+      {
+        "en": "Then, since the last boat left, we must deal with this small problem.",
+        "zh": "于是，既然最后一班船已经走了，我们必须处理这个小问题。"
+      },
+      {
+        "en": "A loose box may fall, so we save the cake and the cups.",
+        "zh": "一个松动的箱子可能会倒，所以我们保住蛋糕和杯子。"
+      },
+      {
+        "en": "The guest whom we encourage tries the old song again.",
+        "zh": "我们鼓励的那位客人又试了一遍那首老歌。"
+      },
+      {
+        "en": "My mind cannot really imagine an eighth birthday without her here.",
+        "zh": "我实在无法想象没有她在这里的第八个生日。"
+      },
+      {
+        "en": "A small tool and an old photo mark the day of his birth.",
+        "zh": "一把小工具和一张旧照片标记着他出生的那天。"
+      },
+      {
+        "en": "Later an angry guest drops a golden cup on the hard floor.",
+        "zh": "后来，一位生气的客人把一只金杯掉在硬地板上。"
+      },
+      {
+        "en": "My stomach turns, but I stay braver than I was before.",
+        "zh": "我胃里一阵翻腾，但我比从前更勇敢。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "it",
+      "pos": "pron.",
+      "zh": "它",
+      "stars": 5,
+      "collocation": "we enjoy it with real"
+    },
+    {
+      "lemma": "say",
+      "pos": "v./n.",
+      "zh": "说",
+      "stars": 5,
+      "collocation": "voice says welcome"
+    },
+    {
+      "lemma": "out",
+      "pos": "adj./adv./prep.",
+      "zh": "外面的",
+      "stars": 5,
+      "collocation": "step out to the side"
+    },
+    {
+      "lemma": "than",
+      "pos": "conj./prep.",
+      "zh": "比",
+      "stars": 5,
+      "collocation": "braver than I was"
+    },
+    {
+      "lemma": "still",
+      "pos": "n./v./adj./adv.",
+      "zh": "蒸馏室",
+      "stars": 5,
+      "collocation": "is still cold and rather"
+    },
+    {
+      "lemma": "however",
+      "pos": "adv./conj.",
+      "zh": "然而",
+      "stars": 5,
+      "collocation": "However, the old heater"
+    },
+    {
+      "lemma": "party",
+      "pos": "n./v.",
+      "zh": "宴会",
+      "stars": 5,
+      "collocation": "plans a party for"
+    },
+    {
+      "lemma": "although",
+      "pos": "conj.",
+      "zh": "虽然",
+      "stars": 5,
+      "collocation": "Although the wind is cold"
+    },
+    {
+      "lemma": "side",
+      "pos": "n./adj./v.",
+      "zh": "旁边",
+      "stars": 5,
+      "collocation": "to the side yard"
+    },
+    {
+      "lemma": "policy",
+      "pos": "n.",
+      "zh": "政策",
+      "stars": 5,
+      "collocation": "the simple policy is clear"
+    },
+    {
+      "lemma": "face",
+      "pos": "n./v.",
+      "zh": "脸",
+      "stars": 5,
+      "collocation": "Her concerned face shows"
+    },
+    {
+      "lemma": "since",
+      "pos": "prep./adv./conj.",
+      "zh": "自...以后",
+      "stars": 5,
+      "collocation": "since the last boat left"
+    },
+    {
+      "lemma": "fall",
+      "pos": "n./v./adj.",
+      "zh": "落下",
+      "stars": 5,
+      "collocation": "may fall, so we save"
+    },
+    {
+      "lemma": "send",
+      "pos": "v./n.",
+      "zh": "发送",
+      "stars": 5,
+      "collocation": "we send a short message"
+    },
+    {
+      "lemma": "itself",
+      "pos": "pron.",
+      "zh": "它本身",
+      "stars": 5,
+      "collocation": "turns by itself"
+    },
+    {
+      "lemma": "draw",
+      "pos": "v./n.",
+      "zh": "拉",
+      "stars": 5,
+      "collocation": "Children draw bright pictures"
+    },
+    {
+      "lemma": "boy",
+      "pos": "n.",
+      "zh": "男孩",
+      "stars": 5,
+      "collocation": "A boy tries to catch"
+    },
+    {
+      "lemma": "easy",
+      "pos": "adj./adv.",
+      "zh": "容易的",
+      "stars": 5,
+      "collocation": "with easy joy"
+    },
+    {
+      "lemma": "wife",
+      "pos": "n.",
+      "zh": "妻子",
+      "stars": 5,
+      "collocation": "friend's wife plans"
+    },
+    {
+      "lemma": "wide",
+      "pos": "adj./adv./n.",
+      "zh": "宽的",
+      "stars": 5,
+      "collocation": "a wide wooden table"
+    },
+    {
+      "lemma": "colour",
+      "pos": "n./v.",
+      "zh": "颜色",
+      "stars": 5,
+      "collocation": "every colour they can"
+    },
+    {
+      "lemma": "save",
+      "pos": "n./v./prep.",
+      "zh": "救球",
+      "stars": 5,
+      "collocation": "we save the cake"
+    },
+    {
+      "lemma": "beat",
+      "pos": "n./v./adj.",
+      "zh": "心跳",
+      "stars": 5,
+      "collocation": "an easy beat"
+    },
+    {
+      "lemma": "thirteen",
+      "pos": "num.",
+      "zh": "十三",
+      "stars": 5,
+      "collocation": "Thirteen guests arrive"
+    },
+    {
+      "lemma": "voice",
+      "pos": "n./v.",
+      "zh": "声音",
+      "stars": 4,
+      "collocation": "warm voice says"
+    },
+    {
+      "lemma": "agreement",
+      "pos": "n.",
+      "zh": "同意",
+      "stars": 4,
+      "collocation": "has an agreement"
+    },
+    {
+      "lemma": "catch",
+      "pos": "n./v.",
+      "zh": "捕捉",
+      "stars": 4,
+      "collocation": "to catch a red ball"
+    },
+    {
+      "lemma": "above",
+      "pos": "prep./adv./adj.",
+      "zh": "在上方",
+      "stars": 4,
+      "collocation": "Above the gate"
+    },
+    {
+      "lemma": "whom",
+      "pos": "pron.",
+      "zh": "谁",
+      "stars": 4,
+      "collocation": "guest whom we encourage"
+    },
+    {
+      "lemma": "dog",
+      "pos": "n./v.",
+      "zh": "狗",
+      "stars": 4,
+      "collocation": "excited brown dog"
+    },
+    {
+      "lemma": "encourage",
+      "pos": "v.",
+      "zh": "鼓励",
+      "stars": 4,
+      "collocation": "whom we encourage tries"
+    },
+    {
+      "lemma": "heavy",
+      "pos": "adj./adv./n.",
+      "zh": "重的",
+      "stars": 4,
+      "collocation": "Heavy coats hold"
+    },
+    {
+      "lemma": "island",
+      "pos": "n./v.",
+      "zh": "岛",
+      "stars": 4,
+      "collocation": "the quiet island coast"
+    },
+    {
+      "lemma": "tomorrow",
+      "pos": "n./adv.",
+      "zh": "明天",
+      "stars": 4,
+      "collocation": "leaves tomorrow"
+    },
+    {
+      "lemma": "marriage",
+      "pos": "n.",
+      "zh": "婚姻",
+      "stars": 4,
+      "collocation": "happy marriage year"
+    },
+    {
+      "lemma": "imagine",
+      "pos": "v.",
+      "zh": "想像",
+      "stars": 4,
+      "collocation": "cannot really imagine"
+    },
+    {
+      "lemma": "key",
+      "pos": "n./v.",
+      "zh": "钥匙",
+      "stars": 4,
+      "collocation": "The key turns"
+    },
+    {
+      "lemma": "fresh",
+      "pos": "adj./adv./n.",
+      "zh": "新鲜的",
+      "stars": 4,
+      "collocation": "of fresh bread"
+    },
+    {
+      "lemma": "flat",
+      "pos": "adj./adv./n./v.",
+      "zh": "平坦的",
+      "stars": 4,
+      "collocation": "small, warm flat"
+    },
+    {
+      "lemma": "kid",
+      "pos": "n./adj./v.",
+      "zh": "小山羊",
+      "stars": 4,
+      "collocation": "A kid runs past"
+    },
+    {
+      "lemma": "heat",
+      "pos": "n./v.",
+      "zh": "热",
+      "stars": 4,
+      "collocation": "hold the heat inside"
+    },
+    {
+      "lemma": "coast",
+      "pos": "n./v.",
+      "zh": "海岸",
+      "stars": 4,
+      "collocation": "island coast just before"
+    },
+    {
+      "lemma": "dance",
+      "pos": "n./v.",
+      "zh": "跳舞",
+      "stars": 4,
+      "collocation": "guests dance with easy"
+    },
+    {
+      "lemma": "eighth",
+      "pos": "num.",
+      "zh": "第八",
+      "stars": 4,
+      "collocation": "an eighth birthday"
+    },
+    {
+      "lemma": "deal",
+      "pos": "n./v.",
+      "zh": "交易",
+      "stars": 3,
+      "collocation": "must deal with this"
+    },
+    {
+      "lemma": "winter",
+      "pos": "n./adj./v.",
+      "zh": "冬季",
+      "stars": 3,
+      "collocation": "a winter flag moves"
+    },
+    {
+      "lemma": "birth",
+      "pos": "n.",
+      "zh": "出生",
+      "stars": 3,
+      "collocation": "day of his birth"
+    },
+    {
+      "lemma": "tool",
+      "pos": "n./v.",
+      "zh": "工具",
+      "stars": 3,
+      "collocation": "A small tool and"
+    },
+    {
+      "lemma": "milk",
+      "pos": "n./v.",
+      "zh": "奶",
+      "stars": 3,
+      "collocation": "Milk and sweet cake"
+    },
+    {
+      "lemma": "angry",
+      "pos": "adj.",
+      "zh": "生气的",
+      "stars": 3,
+      "collocation": "an angry guest drops"
+    },
+    {
+      "lemma": "golden",
+      "pos": "adj.",
+      "zh": "金的",
+      "stars": 3,
+      "collocation": "a golden cup"
+    },
+    {
+      "lemma": "sweet",
+      "pos": "n./adj.",
+      "zh": "甜蜜",
+      "stars": 3,
+      "collocation": "sweet cake wait"
+    },
+    {
+      "lemma": "policeman",
+      "pos": "n.",
+      "zh": "警察",
+      "stars": 3,
+      "collocation": "A policeman at the front"
+    },
+    {
+      "lemma": "stomach",
+      "pos": "n./v.",
+      "zh": "胃",
+      "stars": 3,
+      "collocation": "My stomach turns"
+    },
+    {
+      "lemma": "joy",
+      "pos": "n./v.",
+      "zh": "欢喜",
+      "stars": 3,
+      "collocation": "easy joy and loud"
+    },
+    {
+      "lemma": "excuse",
+      "pos": "v./n.",
+      "zh": "原谅",
+      "stars": 3,
+      "collocation": "polite excuse"
+    },
+    {
+      "lemma": "brave",
+      "pos": "adj./n./v.",
+      "zh": "勇敢的",
+      "stars": 3,
+      "collocation": "stay braver than"
+    },
+    {
+      "lemma": "concerned",
+      "pos": "adj.",
+      "zh": "关心的",
+      "stars": 3,
+      "collocation": "Her concerned face"
+    },
+    {
+      "lemma": "venue",
+      "pos": "n.",
+      "zh": "犯罪地点",
+      "stars": 3,
+      "collocation": "The venue is"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“venue” 在短文里最接近的意思是：",
+      "options": [
+        "场地",
+        "政策",
+        "婚姻",
+        "肚子"
+      ],
+      "answer": 0,
+      "speak": "venue"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The key turns by ___, and the old wooden door opens.",
+      "options": [
+        "itself",
+        "out",
+        "than",
+        "still"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“policy” 的意思是：",
+      "options": [
+        "政策",
+        "借口",
+        "工具",
+        "海岸"
+      ],
+      "answer": 0,
+      "speak": "policy"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Her concerned ___ shows that something is quite wrong tonight.",
+      "options": [
+        "face",
+        "side",
+        "voice",
+        "joy"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "Heavy coats hold the ___ inside the small, crowded front room.",
+      "options": [
+        "heat",
+        "milk",
+        "colour",
+        "beat"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“excuse” 作名词的意思是：",
+      "options": [
+        "借口",
+        "出生",
+        "婚姻",
+        "工具"
+      ],
+      "answer": 0,
+      "speak": "excuse"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A loose box may ___, so we save the cake and the cups.",
+      "options": [
+        "fall",
+        "send",
+        "draw",
+        "catch"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“eighth” 的意思是：",
+      "options": [
+        "第八",
+        "第十三",
+        "宽的",
+        "金色的"
+      ],
+      "answer": 0,
+      "speak": "eighth"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "Our small boat reaches the quiet ",
+        "hint": "is",
+        "after": " coast just before dark.",
+        "answer": "island"
+      },
+      {
+        "before": "Above the gate, a ",
+        "hint": "wi",
+        "after": " flag moves slowly in the cold wind.",
+        "answer": "winter"
+      },
+      {
+        "before": "The ",
+        "hint": "ve",
+        "after": " is a small, warm flat near the quiet harbour.",
+        "answer": "venue"
+      },
+      {
+        "before": "The key turns by ",
+        "hint": "it",
+        "after": ", and the old wooden door opens.",
+        "answer": "itself"
+      },
+      {
+        "before": "A ",
+        "hint": "ki",
+        "after": " runs past us with a small, excited brown dog.",
+        "answer": "kid"
+      },
+      {
+        "before": "Milk and ",
+        "hint": "sw",
+        "after": " cake wait on a wide wooden table by the wall.",
+        "answer": "sweet"
+      },
+      {
+        "before": "Her warm ",
+        "hint": "vo",
+        "after": " says welcome, and every tired guest smiles back.",
+        "answer": "voice"
+      },
+      {
+        "before": "A boy tries to ",
+        "hint": "ca",
+        "after": " a red ball near the bright fire.",
+        "answer": "catch"
+      },
+      {
+        "before": "Children ",
+        "hint": "dr",
+        "after": " bright pictures in every colour they can possibly find.",
+        "answer": "draw"
+      },
+      {
+        "before": "The guests ",
+        "hint": "da",
+        "after": " with easy joy and loud, happy, open laughter.",
+        "answer": "dance"
+      }
+    ],
+    "b3": [
+      {
+        "before": "However, the old heater is ",
+        "hint": "s",
+        "after": " cold and rather weak tonight.",
+        "answer": "still"
+      },
+      {
+        "before": "Heavy coats hold the ",
+        "hint": "h",
+        "after": " inside the small, crowded front room.",
+        "answer": "heat"
+      },
+      {
+        "before": "Thirteen guests arrive with bags of ",
+        "hint": "f",
+        "after": " bread, cheese and fruit.",
+        "answer": "fresh"
+      },
+      {
+        "before": "The family has an ",
+        "hint": "a",
+        "after": ", and the simple policy is clear.",
+        "answer": "agreement"
+      },
+      {
+        "before": "Her ",
+        "hint": "c",
+        "after": " face shows that something is quite wrong tonight.",
+        "answer": "concerned"
+      },
+      {
+        "before": "Although the wind is cold, we enjoy ",
+        "hint": "i",
+        "after": " with real delight.",
+        "answer": "it"
+      },
+      {
+        "before": "Then, since the last boat left, we must ",
+        "hint": "d",
+        "after": " with this small problem.",
+        "answer": "deal"
+      },
+      {
+        "before": "A loose box may ",
+        "hint": "f",
+        "after": ", so we save the cake and the cups.",
+        "answer": "fall"
+      },
+      {
+        "before": "The guest ",
+        "hint": "w",
+        "after": " we encourage tries the old song again.",
+        "answer": "whom"
+      },
+      {
+        "before": "My mind cannot really ",
+        "hint": "i",
+        "after": " an eighth birthday without her here.",
+        "answer": "imagine"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我们的小船在入夜前抵达安静的岛屿海岸。",
+        "keywords": [
+          "island",
+          "coast",
+          "boat"
+        ]
+      },
+      {
+        "zh": "钥匙自己转了一下，那扇旧木门就开了。",
+        "keywords": [
+          "key",
+          "itself",
+          "door"
+        ]
+      },
+      {
+        "zh": "厚外套把小而拥挤的前屋里的热气留住。",
+        "keywords": [
+          "heavy",
+          "heat"
+        ]
+      },
+      {
+        "zh": "客人们带着轻松的喜悦和响亮欢快的笑声跳舞。",
+        "keywords": [
+          "dance",
+          "joy",
+          "easy"
+        ]
+      },
+      {
+        "zh": "既然最后一班船已经走了，我们必须处理这个小问题。",
+        "keywords": [
+          "since",
+          "deal",
+          "problem"
+        ]
+      },
+      {
+        "zh": "我胃里一阵翻腾，但我比从前更勇敢。",
+        "keywords": [
+          "stomach",
+          "brave",
+          "than"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 320,
+    "sentences": 28,
+    "newDensity": 0.184,
+    "targetTokenDensity": 0.191,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（5 次）",
+      "During / Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p04 稿：320 词 / 28 句；59 个目标词各出现 ≥1 次，目标词次 61（19.1%）；每句 10–13 词、2–3 个目标词。写作与自查规则见 work/p01-写作规则与自查清单.md。"
+}

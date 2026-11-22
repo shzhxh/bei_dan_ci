@@ -1,0 +1,832 @@
+{
+  "id": "p32",
+  "title": "The Racing Team's Quiet Season",
+  "titleZh": "车队的休赛季",
+  "topic": "港口小镇赛车队",
+  "paragraphs": [
+    [
+      {
+        "en": "My crew builds a racing car in a cold workshop.",
+        "zh": "我的车队在寒冷的车间里造一辆赛车。"
+      },
+      {
+        "en": "We operate on a limited budget, and the work is constant.",
+        "zh": "我们靠有限的预算运作，工作从不间断。"
+      },
+      {
+        "en": "Our driver is an athlete with a particular kind of courage.",
+        "zh": "我们的车手是位运动员，带着一种特别的勇气。"
+      },
+      {
+        "en": "A wealthy merchant funds us, but his interest is not peaceful.",
+        "zh": "一位富商资助我们，但他的兴趣并不平和。"
+      },
+      {
+        "en": "He wants a target, and his statement is clear.",
+        "zh": "他想要一个目标，他的说法很清楚。"
+      },
+      {
+        "en": "Then a gas leak forces us to escape the pit.",
+        "zh": "接着一处煤气泄漏逼着我们逃出维修区。"
+      }
+    ],
+    [
+      {
+        "en": "One particular crash left our driver with a missing memory.",
+        "zh": "一次特别的撞击，让我们的车手少了一段记忆。"
+      },
+      {
+        "en": "His therapy is hard, and he cannot ignore the pain.",
+        "zh": "他的治疗很艰难，可他无法忽视疼痛。"
+      },
+      {
+        "en": "A doctor gives a lecture on a specific kind of rest.",
+        "zh": "一位医生讲了一堂关于某种特定休息的课。"
+      },
+      {
+        "en": "We estimate six months, but the athlete wants a comeback now.",
+        "zh": "我们估计要六个月，可这位运动员现在就想复出。"
+      },
+      {
+        "en": "His emotional state is fragile, and he snaps at his mate.",
+        "zh": "他情绪脆弱，冲着自己的同伴发起火来。"
+      },
+      {
+        "en": "We try to stimulate his spirit with a peaceful drive.",
+        "zh": "我们试着用一次平静的驾驶来激发他的精神。"
+      }
+    ],
+    [
+      {
+        "en": "A dealer offers a contract, but the terms are attractive.",
+        "zh": "一位经销商提供合同，条款很有吸引力。"
+      },
+      {
+        "en": "The negotiation is long, and the cabinet stays locked.",
+        "zh": "谈判拖得很长，柜子一直锁着。"
+      },
+      {
+        "en": "Our manager will not speculate, and he declares nothing.",
+        "zh": "我们的经理不愿猜测，什么也不宣布。"
+      },
+      {
+        "en": "A voter in the harbour asks about the team's future.",
+        "zh": "港口的一位选民问起车队的未来。"
+      },
+      {
+        "en": "The explanation is simple, and the branch office agrees.",
+        "zh": "解释很简单，分公司也同意了。"
+      },
+      {
+        "en": "We conclude the deal, and the atmosphere is generally calm.",
+        "zh": "我们敲定了交易，气氛大体平静。"
+      }
+    ],
+    [
+      {
+        "en": "My father was a rebel, and he kept a dusty pile of parts.",
+        "zh": "我父亲是个叛逆者，他留着一堆落满灰的零件。"
+      },
+      {
+        "en": "A hearing begins, and a judge reads the verdict aloud.",
+        "zh": "一场听证会开始，法官大声宣读裁决。"
+      },
+      {
+        "en": "The verdict is fair, and one man steps aside in anger.",
+        "zh": "裁决是公正的，只有一个人愤怒地退到一旁。"
+      },
+      {
+        "en": "His related claim fails, and the court sets a rate.",
+        "zh": "他相关的索赔失败，法庭定下了一个费率。"
+      },
+      {
+        "en": "A fellow from engineering checks the dust on every part.",
+        "zh": "一位工程部的同事检查每个零件上的灰尘。"
+      }
+    ],
+    [
+      {
+        "en": "Later we implement a strategic plan and move slightly ahead.",
+        "zh": "后来我们落实了一项战略计划，稍稍走到了前面。"
+      },
+      {
+        "en": "Later the author writes about a cave below the old town.",
+        "zh": "后来那位作家写到老城下面的一处洞穴。"
+      },
+      {
+        "en": "A flexible interior makes the old car a living space.",
+        "zh": "一个灵活的内饰让这辆旧车成了宜居的空间。"
+      },
+      {
+        "en": "My partner and I acknowledge the decline in ticket sales.",
+        "zh": "我和搭档都承认门票销量在下滑。"
+      },
+      {
+        "en": "Somehow we motivate the team, and the mood begins to boil.",
+        "zh": "不知怎么的，我们激励了全队，气氛开始沸腾。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "rate",
+      "pos": "n/v.",
+      "zh": "比率；估价",
+      "stars": 5,
+      "collocation": "a rate"
+    },
+    {
+      "lemma": "operate",
+      "pos": "v.",
+      "zh": "操作",
+      "stars": 5,
+      "collocation": "We operate on"
+    },
+    {
+      "lemma": "particular",
+      "pos": "n/adj.",
+      "zh": "一项；特别的",
+      "stars": 4,
+      "collocation": "a particular kind"
+    },
+    {
+      "lemma": "statement",
+      "pos": "n.",
+      "zh": "陈述",
+      "stars": 4,
+      "collocation": "his statement is"
+    },
+    {
+      "lemma": "specific",
+      "pos": "n/adj.",
+      "zh": "特效药；特殊的",
+      "stars": 4,
+      "collocation": "a specific kind"
+    },
+    {
+      "lemma": "target",
+      "pos": "n/v.",
+      "zh": "目标；对准",
+      "stars": 4,
+      "collocation": "a target, and"
+    },
+    {
+      "lemma": "gas",
+      "pos": "n.",
+      "zh": "气体",
+      "stars": 4,
+      "collocation": "a gas leak"
+    },
+    {
+      "lemma": "ignore",
+      "pos": "v.",
+      "zh": "不理睬",
+      "stars": 4,
+      "collocation": "cannot ignore the"
+    },
+    {
+      "lemma": "author",
+      "pos": "n.",
+      "zh": "作家",
+      "stars": 4,
+      "collocation": "the author writes"
+    },
+    {
+      "lemma": "declare",
+      "pos": "v.",
+      "zh": "宣布",
+      "stars": 4,
+      "collocation": "he declares nothing"
+    },
+    {
+      "lemma": "escape",
+      "pos": "n/v.",
+      "zh": "逃亡；逃脱",
+      "stars": 4,
+      "collocation": "to escape the"
+    },
+    {
+      "lemma": "constant",
+      "pos": "n/adj.",
+      "zh": "常数；不变的",
+      "stars": 4,
+      "collocation": "is constant"
+    },
+    {
+      "lemma": "decline",
+      "pos": "n/v.",
+      "zh": "衰退；使降低",
+      "stars": 4,
+      "collocation": "the decline in"
+    },
+    {
+      "lemma": "fellow",
+      "pos": "n/adj.",
+      "zh": "男人；同伴的",
+      "stars": 4,
+      "collocation": "A fellow from"
+    },
+    {
+      "lemma": "branch",
+      "pos": "n/v.",
+      "zh": "树枝；分支",
+      "stars": 3,
+      "collocation": "the branch office"
+    },
+    {
+      "lemma": "explanation",
+      "pos": "n.",
+      "zh": "解释",
+      "stars": 3,
+      "collocation": "The explanation is"
+    },
+    {
+      "lemma": "conclude",
+      "pos": "v.",
+      "zh": "结束",
+      "stars": 3,
+      "collocation": "We conclude the"
+    },
+    {
+      "lemma": "attractive",
+      "pos": "adj.",
+      "zh": "吸引人的",
+      "stars": 3,
+      "collocation": "are attractive"
+    },
+    {
+      "lemma": "living",
+      "pos": "n/adj.",
+      "zh": "生活；活的",
+      "stars": 3,
+      "collocation": "a living space"
+    },
+    {
+      "lemma": "acknowledge",
+      "pos": "v.",
+      "zh": "承认",
+      "stars": 3,
+      "collocation": "I acknowledge the"
+    },
+    {
+      "lemma": "crew",
+      "pos": "n.",
+      "zh": "全体人员；crow的过去式",
+      "stars": 3,
+      "collocation": "My crew builds"
+    },
+    {
+      "lemma": "aside",
+      "pos": "n/adv.",
+      "zh": "小声说的话；在一边",
+      "stars": 3,
+      "collocation": "steps aside in"
+    },
+    {
+      "lemma": "hearing",
+      "pos": "n.",
+      "zh": "听",
+      "stars": 3,
+      "collocation": "A hearing begins"
+    },
+    {
+      "lemma": "lecture",
+      "pos": "n/v.",
+      "zh": "演讲",
+      "stars": 3,
+      "collocation": "a lecture on"
+    },
+    {
+      "lemma": "merchant",
+      "pos": "n/adj.",
+      "zh": "商人；商业的",
+      "stars": 3,
+      "collocation": "wealthy merchant funds"
+    },
+    {
+      "lemma": "dust",
+      "pos": "n/v.",
+      "zh": "灰尘；拂去灰尘",
+      "stars": 3,
+      "collocation": "the dust on"
+    },
+    {
+      "lemma": "flexible",
+      "pos": "adj.",
+      "zh": "易曲的",
+      "stars": 3,
+      "collocation": "A flexible interior"
+    },
+    {
+      "lemma": "pile",
+      "pos": "n/v.",
+      "zh": "堆；堆起",
+      "stars": 3,
+      "collocation": "dusty pile of"
+    },
+    {
+      "lemma": "harbour",
+      "pos": "n/v.",
+      "zh": "港；庇护",
+      "stars": 3,
+      "collocation": "the harbour asks"
+    },
+    {
+      "lemma": "peaceful",
+      "pos": "adj.",
+      "zh": "平静的",
+      "stars": 3,
+      "collocation": "not peaceful"
+    },
+    {
+      "lemma": "cave",
+      "pos": "n/v.",
+      "zh": "洞；凹陷",
+      "stars": 3,
+      "collocation": "a cave below"
+    },
+    {
+      "lemma": "boil",
+      "pos": "n/v.",
+      "zh": "煮沸",
+      "stars": 3,
+      "collocation": "to boil"
+    },
+    {
+      "lemma": "athlete",
+      "pos": "n.",
+      "zh": "运动员",
+      "stars": 3,
+      "collocation": "an athlete with"
+    },
+    {
+      "lemma": "contract",
+      "pos": "n/v.",
+      "zh": "合约；使皱缩",
+      "stars": 4,
+      "collocation": "a contract, but"
+    },
+    {
+      "lemma": "generally",
+      "pos": "adv.",
+      "zh": "通常",
+      "stars": 4,
+      "collocation": "is generally calm"
+    },
+    {
+      "lemma": "slightly",
+      "pos": "adv.",
+      "zh": "些微地",
+      "stars": 4,
+      "collocation": "move slightly ahead"
+    },
+    {
+      "lemma": "cabinet",
+      "pos": "n/adj.",
+      "zh": "橱柜；内阁的",
+      "stars": 4,
+      "collocation": "the cabinet stays"
+    },
+    {
+      "lemma": "estimate",
+      "pos": "n/v.",
+      "zh": "估计",
+      "stars": 4,
+      "collocation": "We estimate six"
+    },
+    {
+      "lemma": "rebel",
+      "pos": "n/v/adj.",
+      "zh": "叛徒；造反",
+      "stars": 4,
+      "collocation": "a rebel, and"
+    },
+    {
+      "lemma": "limited",
+      "pos": "adj/n.",
+      "zh": "有限制的；特别快车",
+      "stars": 3,
+      "collocation": "a limited budget"
+    },
+    {
+      "lemma": "engineering",
+      "pos": "n.",
+      "zh": "工程学",
+      "stars": 3,
+      "collocation": "from engineering checks"
+    },
+    {
+      "lemma": "somehow",
+      "pos": "adv.",
+      "zh": "不知何故",
+      "stars": 3,
+      "collocation": "Somehow we"
+    },
+    {
+      "lemma": "implement",
+      "pos": "n/v.",
+      "zh": "工具；实现",
+      "stars": 3,
+      "collocation": "we implement a"
+    },
+    {
+      "lemma": "emotional",
+      "pos": "adj.",
+      "zh": "情绪的",
+      "stars": 3,
+      "collocation": "His emotional state"
+    },
+    {
+      "lemma": "strategic",
+      "pos": "adj.",
+      "zh": "战略的",
+      "stars": 3,
+      "collocation": "a strategic plan"
+    },
+    {
+      "lemma": "snap",
+      "pos": "v/n/adj.",
+      "zh": "使突然中断；咬",
+      "stars": 3,
+      "collocation": "he snaps at"
+    },
+    {
+      "lemma": "mate",
+      "pos": "n/v.",
+      "zh": "配偶；使配对",
+      "stars": 3,
+      "collocation": "his mate"
+    },
+    {
+      "lemma": "interior",
+      "pos": "n/adj.",
+      "zh": "内部；内部的",
+      "stars": 3,
+      "collocation": "flexible interior makes"
+    },
+    {
+      "lemma": "stimulate",
+      "pos": "v.",
+      "zh": "刺激；起刺激作用",
+      "stars": 3,
+      "collocation": "to stimulate his"
+    },
+    {
+      "lemma": "missing",
+      "pos": "adj.",
+      "zh": "不见的",
+      "stars": 3,
+      "collocation": "a missing memory"
+    },
+    {
+      "lemma": "motivate",
+      "pos": "v.",
+      "zh": "给与动机",
+      "stars": 3,
+      "collocation": "we motivate the"
+    },
+    {
+      "lemma": "negotiation",
+      "pos": "n.",
+      "zh": "谈判",
+      "stars": 4,
+      "collocation": "The negotiation is"
+    },
+    {
+      "lemma": "dealer",
+      "pos": "n.",
+      "zh": "经销商",
+      "stars": 3,
+      "collocation": "A dealer offers"
+    },
+    {
+      "lemma": "therapy",
+      "pos": "n.",
+      "zh": "治疗",
+      "stars": 3,
+      "collocation": "His therapy is"
+    },
+    {
+      "lemma": "verdict",
+      "pos": "n.",
+      "zh": "裁决",
+      "stars": 3,
+      "collocation": "the verdict aloud"
+    },
+    {
+      "lemma": "speculate",
+      "pos": "v.",
+      "zh": "深思",
+      "stars": 3,
+      "collocation": "not speculate, and"
+    },
+    {
+      "lemma": "voter",
+      "pos": "n.",
+      "zh": "选民",
+      "stars": 4,
+      "collocation": "A voter in"
+    },
+    {
+      "lemma": "related",
+      "pos": "adj.",
+      "zh": "讲述的",
+      "stars": 3,
+      "collocation": "His related claim"
+    },
+    {
+      "lemma": "racing",
+      "pos": "n.",
+      "zh": "赛马",
+      "stars": 3,
+      "collocation": "a racing car"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“verdict” 的意思是：",
+      "options": [
+        "判决",
+        "疗法",
+        "谈判",
+        "预算"
+      ],
+      "answer": 0,
+      "speak": "verdict"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "We estimate six months, but the ___ wants a comeback now.",
+      "options": [
+        "athlete",
+        "cabinet",
+        "voter",
+        "author"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“flexible” 的意思是：",
+      "options": [
+        "永久的",
+        "灵活的",
+        "和平的",
+        "有吸引力的"
+      ],
+      "answer": 1,
+      "speak": "flexible"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Our driver is an ___ with a particular kind of courage.",
+      "options": [
+        "merchant",
+        "athlete",
+        "dealer",
+        "author"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "His therapy is hard, and he cannot ___ the pain.",
+      "options": [
+        "ignore",
+        "boil",
+        "conclude",
+        "declare"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“slightly” 的意思是：",
+      "options": [
+        "因此",
+        "稍微",
+        "一般地",
+        "此外"
+      ],
+      "answer": 1,
+      "speak": "slightly"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A ___ in the harbour asks about the team's future.",
+      "options": [
+        "verdict",
+        "voter",
+        "cabinet",
+        "cave"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "A hearing begins, and a judge reads the ___ aloud.",
+      "options": [
+        "statement",
+        "decline",
+        "verdict",
+        "contract"
+      ],
+      "answer": 2
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My ",
+        "hint": "cr",
+        "after": " builds a racing car in a cold workshop.",
+        "answer": "crew"
+      },
+      {
+        "before": "We operate on a ",
+        "hint": "li",
+        "after": " budget, and the work is constant.",
+        "answer": "limited"
+      },
+      {
+        "before": "Our driver is an ",
+        "hint": "at",
+        "after": " with a particular kind of courage.",
+        "answer": "athlete"
+      },
+      {
+        "before": "Then a gas leak forces us to ",
+        "hint": "es",
+        "after": " the pit.",
+        "answer": "escape"
+      },
+      {
+        "before": "His ",
+        "hint": "th",
+        "after": " is hard, and he cannot ignore the pain.",
+        "answer": "therapy"
+      },
+      {
+        "before": "A doctor gives a ",
+        "hint": "le",
+        "after": " on a specific kind of rest.",
+        "answer": "lecture"
+      },
+      {
+        "before": "A ",
+        "hint": "de",
+        "after": " offers a contract, but the terms are attractive.",
+        "answer": "dealer"
+      },
+      {
+        "before": "The ",
+        "hint": "ne",
+        "after": " is long, and the cabinet stays locked.",
+        "answer": "negotiation"
+      },
+      {
+        "before": "My father was a ",
+        "hint": "re",
+        "after": ", and he kept a dusty pile of parts.",
+        "answer": "rebel"
+      },
+      {
+        "before": "A hearing begins, and a judge reads the ",
+        "hint": "ve",
+        "after": " aloud.",
+        "answer": "verdict"
+      }
+    ],
+    "b3": [
+      {
+        "before": "We ",
+        "hint": "e",
+        "after": " six months, but the athlete wants a comeback now.",
+        "answer": "estimate"
+      },
+      {
+        "before": "His emotional state is fragile, and he ",
+        "hint": "s",
+        "after": " at his mate.",
+        "answer": "snaps"
+      },
+      {
+        "before": "We try to ",
+        "hint": "s",
+        "after": " his spirit with a peaceful drive.",
+        "answer": "stimulate"
+      },
+      {
+        "before": "The explanation is simple, and the ",
+        "hint": "b",
+        "after": " office agrees.",
+        "answer": "branch"
+      },
+      {
+        "before": "We ",
+        "hint": "c",
+        "after": " the deal, and the atmosphere is generally calm.",
+        "answer": "conclude"
+      },
+      {
+        "before": "The verdict is fair, and one man steps ",
+        "hint": "a",
+        "after": " in anger.",
+        "answer": "aside"
+      },
+      {
+        "before": "His related claim fails, and the court sets a ",
+        "hint": "r",
+        "after": ".",
+        "answer": "rate"
+      },
+      {
+        "before": "A fellow from ",
+        "hint": "e",
+        "after": " checks the dust on every part.",
+        "answer": "engineering"
+      },
+      {
+        "before": "Later the author writes about a ",
+        "hint": "c",
+        "after": " below the old town.",
+        "answer": "cave"
+      },
+      {
+        "before": "A ",
+        "hint": "f",
+        "after": " interior makes the old car a living space.",
+        "answer": "flexible"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我的车队在寒冷的车间里造一辆赛车。",
+        "keywords": [
+          "crew",
+          "racing",
+          "workshop"
+        ]
+      },
+      {
+        "zh": "我们靠有限的预算运作，工作从不间断。",
+        "keywords": [
+          "operate",
+          "limited",
+          "constant"
+        ]
+      },
+      {
+        "zh": "他的治疗很艰难，可他无法忽视疼痛。",
+        "keywords": [
+          "therapy",
+          "ignore"
+        ]
+      },
+      {
+        "zh": "一场听证会开始，法官大声宣读裁决。",
+        "keywords": [
+          "hearing",
+          "verdict"
+        ]
+      },
+      {
+        "zh": "一个灵活的内饰让这辆旧车成了宜居的空间。",
+        "keywords": [
+          "flexible",
+          "interior",
+          "living"
+        ]
+      },
+      {
+        "zh": "我们承认销量下滑，却仍设法激励全队。",
+        "keywords": [
+          "acknowledge",
+          "decline",
+          "motivate"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 288,
+    "sentences": 28,
+    "newDensity": 0.205,
+    "targetTokenDensity": 0.219,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（6 次）",
+      "Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p32：约 306 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

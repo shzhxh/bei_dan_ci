@@ -1,0 +1,130 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCatalog } from '../lib/catalog.server';
+import { url } from '../lib/paths';
+
+const { totals } = getCatalog();
+const fmt = (value: number) => value.toLocaleString('en-US');
+---
+
+<BaseLayout
+  title="学习方法"
+  description="为什么是 55 篇 / 3,242 词：主线 50 篇 2,953 个星级词 + 考纲补漏 5 篇 289 个无星级中考词；一篇拆两次学、背诵四阶与 SRS 的做法。"
+>
+  <div class="container">
+    <header>
+      <span class="eyebrow">方法 · 设计依据</span>
+      <h1 class="page-title" style="margin-top: 14px;">少一点篇数，多一点复现</h1>
+      <p class="page-lede">
+        这套材料为一件事服务：用尽量少的篇数，把 {fmt(totals.words)} 个高频词放进能读、能背的短文里。
+        主线 50 篇覆盖 {fmt(totals.mainWords)} 个 Collins 3–5★ 词，另用 5 篇考纲补漏补齐
+        {fmt(totals.supplementWords)} 个无星级中考词。下面是它的取舍与使用方式。
+      </p>
+    </header>
+
+    <div class="prose section" style="margin-top: 36px;">
+      <h2>为什么是 50 篇主线 + 5 篇补漏</h2>
+      <p>
+        主线只收 Collins 3–5★ 词，共 {fmt(totals.mainWords)} 个。按每篇 59–60 个目标词位设计
+        （3 篇 60 词 + 47 篇 59 词），<code>ceil({fmt(totals.mainWords)} / 60) = 50</code>。
+        具体到篇的词数以上游分配账簿为准。
+        篇长 280–320 词，句长 8–14 词，目标词词次密度 18–22%；每个目标词在篇内至少出现一次，
+        不再强制出现两次，复现主要交给复读与 SRS。
+      </p>
+      <p>
+        中考考纲里有 1,547 个词，其中 289 个本身没有 Collins 星级，
+        不在主线词表内。为了不把 81.3% 说成 100%，另设 5 篇考纲补漏（4 篇 58 词 + 1 篇 57 词），
+        专门收纳这 289 个无星级中考词。
+        于是站点共 55 篇 / {fmt(totals.words)} 词 = {fmt(totals.mainWords)} 星级词 +
+        {fmt(totals.supplementWords)} 补漏词。
+      </p>
+      <blockquote>
+        压缩篇数不等于压缩总学习时间。主线 50 篇 × 约 75 分钟 ≈ 62 小时，和更多篇数的方案接近；
+        省下的是心理门槛与内容维护量，不是学习时间。
+      </blockquote>
+
+      <h2>双轨：主线 50 篇，中考 27 篇</h2>
+      <table>
+        <thead>
+          <tr><th>路线</th><th>篇目</th><th>篇数</th><th>词位</th><th>覆盖</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>主线路线</td>
+            <td>1–50 篇主线</td>
+            <td>50</td>
+            <td>{fmt(totals.mainWords)}</td>
+            <td>Collins 3–5★ 星级词</td>
+          </tr>
+          <tr>
+            <td>中考路线</td>
+            <td>前 22 篇主线 + 5 篇补漏</td>
+            <td>{totals.zhongkaoPassages}</td>
+            <td>{fmt(totals.zhongkaoWords)}</td>
+            <td>1,258 星级中考词 + 289 补漏 = 1,547</td>
+          </tr>
+          <tr>
+            <td>全部篇目</td>
+            <td>50 主线 + 5 补漏</td>
+            <td>{totals.passages}</td>
+            <td>{fmt(totals.words)}</td>
+            <td>—</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>
+        22 篇主线是算出来的：前 21 篇的词位装不下 1,258 个星级中考词；前 22 篇（账簿词位 1,301）
+        刚好容纳 1,258 个星级中考词 + 43 个过渡词。再补 289 个无星级词，中考路线合计 1,590 个词位。
+        补漏篇只在选择中考路线时出现，不计入主线 50 篇的完成度分母。
+      </p>
+
+      <h2>一篇拆两次学</h2>
+      <table>
+        <thead>
+          <tr><th>次数</th><th>时长</th><th>做什么</th><th>产出</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>第 1 次</td><td>30 min</td><td>预读前 30 个目标词、通读全文、精读前半</td><td>认识 30 词，读通全文</td></tr>
+          <tr><td>第 2 次</td><td>30 min</td><td>预读后 29–30 个目标词、精读后半、背诵 B1–B2</td><td>认识 59–60 词，能跟读</td></tr>
+          <tr><td>第 3 次</td><td>15 min</td><td>背诵 B3–B4、完成检测</td><td>能背、能测</td></tr>
+          <tr><td>之后</td><td>10 min / 天</td><td>复读旧篇 + SRS 到期卡片</td><td>保持</td></tr>
+        </tbody>
+      </table>
+
+      <h2>背诵四阶</h2>
+      <ul>
+        <li><b>B1 跟读</b>：按句分段，当前句高亮、进度条与自动连读；300 词长文在句列表内滚动。</li>
+        <li><b>B2 挖空</b>：目标词挖空并给首字母，填空；长文在框内滚动，顶部显示已填进度。</li>
+        <li><b>B3 首字母</b>：每句只给首字母，补全句子；同样分段滚动并记录已填数量。</li>
+        <li><b>B4 回译</b>：只给中文，说或写出英文；长文回译提示在框内滚动，按关键词命中宽松判定。</li>
+      </ul>
+      <p>四阶可以跳，但建议按顺序。背诵是「记得住」的核心动作，不是可选项。</p>
+
+      <h2>复现靠三个机制</h2>
+      <p>
+        55 篇没有余量写「复现篇」，所以复现由三件事承担：每篇内每个目标词至少出现一次；
+        同一篇在 D1 / D3 / D7 / D16 / D35 重读；以及首读后按篇生成的 SRS 卡片。
+      </p>
+      <p>
+        SRS 间隔为 1 / 3 / 7 / 16 / 35 天，四档评分决定升降档；每日复习上限 120 张，
+        宁可留到明天，也不要一次塞爆。
+      </p>
+
+      <h2>时间预期</h2>
+      <p>
+        每天 30 分钟，约 4–5 个月走完主线 50 篇；每天 60 分钟，约 2 个月。
+        只走中考路线（27 篇）约 34 小时。这里不承诺更快的速度，因为记忆需要间隔。
+        任何一天停下来，已发布内容仍然完整可用。
+      </p>
+
+      <h2>本站目前的状态</h2>
+      <p>
+        55 个短文页与入口、课程、复习、进度、方法、关于 6 个站级页已经就位，四态学习界面、
+        复习队列与本地进度均可用。词表与分篇来自 <code>data/assignment.tsv</code> 与
+        <code>data/assignment-supplement.tsv</code>；成稿从 <code>data/content/</code> 逐篇接入，
+        未接入的篇目在页面上标注「内容制作中」。进度只存本机，可在
+        <a href={url('/me/')}>进度看板</a> 导出备份。
+      </p>
+    </div>
+  </div>
+</BaseLayout>

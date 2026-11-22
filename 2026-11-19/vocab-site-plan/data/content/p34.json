@@ -1,0 +1,829 @@
+{
+  "id": "p34",
+  "title": "The Pump House Gala",
+  "titleZh": "泵房之夜",
+  "topic": "泵房慈善晚会",
+  "paragraphs": [
+    [
+      {
+        "en": "My council borrows a huge pump house for the charity night.",
+        "zh": "我的议会为慈善之夜借下一座巨大的泵房。"
+      },
+      {
+        "en": "Its concrete walls reflect the blue light of the old engines.",
+        "zh": "它的混凝土墙映着老发动机的蓝光。"
+      },
+      {
+        "en": "Steam once ran the pumps, and electricity now lights the hall.",
+        "zh": "蒸汽曾推动水泵，如今电灯照亮大厅。"
+      },
+      {
+        "en": "A long chain of pipes runs onto the upper floor.",
+        "zh": "一长串管道一直延伸到楼上。"
+      },
+      {
+        "en": "We expand the wooden stage and tap a new water source for the pumps.",
+        "zh": "我们扩建木制舞台，并为水泵接通一处新水源。"
+      },
+      {
+        "en": "Then a banker visits and makes a generous offer.",
+        "zh": "接着一位银行家来访，提出一笔慷慨的捐助。"
+      }
+    ],
+    [
+      {
+        "en": "The gala opens with a short opera and a long luxury dinner.",
+        "zh": "晚会以一出短歌剧和一顿漫长的奢华晚餐开场。"
+      },
+      {
+        "en": "A businessman brings goods, and the delivery is on time.",
+        "zh": "一位商人送来货物，送货很准时。"
+      },
+      {
+        "en": "Its shaped roof and great length impress every guest.",
+        "zh": "它造型独特的屋顶和巨大的长度让每位客人都赞叹。"
+      }
+    ],
+    [
+      {
+        "en": "The banker states a figure in sterling and signs the pledge.",
+        "zh": "银行家报出一个英镑数字，并签下认捐书。"
+      },
+      {
+        "en": "He wants an accurate sum before the papers arrive.",
+        "zh": "他想在文件送到前得到一个准确的总额。"
+      },
+      {
+        "en": "A deputy checks every item and traces the origin of each gift.",
+        "zh": "一位副手核对每件物品，追溯每份礼物的来源。"
+      },
+      {
+        "en": "The board asks for a guarantee and a clear objective.",
+        "zh": "董事会要求一份保证，以及一个明确的目标。"
+      },
+      {
+        "en": "The spokesman promises a lasting link to the town and its people.",
+        "zh": "发言人承诺与小镇及镇上的人们建立持久的联系。"
+      },
+      {
+        "en": "We organize a squad to inspect the old stone chamber.",
+        "zh": "我们组织了一个小队，检查那间旧石砌机房。"
+      }
+    ],
+    [
+      {
+        "en": "A sudden storm threatens to smash the stage lights.",
+        "zh": "一场骤起的暴风雨扬言要砸坏舞台灯。"
+      },
+      {
+        "en": "My guest feels anxiety and takes a small white pill.",
+        "zh": "我的一位客人感到焦虑，吃了一片小白药丸。"
+      },
+      {
+        "en": "The infection is mild, and her mental state improves.",
+        "zh": "感染很轻，她的精神状态好转了。"
+      },
+      {
+        "en": "Then a routine check finds a leak near the main tap.",
+        "zh": "接着例行检查发现主水龙头附近有处渗漏。"
+      },
+      {
+        "en": "Obviously the relief is great, and nobody leaves.",
+        "zh": "显然大家松了口气，没有人离场。"
+      }
+    ],
+    [
+      {
+        "en": "Later a legal controversy about the money reaches the local press.",
+        "zh": "后来一桩关于这笔钱的法律争议传到本地报馆。"
+      },
+      {
+        "en": "A militant group threatens a protest outside the gate.",
+        "zh": "一个激进团体扬言要在门外抗议。"
+      },
+      {
+        "en": "The host's conduct looks equal parts careful and strange.",
+        "zh": "主人的举止看来既谨慎又古怪。"
+      },
+      {
+        "en": "His thinking is clear, but the figures do not yield.",
+        "zh": "他的思路清楚，可数字对不上。"
+      },
+      {
+        "en": "We obtain a new chapter of the audit and eliminate the error.",
+        "zh": "我们拿到了审计的新一章，并排除了那处错误。"
+      },
+      {
+        "en": "The clerk must resign, and the marine insurer calls back.",
+        "zh": "那位职员必须辞职，海事保险公司也回了电话。"
+      },
+      {
+        "en": "My role is small, but the relief is real and permanent.",
+        "zh": "我的角色很小，但那份宽慰真实而持久。"
+      },
+      {
+        "en": "Our strategy is simple, and the consequence is a fair and open review.",
+        "zh": "我们的策略很简单，结果是一场公正公开的复核。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "figure",
+      "pos": "n/v.",
+      "zh": "数字；描绘",
+      "stars": 5,
+      "collocation": "a figure in"
+    },
+    {
+      "lemma": "blue",
+      "pos": "n/adj/v.",
+      "zh": "蓝色；蓝色的",
+      "stars": 5,
+      "collocation": "the blue light"
+    },
+    {
+      "lemma": "chapter",
+      "pos": "n.",
+      "zh": "章",
+      "stars": 4,
+      "collocation": "new chapter of"
+    },
+    {
+      "lemma": "legal",
+      "pos": "adj.",
+      "zh": "法律的",
+      "stars": 4,
+      "collocation": "a legal controversy"
+    },
+    {
+      "lemma": "reflect",
+      "pos": "v.",
+      "zh": "反射；被反射",
+      "stars": 4,
+      "collocation": "walls reflect the"
+    },
+    {
+      "lemma": "goods",
+      "pos": "n.",
+      "zh": "货物",
+      "stars": 4,
+      "collocation": "brings goods, and"
+    },
+    {
+      "lemma": "length",
+      "pos": "n.",
+      "zh": "长度",
+      "stars": 4,
+      "collocation": "great length impress"
+    },
+    {
+      "lemma": "link",
+      "pos": "n/v.",
+      "zh": "环；连结",
+      "stars": 4,
+      "collocation": "lasting link to"
+    },
+    {
+      "lemma": "relief",
+      "pos": "n.",
+      "zh": "减轻",
+      "stars": 4,
+      "collocation": "the relief is"
+    },
+    {
+      "lemma": "equal",
+      "pos": "n/adj/v.",
+      "zh": "对手；相等的",
+      "stars": 4,
+      "collocation": "looks equal parts"
+    },
+    {
+      "lemma": "conduct",
+      "pos": "n/v.",
+      "zh": "行为；为人",
+      "stars": 4,
+      "collocation": "host's conduct looks"
+    },
+    {
+      "lemma": "thinking",
+      "pos": "n/adj.",
+      "zh": "思考；思考的",
+      "stars": 4,
+      "collocation": "His thinking is"
+    },
+    {
+      "lemma": "guarantee",
+      "pos": "n/v.",
+      "zh": "担保；保证",
+      "stars": 4,
+      "collocation": "a guarantee and"
+    },
+    {
+      "lemma": "obtain",
+      "pos": "v.",
+      "zh": "获得；流行",
+      "stars": 3,
+      "collocation": "We obtain a"
+    },
+    {
+      "lemma": "consequence",
+      "pos": "n.",
+      "zh": "结果",
+      "stars": 3,
+      "collocation": "the consequence is"
+    },
+    {
+      "lemma": "onto",
+      "pos": "prep.",
+      "zh": "在...之上",
+      "stars": 3,
+      "collocation": "runs onto the"
+    },
+    {
+      "lemma": "mental",
+      "pos": "adj/n.",
+      "zh": "心智的；精神病患者",
+      "stars": 3,
+      "collocation": "her mental state"
+    },
+    {
+      "lemma": "chain",
+      "pos": "n/v.",
+      "zh": "链；用铁练锁住",
+      "stars": 3,
+      "collocation": "long chain of"
+    },
+    {
+      "lemma": "permanent",
+      "pos": "adj/n.",
+      "zh": "永久的；烫发",
+      "stars": 3,
+      "collocation": "and permanent"
+    },
+    {
+      "lemma": "expand",
+      "pos": "v.",
+      "zh": "使膨胀；张开",
+      "stars": 3,
+      "collocation": "We expand the"
+    },
+    {
+      "lemma": "electricity",
+      "pos": "n.",
+      "zh": "电",
+      "stars": 3,
+      "collocation": "and electricity now"
+    },
+    {
+      "lemma": "routine",
+      "pos": "n/adj.",
+      "zh": "常规；日常的",
+      "stars": 3,
+      "collocation": "a routine check"
+    },
+    {
+      "lemma": "resign",
+      "pos": "v.",
+      "zh": "辞职",
+      "stars": 3,
+      "collocation": "must resign, and"
+    },
+    {
+      "lemma": "anxiety",
+      "pos": "n.",
+      "zh": "焦虑",
+      "stars": 3,
+      "collocation": "feels anxiety and"
+    },
+    {
+      "lemma": "steam",
+      "pos": "n/adj/v.",
+      "zh": "蒸汽；蒸汽的",
+      "stars": 3,
+      "collocation": "Steam once"
+    },
+    {
+      "lemma": "opera",
+      "pos": "n.",
+      "zh": "歌剧",
+      "stars": 3,
+      "collocation": "short opera and"
+    },
+    {
+      "lemma": "generous",
+      "pos": "adj.",
+      "zh": "慷慨的",
+      "stars": 3,
+      "collocation": "a generous offer"
+    },
+    {
+      "lemma": "tap",
+      "pos": "n/v.",
+      "zh": "轻打",
+      "stars": 3,
+      "collocation": "and tap a"
+    },
+    {
+      "lemma": "businessman",
+      "pos": "n.",
+      "zh": "商人",
+      "stars": 3,
+      "collocation": "A businessman brings"
+    },
+    {
+      "lemma": "concrete",
+      "pos": "n/adj/v.",
+      "zh": "凝结物；具体的",
+      "stars": 3,
+      "collocation": "Its concrete walls"
+    },
+    {
+      "lemma": "inspect",
+      "pos": "v.",
+      "zh": "检查",
+      "stars": 3,
+      "collocation": "to inspect the"
+    },
+    {
+      "lemma": "pill",
+      "pos": "n/v.",
+      "zh": "药丸；做成药丸",
+      "stars": 3,
+      "collocation": "white pill"
+    },
+    {
+      "lemma": "council",
+      "pos": "n.",
+      "zh": "会议",
+      "stars": 5,
+      "collocation": "My council borrows"
+    },
+    {
+      "lemma": "source",
+      "pos": "n.",
+      "zh": "来源",
+      "stars": 4,
+      "collocation": "water source for"
+    },
+    {
+      "lemma": "obviously",
+      "pos": "adv.",
+      "zh": "显而易见地",
+      "stars": 4,
+      "collocation": "Obviously the"
+    },
+    {
+      "lemma": "strategy",
+      "pos": "n.",
+      "zh": "战略",
+      "stars": 4,
+      "collocation": "Our strategy is"
+    },
+    {
+      "lemma": "threaten",
+      "pos": "v.",
+      "zh": "恐吓；威胁",
+      "stars": 4,
+      "collocation": "storm threatens to"
+    },
+    {
+      "lemma": "deputy",
+      "pos": "n.",
+      "zh": "副手",
+      "stars": 4,
+      "collocation": "A deputy checks"
+    },
+    {
+      "lemma": "organize",
+      "pos": "v.",
+      "zh": "组织；组织起来",
+      "stars": 4,
+      "collocation": "We organize a"
+    },
+    {
+      "lemma": "objective",
+      "pos": "n/adj.",
+      "zh": "目的；客观的",
+      "stars": 3,
+      "collocation": "clear objective"
+    },
+    {
+      "lemma": "sum",
+      "pos": "n/v.",
+      "zh": "总数；总计",
+      "stars": 3,
+      "collocation": "accurate sum before"
+    },
+    {
+      "lemma": "charity",
+      "pos": "n.",
+      "zh": "慈悲",
+      "stars": 3,
+      "collocation": "the charity night"
+    },
+    {
+      "lemma": "delivery",
+      "pos": "n.",
+      "zh": "递送",
+      "stars": 3,
+      "collocation": "the delivery is"
+    },
+    {
+      "lemma": "chamber",
+      "pos": "n/v/adj.",
+      "zh": "室；装",
+      "stars": 3,
+      "collocation": "stone chamber"
+    },
+    {
+      "lemma": "accurate",
+      "pos": "adj.",
+      "zh": "正确的",
+      "stars": 3,
+      "collocation": "an accurate sum"
+    },
+    {
+      "lemma": "trace",
+      "pos": "n/v.",
+      "zh": "痕迹；追踪",
+      "stars": 3,
+      "collocation": "and traces the"
+    },
+    {
+      "lemma": "eliminate",
+      "pos": "v.",
+      "zh": "除去",
+      "stars": 3,
+      "collocation": "and eliminate the"
+    },
+    {
+      "lemma": "yield",
+      "pos": "n/v.",
+      "zh": "生产量；出产",
+      "stars": 3,
+      "collocation": "not yield"
+    },
+    {
+      "lemma": "marine",
+      "pos": "n/adj.",
+      "zh": "舰队；海的",
+      "stars": 3,
+      "collocation": "the marine insurer"
+    },
+    {
+      "lemma": "smash",
+      "pos": "n/adj/v.",
+      "zh": "打碎；非常轰动的",
+      "stars": 3,
+      "collocation": "to smash the"
+    },
+    {
+      "lemma": "luxury",
+      "pos": "n/adj.",
+      "zh": "奢侈；奢侈的",
+      "stars": 3,
+      "collocation": "long luxury dinner"
+    },
+    {
+      "lemma": "spokesman",
+      "pos": "n.",
+      "zh": "发言人",
+      "stars": 4,
+      "collocation": "The spokesman promises"
+    },
+    {
+      "lemma": "infection",
+      "pos": "n.",
+      "zh": "传染",
+      "stars": 3,
+      "collocation": "The infection is"
+    },
+    {
+      "lemma": "controversy",
+      "pos": "n.",
+      "zh": "论争",
+      "stars": 3,
+      "collocation": "legal controversy about"
+    },
+    {
+      "lemma": "banker",
+      "pos": "n.",
+      "zh": "银行家",
+      "stars": 3,
+      "collocation": "a banker visits"
+    },
+    {
+      "lemma": "militant",
+      "pos": "adj.",
+      "zh": "好战的",
+      "stars": 3,
+      "collocation": "A militant group"
+    },
+    {
+      "lemma": "sterling",
+      "pos": "n/adj.",
+      "zh": "英国货币；英国货币的",
+      "stars": 4,
+      "collocation": "in sterling and"
+    },
+    {
+      "lemma": "squad",
+      "pos": "n/v.",
+      "zh": "班；编成班",
+      "stars": 3,
+      "collocation": "a squad to"
+    },
+    {
+      "lemma": "shaped",
+      "pos": "adj.",
+      "zh": "成某种形状的",
+      "stars": 3,
+      "collocation": "Its shaped roof"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“controversy” 的意思是：",
+      "options": [
+        "争议",
+        "慈善",
+        "步兵班",
+        "英镑"
+      ],
+      "answer": 0,
+      "speak": "controversy"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A businessman brings ___, and the delivery is on time.",
+      "options": [
+        "steam",
+        "goods",
+        "tap",
+        "opera"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“obviously” 的意思是：",
+      "options": [
+        "平等地",
+        "永久地",
+        "显然",
+        "准确地"
+      ],
+      "answer": 2,
+      "speak": "obviously"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "We obtain a new ___ of the audit and eliminate the error.",
+      "options": [
+        "figure",
+        "length",
+        "chapter",
+        "chamber"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A sudden storm ___ to smash the stage lights.",
+      "options": [
+        "inspects",
+        "resigns",
+        "threatens",
+        "yields"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“anxiety” 的意思是：",
+      "options": [
+        "感染",
+        "救济",
+        "焦虑",
+        "策略"
+      ],
+      "answer": 2,
+      "speak": "anxiety"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Its concrete walls ___ the blue light of the old engines.",
+      "options": [
+        "expand",
+        "organize",
+        "reflect",
+        "obtain"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "The deputy must ___, and the marine insurer calls back.",
+      "options": [
+        "smash",
+        "resign",
+        "yield",
+        "trace"
+      ],
+      "answer": 1
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My council borrows a huge pump house for the ",
+        "hint": "ch",
+        "after": " night.",
+        "answer": "charity"
+      },
+      {
+        "before": "Its concrete walls ",
+        "hint": "re",
+        "after": " the blue light of the old engines.",
+        "answer": "reflect"
+      },
+      {
+        "before": "Steam once ran the pumps, and ",
+        "hint": "el",
+        "after": " now lights the hall.",
+        "answer": "electricity"
+      },
+      {
+        "before": "We expand the wooden stage and tap a new water ",
+        "hint": "so",
+        "after": " for the pumps.",
+        "answer": "source"
+      },
+      {
+        "before": "Then a ",
+        "hint": "ba",
+        "after": " visits and makes a generous offer.",
+        "answer": "banker"
+      },
+      {
+        "before": "The gala opens with a short ",
+        "hint": "op",
+        "after": " and a long luxury dinner.",
+        "answer": "opera"
+      },
+      {
+        "before": "A businessman brings goods, and the ",
+        "hint": "de",
+        "after": " is on time.",
+        "answer": "delivery"
+      },
+      {
+        "before": "The banker states a ",
+        "hint": "fi",
+        "after": " in sterling and signs the pledge.",
+        "answer": "figure"
+      },
+      {
+        "before": "A ",
+        "hint": "de",
+        "after": " checks every item and traces the origin of each gift.",
+        "answer": "deputy"
+      },
+      {
+        "before": "We obtain a new ",
+        "hint": "ch",
+        "after": " of the audit and eliminate the error.",
+        "answer": "chapter"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Its shaped roof and great ",
+        "hint": "l",
+        "after": " impress every guest.",
+        "answer": "length"
+      },
+      {
+        "before": "He wants an accurate ",
+        "hint": "s",
+        "after": " before the papers arrive.",
+        "answer": "sum"
+      },
+      {
+        "before": "The board asks for a ",
+        "hint": "g",
+        "after": " and a clear objective.",
+        "answer": "guarantee"
+      },
+      {
+        "before": "The spokesman promises a lasting ",
+        "hint": "l",
+        "after": " to the town and its people.",
+        "answer": "link"
+      },
+      {
+        "before": "We organize a ",
+        "hint": "s",
+        "after": " to inspect the old stone chamber.",
+        "answer": "squad"
+      },
+      {
+        "before": "My guest feels ",
+        "hint": "a",
+        "after": " and takes a small white pill.",
+        "answer": "anxiety"
+      },
+      {
+        "before": "The ",
+        "hint": "i",
+        "after": " is mild, and her mental state improves.",
+        "answer": "infection"
+      },
+      {
+        "before": "Then a routine check finds a leak near the main ",
+        "hint": "t",
+        "after": ".",
+        "answer": "tap"
+      },
+      {
+        "before": "Later a legal ",
+        "hint": "c",
+        "after": " about the money reaches the local press.",
+        "answer": "controversy"
+      },
+      {
+        "before": "His thinking is clear, but the figures do not ",
+        "hint": "y",
+        "after": ".",
+        "answer": "yield"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我的议会为慈善之夜借下一座巨大的泵房。",
+        "keywords": [
+          "council",
+          "charity"
+        ]
+      },
+      {
+        "zh": "蒸汽曾推动水泵，如今电灯照亮大厅。",
+        "keywords": [
+          "steam",
+          "electricity"
+        ]
+      },
+      {
+        "zh": "一位商人送来货物，送货很准时。",
+        "keywords": [
+          "businessman",
+          "goods",
+          "delivery"
+        ]
+      },
+      {
+        "zh": "一位客人感到焦虑，吃了一片小白药丸。",
+        "keywords": [
+          "anxiety",
+          "pill"
+        ]
+      },
+      {
+        "zh": "后来一桩关于这笔钱的法律争议传到报馆。",
+        "keywords": [
+          "legal",
+          "controversy"
+        ]
+      },
+      {
+        "zh": "我们的策略很简单，结果是一场公正的复核。",
+        "keywords": [
+          "strategy",
+          "consequence"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 293,
+    "sentences": 28,
+    "newDensity": 0.201,
+    "targetTokenDensity": 0.218,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（5 次）",
+      "Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p34：约 298 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

@@ -1,0 +1,831 @@
+{
+  "id": "p39",
+  "title": "The Hidden Dump in the Parliament Hall",
+  "titleZh": "议会大厅里的隐藏废料",
+  "topic": "旧议会大厅修复与非法废料",
+  "paragraphs": [
+    [
+      {
+        "en": "The eastern parliament meets in a grand old stone hall.",
+        "zh": "东部议会在一座宏伟的旧石厅里开会。"
+      },
+      {
+        "en": "A major vote will determine the fate of this building.",
+        "zh": "一次重要的投票将决定这座建筑的命运。"
+      },
+      {
+        "en": "An annual series of repairs has reached its final stage.",
+        "zh": "一年一度的修缮系列已进入最后阶段。"
+      },
+      {
+        "en": "Workers arrange a careful outline of the long project.",
+        "zh": "工人们为这个长期项目安排了一份仔细的纲要。"
+      },
+      {
+        "en": "A typical stone platform rests below the main hall.",
+        "zh": "一个典型的石制平台位于主厅下方。"
+      },
+      {
+        "en": "My aunt's firm will restore and transform the painted ceiling.",
+        "zh": "我姑姑的公司将修复并改造彩绘天花板。"
+      },
+      {
+        "en": "They appoint a married engineer to lead the daily work.",
+        "zh": "他们任命一位已婚工程师来领导日常工作。"
+      },
+      {
+        "en": "A chemical smell emerges from a crack in the wall.",
+        "zh": "一股化学气味从墙上的裂缝中冒出。"
+      },
+      {
+        "en": "Then they find three barrel lids beneath a loose fold of stone.",
+        "zh": "然后他们在一块松动的石头下发现三个桶盖。"
+      },
+      {
+        "en": "A grave problem becomes visible beside the north wing.",
+        "zh": "北翼旁边出现了一个严重的问题。"
+      }
+    ],
+    [
+      {
+        "en": "The first encounter with the waste will appal the whole crew.",
+        "zh": "第一次与这些废料相遇会让整个工队感到震惊。"
+      },
+      {
+        "en": "During the search, police suspect an illegal dump at this location.",
+        "zh": "搜查期间，警方怀疑这个地点有一处非法倾倒。"
+      },
+      {
+        "en": "A commissioner arrives to lead the official safety procedure.",
+        "zh": "一位委员赶来领导官方的安全程序。"
+      },
+      {
+        "en": "She has an assured manner and a calm public attitude.",
+        "zh": "她举止自信，公开态度平静。"
+      },
+      {
+        "en": "Her team will chase every clue in the dark depth below.",
+        "zh": "她的团队会在下面的黑暗深处追踪每一条线索。"
+      },
+      {
+        "en": "They predict a long inquiry and heavy stress on staff.",
+        "zh": "他们预计会有一场漫长的调查，员工将承受沉重的压力。"
+      },
+      {
+        "en": "A collective anger begins to roll through the small town.",
+        "zh": "一种集体的愤怒开始席卷这座小镇。"
+      },
+      {
+        "en": "My cousin pins a map and a bone fragment on the board.",
+        "zh": "我表弟把一张地图和一块骨头碎片钉在板上。"
+      },
+      {
+        "en": "The crime may involve a vice ring and a hidden ally.",
+        "zh": "这起犯罪可能涉及一个恶习团伙和一名隐藏的盟友。"
+      },
+      {
+        "en": "Later the governor calls a meeting at midnight.",
+        "zh": "后来州长在午夜召集了一次会议。"
+      }
+    ],
+    [
+      {
+        "en": "A spectacular yacht waits near the harbor for the charity tour.",
+        "zh": "一艘壮观的游艇在港口附近等待慈善参观。"
+      },
+      {
+        "en": "They plan a night of entertainment and delight for the donors.",
+        "zh": "他们为捐助者计划了一个充满娱乐和欢乐的夜晚。"
+      },
+      {
+        "en": "One donor will grab the chance to enable the repairs.",
+        "zh": "一位捐助者会抓住这个机会，使修缮得以进行。"
+      },
+      {
+        "en": "The overall cost may limit the budget for next year.",
+        "zh": "总成本可能会限制明年的预算。"
+      },
+      {
+        "en": "A catholic group chops wood and offers a small hall.",
+        "zh": "一个天主教团体劈柴，并提供一个小厅。"
+      },
+      {
+        "en": "Their shared vision can give the old room a new personality.",
+        "zh": "他们共同的愿景能给这个旧房间带来新的个性。"
+      },
+      {
+        "en": "My mother feels deep emotion, whereas the clerk stays calm.",
+        "zh": "我母亲感到深深的情绪，而那位职员保持平静。"
+      },
+      {
+        "en": "On the eleventh day, a gift ends a bad tendency and restarts production.",
+        "zh": "在第十一天，一份礼物结束了一个坏趋势，并重启了生产。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "major",
+      "pos": "n./adj./v.",
+      "zh": "主修课",
+      "stars": 5,
+      "collocation": "A major vote will"
+    },
+    {
+      "lemma": "vote",
+      "pos": "n./v.",
+      "zh": "投票",
+      "stars": 5,
+      "collocation": "major vote will determine"
+    },
+    {
+      "lemma": "production",
+      "pos": "n.",
+      "zh": "制造",
+      "stars": 4,
+      "collocation": "restarts production."
+    },
+    {
+      "lemma": "determine",
+      "pos": "v.",
+      "zh": "决定",
+      "stars": 4,
+      "collocation": "will determine the fate"
+    },
+    {
+      "lemma": "attitude",
+      "pos": "n.",
+      "zh": "态度",
+      "stars": 4,
+      "collocation": "public attitude."
+    },
+    {
+      "lemma": "crime",
+      "pos": "n.",
+      "zh": "犯罪",
+      "stars": 4,
+      "collocation": "The crime may involve"
+    },
+    {
+      "lemma": "annual",
+      "pos": "n./adj.",
+      "zh": "年刊",
+      "stars": 4,
+      "collocation": "An annual series of"
+    },
+    {
+      "lemma": "arrange",
+      "pos": "v.",
+      "zh": "安排",
+      "stars": 4,
+      "collocation": "Workers arrange a careful"
+    },
+    {
+      "lemma": "limit",
+      "pos": "n./v.",
+      "zh": "界限",
+      "stars": 4,
+      "collocation": "may limit the budget"
+    },
+    {
+      "lemma": "eastern",
+      "pos": "n./adj.",
+      "zh": "东方人",
+      "stars": 4,
+      "collocation": "The eastern parliament meets"
+    },
+    {
+      "lemma": "roll",
+      "pos": "n./v.",
+      "zh": "卷",
+      "stars": 4,
+      "collocation": "to roll through the"
+    },
+    {
+      "lemma": "stress",
+      "pos": "n./v.",
+      "zh": "压力",
+      "stars": 4,
+      "collocation": "heavy stress on staff."
+    },
+    {
+      "lemma": "chemical",
+      "pos": "n./adj.",
+      "zh": "化学药品",
+      "stars": 4,
+      "collocation": "A chemical smell emerges"
+    },
+    {
+      "lemma": "procedure",
+      "pos": "n.",
+      "zh": "程序",
+      "stars": 3,
+      "collocation": "safety procedure."
+    },
+    {
+      "lemma": "appoint",
+      "pos": "v.",
+      "zh": "任命",
+      "stars": 3,
+      "collocation": "They appoint a married"
+    },
+    {
+      "lemma": "married",
+      "pos": "adj.",
+      "zh": "已婚的",
+      "stars": 3,
+      "collocation": "a married engineer to"
+    },
+    {
+      "lemma": "typical",
+      "pos": "adj.",
+      "zh": "典型的",
+      "stars": 3,
+      "collocation": "A typical stone platform"
+    },
+    {
+      "lemma": "bone",
+      "pos": "n./v.",
+      "zh": "骨头",
+      "stars": 3,
+      "collocation": "a bone fragment on"
+    },
+    {
+      "lemma": "depth",
+      "pos": "n.",
+      "zh": "深度",
+      "stars": 3,
+      "collocation": "dark depth below."
+    },
+    {
+      "lemma": "predict",
+      "pos": "v.",
+      "zh": "预知",
+      "stars": 3,
+      "collocation": "They predict a long"
+    },
+    {
+      "lemma": "tendency",
+      "pos": "n.",
+      "zh": "趋向",
+      "stars": 3,
+      "collocation": "bad tendency and restarts"
+    },
+    {
+      "lemma": "platform",
+      "pos": "n.",
+      "zh": "站台",
+      "stars": 3,
+      "collocation": "stone platform rests below"
+    },
+    {
+      "lemma": "catholic",
+      "pos": "n./adj.",
+      "zh": "天主教徒",
+      "stars": 3,
+      "collocation": "A catholic group chops"
+    },
+    {
+      "lemma": "transform",
+      "pos": "v.",
+      "zh": "使转换",
+      "stars": 3,
+      "collocation": "and transform the painted"
+    },
+    {
+      "lemma": "outline",
+      "pos": "n./v.",
+      "zh": "大纲",
+      "stars": 3,
+      "collocation": "careful outline of the"
+    },
+    {
+      "lemma": "illegal",
+      "pos": "adj.",
+      "zh": "违法的",
+      "stars": 3,
+      "collocation": "an illegal dump at"
+    },
+    {
+      "lemma": "entertainment",
+      "pos": "n.",
+      "zh": "娱乐",
+      "stars": 3,
+      "collocation": "of entertainment and delight"
+    },
+    {
+      "lemma": "delight",
+      "pos": "n./v.",
+      "zh": "高兴",
+      "stars": 3,
+      "collocation": "and delight for the"
+    },
+    {
+      "lemma": "midnight",
+      "pos": "n./adj.",
+      "zh": "午夜",
+      "stars": 3,
+      "collocation": "at midnight."
+    },
+    {
+      "lemma": "fold",
+      "pos": "n./v.",
+      "zh": "折层",
+      "stars": 3,
+      "collocation": "loose fold of stone."
+    },
+    {
+      "lemma": "pin",
+      "pos": "n./v./adj.",
+      "zh": "大头针",
+      "stars": 3,
+      "collocation": "cousin pins a map"
+    },
+    {
+      "lemma": "vice",
+      "pos": "n./v./prep.",
+      "zh": "恶习",
+      "stars": 3,
+      "collocation": "a vice ring and"
+    },
+    {
+      "lemma": "series",
+      "pos": "n.",
+      "zh": "串联",
+      "stars": 4,
+      "collocation": "annual series of repairs"
+    },
+    {
+      "lemma": "parliament",
+      "pos": "n.",
+      "zh": "国会",
+      "stars": 4,
+      "collocation": "eastern parliament meets in"
+    },
+    {
+      "lemma": "emerge",
+      "pos": "v.",
+      "zh": "浮现",
+      "stars": 4,
+      "collocation": "smell emerges from a"
+    },
+    {
+      "lemma": "overall",
+      "pos": "adj./adv./n.",
+      "zh": "全部的",
+      "stars": 4,
+      "collocation": "The overall cost may"
+    },
+    {
+      "lemma": "governor",
+      "pos": "n.",
+      "zh": "州长",
+      "stars": 4,
+      "collocation": "the governor calls a"
+    },
+    {
+      "lemma": "enable",
+      "pos": "v.",
+      "zh": "使能够",
+      "stars": 3,
+      "collocation": "to enable the repairs."
+    },
+    {
+      "lemma": "whereas",
+      "pos": "conj.",
+      "zh": "然而",
+      "stars": 3,
+      "collocation": "emotion, whereas the clerk"
+    },
+    {
+      "lemma": "location",
+      "pos": "n.",
+      "zh": "位置",
+      "stars": 3,
+      "collocation": "this location."
+    },
+    {
+      "lemma": "vision",
+      "pos": "n./v.",
+      "zh": "视觉",
+      "stars": 3,
+      "collocation": "shared vision can give"
+    },
+    {
+      "lemma": "restore",
+      "pos": "v.",
+      "zh": "回复",
+      "stars": 3,
+      "collocation": "will restore and transform"
+    },
+    {
+      "lemma": "personality",
+      "pos": "n.",
+      "zh": "个性",
+      "stars": 3,
+      "collocation": "new personality."
+    },
+    {
+      "lemma": "emotion",
+      "pos": "n.",
+      "zh": "情绪",
+      "stars": 3,
+      "collocation": "deep emotion, whereas the"
+    },
+    {
+      "lemma": "visible",
+      "pos": "adj./n.",
+      "zh": "看得见的",
+      "stars": 3,
+      "collocation": "becomes visible beside the"
+    },
+    {
+      "lemma": "encounter",
+      "pos": "n./v.",
+      "zh": "相会",
+      "stars": 3,
+      "collocation": "first encounter with the"
+    },
+    {
+      "lemma": "collective",
+      "pos": "adj.",
+      "zh": "集体的",
+      "stars": 3,
+      "collocation": "A collective anger begins"
+    },
+    {
+      "lemma": "chase",
+      "pos": "n./v.",
+      "zh": "追求",
+      "stars": 3,
+      "collocation": "will chase every clue"
+    },
+    {
+      "lemma": "grave",
+      "pos": "n./adj./v.",
+      "zh": "墓穴",
+      "stars": 3,
+      "collocation": "A grave problem becomes"
+    },
+    {
+      "lemma": "barrel",
+      "pos": "n./v.",
+      "zh": "桶",
+      "stars": 3,
+      "collocation": "three barrel lids beneath"
+    },
+    {
+      "lemma": "chop",
+      "pos": "n./v.",
+      "zh": "肋条肉",
+      "stars": 3,
+      "collocation": "group chops wood and"
+    },
+    {
+      "lemma": "ally",
+      "pos": "n./v.",
+      "zh": "同盟者",
+      "stars": 4,
+      "collocation": "hidden ally."
+    },
+    {
+      "lemma": "grab",
+      "pos": "n./v.",
+      "zh": "抓握",
+      "stars": 3,
+      "collocation": "will grab the chance"
+    },
+    {
+      "lemma": "spectacular",
+      "pos": "adj./n.",
+      "zh": "公开展示的",
+      "stars": 3,
+      "collocation": "A spectacular yacht waits"
+    },
+    {
+      "lemma": "yacht",
+      "pos": "n./v.",
+      "zh": "快艇",
+      "stars": 3,
+      "collocation": "spectacular yacht waits near"
+    },
+    {
+      "lemma": "appal",
+      "pos": "v.",
+      "zh": "使惊骇",
+      "stars": 3,
+      "collocation": "will appal the whole"
+    },
+    {
+      "lemma": "eleventh",
+      "pos": "num.",
+      "zh": "第十一",
+      "stars": 4,
+      "collocation": "the eleventh day, a"
+    },
+    {
+      "lemma": "commissioner",
+      "pos": "n.",
+      "zh": "委员",
+      "stars": 3,
+      "collocation": "A commissioner arrives to"
+    },
+    {
+      "lemma": "assured",
+      "pos": "adj.",
+      "zh": "确定的",
+      "stars": 3,
+      "collocation": "an assured manner and"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“parliament” 的意思是：",
+      "options": [
+        "议会",
+        "平台",
+        "委员",
+        "预算"
+      ],
+      "answer": 0,
+      "speak": "parliament"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A major vote will ___ the fate of this building.",
+      "options": [
+        "determine",
+        "arrange",
+        "restore",
+        "predict"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“grave” 的意思是：",
+      "options": [
+        "严重的",
+        "典型的",
+        "壮观的",
+        "确信的"
+      ],
+      "answer": 0,
+      "speak": "grave"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Her team will ___ every clue in the dark depth below.",
+      "options": [
+        "chase",
+        "grab",
+        "chop",
+        "pin"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "The overall cost may ___ the budget for next year.",
+      "options": [
+        "limit",
+        "enable",
+        "appoint",
+        "transform"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“illegal” 的意思是：",
+      "options": [
+        "非法的",
+        "东部的",
+        "已婚的",
+        "典型的"
+      ],
+      "answer": 0,
+      "speak": "illegal"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A spectacular ___ waits near the harbor for the charity tour.",
+      "options": [
+        "yacht",
+        "barrel",
+        "platform",
+        "bone"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“tendency” 的意思是：",
+      "options": [
+        "趋势",
+        "程序",
+        "情绪",
+        "个性"
+      ],
+      "answer": 0,
+      "speak": "tendency"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "The eastern ",
+        "hint": "pa",
+        "after": " meets in a grand old stone hall.",
+        "answer": "parliament"
+      },
+      {
+        "before": "A major vote will ",
+        "hint": "de",
+        "after": " the fate of this building.",
+        "answer": "determine"
+      },
+      {
+        "before": "An ",
+        "hint": "an",
+        "after": " series of repairs has reached its final stage.",
+        "answer": "annual"
+      },
+      {
+        "before": "Workers arrange a careful ",
+        "hint": "ou",
+        "after": " of the long project.",
+        "answer": "outline"
+      },
+      {
+        "before": "A ",
+        "hint": "ty",
+        "after": " stone platform rests below the main hall.",
+        "answer": "typical"
+      },
+      {
+        "before": "My aunt's firm will ",
+        "hint": "re",
+        "after": " and transform the painted ceiling.",
+        "answer": "restore"
+      },
+      {
+        "before": "They ",
+        "hint": "ap",
+        "after": " a married engineer to lead the daily work.",
+        "answer": "appoint"
+      },
+      {
+        "before": "A ",
+        "hint": "ch",
+        "after": " smell emerges from a crack in the wall.",
+        "answer": "chemical"
+      },
+      {
+        "before": "Then they find three ",
+        "hint": "ba",
+        "after": " lids beneath a loose fold of stone.",
+        "answer": "barrel"
+      },
+      {
+        "before": "A grave problem becomes ",
+        "hint": "vi",
+        "after": " beside the north wing.",
+        "answer": "visible"
+      }
+    ],
+    "b3": [
+      {
+        "before": "The crime may involve a vice ring and a hidden ",
+        "hint": "al",
+        "after": ".",
+        "answer": "ally"
+      },
+      {
+        "before": "Later the governor calls a meeting at ",
+        "hint": "mi",
+        "after": ".",
+        "answer": "midnight"
+      },
+      {
+        "before": "A ",
+        "hint": "sp",
+        "after": " yacht waits near the harbor for the charity tour.",
+        "answer": "spectacular"
+      },
+      {
+        "before": "They plan a night of entertainment and ",
+        "hint": "de",
+        "after": " for the donors.",
+        "answer": "delight"
+      },
+      {
+        "before": "One donor will grab the chance to ",
+        "hint": "en",
+        "after": " the repairs.",
+        "answer": "enable"
+      },
+      {
+        "before": "The overall cost may ",
+        "hint": "li",
+        "after": " the budget for next year.",
+        "answer": "limit"
+      },
+      {
+        "before": "A ",
+        "hint": "ca",
+        "after": " group chops wood and offers a small hall.",
+        "answer": "catholic"
+      },
+      {
+        "before": "Their shared vision can give the old room a new ",
+        "hint": "pe",
+        "after": ".",
+        "answer": "personality"
+      },
+      {
+        "before": "My mother feels deep emotion, ",
+        "hint": "wh",
+        "after": " the clerk stays calm.",
+        "answer": "whereas"
+      },
+      {
+        "before": "On the eleventh day, a gift ends a bad tendency and restarts ",
+        "hint": "pr",
+        "after": ".",
+        "answer": "production"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "东部议会在一座宏伟的旧石厅里开会。",
+        "keywords": [
+          "eastern",
+          "parliament",
+          "hall"
+        ]
+      },
+      {
+        "zh": "一股化学气味从墙上的裂缝中冒出。",
+        "keywords": [
+          "chemical",
+          "emerges",
+          "crack"
+        ]
+      },
+      {
+        "zh": "搜查期间，警方怀疑这个地点有一处非法倾倒。",
+        "keywords": [
+          "illegal",
+          "dump",
+          "location"
+        ]
+      },
+      {
+        "zh": "我表弟把一张地图和一块骨头碎片钉在板上。",
+        "keywords": [
+          "pins",
+          "bone",
+          "board"
+        ]
+      },
+      {
+        "zh": "一艘壮观的游艇在港口附近等待慈善参观。",
+        "keywords": [
+          "spectacular",
+          "yacht",
+          "harbor"
+        ]
+      },
+      {
+        "zh": "在第十一天，一份礼物结束了一个坏趋势，并重启了生产。",
+        "keywords": [
+          "eleventh",
+          "tendency",
+          "production"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 288,
+    "sentences": 28,
+    "newDensity": 0.205,
+    "targetTokenDensity": 0.205,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写东部议会旧厅的年度修缮：投票与纲要、典型石台、化学气味、桶盖与严重问题、委员与程序、犯罪线索，结尾是游艇慈善夜、预算限制与第十一天的新转机。"
+}

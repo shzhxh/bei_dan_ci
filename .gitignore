@@ -1,0 +1,19 @@
+# 依赖与构建产物
+node_modules/
+dist/
+.astro/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 日志与本地环境
+*.log
+npm-debug.log*
+.env
+.env.*
+!.env.example
+.DS_Store
+
+# 第三方原始词库（63MB，仅用于离线生成词表，站点构建不依赖）
+**/data/vendor/ecdict.csv

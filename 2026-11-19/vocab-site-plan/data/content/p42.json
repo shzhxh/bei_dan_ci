@@ -1,0 +1,833 @@
+{
+  "id": "p42",
+  "title": "The Embassy Mission",
+  "titleZh": "使馆任务",
+  "topic": "使馆撤离与文物转移",
+  "paragraphs": [
+    [
+      {
+        "en": "My editor sends me to the embassy on a sensitive task this week.",
+        "zh": "我的编辑这周派我去使馆执行一项敏感任务。"
+      },
+      {
+        "en": "A reporter usually waits outside, but this quiet attempt feels different.",
+        "zh": "一名记者通常在外面等候，但这次安静的尝试感觉不同。"
+      },
+      {
+        "en": "The following morning, a thin carrier delivers a slim white paper envelope.",
+        "zh": "第二天早上，一位瘦削的送件人送来一个薄薄的白色纸信封。"
+      },
+      {
+        "en": "Official papers indicate a dramatic shortage of basic medical aid and warm food.",
+        "zh": "官方文件表明，基本医疗援助和保暖食物严重短缺。"
+      },
+      {
+        "en": "A young immigrant on the staff bends to adjust my laces.",
+        "zh": "一名年轻的移民职员弯下腰，替我系好鞋带。"
+      },
+      {
+        "en": "Her wage is small, yet her manner stays perfectly calm all day.",
+        "zh": "她的工资不高，可她的举止整天都格外平静。"
+      }
+    ],
+    [
+      {
+        "en": "A religious collection fills a cold back room here.",
+        "zh": "一间阴冷的后屋里塞满了一批宗教藏品。"
+      },
+      {
+        "en": "A holy crown of gold is the most genuine piece inside.",
+        "zh": "一顶金色的圣冠是里面最真的一件。"
+      },
+      {
+        "en": "Workers cast a warm ray of light across its thin and dusty skin.",
+        "zh": "工人们打下一道暖光，掠过它薄而蒙尘的表面。"
+      },
+      {
+        "en": "I gain safe access and easily lift it from the stand.",
+        "zh": "我获得安全许可，轻松地把它从展架上取下。"
+      },
+      {
+        "en": "Then a slow wave of cold horror makes my right hand shake badly.",
+        "zh": "接着，一阵缓慢的冰冷恐惧让我右手剧烈发抖。"
+      },
+      {
+        "en": "I tear the wrapping, and a small boot print shows below.",
+        "zh": "我撕开包装，下面露出一枚小小的靴印。"
+      }
+    ],
+    [
+      {
+        "en": "A local competitor accuses our firm of a monetary crime.",
+        "zh": "本地一家竞争对手指控我们公司犯有金钱方面的罪行。"
+      },
+      {
+        "en": "The ruling party may exploit this to block an important industrial deal.",
+        "zh": "执政党可能借机阻挠一项重要的工业交易。"
+      },
+      {
+        "en": "New sanctions follow, and the loss looks substantial for everyone in our team.",
+        "zh": "新的制裁随之而来，损失对我们队里每个人来说都很可观。"
+      },
+      {
+        "en": "My familiar guide tries to bend the rule, but fails quietly.",
+        "zh": "我那位熟识的向导想变通规则，却悄无声息地失败了。"
+      },
+      {
+        "en": "The threatening note seems to indicate a leak in my desk.",
+        "zh": "那封威胁性的便条似乎表明我桌子里有泄密。"
+      },
+      {
+        "en": "Later we move the collection by night, towards a safer gate.",
+        "zh": "后来我们趁夜转移藏品，朝一道更安全的大门走去。"
+      }
+    ],
+    [
+      {
+        "en": "My department plans a quiet launch of the small rescue effort.",
+        "zh": "我所在的部门计划悄悄启动这次小规模救援行动。"
+      },
+      {
+        "en": "A reliable driver is essential for this fourteenth long desert trip.",
+        "zh": "对第十四次穿越沙漠的长途行程来说，一名可靠的司机不可或缺。"
+      },
+      {
+        "en": "We adjust the plan and hide the box near my hip.",
+        "zh": "我们调整计划，把箱子藏在我髋部附近。"
+      },
+      {
+        "en": "Later the acquisition proves fundamental to our working method here.",
+        "zh": "后来这笔收购证明是我们在这里工作方法的基础。"
+      },
+      {
+        "en": "The next van brings a stock of food and clean boots.",
+        "zh": "下一辆货车运来一批食物和干净的靴子。"
+      },
+      {
+        "en": "Then our wage bill stays small, but the team works perfectly well.",
+        "zh": "这样我们的工资开支保持很低，但团队干得非常好。"
+      }
+    ],
+    [
+      {
+        "en": "Mostly the staff resign, and one writes a resignation note.",
+        "zh": "员工们大多辞职，其中一人写了一封辞呈。"
+      },
+      {
+        "en": "A careful keeper must breed new stock for the next long march.",
+        "zh": "一位细心的饲养员必须为下一段长途行进繁育新的牲畜。"
+      },
+      {
+        "en": "Our factory can manufacture a tent and a heavy coat easily.",
+        "zh": "我们的小厂能轻松造出一顶帐篷和一件厚外套。"
+      },
+      {
+        "en": "That incredible result lets the mission pose as a true victory.",
+        "zh": "那个难以置信的结果让这次任务装成了一场真正的胜利。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "department",
+      "pos": "n.",
+      "zh": "部门",
+      "stars": 5,
+      "collocation": "My department plans"
+    },
+    {
+      "lemma": "attempt",
+      "pos": "n/v.",
+      "zh": "尝试",
+      "stars": 5,
+      "collocation": "quiet attempt feels"
+    },
+    {
+      "lemma": "usually",
+      "pos": "adv.",
+      "zh": "通常",
+      "stars": 4,
+      "collocation": "reporter usually waits"
+    },
+    {
+      "lemma": "following",
+      "pos": "n/adj.",
+      "zh": "下列各项；下列的",
+      "stars": 4,
+      "collocation": "The following morning"
+    },
+    {
+      "lemma": "indicate",
+      "pos": "v.",
+      "zh": "显示",
+      "stars": 4,
+      "collocation": "papers indicate a"
+    },
+    {
+      "lemma": "collection",
+      "pos": "n.",
+      "zh": "收集",
+      "stars": 4,
+      "collocation": "religious collection fills"
+    },
+    {
+      "lemma": "gain",
+      "pos": "n/v.",
+      "zh": "增益；得到",
+      "stars": 4,
+      "collocation": "I gain safe"
+    },
+    {
+      "lemma": "skin",
+      "pos": "n/v.",
+      "zh": "皮肤；剥皮",
+      "stars": 4,
+      "collocation": "dusty skin"
+    },
+    {
+      "lemma": "religious",
+      "pos": "adj/n.",
+      "zh": "宗教性的；修道士",
+      "stars": 4,
+      "collocation": "A religious collection"
+    },
+    {
+      "lemma": "wave",
+      "pos": "n/v.",
+      "zh": "波；波动",
+      "stars": 4,
+      "collocation": "slow wave of"
+    },
+    {
+      "lemma": "accuse",
+      "pos": "v.",
+      "zh": "指责",
+      "stars": 4,
+      "collocation": "competitor accuses our"
+    },
+    {
+      "lemma": "editor",
+      "pos": "n.",
+      "zh": "编者",
+      "stars": 4,
+      "collocation": "My editor sends"
+    },
+    {
+      "lemma": "cast",
+      "pos": "n/v.",
+      "zh": "演员阵容；投",
+      "stars": 4,
+      "collocation": "Workers cast a"
+    },
+    {
+      "lemma": "reporter",
+      "pos": "n.",
+      "zh": "记者",
+      "stars": 4,
+      "collocation": "A reporter usually"
+    },
+    {
+      "lemma": "easily",
+      "pos": "adv.",
+      "zh": "容易地",
+      "stars": 3,
+      "collocation": "and easily lift"
+    },
+    {
+      "lemma": "wage",
+      "pos": "n/v.",
+      "zh": "工资；开展",
+      "stars": 3,
+      "collocation": "Her wage is"
+    },
+    {
+      "lemma": "familiar",
+      "pos": "adj/n.",
+      "zh": "熟悉的；熟友",
+      "stars": 3,
+      "collocation": "My familiar guide"
+    },
+    {
+      "lemma": "tear",
+      "pos": "n/v.",
+      "zh": "泪滴；流泪",
+      "stars": 3,
+      "collocation": "I tear the"
+    },
+    {
+      "lemma": "fundamental",
+      "pos": "n/adj.",
+      "zh": "基本原理；基本的",
+      "stars": 3,
+      "collocation": "proves fundamental to"
+    },
+    {
+      "lemma": "boot",
+      "pos": "n/v.",
+      "zh": "长靴；使穿靴",
+      "stars": 3,
+      "collocation": "small boot print"
+    },
+    {
+      "lemma": "sensitive",
+      "pos": "adj.",
+      "zh": "敏感的",
+      "stars": 3,
+      "collocation": "a sensitive task"
+    },
+    {
+      "lemma": "bend",
+      "pos": "v/n.",
+      "zh": "变弯曲；使弯曲",
+      "stars": 3,
+      "collocation": "staff bends to"
+    },
+    {
+      "lemma": "acquisition",
+      "pos": "n.",
+      "zh": "获得",
+      "stars": 3,
+      "collocation": "the acquisition proves"
+    },
+    {
+      "lemma": "holy",
+      "pos": "adj/n.",
+      "zh": "神圣的；神圣的东西",
+      "stars": 3,
+      "collocation": "A holy crown"
+    },
+    {
+      "lemma": "adjust",
+      "pos": "v.",
+      "zh": "调整；适应于",
+      "stars": 3,
+      "collocation": "to adjust my"
+    },
+    {
+      "lemma": "exploit",
+      "pos": "n/v.",
+      "zh": "功绩；开发",
+      "stars": 3,
+      "collocation": "may exploit this"
+    },
+    {
+      "lemma": "reliable",
+      "pos": "adj.",
+      "zh": "可靠的",
+      "stars": 3,
+      "collocation": "A reliable driver"
+    },
+    {
+      "lemma": "competitor",
+      "pos": "n.",
+      "zh": "竞争者",
+      "stars": 3,
+      "collocation": "local competitor accuses"
+    },
+    {
+      "lemma": "carrier",
+      "pos": "n.",
+      "zh": "运送者",
+      "stars": 3,
+      "collocation": "thin carrier delivers"
+    },
+    {
+      "lemma": "ray",
+      "pos": "n/v.",
+      "zh": "光线；射出光线",
+      "stars": 3,
+      "collocation": "warm ray of"
+    },
+    {
+      "lemma": "embassy",
+      "pos": "n.",
+      "zh": "大使馆",
+      "stars": 3,
+      "collocation": "the embassy on"
+    },
+    {
+      "lemma": "slim",
+      "pos": "adj/v.",
+      "zh": "瘦的；变苗条",
+      "stars": 3,
+      "collocation": "a slim white"
+    },
+    {
+      "lemma": "towards",
+      "pos": "prep.",
+      "zh": "向",
+      "stars": 5,
+      "collocation": "night, towards a"
+    },
+    {
+      "lemma": "stock",
+      "pos": "n/adj/v.",
+      "zh": "树干；存货的",
+      "stars": 5,
+      "collocation": "a stock of"
+    },
+    {
+      "lemma": "industrial",
+      "pos": "adj/n.",
+      "zh": "工业的；工业工人",
+      "stars": 4,
+      "collocation": "important industrial deal"
+    },
+    {
+      "lemma": "essential",
+      "pos": "n/adj.",
+      "zh": "要素；必要的",
+      "stars": 4,
+      "collocation": "is essential for"
+    },
+    {
+      "lemma": "launch",
+      "pos": "n/v.",
+      "zh": "下水；使下水",
+      "stars": 4,
+      "collocation": "quiet launch of"
+    },
+    {
+      "lemma": "dramatic",
+      "pos": "adj.",
+      "zh": "戏剧性的",
+      "stars": 4,
+      "collocation": "a dramatic shortage"
+    },
+    {
+      "lemma": "mission",
+      "pos": "n/v.",
+      "zh": "任务；派遣",
+      "stars": 4,
+      "collocation": "the mission pose"
+    },
+    {
+      "lemma": "substantial",
+      "pos": "n/adj.",
+      "zh": "重要材料；实质上的",
+      "stars": 3,
+      "collocation": "looks substantial for"
+    },
+    {
+      "lemma": "crown",
+      "pos": "n/v.",
+      "zh": "王冠；使成王",
+      "stars": 3,
+      "collocation": "holy crown of"
+    },
+    {
+      "lemma": "perfectly",
+      "pos": "adv.",
+      "zh": "完全地",
+      "stars": 3,
+      "collocation": "stays perfectly calm"
+    },
+    {
+      "lemma": "mostly",
+      "pos": "adv.",
+      "zh": "大概",
+      "stars": 3,
+      "collocation": "Mostly the"
+    },
+    {
+      "lemma": "genuine",
+      "pos": "adj.",
+      "zh": "真正的",
+      "stars": 3,
+      "collocation": "most genuine piece"
+    },
+    {
+      "lemma": "pose",
+      "pos": "n/v.",
+      "zh": "姿势；摆姿势",
+      "stars": 3,
+      "collocation": "mission pose as"
+    },
+    {
+      "lemma": "horror",
+      "pos": "n.",
+      "zh": "惊骇",
+      "stars": 3,
+      "collocation": "cold horror makes"
+    },
+    {
+      "lemma": "resignation",
+      "pos": "n.",
+      "zh": "辞职",
+      "stars": 3,
+      "collocation": "a resignation note"
+    },
+    {
+      "lemma": "shortage",
+      "pos": "n.",
+      "zh": "不足",
+      "stars": 3,
+      "collocation": "dramatic shortage of"
+    },
+    {
+      "lemma": "breed",
+      "pos": "n/v.",
+      "zh": "种类；养育",
+      "stars": 3,
+      "collocation": "must breed new"
+    },
+    {
+      "lemma": "manufacture",
+      "pos": "n/v.",
+      "zh": "产品；制造",
+      "stars": 3,
+      "collocation": "can manufacture a"
+    },
+    {
+      "lemma": "immigrant",
+      "pos": "n/adj.",
+      "zh": "移民；移入的",
+      "stars": 3,
+      "collocation": "young immigrant on"
+    },
+    {
+      "lemma": "sanction",
+      "pos": "n/v.",
+      "zh": "核准；制定制裁规则",
+      "stars": 4,
+      "collocation": "New sanctions follow"
+    },
+    {
+      "lemma": "monetary",
+      "pos": "adj.",
+      "zh": "货币的",
+      "stars": 3,
+      "collocation": "a monetary crime"
+    },
+    {
+      "lemma": "hip",
+      "pos": "n/adj/v.",
+      "zh": "臀部；熟悉内情的",
+      "stars": 3,
+      "collocation": "my hip"
+    },
+    {
+      "lemma": "incredible",
+      "pos": "adj.",
+      "zh": "难以置信的",
+      "stars": 3,
+      "collocation": "That incredible result"
+    },
+    {
+      "lemma": "working",
+      "pos": "n/adj.",
+      "zh": "工作；工作的",
+      "stars": 5,
+      "collocation": "our working method"
+    },
+    {
+      "lemma": "fourteenth",
+      "pos": "num.",
+      "zh": "第十四",
+      "stars": 4,
+      "collocation": "this fourteenth long"
+    },
+    {
+      "lemma": "ruling",
+      "pos": "n/adj.",
+      "zh": "判决；统治的",
+      "stars": 3,
+      "collocation": "The ruling party"
+    },
+    {
+      "lemma": "threatening",
+      "pos": "adj.",
+      "zh": "胁迫的",
+      "stars": 3,
+      "collocation": "The threatening note"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“embassy” 的意思是：",
+      "options": [
+        "使馆",
+        "仓库",
+        "海关",
+        "报社"
+      ],
+      "answer": 0,
+      "speak": "embassy"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "Official papers ___ a dramatic shortage of basic medical aid.",
+      "options": [
+        "adjust",
+        "indicate",
+        "accuse",
+        "breed"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“genuine” 的意思是：",
+      "options": [
+        "宗教的",
+        "稀薄的",
+        "真实的",
+        "巨大的"
+      ],
+      "answer": 2,
+      "speak": "genuine"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A local ___ accuses our firm of a monetary crime.",
+      "options": [
+        "carrier",
+        "competitor",
+        "keeper",
+        "reporter"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A reliable driver is ___ for this fourteenth long desert trip.",
+      "options": [
+        "essential",
+        "holy",
+        "dusty",
+        "slim"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“resignation” 的意思是：",
+      "options": [
+        "辞职",
+        "收购",
+        "短缺",
+        "制裁"
+      ],
+      "answer": 0,
+      "speak": "resignation"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Workers ___ a warm ray of light across its thin skin.",
+      "options": [
+        "cast",
+        "tear",
+        "bend",
+        "pose"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "That incredible result lets the mission ___ as a true victory.",
+      "options": [
+        "launch",
+        "pose",
+        "indicate",
+        "exploit"
+      ],
+      "answer": 1
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My ",
+        "hint": "ed",
+        "after": " sends me to the embassy on a sensitive task this week.",
+        "answer": "editor"
+      },
+      {
+        "before": "The following morning, a thin ",
+        "hint": "ca",
+        "after": " delivers a slim white paper envelope.",
+        "answer": "carrier"
+      },
+      {
+        "before": "Official papers ",
+        "hint": "in",
+        "after": " a dramatic shortage of basic medical aid and warm food.",
+        "answer": "indicate"
+      },
+      {
+        "before": "A young ",
+        "hint": "im",
+        "after": " on the staff bends to adjust my laces.",
+        "answer": "immigrant"
+      },
+      {
+        "before": "A ",
+        "hint": "re",
+        "after": " collection fills a cold back room here.",
+        "answer": "religious"
+      },
+      {
+        "before": "Workers ",
+        "hint": "ca",
+        "after": " a warm ray of light across its thin and dusty skin.",
+        "answer": "cast"
+      },
+      {
+        "before": "A local ",
+        "hint": "co",
+        "after": " accuses our firm of a monetary crime.",
+        "answer": "competitor"
+      },
+      {
+        "before": "The ",
+        "hint": "ru",
+        "after": " party may exploit this to block an important industrial deal.",
+        "answer": "ruling"
+      },
+      {
+        "before": "We ",
+        "hint": "ad",
+        "after": " the plan and hide the box near my hip.",
+        "answer": "adjust"
+      },
+      {
+        "before": "Our factory can ",
+        "hint": "ma",
+        "after": " a tent and a heavy coat easily.",
+        "answer": "manufacture"
+      }
+    ],
+    "b3": [
+      {
+        "before": "A ",
+        "hint": "h",
+        "after": " crown of gold is the most genuine piece inside.",
+        "answer": "holy"
+      },
+      {
+        "before": "The following morning, a thin carrier delivers a ",
+        "hint": "s",
+        "after": " white paper envelope.",
+        "answer": "slim"
+      },
+      {
+        "before": "Official papers indicate a ",
+        "hint": "d",
+        "after": " shortage of basic medical aid and warm food.",
+        "answer": "dramatic"
+      },
+      {
+        "before": "A holy crown of gold is the most ",
+        "hint": "g",
+        "after": " piece inside.",
+        "answer": "genuine"
+      },
+      {
+        "before": "New sanctions follow, and the loss looks ",
+        "hint": "s",
+        "after": " for everyone in our team.",
+        "answer": "substantial"
+      },
+      {
+        "before": "My ",
+        "hint": "f",
+        "after": " guide tries to bend the rule, but fails quietly.",
+        "answer": "familiar"
+      },
+      {
+        "before": "The ",
+        "hint": "t",
+        "after": " note seems to indicate a leak in my desk.",
+        "answer": "threatening"
+      },
+      {
+        "before": "My ",
+        "hint": "d",
+        "after": " plans a quiet launch of the small rescue effort.",
+        "answer": "department"
+      },
+      {
+        "before": "That ",
+        "hint": "i",
+        "after": " result lets the mission pose as a true victory.",
+        "answer": "incredible"
+      },
+      {
+        "before": "Mostly the staff resign, and one writes a ",
+        "hint": "r",
+        "after": " note.",
+        "answer": "resignation"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我的编辑这周派我去使馆执行一项敏感任务。",
+        "keywords": [
+          "editor",
+          "embassy",
+          "sensitive"
+        ]
+      },
+      {
+        "zh": "官方文件表明，基本医疗援助和保暖食物严重短缺。",
+        "keywords": [
+          "indicate",
+          "dramatic",
+          "shortage"
+        ]
+      },
+      {
+        "zh": "我获得安全许可，轻松地把那顶圣冠从展架上取下。",
+        "keywords": [
+          "gain",
+          "easily",
+          "crown"
+        ]
+      },
+      {
+        "zh": "本地一家竞争对手指控我们公司犯有金钱方面的罪行。",
+        "keywords": [
+          "competitor",
+          "accuse",
+          "monetary"
+        ]
+      },
+      {
+        "zh": "后来我们趁夜转移藏品，朝一道更安全的大门走去。",
+        "keywords": [
+          "collection",
+          "towards"
+        ]
+      },
+      {
+        "zh": "那个难以置信的结果让这次任务装成了一场真正的胜利。",
+        "keywords": [
+          "incredible",
+          "mission",
+          "pose"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 318,
+    "sentences": 28,
+    "newDensity": 0.186,
+    "targetTokenDensity": 0.214,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（7 次）",
+      "Then / Later 开头（4 次）"
+    ]
+  },
+  "note": "p42：约 318 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

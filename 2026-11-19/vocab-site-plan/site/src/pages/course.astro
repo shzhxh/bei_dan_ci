@@ -1,0 +1,215 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCatalog } from '../lib/catalog.server';
+import { STAGES } from '../data/course';
+import { url } from '../lib/paths';
+
+const catalog = getCatalog();
+const { totals } = catalog;
+const fmt = (value: number) => value.toLocaleString('en-US');
+
+const stages = STAGES.map((stage) => ({
+  ...stage,
+  passages: catalog.main.filter((passage) => passage.stage === stage.stage),
+}));
+const supplement = catalog.supplement;
+---
+
+<BaseLayout
+  title="课程路线"
+  description="55 篇短文：主线 50 篇覆盖 2,953 个星级词，考纲补漏 5 篇补齐 289 个无星级中考词；中考路线取前 22 篇主线加 5 篇补漏。"
+>
+  <div class="container">
+    <header>
+      <span class="eyebrow">课程 · 主线 / 中考两条轨</span>
+      <h1 class="page-title" style="margin-top: 14px;">55 篇，分两条轨推进</h1>
+      <p class="page-lede">
+        主线 50 篇（{fmt(totals.mainWords)} 词）按 5 个阶段推进；中考路线取前 22 篇主线，
+        再加 5 篇考纲补漏，共 {totals.zhongkaoPassages} 篇（{fmt(totals.zhongkaoWords)} 词位）。
+        点任意一篇进入阅读 / 精讲 / 背诵 / 检测。
+      </p>
+    </header>
+
+    <div class="toolbar" role="group" aria-label="筛选课程">
+      <span class="toolbar-label">路线</span>
+      <div class="segmented" id="route-filter">
+        <button type="button" data-route="full" aria-pressed="true">主线路线 · 50 篇</button>
+        <button type="button" data-route="zhongkao" aria-pressed="false">中考路线 · 27 篇</button>
+      </div>
+      <label class="toggle" style="margin-left: 8px;">
+        <input type="checkbox" id="only-unread" />
+        只看未完成
+      </label>
+      <span class="toolbar-note" id="course-count">共 50 篇</span>
+    </div>
+    <p class="text-muted text-small" style="margin-top: 10px;">
+      主线只含 50 篇星级词短文；底部「考纲补漏」单独成轨，只在选择中考路线时出现，不计入主线分母。
+    </p>
+
+    {
+      stages.map((stage) => (
+        <section class="stage-block" data-stage={stage.stage} data-track="main" aria-labelledby={`stage-${stage.stage}`}>
+          <div class="stage-block-head">
+            <h2 id={`stage-${stage.stage}`}>{stage.label}</h2>
+            <span class="text-muted text-small">第 {stage.range} 篇 · 单句 {stage.sentenceMin}–{stage.sentenceLimit} 词</span>
+          </div>
+          <div class="passage-list">
+            {stage.passages.map((passage) => (
+              <a
+                class="passage-row"
+                href={url(`/p/${passage.slug}/`)}
+                data-passage={passage.id}
+                data-track="main"
+                data-in-zk={passage.inZhongkaoRoute ? 'true' : 'false'}
+              >
+                <span class="passage-order mono">{passage.slug}</span>
+                <span>
+                  <span class="passage-title">{passage.title}</span>
+                  <span class="passage-sub">
+                    <span>{passage.titleZh}</span>
+                    <span aria-hidden="true">·</span>
+                    <span>{passage.topic}</span>
+                    <span aria-hidden="true">·</span>
+                    <span>{passage.targetCount} 词</span>
+                    {passage.inZhongkaoRoute ? <span class="badge badge-accent">中考路线</span> : null}
+                    {passage.content ? (
+                      <span class="badge badge-gold">可学习</span>
+                    ) : (
+                      <span class="badge">内容制作中</span>
+                    )}
+                  </span>
+                </span>
+                <span class="passage-state">
+                  <span class="state-dot" data-dot></span>
+                  <span data-state-label>未开始</span>
+                </span>
+              </a>
+            ))}
+          </div>
+        </section>
+      ))
+    }
+
+    <section class="supplement-block" data-track="supplement" aria-labelledby="stage-supplement" data-supplement-section>
+      <div class="stage-block-head">
+        <h2 id="stage-supplement">考纲补漏 · 非星级词</h2>
+        <span class="badge badge-gold">仅中考路线</span>
+        <span class="text-muted text-small">
+          第 51–55 篇 · {supplement.length} 篇 · {fmt(totals.supplementWords)} 词 · 不计入主线分母
+        </span>
+      </div>
+      <p class="text-muted text-small" style="margin-bottom: 14px;">
+        这 5 篇收纳无 Collins 星级的中考词，用来把中考词表补到 1,547 个；主线 50 篇里没有它们。
+      </p>
+      <div class="passage-list">
+        {
+          supplement.map((passage) => (
+            <a
+              class="passage-row"
+              href={url(`/p/${passage.slug}/`)}
+              data-passage={passage.id}
+              data-track="supplement"
+              data-in-zk="true"
+            >
+              <span class="passage-order mono">{passage.slug}</span>
+              <span>
+                <span class="passage-title">{passage.title}</span>
+                <span class="passage-sub">
+                  <span>{passage.titleZh}</span>
+                  <span aria-hidden="true">·</span>
+                  <span>考纲补漏</span>
+                  <span aria-hidden="true">·</span>
+                  <span>{passage.targetCount} 词</span>
+                  <span class="badge badge-gold">非星级词</span>
+                  {passage.content ? (
+                    <span class="badge badge-gold">可学习</span>
+                  ) : (
+                    <span class="badge">内容制作中</span>
+                  )}
+                </span>
+              </span>
+              <span class="passage-state">
+                <span class="state-dot" data-dot></span>
+                <span data-state-label>未开始</span>
+              </span>
+            </a>
+          ))
+        }
+      </div>
+    </section>
+
+    <p class="text-muted text-small" style="margin-top: 28px;">
+      说明：词表与分篇来自 <code>data/assignment.tsv</code>（主线）与
+      <code>data/assignment-supplement.tsv</code>（考纲补漏）；成稿从 <code>data/content/</code>
+      接入。尚未接入的篇目显示「内容制作中」，结构与进度记录仍可用。
+    </p>
+  </div>
+
+  <script>
+    import { readCatalog } from '../lib/catalog.client';
+    import { loadProgress, setRoute } from '../lib/progress';
+    import type { RouteId } from '../lib/progress';
+
+    const catalog = readCatalog();
+    const state = loadProgress();
+    const routeButtons = Array.from(
+      document.querySelectorAll<HTMLButtonElement>('#route-filter button'),
+    );
+    const onlyUnread = document.getElementById('only-unread') as HTMLInputElement | null;
+    const countNode = document.getElementById('course-count');
+    const rows = Array.from(document.querySelectorAll<HTMLElement>('.passage-row'));
+    const blocks = Array.from(document.querySelectorAll<HTMLElement>('[data-stage], [data-supplement-section]'));
+
+    const totals = catalog.totals;
+    const params = new URLSearchParams(window.location.search);
+    let route: RouteId = params.get('route') === 'zhongkao' ? 'zhongkao' : state.route;
+
+    for (const row of rows) {
+      const progress = state.passages[row.dataset.passage ?? ''];
+      if (progress?.read) {
+        row.querySelector('[data-dot]')?.classList.add('read');
+        const label = row.querySelector('[data-state-label]');
+        if (label) label.textContent = '已首读';
+      } else if (progress?.visits) {
+        row.querySelector('[data-dot]')?.classList.add('started');
+        const label = row.querySelector('[data-state-label]');
+        if (label) label.textContent = '已打开';
+      }
+    }
+
+    const apply = () => {
+      for (const button of routeButtons) {
+        button.setAttribute('aria-pressed', String(button.dataset.route === route));
+      }
+      let visible = 0;
+      for (const row of rows) {
+        const track = row.dataset.track === 'supplement' ? 'supplement' : 'main';
+        const inZk = row.dataset.inZk === 'true';
+        const inRoute = route === 'full' ? track === 'main' : inZk;
+        const unreadOnly = onlyUnread?.checked ?? false;
+        const done = Boolean(state.passages[row.dataset.passage ?? '']?.read);
+        const show = inRoute && (!unreadOnly || !done);
+        row.classList.toggle('is-hidden', !show);
+        if (show) visible += 1;
+      }
+      for (const block of blocks) {
+        const hasVisible = Boolean(block.querySelector('.passage-row:not(.is-hidden)'));
+        block.classList.toggle('is-hidden', !hasVisible);
+      }
+      if (countNode) {
+        const total = route === 'full' ? 50 : totals.zhongkaoPassages;
+        countNode.textContent = `当前显示 ${visible} / ${total} 篇`;
+      }
+    };
+
+    for (const button of routeButtons) {
+      button.addEventListener('click', () => {
+        route = button.dataset.route === 'zhongkao' ? 'zhongkao' : 'full';
+        setRoute(route);
+        apply();
+      });
+    }
+    onlyUnread?.addEventListener('change', apply);
+    apply();
+  </script>
+</BaseLayout>

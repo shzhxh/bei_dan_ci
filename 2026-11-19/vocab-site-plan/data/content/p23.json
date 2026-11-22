@@ -1,0 +1,831 @@
+{
+  "id": "p23",
+  "title": "Election Night in the Old District",
+  "titleZh": "老选区的选举之夜",
+  "topic": "地区选举",
+  "paragraphs": [
+    [
+      {
+        "en": "The central system of this quiet campaign is simple and clear.",
+        "zh": "这场平静竞选的中央系统简单又清晰。"
+      },
+      {
+        "en": "Our regional paper sends me to shoot photos in a busy district.",
+        "zh": "我们地区报纸派我去一个繁忙的选区拍摄照片。"
+      },
+      {
+        "en": "The premier will speak tonight, and every headline waits.",
+        "zh": "总理今晚将讲话，每条头条都在等待。"
+      },
+      {
+        "en": "The ballot count will rank each party by its full name.",
+        "zh": "点票结果将按全名排列每个政党的名次。"
+      },
+      {
+        "en": "A minimum percentage decides who may enter the crowded hall.",
+        "zh": "一个最低百分比决定谁能进入拥挤的大厅。"
+      },
+      {
+        "en": "Votes reach a peak shortly after the tall doors close.",
+        "zh": "高大的门关上后不久，票数达到峰值。"
+      },
+      {
+        "en": "My first award as a young reporter still inspires me.",
+        "zh": "我作为年轻记者获得的第一个奖项至今激励着我。"
+      },
+      {
+        "en": "I must persuade myself to stay calm and fully conscious.",
+        "zh": "我必须说服自己保持冷静和完全清醒。"
+      },
+      {
+        "en": "My priority recently is to pursue the plain truth, not gossip.",
+        "zh": "我最近的优先事项是追求朴素的事实，而不是闲话。"
+      },
+      {
+        "en": "Ultimately, a sophisticated reader wants clear facts, not noise.",
+        "zh": "最终，成熟的读者想要清晰的事实，而不是噪音。"
+      }
+    ],
+    [
+      {
+        "en": "A dark suspicion and an ugly rumour spread through the crowd.",
+        "zh": "一个阴暗的猜疑和一条丑陋的谣言在人群中传开。"
+      },
+      {
+        "en": "A loud clash makes a tired guard rage outside the gate.",
+        "zh": "一场激烈的冲突让疲惫的卫兵在门外暴怒。"
+      },
+      {
+        "en": "Then I reckon the long delay will frustrate every waiting crowd.",
+        "zh": "然后我估计漫长的延迟会让每个等待的人群沮丧。"
+      },
+      {
+        "en": "The chairman rejects my sharp question with a cold smile.",
+        "zh": "主席带着冷笑拒绝了我尖锐的问题。"
+      },
+      {
+        "en": "Later I spot one small error in the printed list of names.",
+        "zh": "后来我在打印的名单上发现一个小错误。"
+      },
+      {
+        "en": "I consult my old notes and choose a careful phrase.",
+        "zh": "我查阅旧笔记，选了一个谨慎的说法。"
+      },
+      {
+        "en": "My editor sighs at the mess on my crowded desk.",
+        "zh": "我的编辑对着我拥挤办公桌上的乱摊子叹气。"
+      },
+      {
+        "en": "His insurance covers the property beside the old food market.",
+        "zh": "他的保险覆盖了老食品市场旁边的房产。"
+      },
+      {
+        "en": "A broker sells a small apartment near the busy station.",
+        "zh": "一位经纪人出售车站附近的一间小公寓。"
+      },
+      {
+        "en": "Their white cottage has a wooden deck and a green roof.",
+        "zh": "他们的白色小屋有一个木制露台和绿色屋顶。"
+      }
+    ],
+    [
+      {
+        "en": "The city charter protects a treaty signed many years ago.",
+        "zh": "城市宪章保护着一份多年前签署的条约。"
+      },
+      {
+        "en": "Then a new threat may extend the peace talks into next week.",
+        "zh": "然后一个新的威胁可能把和谈延长到下周。"
+      },
+      {
+        "en": "A radical plan would define the old town in new words.",
+        "zh": "一个激进的计划会用新词重新定义这座老镇。"
+      },
+      {
+        "en": "The idea began elsewhere, but its true origin is local.",
+        "zh": "这个想法始于别处，但真正的源头在本地。"
+      },
+      {
+        "en": "Soft jazz plays while new software counts every single vote.",
+        "zh": "柔和的爵士乐响起，新软件统计着每一张选票。"
+      },
+      {
+        "en": "The final numbers are fairly clear and precisely checked.",
+        "zh": "最终的数字相当清楚，也经过精确核对。"
+      },
+      {
+        "en": "My pregnant sister treats every guest with gentle care.",
+        "zh": "我怀孕的姐姐温柔地招待每一位客人。"
+      },
+      {
+        "en": "A civil word can build a strong bond between old rivals.",
+        "zh": "一句客气的话能在老对手之间建立牢固的纽带。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "system",
+      "pos": "n.",
+      "zh": "系统",
+      "stars": 5,
+      "collocation": "central system of this"
+    },
+    {
+      "lemma": "central",
+      "pos": "adj.",
+      "zh": "中央的",
+      "stars": 5,
+      "collocation": "The central system of"
+    },
+    {
+      "lemma": "campaign",
+      "pos": "n./v.",
+      "zh": "战役",
+      "stars": 5,
+      "collocation": "quiet campaign is simple"
+    },
+    {
+      "lemma": "award",
+      "pos": "n./v.",
+      "zh": "奖品",
+      "stars": 4,
+      "collocation": "first award as a"
+    },
+    {
+      "lemma": "treat",
+      "pos": "n./v.",
+      "zh": "宴请",
+      "stars": 4,
+      "collocation": "sister treats every guest"
+    },
+    {
+      "lemma": "district",
+      "pos": "n.",
+      "zh": "区域",
+      "stars": 4,
+      "collocation": "busy district."
+    },
+    {
+      "lemma": "civil",
+      "pos": "adj.",
+      "zh": "市民的",
+      "stars": 4,
+      "collocation": "A civil word can"
+    },
+    {
+      "lemma": "shoot",
+      "pos": "n./v.",
+      "zh": "射击",
+      "stars": 4,
+      "collocation": "to shoot photos in"
+    },
+    {
+      "lemma": "insurance",
+      "pos": "n.",
+      "zh": "保险",
+      "stars": 4,
+      "collocation": "His insurance covers the"
+    },
+    {
+      "lemma": "reject",
+      "pos": "n./v.",
+      "zh": "被拒之人",
+      "stars": 4,
+      "collocation": "chairman rejects my sharp"
+    },
+    {
+      "lemma": "spot",
+      "pos": "n./adj./v.",
+      "zh": "污点",
+      "stars": 4,
+      "collocation": "I spot one small"
+    },
+    {
+      "lemma": "sharp",
+      "pos": "n./adj./adv.",
+      "zh": "半升音调",
+      "stars": 4,
+      "collocation": "my sharp question with"
+    },
+    {
+      "lemma": "bond",
+      "pos": "n./v.",
+      "zh": "捆绑物",
+      "stars": 4,
+      "collocation": "strong bond between old"
+    },
+    {
+      "lemma": "inspire",
+      "pos": "v.",
+      "zh": "使感动",
+      "stars": 4,
+      "collocation": "still inspires me."
+    },
+    {
+      "lemma": "software",
+      "pos": "n.",
+      "zh": "软件",
+      "stars": 3,
+      "collocation": "new software counts every"
+    },
+    {
+      "lemma": "fairly",
+      "pos": "adv.",
+      "zh": "美观地",
+      "stars": 3,
+      "collocation": "are fairly clear and"
+    },
+    {
+      "lemma": "error",
+      "pos": "n.",
+      "zh": "错误",
+      "stars": 3,
+      "collocation": "small error in the"
+    },
+    {
+      "lemma": "persuade",
+      "pos": "v.",
+      "zh": "劝",
+      "stars": 3,
+      "collocation": "must persuade myself to"
+    },
+    {
+      "lemma": "origin",
+      "pos": "n.",
+      "zh": "起源",
+      "stars": 3,
+      "collocation": "true origin is local."
+    },
+    {
+      "lemma": "phrase",
+      "pos": "n./v.",
+      "zh": "惯用语",
+      "stars": 3,
+      "collocation": "careful phrase."
+    },
+    {
+      "lemma": "cottage",
+      "pos": "n.",
+      "zh": "小屋",
+      "stars": 3,
+      "collocation": "white cottage has a"
+    },
+    {
+      "lemma": "shortly",
+      "pos": "adv.",
+      "zh": "不久",
+      "stars": 3,
+      "collocation": "peak shortly after the"
+    },
+    {
+      "lemma": "rank",
+      "pos": "n./adj./v.",
+      "zh": "等级",
+      "stars": 3,
+      "collocation": "will rank each party"
+    },
+    {
+      "lemma": "percentage",
+      "pos": "n.",
+      "zh": "百分比",
+      "stars": 3,
+      "collocation": "minimum percentage decides who"
+    },
+    {
+      "lemma": "minimum",
+      "pos": "adj./n.",
+      "zh": "最小的",
+      "stars": 3,
+      "collocation": "A minimum percentage decides"
+    },
+    {
+      "lemma": "consult",
+      "pos": "v.",
+      "zh": "商讨",
+      "stars": 3,
+      "collocation": "I consult my old"
+    },
+    {
+      "lemma": "sigh",
+      "pos": "n./v.",
+      "zh": "叹息",
+      "stars": 3,
+      "collocation": "editor sighs at the"
+    },
+    {
+      "lemma": "pregnant",
+      "pos": "adj.",
+      "zh": "怀孕的",
+      "stars": 3,
+      "collocation": "My pregnant sister treats"
+    },
+    {
+      "lemma": "mess",
+      "pos": "n./v.",
+      "zh": "食堂",
+      "stars": 3,
+      "collocation": "the mess on my"
+    },
+    {
+      "lemma": "apartment",
+      "pos": "n.",
+      "zh": "房间",
+      "stars": 3,
+      "collocation": "small apartment near the"
+    },
+    {
+      "lemma": "premier",
+      "pos": "n./adj.",
+      "zh": "总理",
+      "stars": 3,
+      "collocation": "The premier will speak"
+    },
+    {
+      "lemma": "headline",
+      "pos": "n./v.",
+      "zh": "大标题",
+      "stars": 3,
+      "collocation": "every headline waits."
+    },
+    {
+      "lemma": "jazz",
+      "pos": "n./adj./v.",
+      "zh": "爵士乐",
+      "stars": 3,
+      "collocation": "Soft jazz plays while"
+    },
+    {
+      "lemma": "property",
+      "pos": "n.",
+      "zh": "财产",
+      "stars": 4,
+      "collocation": "the property beside the"
+    },
+    {
+      "lemma": "recently",
+      "pos": "adv.",
+      "zh": "最近",
+      "stars": 4,
+      "collocation": "priority recently is to"
+    },
+    {
+      "lemma": "extend",
+      "pos": "v.",
+      "zh": "扩充",
+      "stars": 4,
+      "collocation": "may extend the peace"
+    },
+    {
+      "lemma": "threat",
+      "pos": "n.",
+      "zh": "恐吓",
+      "stars": 4,
+      "collocation": "new threat may extend"
+    },
+    {
+      "lemma": "treaty",
+      "pos": "n.",
+      "zh": "条约",
+      "stars": 4,
+      "collocation": "a treaty signed many"
+    },
+    {
+      "lemma": "radical",
+      "pos": "n./adj.",
+      "zh": "激进分子",
+      "stars": 4,
+      "collocation": "A radical plan would"
+    },
+    {
+      "lemma": "define",
+      "pos": "v.",
+      "zh": "定义",
+      "stars": 3,
+      "collocation": "would define the old"
+    },
+    {
+      "lemma": "elsewhere",
+      "pos": "adv.",
+      "zh": "在别处",
+      "stars": 3,
+      "collocation": "began elsewhere, but its"
+    },
+    {
+      "lemma": "priority",
+      "pos": "n.",
+      "zh": "优先权",
+      "stars": 3,
+      "collocation": "My priority recently is"
+    },
+    {
+      "lemma": "pursue",
+      "pos": "v.",
+      "zh": "追赶",
+      "stars": 3,
+      "collocation": "to pursue the plain"
+    },
+    {
+      "lemma": "peak",
+      "pos": "n./adj./v.",
+      "zh": "山峰",
+      "stars": 3,
+      "collocation": "a peak shortly after"
+    },
+    {
+      "lemma": "conscious",
+      "pos": "adj.",
+      "zh": "有意识的",
+      "stars": 3,
+      "collocation": "fully conscious."
+    },
+    {
+      "lemma": "ultimately",
+      "pos": "adv.",
+      "zh": "最后",
+      "stars": 3,
+      "collocation": "Ultimately, a sophisticated"
+    },
+    {
+      "lemma": "sophisticated",
+      "pos": "adj.",
+      "zh": "复杂的",
+      "stars": 3,
+      "collocation": "a sophisticated reader wants"
+    },
+    {
+      "lemma": "suspicion",
+      "pos": "n.",
+      "zh": "怀疑",
+      "stars": 3,
+      "collocation": "dark suspicion and an"
+    },
+    {
+      "lemma": "rumour",
+      "pos": "n./v.",
+      "zh": "谣言",
+      "stars": 3,
+      "collocation": "ugly rumour spread through"
+    },
+    {
+      "lemma": "deck",
+      "pos": "n./v.",
+      "zh": "甲板",
+      "stars": 3,
+      "collocation": "wooden deck and a"
+    },
+    {
+      "lemma": "rage",
+      "pos": "n./v.",
+      "zh": "愤怒",
+      "stars": 3,
+      "collocation": "guard rage outside the"
+    },
+    {
+      "lemma": "frustrate",
+      "pos": "v./adj.",
+      "zh": "挫败",
+      "stars": 3,
+      "collocation": "will frustrate every waiting"
+    },
+    {
+      "lemma": "reckon",
+      "pos": "v.",
+      "zh": "计算",
+      "stars": 3,
+      "collocation": "I reckon the long"
+    },
+    {
+      "lemma": "charter",
+      "pos": "n./v.",
+      "zh": "特许状",
+      "stars": 3,
+      "collocation": "city charter protects a"
+    },
+    {
+      "lemma": "clash",
+      "pos": "n./v.",
+      "zh": "冲突",
+      "stars": 3,
+      "collocation": "loud clash makes a"
+    },
+    {
+      "lemma": "ballot",
+      "pos": "n./v.",
+      "zh": "投票",
+      "stars": 3,
+      "collocation": "The ballot count will"
+    },
+    {
+      "lemma": "regional",
+      "pos": "adj.",
+      "zh": "地方的",
+      "stars": 4,
+      "collocation": "Our regional paper sends"
+    },
+    {
+      "lemma": "precisely",
+      "pos": "adv.",
+      "zh": "精确地",
+      "stars": 3,
+      "collocation": "and precisely checked."
+    },
+    {
+      "lemma": "broker",
+      "pos": "n.",
+      "zh": "掮客",
+      "stars": 3,
+      "collocation": "A broker sells a"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“ballot” 的意思是：",
+      "options": [
+        "选票",
+        "头条",
+        "宪章",
+        "条约"
+      ],
+      "answer": 0,
+      "speak": "ballot"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A minimum ___ decides who may enter the crowded hall.",
+      "options": [
+        "percentage",
+        "property",
+        "broker",
+        "threat"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“rumour” 的意思是：",
+      "options": [
+        "谣言",
+        "猜疑",
+        "荣誉",
+        "怒气"
+      ],
+      "answer": 0,
+      "speak": "rumour"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Their white cottage has a wooden ___ and a green roof.",
+      "options": [
+        "deck",
+        "ballot",
+        "bond",
+        "peak"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "His insurance covers the ___ beside the old food market.",
+      "options": [
+        "property",
+        "campaign",
+        "software",
+        "origin"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“sophisticated” 的意思是：",
+      "options": [
+        "复杂精密的",
+        "怀孕的",
+        "激进的",
+        "地区的"
+      ],
+      "answer": 0,
+      "speak": "sophisticated"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A loud clash makes a tired guard ___ outside the gate.",
+      "options": [
+        "rage",
+        "sigh",
+        "consult",
+        "persuade"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“precisely” 的意思是：",
+      "options": [
+        "精确地",
+        "相当地",
+        "最终",
+        "最近"
+      ],
+      "answer": 0,
+      "speak": "precisely"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "The central system of this quiet ",
+        "hint": "ca",
+        "after": " is simple and clear.",
+        "answer": "campaign"
+      },
+      {
+        "before": "Our regional paper sends me to shoot photos in a busy ",
+        "hint": "di",
+        "after": ".",
+        "answer": "district"
+      },
+      {
+        "before": "The ",
+        "hint": "pr",
+        "after": " will speak tonight, and every headline waits.",
+        "answer": "premier"
+      },
+      {
+        "before": "The ",
+        "hint": "ba",
+        "after": " count will rank each party by its full name.",
+        "answer": "ballot"
+      },
+      {
+        "before": "A minimum ",
+        "hint": "pe",
+        "after": " decides who may enter the crowded hall.",
+        "answer": "percentage"
+      },
+      {
+        "before": "Votes reach a ",
+        "hint": "pe",
+        "after": " shortly after the tall doors close.",
+        "answer": "peak"
+      },
+      {
+        "before": "My first ",
+        "hint": "aw",
+        "after": " as a young reporter still inspires me.",
+        "answer": "award"
+      },
+      {
+        "before": "I must persuade myself to stay calm and fully ",
+        "hint": "co",
+        "after": ".",
+        "answer": "conscious"
+      },
+      {
+        "before": "My ",
+        "hint": "pr",
+        "after": " recently is to pursue the plain truth, not gossip.",
+        "answer": "priority"
+      },
+      {
+        "before": "Ultimately, a ",
+        "hint": "so",
+        "after": " reader wants clear facts, not noise.",
+        "answer": "sophisticated"
+      }
+    ],
+    "b3": [
+      {
+        "before": "A ",
+        "hint": "br",
+        "after": " sells a small apartment near the busy station.",
+        "answer": "broker"
+      },
+      {
+        "before": "Their white cottage has a wooden ",
+        "hint": "de",
+        "after": " and a green roof.",
+        "answer": "deck"
+      },
+      {
+        "before": "The city ",
+        "hint": "ch",
+        "after": " protects a treaty signed many years ago.",
+        "answer": "charter"
+      },
+      {
+        "before": "Then a new ",
+        "hint": "th",
+        "after": " may extend the peace talks into next week.",
+        "answer": "threat"
+      },
+      {
+        "before": "A ",
+        "hint": "ra",
+        "after": " plan would define the old town in new words.",
+        "answer": "radical"
+      },
+      {
+        "before": "The idea began elsewhere, but its true ",
+        "hint": "or",
+        "after": " is local.",
+        "answer": "origin"
+      },
+      {
+        "before": "Soft jazz plays while new ",
+        "hint": "so",
+        "after": " counts every single vote.",
+        "answer": "software"
+      },
+      {
+        "before": "The final numbers are fairly clear and ",
+        "hint": "pr",
+        "after": " checked.",
+        "answer": "precisely"
+      },
+      {
+        "before": "My ",
+        "hint": "pr",
+        "after": " sister treats every guest with gentle care.",
+        "answer": "pregnant"
+      },
+      {
+        "before": "A civil word can build a strong ",
+        "hint": "bo",
+        "after": " between old rivals.",
+        "answer": "bond"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我们地区报纸派我去一个繁忙的选区拍摄照片。",
+        "keywords": [
+          "regional",
+          "shoot",
+          "district"
+        ]
+      },
+      {
+        "zh": "一个阴暗的猜疑和一条丑陋的谣言在人群中传开。",
+        "keywords": [
+          "suspicion",
+          "rumour",
+          "crowd"
+        ]
+      },
+      {
+        "zh": "一场激烈的冲突让疲惫的卫兵在门外暴怒。",
+        "keywords": [
+          "clash",
+          "guard",
+          "rage"
+        ]
+      },
+      {
+        "zh": "他的保险覆盖了老食品市场旁边的房产。",
+        "keywords": [
+          "insurance",
+          "property",
+          "market"
+        ]
+      },
+      {
+        "zh": "柔和的爵士乐响起，新软件统计着每一张选票。",
+        "keywords": [
+          "jazz",
+          "software",
+          "vote"
+        ]
+      },
+      {
+        "zh": "我怀孕的姐姐温柔地招待每一位客人。",
+        "keywords": [
+          "pregnant",
+          "treats",
+          "care"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 291,
+    "sentences": 28,
+    "newDensity": 0.203,
+    "targetTokenDensity": 0.203,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写记者在老城区报道地区选举的一夜：点票、峰值、谣言与冲突、主席拒答，之后写到房产、宪章、条约与软件计票，结尾是家庭与和解。"
+}

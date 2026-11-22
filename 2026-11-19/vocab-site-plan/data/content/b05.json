@@ -1,0 +1,875 @@
+{
+  "id": "b05",
+  "title": "The Kite and the Toothache",
+  "titleZh": "风筝与牙痛",
+  "topic": "日常与健康",
+  "paragraphs": [
+    [
+      {
+        "en": "The sunny morning turns cold and windy before our breakfast.",
+        "zh": "晴朗的早晨在我们吃早饭前变得又冷又刮风。"
+      },
+      {
+        "en": "I wear shorts, but she takes a warm wool sweater.",
+        "zh": "我穿着短裤，她却带了一件暖和的羊毛衫。"
+      },
+      {
+        "en": "Our foreign teacher sings a short, happy song for us.",
+        "zh": "我们的外教老师为我们唱了一首短短的、欢快的歌。"
+      },
+      {
+        "en": "Her clear pronunciation makes the new chant feel easy.",
+        "zh": "她清晰的发音让这首新歌谣变得容易。"
+      },
+      {
+        "en": "In mathematics, I copy each long step into my notebook.",
+        "zh": "数学课上，我把每一个长长的步骤抄进笔记本。"
+      },
+      {
+        "en": "Our science lab shows one strange, useful invention today.",
+        "zh": "我们的科学实验室今天展示了一项奇怪又有用的发明。"
+      }
+    ],
+    [
+      {
+        "en": "After violin practice, he runs to the big basketball game.",
+        "zh": "小提琴练习结束后，他跑向盛大的篮球比赛。"
+      },
+      {
+        "en": "Our class website shows old photos of my hometown.",
+        "zh": "我们班的网站上有我家乡的老照片。"
+      },
+      {
+        "en": "I read the long instruction twice before I realise the mistake.",
+        "zh": "我把长长的说明读了两遍，才意识到那个错误。"
+      },
+      {
+        "en": "The teacher will punish one small, careless spelling mistake.",
+        "zh": "老师会为一个小小的粗心拼写错误而惩罚人。"
+      },
+      {
+        "en": "A snowy afternoon makes my thin old raincoat useless.",
+        "zh": "一个下雪的下午让我那件薄旧的雨衣毫无用处。"
+      },
+      {
+        "en": "At the supermarket, we buy a big sweet apple pie.",
+        "zh": "在超市里，我们买了一个大大的甜苹果派。"
+      }
+    ],
+    [
+      {
+        "en": "A long sausage and some ham wait in the fridge.",
+        "zh": "一根长长的香肠和一些火腿在冰箱里等着。"
+      },
+      {
+        "en": "Cold lemonade and a red candy make us both smile.",
+        "zh": "冰柠檬水和一颗红糖果让我们俩都笑了。"
+      },
+      {
+        "en": "I do the housework, then rest on the soft sofa.",
+        "zh": "我做完了家务，然后躺在柔软的沙发上休息。"
+      },
+      {
+        "en": "By candle light, she pulls a thin thread through cloth.",
+        "zh": "借着烛光，她把一根细线穿过布料。"
+      },
+      {
+        "en": "The lazy cat turns away from the sour, warm milk.",
+        "zh": "那只懒猫转身离开变酸的温牛奶。"
+      },
+      {
+        "en": "The round moon begins to shine above our small house.",
+        "zh": "圆圆的月亮开始在我们的小房子上方发光。"
+      }
+    ],
+    [
+      {
+        "en": "At night, a bad toothache sends me to the dentist.",
+        "zh": "夜里，一阵剧烈的牙痛把我送去看牙医。"
+      },
+      {
+        "en": "An x-ray shows my tongue and one very bad tooth.",
+        "zh": "一张 X 光片照出了我的舌头和一颗很坏的牙。"
+      },
+      {
+        "en": "I feel well again, but I pity the sad tooth.",
+        "zh": "我又感觉好了，但我还是同情那颗可怜的牙。"
+      },
+      {
+        "en": "On the way, a sheep and a fat pig watch us.",
+        "zh": "路上，一只羊和一头胖猪看着我们。"
+      },
+      {
+        "en": "A toy lion on the shelf scares the brown rat away.",
+        "zh": "架子上的一只玩具狮子把那只小棕鼠吓跑了。"
+      },
+      {
+        "en": "My sister falls asleep before I fetch the warm blanket.",
+        "zh": "我还没拿来暖和的毯子，妹妹就睡着了。"
+      }
+    ],
+    [
+      {
+        "en": "The handsome doctor smiles at my ugly, red face.",
+        "zh": "英俊的医生对着我难看的红脸笑了。"
+      },
+      {
+        "en": "My elder sister says the doctor's granddaughter is very kind.",
+        "zh": "我姐姐说医生的孙女非常善良。"
+      },
+      {
+        "en": "The wind drops to zero, so the red kite falls.",
+        "zh": "风停到零，所以那只红风筝落了下来。"
+      },
+      {
+        "en": "It has been a long day, but my new shoes fit.",
+        "zh": "这一天很长，但我新买的鞋子很合脚。"
+      },
+      {
+        "en": "My shy sister still holds her broken red kite.",
+        "zh": "我害羞的妹妹还抱着她那只坏掉的红风筝。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "well",
+      "pos": "n./v./adj./adv.",
+      "zh": "好地；健康的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "I feel well again"
+    },
+    {
+      "lemma": "long",
+      "pos": "adj./v./adv./n.",
+      "zh": "长的；长久地",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a long day"
+    },
+    {
+      "lemma": "teacher",
+      "pos": "n.",
+      "zh": "老师",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Our foreign teacher"
+    },
+    {
+      "lemma": "foreign",
+      "pos": "adj.",
+      "zh": "外国的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Our foreign teacher sings"
+    },
+    {
+      "lemma": "round",
+      "pos": "n./adj./prep./adv.",
+      "zh": "圆的；环绕",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The round moon"
+    },
+    {
+      "lemma": "realise",
+      "pos": "v.",
+      "zh": "意识到；实现",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "before I realise"
+    },
+    {
+      "lemma": "fit",
+      "pos": "n./adj./v.",
+      "zh": "合身；健康的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "my new shoes fit"
+    },
+    {
+      "lemma": "instruction",
+      "pos": "n.",
+      "zh": "说明；指示",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the long instruction"
+    },
+    {
+      "lemma": "sheep",
+      "pos": "n.",
+      "zh": "绵羊",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A sheep and a fat pig"
+    },
+    {
+      "lemma": "tongue",
+      "pos": "n./v.",
+      "zh": "舌头；语言",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "my tongue and one"
+    },
+    {
+      "lemma": "pig",
+      "pos": "n./v.",
+      "zh": "猪",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a fat pig watch us"
+    },
+    {
+      "lemma": "asleep",
+      "pos": "adj./adv.",
+      "zh": "睡着的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "falls asleep"
+    },
+    {
+      "lemma": "rat",
+      "pos": "n./v.",
+      "zh": "老鼠",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the brown rat"
+    },
+    {
+      "lemma": "shine",
+      "pos": "n./v.",
+      "zh": "发光；照耀",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "begins to shine"
+    },
+    {
+      "lemma": "lion",
+      "pos": "n.",
+      "zh": "狮子",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A toy lion"
+    },
+    {
+      "lemma": "mathematics",
+      "pos": "n.",
+      "zh": "数学",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "In mathematics"
+    },
+    {
+      "lemma": "fetch",
+      "pos": "n./v.",
+      "zh": "去取来；拿来",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "before I fetch"
+    },
+    {
+      "lemma": "pity",
+      "pos": "n./v.",
+      "zh": "同情；遗憾",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "I pity the sad tooth"
+    },
+    {
+      "lemma": "handsome",
+      "pos": "adj.",
+      "zh": "英俊的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The handsome doctor"
+    },
+    {
+      "lemma": "supermarket",
+      "pos": "n.",
+      "zh": "超市",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "At the supermarket"
+    },
+    {
+      "lemma": "candle",
+      "pos": "n./v.",
+      "zh": "蜡烛",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "By candle light"
+    },
+    {
+      "lemma": "pie",
+      "pos": "n.",
+      "zh": "馅饼；派",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a big sweet apple pie"
+    },
+    {
+      "lemma": "zero",
+      "pos": "n./adj./v.",
+      "zh": "零",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "drops to zero"
+    },
+    {
+      "lemma": "ugly",
+      "pos": "adj./n.",
+      "zh": "难看的；丑陋的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "my ugly, red face"
+    },
+    {
+      "lemma": "punish",
+      "pos": "v.",
+      "zh": "惩罚",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "will punish one small"
+    },
+    {
+      "lemma": "invention",
+      "pos": "n.",
+      "zh": "发明；发明物",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "one strange, useful invention"
+    },
+    {
+      "lemma": "lab",
+      "pos": "n.",
+      "zh": "实验室",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Our science lab"
+    },
+    {
+      "lemma": "thread",
+      "pos": "n./v.",
+      "zh": "线；细丝",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a thin thread"
+    },
+    {
+      "lemma": "sofa",
+      "pos": "n.",
+      "zh": "沙发",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the soft sofa"
+    },
+    {
+      "lemma": "shy",
+      "pos": "n./adj./v.",
+      "zh": "害羞的；腼腆的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "My shy sister"
+    },
+    {
+      "lemma": "notebook",
+      "pos": "n.",
+      "zh": "笔记本",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "into my notebook"
+    },
+    {
+      "lemma": "sunny",
+      "pos": "adj.",
+      "zh": "晴朗的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The sunny morning"
+    },
+    {
+      "lemma": "elder",
+      "pos": "n./adj.",
+      "zh": "年长的；长辈",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "My elder sister"
+    },
+    {
+      "lemma": "sausage",
+      "pos": "n.",
+      "zh": "香肠",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A long sausage"
+    },
+    {
+      "lemma": "kite",
+      "pos": "n./v.",
+      "zh": "风筝",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the red kite falls"
+    },
+    {
+      "lemma": "dentist",
+      "pos": "n.",
+      "zh": "牙医",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "sends me to the dentist"
+    },
+    {
+      "lemma": "ham",
+      "pos": "n./adj./v.",
+      "zh": "火腿",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "some ham wait"
+    },
+    {
+      "lemma": "lazy",
+      "pos": "adj./v.",
+      "zh": "懒惰的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The lazy cat"
+    },
+    {
+      "lemma": "shorts",
+      "pos": "n.",
+      "zh": "短裤",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "I wear shorts"
+    },
+    {
+      "lemma": "sweater",
+      "pos": "n.",
+      "zh": "毛衣；针织衫",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a warm wool sweater"
+    },
+    {
+      "lemma": "violin",
+      "pos": "n.",
+      "zh": "小提琴",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "After violin practice"
+    },
+    {
+      "lemma": "housework",
+      "pos": "n.",
+      "zh": "家务",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "do the housework"
+    },
+    {
+      "lemma": "careless",
+      "pos": "adj.",
+      "zh": "粗心的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "small, careless spelling mistake"
+    },
+    {
+      "lemma": "sour",
+      "pos": "adj./v./n.",
+      "zh": "酸的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the sour, warm milk"
+    },
+    {
+      "lemma": "pronunciation",
+      "pos": "n.",
+      "zh": "发音",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Her clear pronunciation"
+    },
+    {
+      "lemma": "chant",
+      "pos": "n./v.",
+      "zh": "歌谣；吟唱",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the new chant feel easy"
+    },
+    {
+      "lemma": "windy",
+      "pos": "adj.",
+      "zh": "有风的；刮风的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "cold and windy"
+    },
+    {
+      "lemma": "candy",
+      "pos": "n./v.",
+      "zh": "糖果",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a red candy make"
+    },
+    {
+      "lemma": "granddaughter",
+      "pos": "n.",
+      "zh": "孙女；外孙女",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the doctor's granddaughter"
+    },
+    {
+      "lemma": "raincoat",
+      "pos": "n.",
+      "zh": "雨衣",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "thin old raincoat"
+    },
+    {
+      "lemma": "snowy",
+      "pos": "adj.",
+      "zh": "下雪的；多雪的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A snowy afternoon"
+    },
+    {
+      "lemma": "lemonade",
+      "pos": "n.",
+      "zh": "柠檬水",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Cold lemonade"
+    },
+    {
+      "lemma": "basketball",
+      "pos": "n.",
+      "zh": "篮球",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the big basketball game"
+    },
+    {
+      "lemma": "toothache",
+      "pos": "n.",
+      "zh": "牙痛",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a bad toothache"
+    },
+    {
+      "lemma": "hometown",
+      "pos": "n.",
+      "zh": "家乡",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "photos of my hometown"
+    },
+    {
+      "lemma": "website",
+      "pos": "n.",
+      "zh": "网站",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Our class website"
+    },
+    {
+      "lemma": "x-ray",
+      "pos": "adj./v.",
+      "zh": "X 光片；X 射线",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "An x-ray shows"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“shy” 的意思是：",
+      "options": [
+        "懒惰的",
+        "英俊的",
+        "害羞的",
+        "困倦的"
+      ],
+      "answer": 2,
+      "speak": "shy"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A ___ afternoon makes my thin old raincoat useless.",
+      "options": [
+        "sunny",
+        "windy",
+        "snowy",
+        "sour"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“handsome” 的意思是：",
+      "options": [
+        "丑陋的",
+        "英俊的",
+        "害羞的",
+        "困倦的"
+      ],
+      "answer": 1,
+      "speak": "handsome"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "The wind drops to ___, so the red kite falls.",
+      "options": [
+        "one",
+        "ten",
+        "two",
+        "zero"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "An ___ shows my tongue and one very bad tooth.",
+      "options": [
+        "x-ray",
+        "pie",
+        "sofa",
+        "kite"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“pity” 的意思是：",
+      "options": [
+        "羡慕",
+        "同情",
+        "惩罚",
+        "讨厌"
+      ],
+      "answer": 1,
+      "speak": "pity"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "The lazy cat turns away from the ___, warm milk.",
+      "options": [
+        "sunny",
+        "round",
+        "sour",
+        "shy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q8",
+      "type": "语境填空",
+      "prompt": "My ___ sister says the doctor's granddaughter is very kind.",
+      "options": [
+        "elder",
+        "ugly",
+        "lazy",
+        "shy"
+      ],
+      "answer": 0
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "The ",
+        "hint": "su",
+        "after": " morning turns cold and windy before our breakfast.",
+        "answer": "sunny"
+      },
+      {
+        "before": "I wear ",
+        "hint": "sh",
+        "after": ", but she takes a warm wool sweater.",
+        "answer": "shorts"
+      },
+      {
+        "before": "Our ",
+        "hint": "fo",
+        "after": " teacher sings a short, happy song for us.",
+        "answer": "foreign"
+      },
+      {
+        "before": "Her clear ",
+        "hint": "pr",
+        "after": " makes the new chant feel easy.",
+        "answer": "pronunciation"
+      },
+      {
+        "before": "In ",
+        "hint": "ma",
+        "after": ", I copy each long step into my notebook.",
+        "answer": "mathematics"
+      },
+      {
+        "before": "Our science ",
+        "hint": "la",
+        "after": " shows one strange, useful invention today.",
+        "answer": "lab"
+      },
+      {
+        "before": "After violin practice, he runs to the big ",
+        "hint": "ba",
+        "after": " game.",
+        "answer": "basketball"
+      },
+      {
+        "before": "Our class ",
+        "hint": "we",
+        "after": " shows old photos of my hometown.",
+        "answer": "website"
+      },
+      {
+        "before": "At the ",
+        "hint": "su",
+        "after": ", we buy a big sweet apple pie.",
+        "answer": "supermarket"
+      },
+      {
+        "before": "A long ",
+        "hint": "sa",
+        "after": " and some ham wait in the fridge.",
+        "answer": "sausage"
+      }
+    ],
+    "b3": [
+      {
+        "before": "I wear shorts, but she takes a warm wool ",
+        "hint": "s",
+        "after": ".",
+        "answer": "sweater"
+      },
+      {
+        "before": "A ",
+        "hint": "s",
+        "after": " afternoon makes my thin old raincoat useless.",
+        "answer": "snowy"
+      },
+      {
+        "before": "The ",
+        "hint": "r",
+        "after": " moon begins to shine above our small house.",
+        "answer": "round"
+      },
+      {
+        "before": "The teacher will punish one small, ",
+        "hint": "c",
+        "after": " spelling mistake.",
+        "answer": "careless"
+      },
+      {
+        "before": "By ",
+        "hint": "c",
+        "after": " light, she pulls a thin thread through cloth.",
+        "answer": "candle"
+      },
+      {
+        "before": "A toy ",
+        "hint": "l",
+        "after": " on the shelf scares the brown rat away.",
+        "answer": "lion"
+      },
+      {
+        "before": "My sister falls ",
+        "hint": "a",
+        "after": " before I fetch the warm blanket.",
+        "answer": "asleep"
+      },
+      {
+        "before": "The ",
+        "hint": "h",
+        "after": " doctor smiles at my ugly, red face.",
+        "answer": "handsome"
+      },
+      {
+        "before": "The wind drops to ",
+        "hint": "z",
+        "after": ", so the red kite falls.",
+        "answer": "zero"
+      },
+      {
+        "before": "My shy sister still holds her broken red ",
+        "hint": "k",
+        "after": ".",
+        "answer": "kite"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "晴朗的早晨在我们吃早饭前变得又冷又刮风。",
+        "keywords": [
+          "sunny",
+          "windy"
+        ]
+      },
+      {
+        "zh": "她清晰的发音让这首新歌谣变得容易。",
+        "keywords": [
+          "pronunciation",
+          "chant"
+        ]
+      },
+      {
+        "zh": "在超市里，我们买了一个大大的甜苹果派。",
+        "keywords": [
+          "supermarket",
+          "pie"
+        ]
+      },
+      {
+        "zh": "夜里，一阵剧烈的牙痛把我送去看牙医。",
+        "keywords": [
+          "toothache",
+          "dentist"
+        ]
+      },
+      {
+        "zh": "一张 X 光片照出了我的舌头和一颗很坏的牙。",
+        "keywords": [
+          "x-ray",
+          "tongue"
+        ]
+      },
+      {
+        "zh": "这一天很长，但我新买的鞋子很合脚。",
+        "keywords": [
+          "long",
+          "fit"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 287,
+    "sentences": 29,
+    "newDensity": 0.199,
+    "targetTokenDensity": 0.216,
+    "patterns": [
+      "A + 形容词 + N + V（3 次）",
+      "My / Our + N + V（6 次）",
+      "At / After / Then 开头（3 次）"
+    ]
+  },
+  "note": "b05 补漏成稿（日常与健康/风筝与牙痛）：287 词 / 29 句；57 个目标词（stars=0、star_source=zhongkao）全部出现（kite 回指 1 次）；回引主线 p01–p22 已学词作骨架；写作与自查规则见 work/p01-写作规则与自查清单.md，补漏校验见 work/qc_check_supplement.py。"
+}

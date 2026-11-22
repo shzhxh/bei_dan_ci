@@ -1,0 +1,386 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { STAGES } from '../data/course';
+import { getCatalog } from '../lib/catalog.server';
+import { url } from '../lib/paths';
+
+const catalog = getCatalog();
+const { totals } = catalog;
+const firstPassage = catalog.main[0];
+const fmt = (value: number) => value.toLocaleString('en-US');
+
+const stages = STAGES.map((stage) => ({
+  ...stage,
+  passages: catalog.main.filter((passage) => passage.stage === stage.stage),
+}));
+const supplement = catalog.supplement;
+---
+
+<BaseLayout>
+  <div class="container">
+    <section class="hero">
+      <div>
+        <span class="eyebrow">55 篇 · 3,242 词 · 主线 + 考纲补漏</span>
+        <h1 class="display">每篇三百词，<br />把生词<em>读成故事</em>。</h1>
+        <p class="hero-lede">
+          50 篇主线把 {fmt(totals.mainWords)} 个 Collins 3–5★ 词压进 280–320 词的短文；
+          另加 5 篇考纲补漏，补齐 {fmt(totals.supplementWords)} 个无星级中考词。
+          没有账号，没有后端，学习进度只存在你的浏览器里。
+        </p>
+        <div class="btn-row hero-actions">
+          <a class="btn btn-primary" href={url(`/p/${firstPassage.slug}/`)}>从第 1 篇开始</a>
+          <a class="btn" href={url('/course/')}>查看全部 55 篇</a>
+        </div>
+        <div class="hero-figures">
+          <div>
+            <div class="figure-value">55</div>
+            <div class="figure-label">篇短文</div>
+          </div>
+          <div>
+            <div class="figure-value">{fmt(totals.words)}</div>
+            <div class="figure-label">个词</div>
+          </div>
+          <div>
+            <div class="figure-value">{totals.zhongkaoPassages}</div>
+            <div class="figure-label">篇中考路线</div>
+          </div>
+          <div>
+            <div class="figure-value">0 元</div>
+            <div class="figure-label">运行成本</div>
+          </div>
+        </div>
+      </div>
+
+      <aside class="today-card" aria-labelledby="today-heading">
+        <div class="today-label">
+          <span id="today-heading">今天学哪篇</span>
+          <span id="today-date">—</span>
+        </div>
+        <h2 class="today-title" id="today-title">第 1 篇 · {firstPassage.title}</h2>
+        <p class="today-meta" id="today-meta">
+          {firstPassage.targetCount} 个目标词 · {firstPassage.wordCount > 0
+            ? `${firstPassage.wordCount} 词`
+            : '篇长待成稿'} · {firstPassage.titleZh}
+        </p>
+        <div class="today-actions">
+          <a class="btn btn-primary btn-sm" id="today-cta" href={url(`/p/${firstPassage.slug}/`)}>开始学习</a>
+          <a class="btn btn-sm" id="today-secondary" href={url('/review/')}>去复习</a>
+        </div>
+      </aside>
+    </section>
+
+    <section class="section" aria-labelledby="routes-heading">
+      <div class="section-head">
+        <h2 id="routes-heading">两条轨，同一套材料</h2>
+        <p>主线 50 篇；中考路线取前 22 篇主线，再加 5 篇考纲补漏。</p>
+      </div>
+      <div class="route-grid">
+        <a class="route-card" href={url('/course/?route=zhongkao')}>
+          <div class="route-top">
+            <span class="route-name">{'中考路线'}</span>
+            <span class="badge badge-accent">22 主线 + 5 补漏</span>
+          </div>
+          <p class="route-desc">
+            前 22 篇主线覆盖词表内 1,258 个中考词；5 篇补漏补齐 289 个无星级中考词，
+            共 27 篇，学完即可停。
+          </p>
+          <div class="route-meta">
+            <span><strong>{totals.zhongkaoPassages}</strong>篇</span>
+            <span><strong>{fmt(totals.zhongkaoWords)}</strong>词位</span>
+            <span class="route-arrow">进入路线 →</span>
+          </div>
+        </a>
+        <a class="route-card" href={url('/course/?route=full')}>
+          <div class="route-top">
+            <span class="route-name">主线路线</span>
+            <span class="badge">50 篇星级词</span>
+          </div>
+          <p class="route-desc">
+            50 篇主线覆盖 {fmt(totals.mainWords)} 个 Collins 3–5★ 高频词；
+            考纲补漏单独成轨，不计入主线的 50 篇分母。
+          </p>
+          <div class="route-meta">
+            <span><strong>50</strong>篇</span>
+            <span><strong>{fmt(totals.mainWords)}</strong>词位</span>
+            <span class="route-arrow">进入路线 →</span>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="progress-heading">
+      <div class="section-head">
+        <h2 id="progress-heading">你的进度</h2>
+        <p>主线与中考路线分开计算，补漏篇不混进主线分母；数据来自 localStorage。</p>
+      </div>
+      <div class="progress-split">
+        <div class="card progress-card">
+          <div class="ring" id="home-main-ring" style="--value: 0; --size: 108px;" role="img" aria-label="主线完成进度">
+            <div class="ring-inner">
+              <div class="ring-value" id="home-main-ring-value">0%</div>
+              <div class="ring-label">主线 50 篇</div>
+            </div>
+          </div>
+          <div style="flex: 1 1 180px;">
+            <h3 class="progress-card-title">主线路线</h3>
+            <div class="overview-stats" style="grid-template-columns: repeat(2, minmax(0, 1fr)); margin-top: 12px;">
+              <div class="overview-stat">
+                <b id="home-main-passages">0 / 50</b>
+                <span>已学篇数</span>
+              </div>
+              <div class="overview-stat">
+                <b id="home-main-words">{`0 / ${fmt(totals.mainWords)}`}</b>
+                <span>已学词数</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card progress-card">
+          <div class="ring" id="home-zk-ring" style="--value: 0; --size: 108px;" role="img" aria-label="中考路线完成进度">
+            <div class="ring-inner">
+              <div class="ring-value" id="home-zk-ring-value">0%</div>
+              <div class="ring-label">中考 27 篇</div>
+            </div>
+          </div>
+          <div style="flex: 1 1 180px;">
+            <h3 class="progress-card-title">中考路线</h3>
+            <div class="overview-stats" style="grid-template-columns: repeat(2, minmax(0, 1fr)); margin-top: 12px;">
+              <div class="overview-stat">
+                <b id="home-zk-passages">{`0 / ${totals.zhongkaoPassages}`}</b>
+                <span>已学篇数</span>
+              </div>
+              <div class="overview-stat">
+                <b id="home-zk-words">{`0 / ${fmt(totals.zhongkaoWords)}`}</b>
+                <span>已学词数</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="overview-actions" style="margin-top: 16px;">
+        <span class="text-muted text-small">今日到期卡片：<b id="home-due-cards">0</b> 张 · 每日上限 120 张</span>
+        <a class="btn btn-sm" href={url('/me/')}>打开进度看板</a>
+        <a class="btn btn-sm btn-ghost" href={url('/review/')}>进入复习</a>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="map-heading">
+      <div class="section-head">
+        <h2 id="map-heading">55 篇地图</h2>
+        <p>主线按 5 个阶段分组；考纲补漏单独列在下方。</p>
+      </div>
+      <div class="map-stages">
+        {
+          stages.map((stage) => (
+            <div class="map-stage">
+              <div class="map-stage-label">
+                <b>{stage.label}</b>
+                <span>第 {stage.range} 篇 · 单句 {stage.sentenceMin}–{stage.sentenceLimit} 词</span>
+              </div>
+              <div class="map-grid">
+                {stage.passages.map((passage) => (
+                  <a
+                    class="map-tile"
+                    data-passage={passage.id}
+                    href={url(`/p/${passage.slug}/`)}
+                    aria-label={`第 ${passage.order} 篇 ${passage.title} ${passage.titleZh}`}
+                  >
+                    {passage.slug}
+                  </a>
+                ))}
+              </div>
+            </div>
+          ))
+        }
+      </div>
+
+      <div class="supplement-block">
+        <div class="stage-block-head">
+          <h2>考纲补漏 · 非星级词</h2>
+          <span class="badge badge-gold">仅中考路线 · 不计入主线分母</span>
+          <span class="text-muted text-small">第 51–55 篇 · 共 {fmt(totals.supplementWords)} 词</span>
+        </div>
+        <div class="map-grid">
+          {
+            supplement.map((passage) => (
+              <a
+                class="map-tile is-supplement"
+                data-passage={passage.id}
+                href={url(`/p/${passage.slug}/`)}
+                aria-label={`第 ${passage.order} 篇 ${passage.titleZh}，考纲补漏`}
+              >
+                {passage.slug}
+              </a>
+            ))
+          }
+        </div>
+        <p class="text-muted text-small" style="margin-top: 12px;">
+          这 5 篇收纳 289 个无 Collins 星级的中考词，只在择中考路线时出现；
+          主线 50 篇的分母不包含它们。
+        </p>
+      </div>
+
+      <div class="map-legend">
+        <span class="legend-item"><span class="legend-swatch"></span>未开始</span>
+        <span class="legend-item"><span class="legend-swatch started"></span>已打开</span>
+        <span class="legend-item"><span class="legend-swatch read"></span>已完成首读</span>
+        <span class="legend-item"><span class="legend-swatch" style="border-color: var(--gold); box-shadow: 0 0 0 2px var(--gold-soft);"></span>今天建议</span>
+        <span class="legend-item"><span class="legend-swatch" style="border-color: var(--gold);"></span>考纲补漏</span>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="how-heading">
+      <div class="section-head">
+        <h2 id="how-heading">一篇怎么学</h2>
+        <p>拆成三次，每次 30 分钟以内；之后靠复读与 SRS 保持。</p>
+      </div>
+      <div class="route-grid">
+        <article class="card">
+          <span class="badge badge-accent">第 1 次 · 30 min</span>
+          <h3 style="margin-top: 14px; font-size: 18px;">预读 + 通读 + 点词</h3>
+          <p class="text-muted text-small" style="margin-top: 8px;">
+            先看前 30 个目标词，再通读全文，最后逐句精读前半。
+          </p>
+        </article>
+        <article class="card">
+          <span class="badge badge-accent">第 2 次 · 30 min</span>
+          <h3 style="margin-top: 14px; font-size: 18px;">后半 + 背诵 B1–B2</h3>
+          <p class="text-muted text-small" style="margin-top: 8px;">
+            补齐后 29–30 个目标词，跟读两遍，然后做挖空填空。
+          </p>
+        </article>
+        <article class="card">
+          <span class="badge badge-accent">第 3 次 · 15 min</span>
+          <h3 style="margin-top: 14px; font-size: 18px;">背诵 B3–B4 + 检测</h3>
+          <p class="text-muted text-small" style="margin-top: 8px;">
+            首字母补句、中文回译，最后用检测题确认掌握度。
+          </p>
+        </article>
+        <article class="card">
+          <span class="badge">之后 · 10 min / 天</span>
+          <h3 style="margin-top: 14px; font-size: 18px;">复读 + SRS</h3>
+          <p class="text-muted text-small" style="margin-top: 8px;">
+            到期卡片按 1 / 3 / 7 / 16 / 35 天间隔复习，每天上限 120 张。
+          </p>
+        </article>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    import {
+      mainPassages,
+      readCatalog,
+      weightsOf,
+      zhongkaoPassages,
+    } from '../lib/catalog.client';
+    import { dueCards, loadProgress, statsOf } from '../lib/progress';
+    import type { RouteId } from '../lib/progress';
+    import { url } from '../lib/paths';
+
+    const catalog = readCatalog();
+    const state = loadProgress();
+    const main = mainPassages(catalog);
+    const zhongkao = zhongkaoPassages(catalog);
+
+    const mainStats = statsOf(state, weightsOf(main));
+    const zkStats = statsOf(state, weightsOf(zhongkao));
+
+    const setRing = (id: string, valueId: string, done: number, total: number) => {
+      const percent = total ? Math.round((done / total) * 100) : 0;
+      const ring = document.getElementById(id);
+      if (ring) {
+        ring.style.setProperty('--value', String(percent));
+        ring.setAttribute('aria-label', `完成进度 ${percent}%`);
+      }
+      const value = document.getElementById(valueId);
+      if (value) value.textContent = `${percent}%`;
+    };
+    const setText = (id: string, text: string) => {
+      const node = document.getElementById(id);
+      if (node) node.textContent = text;
+    };
+    const fmt = (value: number) => value.toLocaleString('en-US');
+
+    setRing('home-main-ring', 'home-main-ring-value', mainStats.learnedPassages, main.length);
+    setText('home-main-passages', `${mainStats.learnedPassages} / ${main.length}`);
+    setText(
+      'home-main-words',
+      `${fmt(mainStats.learnedWords)} / ${fmt(catalog.totals.mainWords)}`,
+    );
+    setRing('home-zk-ring', 'home-zk-ring-value', zkStats.learnedPassages, zhongkao.length);
+    setText('home-zk-passages', `${zkStats.learnedPassages} / ${zhongkao.length}`);
+    setText('home-zk-words', `${fmt(zkStats.learnedWords)} / ${fmt(catalog.totals.zhongkaoWords)}`);
+    setText('home-due-cards', String(mainStats.dueCount + zkStats.dueCount));
+
+    const dateNode = document.getElementById('today-date');
+    if (dateNode) {
+      dateNode.textContent = new Intl.DateTimeFormat('zh-CN', { month: 'long', day: 'numeric' }).format(new Date());
+    }
+
+    // 地图状态（主线 + 补漏一起点亮）
+    for (const passage of catalog.passages) {
+      const tile = document.querySelector<HTMLElement>(`.map-tile[data-passage="${passage.id}"]`);
+      if (!tile) continue;
+      const progress = state.passages[passage.id];
+      if (progress?.read) tile.classList.add('is-read');
+      else if (progress?.visits) tile.classList.add('is-started');
+    }
+
+    // 今日建议：到期复习 > 当前路线的下一未读篇
+    const due = dueCards(state);
+    const route: RouteId = state.route === 'zhongkao' ? 'zhongkao' : 'full';
+    const routeOrder =
+      route === 'zhongkao'
+        ? [...zhongkao].sort((a, b) => a.order - b.order)
+        : main;
+    const next = routeOrder.find((passage) => !state.passages[passage.id]?.read);
+    const titleNode = document.getElementById('today-title');
+    const metaNode = document.getElementById('today-meta');
+    const cta = document.getElementById('today-cta') as HTMLAnchorElement | null;
+    const secondary = document.getElementById('today-secondary') as HTMLAnchorElement | null;
+
+    const trackLabel = (track: string) => (track === 'supplement' ? '考纲补漏' : '主线');
+
+    if (due.length > 0) {
+      if (titleNode) titleNode.textContent = `先复习 ${due.length} 张到期卡片`;
+      if (metaNode) metaNode.textContent = '间隔重复优先于新篇；预计 ' + Math.ceil(due.length / 2) + ' 分钟';
+      if (cta) {
+        cta.textContent = '开始复习';
+        cta.href = url('/review/');
+      }
+      if (secondary) {
+        secondary.textContent = next ? '或学下一篇' : '查看课程';
+        secondary.href = next ? url(`/p/${next.slug}/`) : url('/course/');
+      }
+    } else if (next) {
+      if (titleNode) titleNode.textContent = `第 ${next.order} 篇 · ${next.title}`;
+      if (metaNode) {
+        const length = next.wordCount > 0 ? `${next.wordCount} 词` : '篇长待成稿';
+        metaNode.textContent =
+          next.track === 'supplement'
+            ? `${next.targetCount} 个目标词 · ${length} · ${trackLabel(next.track)} · ${next.titleZh}`
+            : `${next.targetCount} 个目标词 · ${length} · ${next.titleZh}`;
+      }
+      if (cta) {
+        cta.textContent = '开始学习';
+        cta.href = url(`/p/${next.slug}/`);
+      }
+      if (secondary) {
+        secondary.textContent = '查看课程';
+        secondary.href = url('/course/');
+      }
+      const tile = document.querySelector<HTMLElement>(`.map-tile[data-passage="${next.id}"]`);
+      tile?.classList.add('is-today');
+    } else {
+      if (titleNode) titleNode.textContent = route === 'zhongkao' ? '中考路线已完成' : '主线 50 篇全部完成';
+      if (metaNode) metaNode.textContent = '之后每天复读旧篇、清空到期卡片即可保持。';
+      if (cta) {
+        cta.textContent = '去复习';
+        cta.href = url('/review/');
+      }
+      if (secondary) secondary.classList.add('is-hidden');
+    }
+  </script>
+</BaseLayout>

@@ -1,0 +1,831 @@
+{
+  "id": "p12",
+  "title": "The Science Fair at the Palace Hotel",
+  "titleZh": "宫殿旅馆里的科学展",
+  "topic": "校园",
+  "paragraphs": [
+    [
+      {
+        "en": "They go to the science fair in the old town very early today.",
+        "zh": "他们今天一早就去了老城区的科学展。"
+      },
+      {
+        "en": "A grand old palace now serves as a busy, friendly hotel.",
+        "zh": "一座宏伟的老宫殿如今成了忙碌又友好的旅馆。"
+      },
+      {
+        "en": "My own work starts after a short, quiet walk through the garden.",
+        "zh": "我自己的工作在一段安静的小路之后开始，穿过花园就到了。"
+      },
+      {
+        "en": "Every pupil carries a notebook and a paper cup to the hall.",
+        "zh": "每个学生都带着一个笔记本和一个纸杯走进大厅。"
+      },
+      {
+        "en": "The wide stone floor of the lobby looks clean and bright.",
+        "zh": "大堂宽阔的石地板看起来干净又明亮。"
+      },
+      {
+        "en": "The chairman waits inside a small private room near the stairs.",
+        "zh": "主席在楼梯旁一间小小的私人房间里等着。"
+      },
+      {
+        "en": "He explains all the rules to us immediately and very clearly.",
+        "zh": "他马上把所有的规则给我们讲得清清楚楚。"
+      },
+      {
+        "en": "We expect a special prize for the best and neatest team.",
+        "zh": "我们期待着一个特别奖，颁给最好、最整洁的队伍。"
+      },
+      {
+        "en": "Then the winner may be named tonight at eight in the big hall.",
+        "zh": "然后，今晚八点会在大厅里宣布获胜者。"
+      },
+      {
+        "en": "My dream project shows a model of the brain and its cells.",
+        "zh": "我梦想的项目展示了一个大脑模型，还有它的细胞。"
+      }
+    ],
+    [
+      {
+        "en": "Her study looks at cancer cells inside the human body.",
+        "zh": "她的研究关注人体内部的癌细胞。"
+      },
+      {
+        "en": "A rapid test marks a real development in modern care.",
+        "zh": "一次快速检测标志着现代医疗的一项真正发展。"
+      },
+      {
+        "en": "The operation is hard, but the doctors stay calm and quick.",
+        "zh": "手术很难，但医生们保持冷静又迅速。"
+      },
+      {
+        "en": "One small piece sits near the edge of the wooden table.",
+        "zh": "一小块东西放在木桌的边缘附近。"
+      },
+      {
+        "en": "A warm meal with fresh meat smells very good and rich.",
+        "zh": "一顿有新鲜肉的热饭闻起来非常香。"
+      },
+      {
+        "en": "Green plants cover the land beside the school and the park.",
+        "zh": "绿色的植物覆盖着学校旁边和公园旁边的土地。"
+      },
+      {
+        "en": "Most projects look fine, yet two still need a lot of help.",
+        "zh": "大多数项目看起来都不错，但有两个仍然需要很多帮助。"
+      },
+      {
+        "en": "Later, each turn costs a small coin at the front door.",
+        "zh": "后来，每一次轮到都要在正门投一枚小硬币。"
+      },
+      {
+        "en": "Fifteen students bring an article about their test and its result.",
+        "zh": "十五个学生带来一篇关于他们测试的文章。"
+      },
+      {
+        "en": "A quick copy helps, but a real reply is always better.",
+        "zh": "抄一份很快，但真正的答复总是更好。"
+      }
+    ],
+    [
+      {
+        "en": "Proper credit matters, so please do not miss the name.",
+        "zh": "适当的署名很重要，所以请不要漏掉名字。"
+      },
+      {
+        "en": "A stupid spelling mistake can ruin a good page very fast.",
+        "zh": "一个愚蠢的拼写错误能很快毁掉好好的一页。"
+      },
+      {
+        "en": "Then our class monitor must communicate the result to the judge.",
+        "zh": "然后我们班的班长必须把结果告诉评委。"
+      },
+      {
+        "en": "My friend lends me a pen from his coat pocket.",
+        "zh": "我的朋友从他的外套口袋里借给我一支笔。"
+      },
+      {
+        "en": "We can sit anywhere and say bye at noon.",
+        "zh": "我们可以随便坐在哪里，中午说声再见。"
+      },
+      {
+        "en": "A local solicitor warns the team about corruption and lies.",
+        "zh": "一位当地律师提醒队伍注意腐败和谎言。"
+      },
+      {
+        "en": "During the break, other guests share their lunch and talk.",
+        "zh": "休息时，别的客人分享他们的午餐，还聊着天。"
+      },
+      {
+        "en": "We should test the main idea in one simple experiment.",
+        "zh": "我们应该用一个简单的实验来检验主要的想法。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "they",
+      "pos": "pron.",
+      "zh": "他们",
+      "stars": 5,
+      "collocation": "They go to"
+    },
+    {
+      "lemma": "go",
+      "pos": "v./n.",
+      "zh": "去",
+      "stars": 5,
+      "collocation": "They go to the"
+    },
+    {
+      "lemma": "other",
+      "pos": "adj./pron.",
+      "zh": "其他的",
+      "stars": 5,
+      "collocation": "break, other guests share"
+    },
+    {
+      "lemma": "should",
+      "pos": "v.",
+      "zh": "应该",
+      "stars": 5,
+      "collocation": "We should test the"
+    },
+    {
+      "lemma": "after",
+      "pos": "prep./conj./adv.",
+      "zh": "在...之后",
+      "stars": 5,
+      "collocation": "starts after a short,"
+    },
+    {
+      "lemma": "work",
+      "pos": "n./v.",
+      "zh": "工作",
+      "stars": 5,
+      "collocation": "own work starts after"
+    },
+    {
+      "lemma": "most",
+      "pos": "n./adj./adv.",
+      "zh": "最多",
+      "stars": 5,
+      "collocation": "Most projects look"
+    },
+    {
+      "lemma": "turn",
+      "pos": "n./v.",
+      "zh": "转弯",
+      "stars": 5,
+      "collocation": "each turn costs a"
+    },
+    {
+      "lemma": "every",
+      "pos": "adj.",
+      "zh": "每一",
+      "stars": 5,
+      "collocation": "Every pupil carries"
+    },
+    {
+      "lemma": "development",
+      "pos": "n.",
+      "zh": "发展",
+      "stars": 5,
+      "collocation": "real development in modern"
+    },
+    {
+      "lemma": "yet",
+      "pos": "adv./conj.",
+      "zh": "还",
+      "stars": 5,
+      "collocation": "fine, yet two still"
+    },
+    {
+      "lemma": "body",
+      "pos": "n./v.",
+      "zh": "身体",
+      "stars": 5,
+      "collocation": "human body."
+    },
+    {
+      "lemma": "expect",
+      "pos": "v.",
+      "zh": "预期",
+      "stars": 5,
+      "collocation": "We expect a special"
+    },
+    {
+      "lemma": "cost",
+      "pos": "n./v.",
+      "zh": "代价",
+      "stars": 5,
+      "collocation": "turn costs a small"
+    },
+    {
+      "lemma": "main",
+      "pos": "n./adj.",
+      "zh": "主要部分",
+      "stars": 5,
+      "collocation": "the main idea in"
+    },
+    {
+      "lemma": "special",
+      "pos": "n./adj.",
+      "zh": "专辑",
+      "stars": 5,
+      "collocation": "a special prize for"
+    },
+    {
+      "lemma": "land",
+      "pos": "n./v.",
+      "zh": "陆地",
+      "stars": 5,
+      "collocation": "the land beside the"
+    },
+    {
+      "lemma": "break",
+      "pos": "n./v.",
+      "zh": "休息",
+      "stars": 5,
+      "collocation": "the break, other guests"
+    },
+    {
+      "lemma": "hard",
+      "pos": "adj./adv.",
+      "zh": "坚硬的",
+      "stars": 5,
+      "collocation": "is hard, but the"
+    },
+    {
+      "lemma": "operation",
+      "pos": "n.",
+      "zh": "操作",
+      "stars": 5,
+      "collocation": "The operation is hard,"
+    },
+    {
+      "lemma": "cup",
+      "pos": "n./v.",
+      "zh": "杯子",
+      "stars": 5,
+      "collocation": "paper cup to the"
+    },
+    {
+      "lemma": "green",
+      "pos": "n./adj.",
+      "zh": "绿色",
+      "stars": 5,
+      "collocation": "Green plants cover"
+    },
+    {
+      "lemma": "fifteen",
+      "pos": "num.",
+      "zh": "十五",
+      "stars": 5,
+      "collocation": "Fifteen students bring"
+    },
+    {
+      "lemma": "may",
+      "pos": "n./v.",
+      "zh": "五月",
+      "stars": 4,
+      "collocation": "winner may be named"
+    },
+    {
+      "lemma": "explain",
+      "pos": "v.",
+      "zh": "解释",
+      "stars": 4,
+      "collocation": "He explains all the"
+    },
+    {
+      "lemma": "private",
+      "pos": "adj./n.",
+      "zh": "私人的",
+      "stars": 4,
+      "collocation": "small private room near"
+    },
+    {
+      "lemma": "piece",
+      "pos": "n./v.",
+      "zh": "块",
+      "stars": 4,
+      "collocation": "small piece sits near"
+    },
+    {
+      "lemma": "hotel",
+      "pos": "n.",
+      "zh": "旅馆",
+      "stars": 4,
+      "collocation": "friendly hotel."
+    },
+    {
+      "lemma": "floor",
+      "pos": "n./v.",
+      "zh": "地板",
+      "stars": 4,
+      "collocation": "stone floor of the"
+    },
+    {
+      "lemma": "chairman",
+      "pos": "n.",
+      "zh": "主席",
+      "stars": 4,
+      "collocation": "The chairman waits inside"
+    },
+    {
+      "lemma": "miss",
+      "pos": "n./v.",
+      "zh": "失误",
+      "stars": 4,
+      "collocation": "not miss the name."
+    },
+    {
+      "lemma": "immediately",
+      "pos": "adv.",
+      "zh": "直接地",
+      "stars": 4,
+      "collocation": "us immediately and very"
+    },
+    {
+      "lemma": "article",
+      "pos": "n.",
+      "zh": "文章",
+      "stars": 4,
+      "collocation": "an article about their"
+    },
+    {
+      "lemma": "edge",
+      "pos": "n./v.",
+      "zh": "边缘",
+      "stars": 4,
+      "collocation": "the edge of the"
+    },
+    {
+      "lemma": "copy",
+      "pos": "n./v.",
+      "zh": "副本",
+      "stars": 4,
+      "collocation": "quick copy helps, but"
+    },
+    {
+      "lemma": "reply",
+      "pos": "n./v.",
+      "zh": "答复",
+      "stars": 4,
+      "collocation": "real reply is always"
+    },
+    {
+      "lemma": "tonight",
+      "pos": "n./adv.",
+      "zh": "今晚",
+      "stars": 4,
+      "collocation": "named tonight at eight"
+    },
+    {
+      "lemma": "proper",
+      "pos": "adj./adv.",
+      "zh": "适当的",
+      "stars": 4,
+      "collocation": "Proper credit matters,"
+    },
+    {
+      "lemma": "dream",
+      "pos": "n./v.",
+      "zh": "梦",
+      "stars": 4,
+      "collocation": "My dream project shows"
+    },
+    {
+      "lemma": "brain",
+      "pos": "n./v.",
+      "zh": "脑",
+      "stars": 4,
+      "collocation": "the brain and its"
+    },
+    {
+      "lemma": "clean",
+      "pos": "adj./adv./v.",
+      "zh": "干净的",
+      "stars": 4,
+      "collocation": "looks clean and bright."
+    },
+    {
+      "lemma": "cancer",
+      "pos": "n.",
+      "zh": "癌",
+      "stars": 4,
+      "collocation": "at cancer cells inside"
+    },
+    {
+      "lemma": "rapid",
+      "pos": "adj./n.",
+      "zh": "迅速的",
+      "stars": 4,
+      "collocation": "A rapid test marks"
+    },
+    {
+      "lemma": "so",
+      "pos": "adv./conj./pron.",
+      "zh": "如此",
+      "stars": 3,
+      "collocation": "matters, so please do"
+    },
+    {
+      "lemma": "pupil",
+      "pos": "n.",
+      "zh": "学生",
+      "stars": 3,
+      "collocation": "Every pupil carries a"
+    },
+    {
+      "lemma": "meal",
+      "pos": "n./v.",
+      "zh": "一餐",
+      "stars": 3,
+      "collocation": "warm meal with fresh"
+    },
+    {
+      "lemma": "experiment",
+      "pos": "n./v.",
+      "zh": "实验",
+      "stars": 3,
+      "collocation": "simple experiment."
+    },
+    {
+      "lemma": "pocket",
+      "pos": "n./v./adj.",
+      "zh": "口袋",
+      "stars": 3,
+      "collocation": "coat pocket."
+    },
+    {
+      "lemma": "palace",
+      "pos": "n.",
+      "zh": "宫",
+      "stars": 3,
+      "collocation": "old palace now serves"
+    },
+    {
+      "lemma": "anywhere",
+      "pos": "adv.",
+      "zh": "无论何处",
+      "stars": 3,
+      "collocation": "sit anywhere and say"
+    },
+    {
+      "lemma": "meat",
+      "pos": "n.",
+      "zh": "肉",
+      "stars": 3,
+      "collocation": "fresh meat smells very"
+    },
+    {
+      "lemma": "monitor",
+      "pos": "n./v.",
+      "zh": "监督器",
+      "stars": 3,
+      "collocation": "class monitor must communicate"
+    },
+    {
+      "lemma": "stupid",
+      "pos": "adj.",
+      "zh": "愚蠢的",
+      "stars": 3,
+      "collocation": "A stupid spelling mistake"
+    },
+    {
+      "lemma": "lend",
+      "pos": "v.",
+      "zh": "借",
+      "stars": 3,
+      "collocation": "friend lends me a"
+    },
+    {
+      "lemma": "communicate",
+      "pos": "v.",
+      "zh": "显露",
+      "stars": 3,
+      "collocation": "must communicate the result"
+    },
+    {
+      "lemma": "spell",
+      "pos": "n./v.",
+      "zh": "符咒",
+      "stars": 3,
+      "collocation": "stupid spelling mistake can"
+    },
+    {
+      "lemma": "bye",
+      "pos": "int.",
+      "zh": "再会",
+      "stars": 3,
+      "collocation": "say bye at noon."
+    },
+    {
+      "lemma": "solicitor",
+      "pos": "n.",
+      "zh": "律师",
+      "stars": 3,
+      "collocation": "local solicitor warns the"
+    },
+    {
+      "lemma": "corruption",
+      "pos": "n.",
+      "zh": "腐败",
+      "stars": 3,
+      "collocation": "about corruption and lies."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“chairman” 的意思是：",
+      "options": [
+        "主席",
+        "律师",
+        "学生",
+        "医生"
+      ],
+      "answer": 0,
+      "speak": "chairman"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "Her study looks at cancer cells inside the human ___.",
+      "options": [
+        "body",
+        "pocket",
+        "palace",
+        "land"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“solicitor” 的意思是：",
+      "options": [
+        "律师",
+        "主席",
+        "评委",
+        "班长"
+      ],
+      "answer": 0,
+      "speak": "solicitor"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A warm meal with fresh ___ smells very good and rich.",
+      "options": [
+        "meat",
+        "cup",
+        "piece",
+        "copy"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A rapid test marks a real ___ in modern care.",
+      "options": [
+        "development",
+        "experiment",
+        "corruption",
+        "operation"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“corruption” 的意思是：",
+      "options": [
+        "腐败",
+        "发展",
+        "实验",
+        "答复"
+      ],
+      "answer": 0,
+      "speak": "corruption"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Fifteen students bring an ___ about their test and its result.",
+      "options": [
+        "article",
+        "edge",
+        "copy",
+        "reply"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“experiment” 的意思是：",
+      "options": [
+        "实验",
+        "手术",
+        "发展",
+        "文章"
+      ],
+      "answer": 0,
+      "speak": "experiment"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "They ",
+        "hint": "go",
+        "after": " to the science fair in the old town very early today.",
+        "answer": "go"
+      },
+      {
+        "before": "A grand old palace now serves as a busy, friendly ",
+        "hint": "ho",
+        "after": ".",
+        "answer": "hotel"
+      },
+      {
+        "before": "My own ",
+        "hint": "wo",
+        "after": " starts after a short, quiet walk through the garden.",
+        "answer": "work"
+      },
+      {
+        "before": "Every pupil carries a notebook and a paper ",
+        "hint": "cu",
+        "after": " to the hall.",
+        "answer": "cup"
+      },
+      {
+        "before": "The wide stone ",
+        "hint": "fl",
+        "after": " of the lobby looks clean and bright.",
+        "answer": "floor"
+      },
+      {
+        "before": "The ",
+        "hint": "ch",
+        "after": " waits inside a small private room near the stairs.",
+        "answer": "chairman"
+      },
+      {
+        "before": "He explains all the rules to us ",
+        "hint": "im",
+        "after": " and very clearly.",
+        "answer": "immediately"
+      },
+      {
+        "before": "We expect a ",
+        "hint": "sp",
+        "after": " prize for the best and neatest team.",
+        "answer": "special"
+      },
+      {
+        "before": "Then the winner may be named ",
+        "hint": "to",
+        "after": " at eight in the big hall.",
+        "answer": "tonight"
+      },
+      {
+        "before": "My dream project shows a model of the ",
+        "hint": "br",
+        "after": " and its cells.",
+        "answer": "brain"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Her study looks at ",
+        "hint": "ca",
+        "after": " cells inside the human body.",
+        "answer": "cancer"
+      },
+      {
+        "before": "A ",
+        "hint": "ra",
+        "after": " test marks a real development in modern care.",
+        "answer": "rapid"
+      },
+      {
+        "before": "The ",
+        "hint": "op",
+        "after": " is hard, but the doctors stay calm and quick.",
+        "answer": "operation"
+      },
+      {
+        "before": "One small piece sits near the ",
+        "hint": "ed",
+        "after": " of the wooden table.",
+        "answer": "edge"
+      },
+      {
+        "before": "A warm meal with fresh ",
+        "hint": "me",
+        "after": " smells very good and rich.",
+        "answer": "meat"
+      },
+      {
+        "before": "Green plants cover the ",
+        "hint": "la",
+        "after": " beside the school and the park.",
+        "answer": "land"
+      },
+      {
+        "before": "Most projects look fine, ",
+        "hint": "ye",
+        "after": " two still need a lot of help.",
+        "answer": "yet"
+      },
+      {
+        "before": "Later, each ",
+        "hint": "tu",
+        "after": " costs a small coin at the front door.",
+        "answer": "turn"
+      },
+      {
+        "before": "Fifteen students bring an ",
+        "hint": "ar",
+        "after": " about their test and its result.",
+        "answer": "article"
+      },
+      {
+        "before": "A quick copy helps, but a real ",
+        "hint": "re",
+        "after": " is always better.",
+        "answer": "reply"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "他们今天一早就去了老城区的科学展。",
+        "keywords": [
+          "they",
+          "go",
+          "fair"
+        ]
+      },
+      {
+        "zh": "我自己的工作在一段安静的小路之后开始，穿过花园就到了。",
+        "keywords": [
+          "work",
+          "after",
+          "garden"
+        ]
+      },
+      {
+        "zh": "我梦想的项目展示了一个大脑模型，还有它的细胞。",
+        "keywords": [
+          "dream",
+          "brain",
+          "cells"
+        ]
+      },
+      {
+        "zh": "手术很难，但医生们保持冷静又迅速。",
+        "keywords": [
+          "operation",
+          "hard",
+          "calm"
+        ]
+      },
+      {
+        "zh": "大多数项目看起来都不错，但有两个仍然需要很多帮助。",
+        "keywords": [
+          "most",
+          "yet",
+          "help"
+        ]
+      },
+      {
+        "zh": "适当的署名很重要，所以请不要漏掉名字。",
+        "keywords": [
+          "proper",
+          "miss",
+          "name"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 307,
+    "sentences": 28,
+    "newDensity": 0.192,
+    "targetTokenDensity": 0.192,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写一群学生到老宫殿改建的旅馆参加科学展：从入场、主席讲规则，到展示大脑模型、癌症检测与手术课题，再到署名、抄件与颁奖的小插曲。"
+}

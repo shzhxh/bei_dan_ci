@@ -1,0 +1,885 @@
+{
+  "id": "b01",
+  "title": "A Story from Grandma's Farm",
+  "titleZh": "奶奶家农场的故事",
+  "topic": "家庭",
+  "paragraphs": [
+    [
+      {
+        "en": "One cold weekday, a kind madam gives us a task.",
+        "zh": "一个寒冷的平日，一位好心的女士给我们布置了一个任务。"
+      },
+      {
+        "en": "Our exam asks us to translate one old family story.",
+        "zh": "我们的考试要我们翻译一个古老的家庭故事。"
+      },
+      {
+        "en": "We may retell it, or draw it with a crayon.",
+        "zh": "我们可以复述它，也可以用蜡笔把它画出来。"
+      },
+      {
+        "en": "The rules are simple: never cheat, and never fool oneself.",
+        "zh": "规则很简单：绝不作弊，也绝不欺骗自己。"
+      },
+      {
+        "en": "After class, the lively children run to the old playground.",
+        "zh": "下课后，活泼的孩子们跑向那个旧操场。"
+      },
+      {
+        "en": "For a minute, I only hear the sound of their feet.",
+        "zh": "有那么一分钟，我只听到他们脚步的声音。"
+      }
+    ],
+    [
+      {
+        "en": "On Saturday, Mom takes me toward the northern hills.",
+        "zh": "周六，妈妈带我朝北边的山丘走去。"
+      },
+      {
+        "en": "A driver stops his motorcycle and asks me the way.",
+        "zh": "一位司机停下摩托车，向我问路。"
+      },
+      {
+        "en": "The long trip might take an hour, maybe even two.",
+        "zh": "这趟长路可能要一个小时，也许甚至两个小时。"
+      },
+      {
+        "en": "We ride past fields of green wheat in the sun.",
+        "zh": "我们在阳光下骑着车经过一片片绿色的麦田。"
+      },
+      {
+        "en": "A helpful stranger waves at us from a small white house.",
+        "zh": "一位乐于助人的陌生人从一座白色小房子里朝我们挥手。"
+      },
+      {
+        "en": "Grandma waits by the gate, and her warm smile satisfies me.",
+        "zh": "奶奶在门口等着，她温暖的笑容让我心里很满足。"
+      }
+    ],
+    [
+      {
+        "en": "My grandmother keeps a warm kitchen with one old fridge.",
+        "zh": "我的祖母有一间温暖的厨房，里面放着一台旧冰箱。"
+      },
+      {
+        "en": "I am hungry and thirsty, so she gives me a hotdog.",
+        "zh": "我又饿又渴，于是她给了我一个热狗。"
+      },
+      {
+        "en": "She also makes a thin pancake and warm noodle soup.",
+        "zh": "她还做了一张薄煎饼和热乎乎的汤面。"
+      },
+      {
+        "en": "Pork, biscuit and fruit all taste delicious on that table.",
+        "zh": "猪肉、饼干和水果在那张桌子上吃起来都很美味。"
+      },
+      {
+        "en": "After lunch, I tidy the shelf under a low ceiling.",
+        "zh": "午饭后，我把低矮天花板下的架子整理干净。"
+      }
+    ],
+    [
+      {
+        "en": "Grandpa leads me to the yard and shows me the rabbit.",
+        "zh": "爷爷把我领到院子里，给我看那只兔子。"
+      },
+      {
+        "en": "A goose and a frog sit quietly near an old rope.",
+        "zh": "一只鹅和一只青蛙安静地待在一根旧绳子旁边。"
+      },
+      {
+        "en": "Bees hum softly, and a butterfly rests on my glove.",
+        "zh": "蜜蜂轻轻地嗡嗡叫，一只蝴蝶落在我的手套上。"
+      },
+      {
+        "en": "My legs ache as he tells a wolf story.",
+        "zh": "他讲狼的故事时，我的腿隐隐作痛。"
+      },
+      {
+        "en": "His book shows a camel and a whale by the sea.",
+        "zh": "他的书里画着一头骆驼和一头海边的鲸鱼。"
+      },
+      {
+        "en": "That night, I take a shower and clean the small toilet.",
+        "zh": "那天晚上，我洗了个澡，还打扫了那个小厕所。"
+      }
+    ],
+    [
+      {
+        "en": "I say pardon for my rubber shoes on the clean floor.",
+        "zh": "我的胶鞋踩在干净的地板上，我说了声抱歉。"
+      },
+      {
+        "en": "Then I fold my scarf and tidy my small bag.",
+        "zh": "然后我叠好围巾，把我那个小包整理好。"
+      },
+      {
+        "en": "Back at school, I retell a story about a cloned sheep.",
+        "zh": "回到学校，我复述了一个关于克隆羊的故事。"
+      },
+      {
+        "en": "The swimming team has training every morning after class.",
+        "zh": "游泳队每天上午下课后都要训练。"
+      },
+      {
+        "en": "My teacher's kind words sound warm and satisfy me.",
+        "zh": "老师亲切的话语听起来很温暖，让我很满足。"
+      },
+      {
+        "en": "Next week, another exam asks us to retell a story.",
+        "zh": "下周，又有一场考试要我们复述一个故事。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "in",
+      "pos": "prep./adv./adj./n.",
+      "zh": "在…里面；在（某地）",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "green wheat in the sun"
+    },
+    {
+      "lemma": "even",
+      "pos": "adj./v./adv.",
+      "zh": "甚至；平坦的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "maybe even two"
+    },
+    {
+      "lemma": "might",
+      "pos": "n./v.",
+      "zh": "可能；力量",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "trip might take an hour"
+    },
+    {
+      "lemma": "minute",
+      "pos": "n./v./adj.",
+      "zh": "分钟；片刻",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "For a minute"
+    },
+    {
+      "lemma": "training",
+      "pos": "n.",
+      "zh": "训练；培训",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "has training every morning"
+    },
+    {
+      "lemma": "sound",
+      "pos": "n./adj./adv./v.",
+      "zh": "声音；听起来",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "hear the sound of their feet"
+    },
+    {
+      "lemma": "driver",
+      "pos": "n.",
+      "zh": "司机；驾驶员",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A driver stops his motorcycle"
+    },
+    {
+      "lemma": "northern",
+      "pos": "n./adj.",
+      "zh": "北方的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "toward the northern hills"
+    },
+    {
+      "lemma": "helpful",
+      "pos": "adj.",
+      "zh": "有帮助的；乐于助人的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A helpful stranger"
+    },
+    {
+      "lemma": "satisfy",
+      "pos": "v.",
+      "zh": "使满意；满足",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "her warm smile satisfies me"
+    },
+    {
+      "lemma": "ceiling",
+      "pos": "n.",
+      "zh": "天花板",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "under a low ceiling"
+    },
+    {
+      "lemma": "shelf",
+      "pos": "n.",
+      "zh": "架子；搁板",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "I tidy the shelf"
+    },
+    {
+      "lemma": "rabbit",
+      "pos": "n./v.",
+      "zh": "兔子",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "shows me the rabbit"
+    },
+    {
+      "lemma": "stranger",
+      "pos": "n.",
+      "zh": "陌生人",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A helpful stranger"
+    },
+    {
+      "lemma": "translate",
+      "pos": "v.",
+      "zh": "翻译",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "asks us to translate"
+    },
+    {
+      "lemma": "rope",
+      "pos": "n./v.",
+      "zh": "绳子",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "near an old rope"
+    },
+    {
+      "lemma": "toilet",
+      "pos": "n./v.",
+      "zh": "厕所；马桶",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "clean the small toilet"
+    },
+    {
+      "lemma": "hungry",
+      "pos": "adj.",
+      "zh": "饥饿的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "I am hungry and thirsty"
+    },
+    {
+      "lemma": "shower",
+      "pos": "n./v.",
+      "zh": "淋浴；阵雨",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "I take a shower"
+    },
+    {
+      "lemma": "swimming",
+      "pos": "n.",
+      "zh": "游泳",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "The swimming team"
+    },
+    {
+      "lemma": "pardon",
+      "pos": "n./v.",
+      "zh": "原谅；对不起",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "I say pardon for"
+    },
+    {
+      "lemma": "lively",
+      "pos": "adj.",
+      "zh": "活泼的；生动的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the lively children"
+    },
+    {
+      "lemma": "exam",
+      "pos": "n.",
+      "zh": "考试",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Our exam asks us"
+    },
+    {
+      "lemma": "biscuit",
+      "pos": "n.",
+      "zh": "饼干",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Pork, biscuit and fruit"
+    },
+    {
+      "lemma": "grandmother",
+      "pos": "n.",
+      "zh": "祖母；外祖母",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "My grandmother keeps"
+    },
+    {
+      "lemma": "glove",
+      "pos": "n./v.",
+      "zh": "手套",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "rests on my glove"
+    },
+    {
+      "lemma": "toward",
+      "pos": "prep./adj.",
+      "zh": "朝；向",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "toward the northern hills"
+    },
+    {
+      "lemma": "bee",
+      "pos": "n.",
+      "zh": "蜜蜂",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Bees hum softly"
+    },
+    {
+      "lemma": "whale",
+      "pos": "n./v.",
+      "zh": "鲸",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a whale by the sea"
+    },
+    {
+      "lemma": "wolf",
+      "pos": "n./v.",
+      "zh": "狼",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a wolf story"
+    },
+    {
+      "lemma": "rubber",
+      "pos": "n./v.",
+      "zh": "橡胶；橡皮",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "my rubber shoes"
+    },
+    {
+      "lemma": "butterfly",
+      "pos": "n.",
+      "zh": "蝴蝶",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a butterfly rests"
+    },
+    {
+      "lemma": "delicious",
+      "pos": "adj.",
+      "zh": "美味的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "taste delicious on that table"
+    },
+    {
+      "lemma": "fridge",
+      "pos": "n.",
+      "zh": "冰箱",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "one old fridge"
+    },
+    {
+      "lemma": "wheat",
+      "pos": "n.",
+      "zh": "小麦",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "green wheat in the sun"
+    },
+    {
+      "lemma": "frog",
+      "pos": "n.",
+      "zh": "青蛙",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a frog sit quietly"
+    },
+    {
+      "lemma": "cheat",
+      "pos": "n./v.",
+      "zh": "欺骗；作弊",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "never cheat"
+    },
+    {
+      "lemma": "goose",
+      "pos": "n./v.",
+      "zh": "鹅",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A goose and a frog"
+    },
+    {
+      "lemma": "tidy",
+      "pos": "n./adj./v.",
+      "zh": "整齐的；整理",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "I tidy the shelf"
+    },
+    {
+      "lemma": "playground",
+      "pos": "n.",
+      "zh": "操场；游乐场",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the old playground"
+    },
+    {
+      "lemma": "scarf",
+      "pos": "n./v.",
+      "zh": "围巾",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "fold my scarf"
+    },
+    {
+      "lemma": "madam",
+      "pos": "n.",
+      "zh": "女士；夫人",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a kind madam"
+    },
+    {
+      "lemma": "oneself",
+      "pos": "pron.",
+      "zh": "自己",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "never fool oneself"
+    },
+    {
+      "lemma": "clone",
+      "pos": "n.",
+      "zh": "克隆；无性复制",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "about a cloned sheep"
+    },
+    {
+      "lemma": "pork",
+      "pos": "n.",
+      "zh": "猪肉",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Pork, biscuit"
+    },
+    {
+      "lemma": "camel",
+      "pos": "n.",
+      "zh": "骆驼",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a camel and a whale"
+    },
+    {
+      "lemma": "ache",
+      "pos": "n./v.",
+      "zh": "疼痛",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "My legs ache"
+    },
+    {
+      "lemma": "grandma",
+      "pos": "n.",
+      "zh": "奶奶；外婆",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Grandma waits by the gate"
+    },
+    {
+      "lemma": "motorcycle",
+      "pos": "n.",
+      "zh": "摩托车",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "his motorcycle"
+    },
+    {
+      "lemma": "weekday",
+      "pos": "n.",
+      "zh": "工作日；平日",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "One cold weekday"
+    },
+    {
+      "lemma": "thirsty",
+      "pos": "adj.",
+      "zh": "口渴的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "hungry and thirsty"
+    },
+    {
+      "lemma": "mom",
+      "pos": "n.",
+      "zh": "妈妈",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Mom takes me toward"
+    },
+    {
+      "lemma": "pancake",
+      "pos": "n.",
+      "zh": "薄煎饼",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a thin pancake"
+    },
+    {
+      "lemma": "crayon",
+      "pos": "n./v.",
+      "zh": "蜡笔",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "with a crayon"
+    },
+    {
+      "lemma": "grandpa",
+      "pos": "n.",
+      "zh": "爷爷；外公",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Grandpa leads me"
+    },
+    {
+      "lemma": "noodle",
+      "pos": "n.",
+      "zh": "面条",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "warm noodle soup"
+    },
+    {
+      "lemma": "retell",
+      "pos": "v.",
+      "zh": "复述",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "I retell a story about"
+    },
+    {
+      "lemma": "hotdog",
+      "pos": "n.",
+      "zh": "热狗",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "gives me a hotdog"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“stranger” 在短文里最接近的意思是：",
+      "options": [
+        "司机",
+        "陌生人",
+        "邻居",
+        "客人"
+      ],
+      "answer": 1,
+      "speak": "stranger"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "My legs ___ as he tells a wolf story.",
+      "options": [
+        "cheat",
+        "tidy",
+        "ache",
+        "translate"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“delicious” 的意思是：",
+      "options": [
+        "饥饿的",
+        "口渴的",
+        "美味的",
+        "整洁的"
+      ],
+      "answer": 2,
+      "speak": "delicious"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Grandma waits by the gate, and her warm smile ___ me.",
+      "options": [
+        "satisfies",
+        "serves",
+        "separates",
+        "spends"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "We ride past fields of green ___ in the sun.",
+      "options": [
+        "rope",
+        "wolf",
+        "rubber",
+        "wheat"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“pardon” 作名词时最接近的意思是：",
+      "options": [
+        "表扬",
+        "原谅",
+        "搬运",
+        "准备"
+      ],
+      "answer": 1,
+      "speak": "pardon"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A goose and a frog sit quietly near an old ___.",
+      "options": [
+        "rope",
+        "shelf",
+        "biscuit",
+        "scarf"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "语境填空",
+      "prompt": "After class, the ___ children run to the old playground.",
+      "options": [
+        "lively",
+        "hungry",
+        "thirsty",
+        "tidy"
+      ],
+      "answer": 0
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "One cold ",
+        "hint": "we",
+        "after": ", a kind madam gives us a task.",
+        "answer": "weekday"
+      },
+      {
+        "before": "Our ",
+        "hint": "ex",
+        "after": " asks us to translate one old family story.",
+        "answer": "exam"
+      },
+      {
+        "before": "On Saturday, ",
+        "hint": "Mo",
+        "after": " takes me toward the northern hills.",
+        "answer": "Mom"
+      },
+      {
+        "before": "A driver stops his ",
+        "hint": "mo",
+        "after": " and asks me the way.",
+        "answer": "motorcycle"
+      },
+      {
+        "before": "We ride past fields of green ",
+        "hint": "wh",
+        "after": " in the sun.",
+        "answer": "wheat"
+      },
+      {
+        "before": "Grandma waits by the gate, and her warm smile ",
+        "hint": "sa",
+        "after": " me.",
+        "answer": "satisfies"
+      },
+      {
+        "before": "My grandmother keeps a warm kitchen with one old ",
+        "hint": "fr",
+        "after": ".",
+        "answer": "fridge"
+      },
+      {
+        "before": "Pork, biscuit and fruit all taste ",
+        "hint": "de",
+        "after": " on that table.",
+        "answer": "delicious"
+      },
+      {
+        "before": "Grandpa leads me to the yard and shows me the ",
+        "hint": "ra",
+        "after": ".",
+        "answer": "rabbit"
+      },
+      {
+        "before": "That night, I take a shower and clean the small ",
+        "hint": "to",
+        "after": ".",
+        "answer": "toilet"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Our exam asks us to ",
+        "hint": "t",
+        "after": " one old family story.",
+        "answer": "translate"
+      },
+      {
+        "before": "After class, the ",
+        "hint": "l",
+        "after": " children run to the old playground.",
+        "answer": "lively"
+      },
+      {
+        "before": "For a ",
+        "hint": "m",
+        "after": ", I only hear the sound of their feet.",
+        "answer": "minute"
+      },
+      {
+        "before": "The long trip ",
+        "hint": "m",
+        "after": " take an hour, maybe even two.",
+        "answer": "might"
+      },
+      {
+        "before": "A helpful ",
+        "hint": "s",
+        "after": " waves at us from a small white house.",
+        "answer": "stranger"
+      },
+      {
+        "before": "I am hungry and thirsty, so she gives me a ",
+        "hint": "h",
+        "after": ".",
+        "answer": "hotdog"
+      },
+      {
+        "before": "After lunch, I ",
+        "hint": "t",
+        "after": " the shelf under a low ceiling.",
+        "answer": "tidy"
+      },
+      {
+        "before": "A goose and a frog sit quietly near an old ",
+        "hint": "r",
+        "after": ".",
+        "answer": "rope"
+      },
+      {
+        "before": "My legs ",
+        "hint": "a",
+        "after": " as he tells a wolf story.",
+        "answer": "ache"
+      },
+      {
+        "before": "His book shows a camel and a ",
+        "hint": "w",
+        "after": " by the sea.",
+        "answer": "whale"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "一个寒冷的平日，一位好心的女士给我们布置了一个任务。",
+        "keywords": [
+          "weekday",
+          "madam"
+        ]
+      },
+      {
+        "zh": "周六，妈妈带我朝北边的山丘走去。",
+        "keywords": [
+          "mom",
+          "toward",
+          "northern"
+        ]
+      },
+      {
+        "zh": "我又饿又渴，于是她给了我一个热狗。",
+        "keywords": [
+          "hungry",
+          "thirsty",
+          "hotdog"
+        ]
+      },
+      {
+        "zh": "他讲狼的故事时，我的腿隐隐作痛。",
+        "keywords": [
+          "ache",
+          "wolf"
+        ]
+      },
+      {
+        "zh": "那天晚上，我洗了个澡，还打扫了那个小厕所。",
+        "keywords": [
+          "shower",
+          "toilet"
+        ]
+      },
+      {
+        "zh": "回到学校，我复述了一个关于克隆羊的故事。",
+        "keywords": [
+          "retell",
+          "clone"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 296,
+    "sentences": 29,
+    "newDensity": 0.196,
+    "targetTokenDensity": 0.216,
+    "patterns": [
+      "A + 形容词 + N + V（3 次）",
+      "My / Our + N + V（4 次）",
+      "After / Then 开头（3 次）"
+    ]
+  },
+  "note": "b01 补漏成稿：296 词 / 29 句；58 个目标词（stars=0、star_source=zhongkao）各出现 ≥1 次，目标词次 64；回引主线 p01–p22 已学词作骨架；写作与自查规则见 work/p01-写作规则与自查清单.md，补漏校验见 work/qc_check_supplement.py。"
+}

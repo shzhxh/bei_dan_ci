@@ -1,0 +1,884 @@
+{
+  "id": "b02",
+  "title": "The Rainy Day Show",
+  "titleZh": "雨天的展示课",
+  "topic": "校园",
+  "paragraphs": [
+    [
+      {
+        "en": "It is a rainy Monday, and our class meets upstairs.",
+        "zh": "这是一个下雨的周一，我们班在楼上上课。"
+      },
+      {
+        "en": "Madame writes a warm greeting on the old board for us.",
+        "zh": "夫人为我们在这块旧黑板上写下一句温暖的问候。"
+      },
+      {
+        "en": "Our composition today is about grammar and old family stories.",
+        "zh": "我们今天的作文写的是语法和古老的家庭故事。"
+      },
+      {
+        "en": "A common hobby can make a dull day feel bright.",
+        "zh": "一个普通的爱好能让沉闷的一天变得明亮。"
+      },
+      {
+        "en": "Just one girl is absent from our class today.",
+        "zh": "今天班里只有一位女生缺席。"
+      },
+      {
+        "en": "My classmate's place stays cold and empty all morning.",
+        "zh": "我同学的座位整个上午都冷冷清清、空着。"
+      }
+    ],
+    [
+      {
+        "en": "An advertisement for our little show fills the blackboard now.",
+        "zh": "一张宣传我们小演出的广告现在占满了黑板。"
+      },
+      {
+        "en": "We post a small notice beside the long front row.",
+        "zh": "我们把一张小通知贴在前排旁边。"
+      },
+      {
+        "en": "A warm lamp sits on the old brown wooden drawer.",
+        "zh": "一盏温暖的灯放在那张旧的棕色木抽屉上。"
+      },
+      {
+        "en": "At noon, the menu lists warm bread and cold coke.",
+        "zh": "正午时，菜单上列着热面包和冰可乐。"
+      },
+      {
+        "en": "A red tomato and cold coke wait on the table.",
+        "zh": "一个红番茄和冰可乐在桌上等着我们。"
+      },
+      {
+        "en": "Our picnic moves into the warm, noisy school gym today.",
+        "zh": "我们的野餐今天移到了温暖又热闹的学校体育馆里。"
+      }
+    ],
+    [
+      {
+        "en": "A silly song about cabbage makes the whole class laugh.",
+        "zh": "一首关于卷心菜的傻歌让全班都笑了。"
+      },
+      {
+        "en": "Kind hands pass a spoon and a small paper plate.",
+        "zh": "一双友善的手递来一把勺子和一个小纸盘。"
+      },
+      {
+        "en": "Her recorder music sounds fantastic in the big old hall.",
+        "zh": "她的录音机音乐在又大又旧的礼堂里听起来棒极了。"
+      },
+      {
+        "en": "He shows an airplane he helped invent at home today.",
+        "zh": "他今天展示了一架他在家帮忙做出来的飞机。"
+      },
+      {
+        "en": "Her little ant farm is a small, living treasure.",
+        "zh": "她的小蚂蚁农场是一件小小的、活着的宝物。"
+      },
+      {
+        "en": "A toy snake and a duck sit on the desk.",
+        "zh": "一条玩具蛇和一只鸭子放在书桌上。"
+      }
+    ],
+    [
+      {
+        "en": "After geography, we watch a fire in a dry forest.",
+        "zh": "地理课后，我们观看了一场干燥森林里的火灾。"
+      },
+      {
+        "en": "A ruler and an eraser roll off the desk.",
+        "zh": "一把尺子和一块橡皮从书桌上滚了下来。"
+      },
+      {
+        "en": "A purple tiger dances across her open drawing book.",
+        "zh": "一只紫色的老虎跃过她摊开的画本。"
+      },
+      {
+        "en": "A fisherman tells us about a rose and a boat.",
+        "zh": "一位渔夫给我们讲了一朵玫瑰和一条船的故事。"
+      },
+      {
+        "en": "Granny will mend my old winter coat before supper.",
+        "zh": "奶奶会在晚饭前补好我的旧冬衣。"
+      },
+      {
+        "en": "We wave goodbye as one red balloon flies far away.",
+        "zh": "我们挥手告别，一只红气球飞得远远的。"
+      }
+    ],
+    [
+      {
+        "en": "You yourselves may tell a humorous story tonight.",
+        "zh": "你们自己今晚也可以讲一个幽默的故事。"
+      },
+      {
+        "en": "A dvd and a kilo of sweet grapes go home.",
+        "zh": "一张光盘和一公斤甜葡萄被带回了家。"
+      },
+      {
+        "en": "I pack my toothbrush and toothpaste in the bag.",
+        "zh": "我把牙刷和牙膏装进包里。"
+      },
+      {
+        "en": "We can wash our hands with soap and warm water.",
+        "zh": "我们可以用肥皂和温水洗手。"
+      },
+      {
+        "en": "This quiet corner is ours, so do not disturb it.",
+        "zh": "这个安静的角落是我们的，所以请不要打扰它。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "can",
+      "pos": "v./n.",
+      "zh": "能；罐头",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "can wash our hands"
+    },
+    {
+      "lemma": "just",
+      "pos": "adj./adv.",
+      "zh": "刚刚；只是",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Just one girl is absent"
+    },
+    {
+      "lemma": "place",
+      "pos": "n./v.",
+      "zh": "地方；放置",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "place stays cold and empty"
+    },
+    {
+      "lemma": "kind",
+      "pos": "n./adj.",
+      "zh": "种类；亲切的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Kind hands pass"
+    },
+    {
+      "lemma": "common",
+      "pos": "adj.",
+      "zh": "通常的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A common hobby"
+    },
+    {
+      "lemma": "fire",
+      "pos": "n./v.",
+      "zh": "火；点燃",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a fire in a dry forest"
+    },
+    {
+      "lemma": "post",
+      "pos": "n./v./adv.",
+      "zh": "邮寄；柱子",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "We post a small notice"
+    },
+    {
+      "lemma": "row",
+      "pos": "n./v.",
+      "zh": "一排；划船",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the long front row"
+    },
+    {
+      "lemma": "rose",
+      "pos": "n./adj./v.",
+      "zh": "玫瑰；玫瑰色的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a rose and a boat"
+    },
+    {
+      "lemma": "silly",
+      "pos": "adj.",
+      "zh": "愚蠢的；傻的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A silly song"
+    },
+    {
+      "lemma": "composition",
+      "pos": "n.",
+      "zh": "作文",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Our composition today"
+    },
+    {
+      "lemma": "grammar",
+      "pos": "n.",
+      "zh": "语法学",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "grammar and old family stories"
+    },
+    {
+      "lemma": "upstairs",
+      "pos": "adj./adv./n.",
+      "zh": "楼上的；在楼上",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "meets upstairs"
+    },
+    {
+      "lemma": "disturb",
+      "pos": "v.",
+      "zh": "扰乱",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "do not disturb it"
+    },
+    {
+      "lemma": "advertisement",
+      "pos": "n.",
+      "zh": "广告",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "An advertisement for our little show"
+    },
+    {
+      "lemma": "lamp",
+      "pos": "n./v.",
+      "zh": "灯；照亮",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A warm lamp sits"
+    },
+    {
+      "lemma": "menu",
+      "pos": "n.",
+      "zh": "菜单",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the menu lists warm bread"
+    },
+    {
+      "lemma": "invent",
+      "pos": "v.",
+      "zh": "发明",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "helped invent at home"
+    },
+    {
+      "lemma": "duck",
+      "pos": "n./v.",
+      "zh": "鸭子；没入水中",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a duck sit on the desk"
+    },
+    {
+      "lemma": "ours",
+      "pos": "pron.",
+      "zh": "我们的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "is ours"
+    },
+    {
+      "lemma": "geography",
+      "pos": "n.",
+      "zh": "地理学",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "After geography"
+    },
+    {
+      "lemma": "ruler",
+      "pos": "n.",
+      "zh": "尺子；统治者",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A ruler and an eraser"
+    },
+    {
+      "lemma": "drawer",
+      "pos": "n.",
+      "zh": "抽屉",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the old brown wooden drawer"
+    },
+    {
+      "lemma": "soap",
+      "pos": "n./v.",
+      "zh": "肥皂；以肥皂洗",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "with soap and warm water"
+    },
+    {
+      "lemma": "absent",
+      "pos": "adj./v.",
+      "zh": "缺席的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "is absent"
+    },
+    {
+      "lemma": "tomato",
+      "pos": "n.",
+      "zh": "番茄",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A red tomato"
+    },
+    {
+      "lemma": "treasure",
+      "pos": "n./v.",
+      "zh": "宝物；珍爱",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a small, living treasure"
+    },
+    {
+      "lemma": "tiger",
+      "pos": "n.",
+      "zh": "老虎",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A purple tiger"
+    },
+    {
+      "lemma": "fantastic",
+      "pos": "adj.",
+      "zh": "奇妙的；极好的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "sounds fantastic"
+    },
+    {
+      "lemma": "recorder",
+      "pos": "n.",
+      "zh": "录音机；记录者",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Her recorder music"
+    },
+    {
+      "lemma": "snake",
+      "pos": "n./v.",
+      "zh": "蛇；曲折行进",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A toy snake"
+    },
+    {
+      "lemma": "fisherman",
+      "pos": "n.",
+      "zh": "渔夫",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A fisherman tells us"
+    },
+    {
+      "lemma": "purple",
+      "pos": "n./adj./v.",
+      "zh": "紫色（的）",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A purple tiger dances"
+    },
+    {
+      "lemma": "madame",
+      "pos": "n.",
+      "zh": "夫人；女士",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Madame writes a warm greeting"
+    },
+    {
+      "lemma": "balloon",
+      "pos": "n./v.",
+      "zh": "气球；使成气球状",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "one red balloon flies"
+    },
+    {
+      "lemma": "goodbye",
+      "pos": "int.",
+      "zh": "再见",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "We wave goodbye"
+    },
+    {
+      "lemma": "ant",
+      "pos": "n.",
+      "zh": "蚂蚁",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Her little ant farm"
+    },
+    {
+      "lemma": "hobby",
+      "pos": "n.",
+      "zh": "嗜好",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A common hobby can make"
+    },
+    {
+      "lemma": "spoon",
+      "pos": "n./v.",
+      "zh": "匙；以匙舀起",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "pass a spoon"
+    },
+    {
+      "lemma": "greeting",
+      "pos": "n.",
+      "zh": "问候；招呼",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a warm greeting"
+    },
+    {
+      "lemma": "picnic",
+      "pos": "n./v.",
+      "zh": "野餐",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Our picnic moves"
+    },
+    {
+      "lemma": "noon",
+      "pos": "n.",
+      "zh": "正午",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "At noon"
+    },
+    {
+      "lemma": "granny",
+      "pos": "n.",
+      "zh": "奶奶；外婆",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "Granny will mend"
+    },
+    {
+      "lemma": "mend",
+      "pos": "n./v.",
+      "zh": "修补；修改",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "will mend my old winter coat"
+    },
+    {
+      "lemma": "coke",
+      "pos": "n./v.",
+      "zh": "可乐",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "cold coke"
+    },
+    {
+      "lemma": "yourselves",
+      "pos": "pron.",
+      "zh": "你们自己",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "You yourselves may tell"
+    },
+    {
+      "lemma": "cabbage",
+      "pos": "n.",
+      "zh": "卷心菜",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "song about cabbage"
+    },
+    {
+      "lemma": "humorous",
+      "pos": "adj.",
+      "zh": "幽默的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a humorous story"
+    },
+    {
+      "lemma": "gym",
+      "pos": "n.",
+      "zh": "体育馆",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "the warm, noisy school gym"
+    },
+    {
+      "lemma": "kilo",
+      "pos": "n.",
+      "zh": "千克；公斤",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a kilo of sweet grapes"
+    },
+    {
+      "lemma": "blackboard",
+      "pos": "n.",
+      "zh": "黑板",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "fills the blackboard now"
+    },
+    {
+      "lemma": "rainy",
+      "pos": "adj.",
+      "zh": "下雨的",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "a rainy Monday"
+    },
+    {
+      "lemma": "toothbrush",
+      "pos": "n.",
+      "zh": "牙刷",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "my toothbrush and toothpaste"
+    },
+    {
+      "lemma": "toothpaste",
+      "pos": "n.",
+      "zh": "牙膏",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "toothbrush and toothpaste in the bag"
+    },
+    {
+      "lemma": "classmate",
+      "pos": "n.",
+      "zh": "同班同学",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "My classmate's place"
+    },
+    {
+      "lemma": "airplane",
+      "pos": "n.",
+      "zh": "飞机",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "shows an airplane"
+    },
+    {
+      "lemma": "eraser",
+      "pos": "n.",
+      "zh": "擦子",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "an eraser roll off"
+    },
+    {
+      "lemma": "dvd",
+      "pos": "n.",
+      "zh": "光盘；DVD",
+      "stars": 0,
+      "star_source": "zhongkao",
+      "collocation": "A dvd and a kilo"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“fantastic” 在短文里最接近的意思是：",
+      "options": [
+        "无聊的",
+        "奇妙的",
+        "愚蠢的",
+        "潮湿的"
+      ],
+      "answer": 1,
+      "speak": "fantastic"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "At ___, the menu lists warm bread and cold coke.",
+      "options": [
+        "row",
+        "gym",
+        "noon",
+        "lamp"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“absent” 的意思是：",
+      "options": [
+        "出席的",
+        "安静的",
+        "缺席的",
+        "富有的"
+      ],
+      "answer": 2,
+      "speak": "absent"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Her recorder music ___ fantastic in the big old hall.",
+      "options": [
+        "looks",
+        "sounds",
+        "tastes",
+        "smells"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A ruler and an ___ roll off the desk.",
+      "options": [
+        "airplane",
+        "drawer",
+        "balloon",
+        "eraser"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“silly” 的意思是：",
+      "options": [
+        "愚蠢的",
+        "聪明的",
+        "亲切的",
+        "普通的"
+      ],
+      "answer": 0,
+      "speak": "silly"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "We wave ___ as one red balloon flies far away.",
+      "options": [
+        "hello",
+        "thanks",
+        "goodbye",
+        "sorry"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q8",
+      "type": "语境填空",
+      "prompt": "Her little ant farm is a small, living ___.",
+      "options": [
+        "treasure",
+        "menu",
+        "lamp",
+        "row"
+      ],
+      "answer": 0
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "It is a ",
+        "hint": "ra",
+        "after": " Monday, and our class meets upstairs.",
+        "answer": "rainy"
+      },
+      {
+        "before": "Our ",
+        "hint": "co",
+        "after": " today is about grammar and old family stories.",
+        "answer": "composition"
+      },
+      {
+        "before": "At ",
+        "hint": "no",
+        "after": ", the menu lists warm bread and cold coke.",
+        "answer": "noon"
+      },
+      {
+        "before": "A red tomato and cold ",
+        "hint": "co",
+        "after": " wait on the table.",
+        "answer": "coke"
+      },
+      {
+        "before": "Her recorder music sounds ",
+        "hint": "fa",
+        "after": " in the big old hall.",
+        "answer": "fantastic"
+      },
+      {
+        "before": "He shows an ",
+        "hint": "ai",
+        "after": " he helped invent at home today.",
+        "answer": "airplane"
+      },
+      {
+        "before": "After geography, we watch a ",
+        "hint": "fi",
+        "after": " in a dry forest.",
+        "answer": "fire"
+      },
+      {
+        "before": "Granny will ",
+        "hint": "me",
+        "after": " my old winter coat before supper.",
+        "answer": "mend"
+      },
+      {
+        "before": "We wave ",
+        "hint": "go",
+        "after": " as one red balloon flies far away.",
+        "answer": "goodbye"
+      },
+      {
+        "before": "You ",
+        "hint": "yo",
+        "after": " may tell a humorous story tonight.",
+        "answer": "yourselves"
+      }
+    ],
+    "b3": [
+      {
+        "before": "My classmate's ",
+        "hint": "p",
+        "after": " stays cold and empty all morning.",
+        "answer": "place"
+      },
+      {
+        "before": "A ",
+        "hint": "c",
+        "after": " hobby can make a dull day feel bright.",
+        "answer": "common"
+      },
+      {
+        "before": "It is a rainy Monday, and our class meets ",
+        "hint": "u",
+        "after": ".",
+        "answer": "upstairs"
+      },
+      {
+        "before": "A warm lamp sits on the old brown wooden ",
+        "hint": "d",
+        "after": ".",
+        "answer": "drawer"
+      },
+      {
+        "before": "Her little ant farm is a small, living ",
+        "hint": "t",
+        "after": ".",
+        "answer": "treasure"
+      },
+      {
+        "before": "A ",
+        "hint": "p",
+        "after": " tiger dances across her open drawing book.",
+        "answer": "purple"
+      },
+      {
+        "before": "You yourselves may tell a ",
+        "hint": "h",
+        "after": " story tonight.",
+        "answer": "humorous"
+      },
+      {
+        "before": "Our picnic moves into the warm, noisy school ",
+        "hint": "g",
+        "after": " today.",
+        "answer": "gym"
+      },
+      {
+        "before": "A ruler and an ",
+        "hint": "e",
+        "after": " roll off the desk.",
+        "answer": "eraser"
+      },
+      {
+        "before": "I pack my ",
+        "hint": "t",
+        "after": " and toothpaste in the bag.",
+        "answer": "toothbrush"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "一个下雨的周一，我们班在楼上上课。",
+        "keywords": [
+          "rainy",
+          "upstairs"
+        ]
+      },
+      {
+        "zh": "我们今天的作文写的是语法和古老的家庭故事。",
+        "keywords": [
+          "composition",
+          "grammar"
+        ]
+      },
+      {
+        "zh": "正午时，菜单上列着热面包和冰可乐。",
+        "keywords": [
+          "noon",
+          "menu",
+          "coke"
+        ]
+      },
+      {
+        "zh": "她的录音机音乐在又大又旧的礼堂里听起来棒极了。",
+        "keywords": [
+          "recorder",
+          "fantastic"
+        ]
+      },
+      {
+        "zh": "地理课上，我们看到一场干燥森林里的火灾。",
+        "keywords": [
+          "geography",
+          "fire"
+        ]
+      },
+      {
+        "zh": "奶奶会在晚饭前补好我的旧冬衣。",
+        "keywords": [
+          "granny",
+          "mend"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 282,
+    "sentences": 29,
+    "newDensity": 0.206,
+    "targetTokenDensity": 0.213,
+    "patterns": [
+      "A + 形容词 + N + V（9 次）",
+      "My / Our + N + V（3 次）",
+      "At / After 开头（2 次）"
+    ]
+  },
+  "note": "b02 补漏成稿（校园/雨天展示课）：282 词 / 29 句；58 个目标词（stars=0、star_source=zhongkao）各 1 次，每句 2 个；回引主线 p01–p22 已学词作骨架；写作与自查规则见 work/p01-写作规则与自查清单.md，补漏校验见 work/qc_check_supplement.py。"
+}

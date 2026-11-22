@@ -1,0 +1,830 @@
+{
+  "id": "p33",
+  "title": "The Battle for the Baths",
+  "titleZh": "浴场保卫战",
+  "topic": "温泉小镇公共浴场",
+  "paragraphs": [
+    [
+      {
+        "en": "My town keeps a rare public bath from the eighteenth century.",
+        "zh": "我的小镇保留着一座稀有的公共浴场，建于十八世纪。"
+      },
+      {
+        "en": "A small fund buys pepper, a pan, and clean water.",
+        "zh": "一笔小小的基金买来胡椒、一口锅和干净的水。"
+      },
+      {
+        "en": "A new report shows serious pollution, and the response is awful.",
+        "zh": "一份新报告显示严重污染，回应却糟透了。"
+      },
+      {
+        "en": "The administration calls a long meeting, and the politics turn ugly.",
+        "zh": "当局召开了一场漫长的会议，政治气氛变得难看。"
+      },
+      {
+        "en": "An independent regulator will file a formal report with the town soon.",
+        "zh": "一家独立监管机构很快会向镇里提交正式报告。"
+      },
+      {
+        "en": "Then a citizen starts a movement and a hard struggle.",
+        "zh": "接着一位市民发起运动，也开启了一场艰难的斗争。"
+      }
+    ],
+    [
+      {
+        "en": "A retired colonel leads the rally with a steady voice.",
+        "zh": "一位退役上校用沉稳的声音带领集会。"
+      },
+      {
+        "en": "A young lad carries a chart of the town's water use.",
+        "zh": "一个少年拿着一幅全镇用水的图表。"
+      },
+      {
+        "en": "We admire his soul, and his lip begins to tremble with emotion.",
+        "zh": "我们钦佩他的心灵，他的嘴唇开始因激动而颤抖。"
+      },
+      {
+        "en": "He asks every shopping street to sign and register quiet support.",
+        "zh": "他请每条商业街签名，悄悄登记支持。"
+      },
+      {
+        "en": "People switch their signs, and the crowd begins to block the road.",
+        "zh": "人们调转标语牌，人群开始堵住道路。"
+      },
+      {
+        "en": "The crisis is immediate, and the view is grim.",
+        "zh": "危机迫在眉睫，前景一片黯淡。"
+      }
+    ],
+    [
+      {
+        "en": "A young designer refers to the temple in her careful plan.",
+        "zh": "一位年轻设计师在她细致的方案里提到了那座神庙。"
+      },
+      {
+        "en": "She will decorate the main hall and frame each old stone column.",
+        "zh": "她要装饰大厅，并为每根古老石柱装上框架。"
+      },
+      {
+        "en": "The plan respects the era and highlights the hall's simple beauty.",
+        "zh": "方案尊重那个时代，也突出了大厅朴素的美。"
+      },
+      {
+        "en": "Her drawings strip away the rot and show a complicated shape.",
+        "zh": "她的图纸剥去腐朽，露出一个复杂的轮廓。"
+      },
+      {
+        "en": "The final design is clear, and the cost stays within a modest scale.",
+        "zh": "最终设计很清楚，成本也控制在适度的规模内。"
+      },
+      {
+        "en": "She can generate profit and still keep the water public.",
+        "zh": "她能创造利润，同时让水保持公用。"
+      }
+    ],
+    [
+      {
+        "en": "My neighbour sees profit, and his offer is awful.",
+        "zh": "我的邻居看到了利润，他的出价却很糟糕。"
+      },
+      {
+        "en": "An allegation of bribery reaches the town's tired old attorney.",
+        "zh": "一桩受贿指控传到镇上那位疲惫的老律师耳中。"
+      },
+      {
+        "en": "Then the attorney will open the case and study every trail.",
+        "zh": "接着律师将立案，并研究每一条线索。"
+      },
+      {
+        "en": "A missile test fills the global news for that whole week.",
+        "zh": "那周一枚导弹试验占满了全球新闻。"
+      },
+      {
+        "en": "The local medium covers a missile import and forgets the town.",
+        "zh": "本地媒体只报道导弹进口，却忘了这座小镇。"
+      },
+      {
+        "en": "Our campaign cannot dominate the news, and inflation rises.",
+        "zh": "我们的运动无法主导新闻，通胀还在上升。"
+      }
+    ],
+    [
+      {
+        "en": "Later a republican senator visits and admires the plan.",
+        "zh": "后来一位共和党参议员来访，称赞这份方案。"
+      },
+      {
+        "en": "My town's bath has a small capacity of thirty people.",
+        "zh": "我镇上的浴场容量很小，只能容纳三十人。"
+      },
+      {
+        "en": "He vows to fight for the fund and remind the whole assembly.",
+        "zh": "他誓言为基金奔走，并提醒整个议会。"
+      },
+      {
+        "en": "Eventually the court sends one corrupt clerk to the town jail.",
+        "zh": "最终，法庭把一个贪腐的职员送进了镇上的监狱。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "view",
+      "pos": "n/v.",
+      "zh": "视野；看",
+      "stars": 5,
+      "collocation": "the view is"
+    },
+    {
+      "lemma": "independent",
+      "pos": "n/adj.",
+      "zh": "独立自主者；独立的",
+      "stars": 5,
+      "collocation": "An independent regulator"
+    },
+    {
+      "lemma": "movement",
+      "pos": "n.",
+      "zh": "运动",
+      "stars": 4,
+      "collocation": "a movement and"
+    },
+    {
+      "lemma": "refer",
+      "pos": "v.",
+      "zh": "提交；提到",
+      "stars": 4,
+      "collocation": "designer refers to"
+    },
+    {
+      "lemma": "profit",
+      "pos": "n/v.",
+      "zh": "利润；有益",
+      "stars": 4,
+      "collocation": "generate profit and"
+    },
+    {
+      "lemma": "eventually",
+      "pos": "adv.",
+      "zh": "最后",
+      "stars": 4,
+      "collocation": "Eventually the"
+    },
+    {
+      "lemma": "file",
+      "pos": "n/v.",
+      "zh": "档案；列队行进",
+      "stars": 4,
+      "collocation": "will file a"
+    },
+    {
+      "lemma": "politics",
+      "pos": "n.",
+      "zh": "政治",
+      "stars": 4,
+      "collocation": "the politics turn"
+    },
+    {
+      "lemma": "administration",
+      "pos": "n.",
+      "zh": "行政",
+      "stars": 4,
+      "collocation": "The administration calls"
+    },
+    {
+      "lemma": "immediate",
+      "pos": "adj.",
+      "zh": "立即的",
+      "stars": 4,
+      "collocation": "is immediate, and"
+    },
+    {
+      "lemma": "block",
+      "pos": "n/v.",
+      "zh": "街区；阻塞",
+      "stars": 4,
+      "collocation": "to block the"
+    },
+    {
+      "lemma": "citizen",
+      "pos": "n.",
+      "zh": "市民",
+      "stars": 4,
+      "collocation": "a citizen starts"
+    },
+    {
+      "lemma": "struggle",
+      "pos": "n/v.",
+      "zh": "斗争；努力",
+      "stars": 4,
+      "collocation": "hard struggle"
+    },
+    {
+      "lemma": "import",
+      "pos": "n/v.",
+      "zh": "进口货；输入",
+      "stars": 4,
+      "collocation": "missile import and"
+    },
+    {
+      "lemma": "medium",
+      "pos": "n/adj.",
+      "zh": "媒体；半生熟的",
+      "stars": 3,
+      "collocation": "local medium covers"
+    },
+    {
+      "lemma": "lip",
+      "pos": "n/v/adj.",
+      "zh": "唇；以嘴唇碰",
+      "stars": 3,
+      "collocation": "his lip begins"
+    },
+    {
+      "lemma": "remind",
+      "pos": "v.",
+      "zh": "提醒",
+      "stars": 3,
+      "collocation": "and remind the"
+    },
+    {
+      "lemma": "rare",
+      "pos": "adj/adv.",
+      "zh": "稀罕的；非常",
+      "stars": 3,
+      "collocation": "a rare public"
+    },
+    {
+      "lemma": "switch",
+      "pos": "n/v.",
+      "zh": "开关；转变",
+      "stars": 3,
+      "collocation": "People switch their"
+    },
+    {
+      "lemma": "pollution",
+      "pos": "n.",
+      "zh": "污染",
+      "stars": 3,
+      "collocation": "serious pollution, and"
+    },
+    {
+      "lemma": "soul",
+      "pos": "n/adj.",
+      "zh": "灵魂；黑人的",
+      "stars": 3,
+      "collocation": "his soul, and"
+    },
+    {
+      "lemma": "register",
+      "pos": "n/v.",
+      "zh": "寄存器；记录",
+      "stars": 3,
+      "collocation": "and register quiet"
+    },
+    {
+      "lemma": "bath",
+      "pos": "n.",
+      "zh": "沐浴",
+      "stars": 3,
+      "collocation": "public bath from"
+    },
+    {
+      "lemma": "awful",
+      "pos": "adj.",
+      "zh": "可怕的",
+      "stars": 3,
+      "collocation": "is awful"
+    },
+    {
+      "lemma": "shopping",
+      "pos": "n.",
+      "zh": "买东西",
+      "stars": 3,
+      "collocation": "every shopping street"
+    },
+    {
+      "lemma": "chart",
+      "pos": "n/v.",
+      "zh": "图表；制成图表",
+      "stars": 3,
+      "collocation": "a chart of"
+    },
+    {
+      "lemma": "modest",
+      "pos": "adj.",
+      "zh": "谦逊的",
+      "stars": 3,
+      "collocation": "a modest scale"
+    },
+    {
+      "lemma": "admire",
+      "pos": "v.",
+      "zh": "赞美；称赞",
+      "stars": 3,
+      "collocation": "We admire his"
+    },
+    {
+      "lemma": "temple",
+      "pos": "n.",
+      "zh": "圣堂",
+      "stars": 3,
+      "collocation": "the temple in"
+    },
+    {
+      "lemma": "missile",
+      "pos": "n/adj.",
+      "zh": "发射物；可发射的",
+      "stars": 3,
+      "collocation": "A missile test"
+    },
+    {
+      "lemma": "decorate",
+      "pos": "v.",
+      "zh": "装饰",
+      "stars": 3,
+      "collocation": "will decorate the"
+    },
+    {
+      "lemma": "pan",
+      "pos": "n/v.",
+      "zh": "平锅；上下左右移动",
+      "stars": 3,
+      "collocation": "a pan, and"
+    },
+    {
+      "lemma": "pepper",
+      "pos": "n.",
+      "zh": "胡椒粉",
+      "stars": 3,
+      "collocation": "buys pepper, a"
+    },
+    {
+      "lemma": "fund",
+      "pos": "n/v.",
+      "zh": "基金；提供资金",
+      "stars": 5,
+      "collocation": "small fund buys"
+    },
+    {
+      "lemma": "response",
+      "pos": "n.",
+      "zh": "反应",
+      "stars": 4,
+      "collocation": "the response is"
+    },
+    {
+      "lemma": "scale",
+      "pos": "n/v.",
+      "zh": "刻度；依比例决定",
+      "stars": 4,
+      "collocation": "modest scale"
+    },
+    {
+      "lemma": "crisis",
+      "pos": "n.",
+      "zh": "危机",
+      "stars": 4,
+      "collocation": "The crisis is"
+    },
+    {
+      "lemma": "dominate",
+      "pos": "v.",
+      "zh": "支配",
+      "stars": 4,
+      "collocation": "cannot dominate the"
+    },
+    {
+      "lemma": "republican",
+      "pos": "n/adj.",
+      "zh": "共和主义者；共和政体的",
+      "stars": 4,
+      "collocation": "a republican senator"
+    },
+    {
+      "lemma": "capacity",
+      "pos": "n.",
+      "zh": "容量",
+      "stars": 3,
+      "collocation": "small capacity of"
+    },
+    {
+      "lemma": "generate",
+      "pos": "v.",
+      "zh": "产生",
+      "stars": 3,
+      "collocation": "can generate profit"
+    },
+    {
+      "lemma": "column",
+      "pos": "n.",
+      "zh": "专栏",
+      "stars": 3,
+      "collocation": "stone column"
+    },
+    {
+      "lemma": "frame",
+      "pos": "n/v.",
+      "zh": "框；构成",
+      "stars": 3,
+      "collocation": "and frame each"
+    },
+    {
+      "lemma": "global",
+      "pos": "adj.",
+      "zh": "通用的",
+      "stars": 3,
+      "collocation": "the global news"
+    },
+    {
+      "lemma": "complicated",
+      "pos": "adj.",
+      "zh": "复杂的",
+      "stars": 3,
+      "collocation": "a complicated shape"
+    },
+    {
+      "lemma": "highlight",
+      "pos": "n/v.",
+      "zh": "加亮区；加亮",
+      "stars": 3,
+      "collocation": "and highlights the"
+    },
+    {
+      "lemma": "strip",
+      "pos": "n/v.",
+      "zh": "长条；脱衣",
+      "stars": 3,
+      "collocation": "drawings strip away"
+    },
+    {
+      "lemma": "era",
+      "pos": "n.",
+      "zh": "时代",
+      "stars": 3,
+      "collocation": "the era and"
+    },
+    {
+      "lemma": "colonel",
+      "pos": "n.",
+      "zh": "陆军上校",
+      "stars": 3,
+      "collocation": "retired colonel leads"
+    },
+    {
+      "lemma": "trail",
+      "pos": "n/v.",
+      "zh": "踪迹；拖",
+      "stars": 3,
+      "collocation": "every trail"
+    },
+    {
+      "lemma": "jail",
+      "pos": "n/v.",
+      "zh": "监牢；监禁",
+      "stars": 3,
+      "collocation": "town jail"
+    },
+    {
+      "lemma": "inflation",
+      "pos": "n.",
+      "zh": "胀大",
+      "stars": 4,
+      "collocation": "and inflation rises"
+    },
+    {
+      "lemma": "lad",
+      "pos": "n.",
+      "zh": "青年",
+      "stars": 3,
+      "collocation": "young lad carries"
+    },
+    {
+      "lemma": "allegation",
+      "pos": "n.",
+      "zh": "断言",
+      "stars": 3,
+      "collocation": "An allegation of"
+    },
+    {
+      "lemma": "rally",
+      "pos": "n/v.",
+      "zh": "重振旗鼓；重整旗鼓",
+      "stars": 3,
+      "collocation": "the rally with"
+    },
+    {
+      "lemma": "attorney",
+      "pos": "n.",
+      "zh": "代理人",
+      "stars": 3,
+      "collocation": "old attorney"
+    },
+    {
+      "lemma": "eighteenth",
+      "pos": "num.",
+      "zh": "第十八",
+      "stars": 4,
+      "collocation": "the eighteenth century"
+    },
+    {
+      "lemma": "designer",
+      "pos": "n.",
+      "zh": "设计者",
+      "stars": 3,
+      "collocation": "young designer refers"
+    },
+    {
+      "lemma": "regulator",
+      "pos": "n.",
+      "zh": "调整者",
+      "stars": 3,
+      "collocation": "independent regulator will"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“allegation” 的意思是：",
+      "options": [
+        "指控",
+        "通货膨胀",
+        "容量",
+        "时代"
+      ],
+      "answer": 0,
+      "speak": "allegation"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The scale of the crisis is immediate, and the ___ is grim.",
+      "options": [
+        "pepper",
+        "view",
+        "trail",
+        "column"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“independent” 的意思是：",
+      "options": [
+        "稀有的",
+        "独立的",
+        "复杂的",
+        "适度的"
+      ],
+      "answer": 1,
+      "speak": "independent"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "An allegation of bribery reaches the town's tired old ___.",
+      "options": [
+        "regulator",
+        "attorney",
+        "colonel",
+        "designer"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A missile test fills the ___ news for that whole week.",
+      "options": [
+        "awful",
+        "modest",
+        "global",
+        "rare"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“eventually” 的意思是：",
+      "options": [
+        "立即",
+        "最终",
+        "独立地",
+        "罕见地"
+      ],
+      "answer": 1,
+      "speak": "eventually"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Then the attorney will open the case and study every ___.",
+      "options": [
+        "pepper",
+        "pan",
+        "trail",
+        "column"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "My town keeps a rare public ___ from the eighteenth century.",
+      "options": [
+        "fund",
+        "scale",
+        "bath",
+        "era"
+      ],
+      "answer": 2
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My town keeps a rare public ",
+        "hint": "ba",
+        "after": " from the eighteenth century.",
+        "answer": "bath"
+      },
+      {
+        "before": "A small ",
+        "hint": "fu",
+        "after": " buys pepper, a pan, and clean water.",
+        "answer": "fund"
+      },
+      {
+        "before": "A new report shows serious ",
+        "hint": "po",
+        "after": ", and the response is awful.",
+        "answer": "pollution"
+      },
+      {
+        "before": "Then a citizen starts a ",
+        "hint": "mo",
+        "after": " and a hard struggle.",
+        "answer": "movement"
+      },
+      {
+        "before": "A retired ",
+        "hint": "co",
+        "after": " leads the rally with a steady voice.",
+        "answer": "colonel"
+      },
+      {
+        "before": "A young ",
+        "hint": "la",
+        "after": " carries a chart of the town's water use.",
+        "answer": "lad"
+      },
+      {
+        "before": "We ",
+        "hint": "ad",
+        "after": " his soul, and his lip begins to tremble with emotion.",
+        "answer": "admire"
+      },
+      {
+        "before": "An allegation of bribery reaches the town's tired old ",
+        "hint": "at",
+        "after": ".",
+        "answer": "attorney"
+      },
+      {
+        "before": "A missile test fills the ",
+        "hint": "gl",
+        "after": " news for that whole week.",
+        "answer": "global"
+      },
+      {
+        "before": "Eventually the court sends one corrupt clerk to the town ",
+        "hint": "ja",
+        "after": ".",
+        "answer": "jail"
+      }
+    ],
+    "b3": [
+      {
+        "before": "The ",
+        "hint": "a",
+        "after": " calls a long meeting, and the politics turn ugly.",
+        "answer": "administration"
+      },
+      {
+        "before": "An independent ",
+        "hint": "r",
+        "after": " will file a formal report with the town soon.",
+        "answer": "regulator"
+      },
+      {
+        "before": "People switch their signs, and the crowd begins to ",
+        "hint": "b",
+        "after": " the road.",
+        "answer": "block"
+      },
+      {
+        "before": "A young designer refers to the ",
+        "hint": "t",
+        "after": " in her careful plan.",
+        "answer": "temple"
+      },
+      {
+        "before": "She will decorate the main hall and ",
+        "hint": "f",
+        "after": " each old stone column.",
+        "answer": "frame"
+      },
+      {
+        "before": "The plan respects the ",
+        "hint": "e",
+        "after": " and highlights the hall's simple beauty.",
+        "answer": "era"
+      },
+      {
+        "before": "Her drawings ",
+        "hint": "s",
+        "after": " away the rot and show a complicated shape.",
+        "answer": "strip"
+      },
+      {
+        "before": "Our campaign cannot ",
+        "hint": "d",
+        "after": " the news, and inflation rises.",
+        "answer": "dominate"
+      },
+      {
+        "before": "The local medium covers a missile ",
+        "hint": "i",
+        "after": " and forgets the town.",
+        "answer": "import"
+      },
+      {
+        "before": "He vows to fight for the ",
+        "hint": "f",
+        "after": " and remind the whole assembly.",
+        "answer": "fund"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我的小镇保留着一座稀有的公共浴场，建于十八世纪。",
+        "keywords": [
+          "rare",
+          "bath",
+          "eighteenth"
+        ]
+      },
+      {
+        "zh": "一份新报告显示严重污染，回应却糟透了。",
+        "keywords": [
+          "pollution",
+          "response",
+          "awful"
+        ]
+      },
+      {
+        "zh": "一位退役上校用沉稳的声音带领集会。",
+        "keywords": [
+          "colonel",
+          "rally"
+        ]
+      },
+      {
+        "zh": "她的图纸剥去腐朽，露出一个复杂的轮廓。",
+        "keywords": [
+          "strip",
+          "complicated"
+        ]
+      },
+      {
+        "zh": "一桩受贿指控传到镇上那位疲惫的老律师耳中。",
+        "keywords": [
+          "allegation",
+          "attorney"
+        ]
+      },
+      {
+        "zh": "最终，法庭把一个贪腐的职员送进了镇上的监狱。",
+        "keywords": [
+          "eventually",
+          "jail"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 301,
+    "sentences": 28,
+    "newDensity": 0.196,
+    "targetTokenDensity": 0.219,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（6 次）",
+      "Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p33：约 312 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

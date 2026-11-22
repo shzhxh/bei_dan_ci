@@ -1,0 +1,831 @@
+{
+  "id": "p09",
+  "title": "The Seaside Radio",
+  "titleZh": "海边广播站",
+  "topic": "广播与小镇",
+  "paragraphs": [
+    [
+      {
+        "en": "Our little town looks quietly toward the wide, open sea.",
+        "zh": "我们的小镇静静地朝着宽阔的大海。"
+      },
+      {
+        "en": "During the warm summer, the long, wide beach stays busy.",
+        "zh": "温暖的夏天里，又长又宽的海滩一直很热闹。"
+      },
+      {
+        "en": "In warm August, every long day feels bright and calm.",
+        "zh": "在温暖的八月，每一个漫长的日子都明亮而平静。"
+      },
+      {
+        "en": "My old friend runs our small, busy broadcasting room today.",
+        "zh": "我的老朋友今天经营着我们这间小小的广播室。"
+      },
+      {
+        "en": "A clear message goes out to the whole wide public.",
+        "zh": "一条清晰的消息传给了所有的公众。"
+      },
+      {
+        "en": "We provide health news and simple advice each calm morning.",
+        "zh": "每个平静的早晨，我们提供健康新闻和简单的建议。"
+      },
+      {
+        "en": "A good story can describe a simple, quiet village life.",
+        "zh": "一个好故事能描述一种简单安静的小镇生活。"
+      },
+      {
+        "en": "She wants to direct a short film this coming year.",
+        "zh": "她今年想导演一部短片。"
+      },
+      {
+        "en": "The local police found a gun near the grey stone prison.",
+        "zh": "当地警察在灰色的石砌监狱附近发现了一把枪。"
+      },
+      {
+        "en": "Then a young singer fails to appear on the stage today.",
+        "zh": "于是，一位年轻歌手今天没能登上舞台。"
+      }
+    ],
+    [
+      {
+        "en": "Loyal fans wait outside to meet the young singer first.",
+        "zh": "忠实的歌迷在外面等着，想第一个见到这位年轻歌手。"
+      },
+      {
+        "en": "Next week she will move and try again with our help.",
+        "zh": "下周她会搬走，并在我们的帮助下再试一次。"
+      },
+      {
+        "en": "My strong signal fills the little computer with clear sound.",
+        "zh": "我强劲的信号让那台小电脑里充满了清晰的声音。"
+      },
+      {
+        "en": "A long, dark hair lies on the wooden kitchen table.",
+        "zh": "一根又长又黑的头发落在木制厨房桌上。"
+      },
+      {
+        "en": "He takes a deep breath and slowly opens his mouth.",
+        "zh": "他深吸一口气，慢慢张开了嘴。"
+      },
+      {
+        "en": "A warm bowl of soup sits beside the front wooden door.",
+        "zh": "一碗热汤放在前木门旁边。"
+      },
+      {
+        "en": "A solid wood shelf hangs above the small, tidy desk.",
+        "zh": "一个结实的木架子挂在小而整洁的书桌上方。"
+      },
+      {
+        "en": "The fat cook orders a ton of fresh fish this morning.",
+        "zh": "胖厨师今天早上订了一吨鲜鱼。"
+      },
+      {
+        "en": "My small golden prize is yours alone tonight.",
+        "zh": "我这份小小的金奖今晚只属于你。"
+      },
+      {
+        "en": "A pop concert fills the main hall with soft background music.",
+        "zh": "一场流行音乐会伴着轻柔的背景音乐充满主厅。"
+      }
+    ],
+    [
+      {
+        "en": "Later a slow brass band marches along the quiet street.",
+        "zh": "后来，一支缓慢的铜管乐队沿着安静的街道行进。"
+      },
+      {
+        "en": "None of us is entirely sure about the plan today.",
+        "zh": "我们对这个计划今天会怎样都不太确定。"
+      },
+      {
+        "en": "A sudden storm looks terrible from this warm, safe room.",
+        "zh": "一场突如其来的暴风雨从这间温暖安全的屋子里看去很可怕。"
+      },
+      {
+        "en": "My daily work feels normal when we relax together.",
+        "zh": "当我们一起放松时，我的日常工作感觉很正常。"
+      },
+      {
+        "en": "I still remember the address from the distant past.",
+        "zh": "我依然记得那个久远过去的地址。"
+      },
+      {
+        "en": "We regard her as the one who manages everything here so well.",
+        "zh": "我们把她看作那位把这里一切都管理得非常好的人。"
+      },
+      {
+        "en": "We give him a warm and friendly welcome today.",
+        "zh": "今天我们给他一个温暖友好的欢迎。"
+      },
+      {
+        "en": "What can you tell our many loyal listeners on air tonight?",
+        "zh": "今晚你能在广播里告诉我们众多忠实的听众什么呢？"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "you",
+      "pos": "pron.",
+      "zh": "你",
+      "stars": 5,
+      "collocation": "can you tell our"
+    },
+    {
+      "lemma": "what",
+      "pos": "pron./adj./adv.",
+      "zh": "什么",
+      "stars": 5,
+      "collocation": "What can you"
+    },
+    {
+      "lemma": "give",
+      "pos": "n./v.",
+      "zh": "弹性",
+      "stars": 5,
+      "collocation": "We give him a"
+    },
+    {
+      "lemma": "day",
+      "pos": "n.",
+      "zh": "天",
+      "stars": 5,
+      "collocation": "long day feels bright"
+    },
+    {
+      "lemma": "old",
+      "pos": "n./adj.",
+      "zh": "以前",
+      "stars": 5,
+      "collocation": "My old friend runs"
+    },
+    {
+      "lemma": "again",
+      "pos": "adv.",
+      "zh": "再一次",
+      "stars": 5,
+      "collocation": "try again with our"
+    },
+    {
+      "lemma": "provide",
+      "pos": "v.",
+      "zh": "提供",
+      "stars": 5,
+      "collocation": "We provide health news"
+    },
+    {
+      "lemma": "next",
+      "pos": "n./adj./adv.",
+      "zh": "下一个",
+      "stars": 5,
+      "collocation": "Next week she"
+    },
+    {
+      "lemma": "move",
+      "pos": "n./v.",
+      "zh": "移动",
+      "stars": 5,
+      "collocation": "will move and try"
+    },
+    {
+      "lemma": "meet",
+      "pos": "n./adj./v.",
+      "zh": "会",
+      "stars": 5,
+      "collocation": "to meet the young"
+    },
+    {
+      "lemma": "appear",
+      "pos": "v.",
+      "zh": "出现",
+      "stars": 5,
+      "collocation": "to appear on the"
+    },
+    {
+      "lemma": "public",
+      "pos": "n./adj.",
+      "zh": "公众",
+      "stars": 5,
+      "collocation": "wide public."
+    },
+    {
+      "lemma": "remember",
+      "pos": "v.",
+      "zh": "记得",
+      "stars": 5,
+      "collocation": "still remember the address"
+    },
+    {
+      "lemma": "health",
+      "pos": "n.",
+      "zh": "健康",
+      "stars": 5,
+      "collocation": "provide health news and"
+    },
+    {
+      "lemma": "describe",
+      "pos": "v.",
+      "zh": "描述",
+      "stars": 5,
+      "collocation": "can describe a simple,"
+    },
+    {
+      "lemma": "town",
+      "pos": "n.",
+      "zh": "城镇",
+      "stars": 5,
+      "collocation": "little town looks quietly"
+    },
+    {
+      "lemma": "wait",
+      "pos": "n./v.",
+      "zh": "等待",
+      "stars": 5,
+      "collocation": "fans wait outside to"
+    },
+    {
+      "lemma": "strong",
+      "pos": "adj./adv.",
+      "zh": "强壮的",
+      "stars": 5,
+      "collocation": "My strong signal fills"
+    },
+    {
+      "lemma": "story",
+      "pos": "n.",
+      "zh": "故事",
+      "stars": 5,
+      "collocation": "good story can describe"
+    },
+    {
+      "lemma": "fail",
+      "pos": "v./n.",
+      "zh": "失败",
+      "stars": 5,
+      "collocation": "singer fails to appear"
+    },
+    {
+      "lemma": "film",
+      "pos": "n./v.",
+      "zh": "软片",
+      "stars": 5,
+      "collocation": "short film this coming"
+    },
+    {
+      "lemma": "direct",
+      "pos": "adj./v./adv.",
+      "zh": "直接的",
+      "stars": 5,
+      "collocation": "to direct a short"
+    },
+    {
+      "lemma": "past",
+      "pos": "n./adj./prep.",
+      "zh": "过去",
+      "stars": 5,
+      "collocation": "distant past."
+    },
+    {
+      "lemma": "him",
+      "pos": "pron.",
+      "zh": "他",
+      "stars": 5,
+      "collocation": "give him a warm"
+    },
+    {
+      "lemma": "table",
+      "pos": "n./v.",
+      "zh": "桌子",
+      "stars": 4,
+      "collocation": "kitchen table."
+    },
+    {
+      "lemma": "computer",
+      "pos": "n.",
+      "zh": "电脑",
+      "stars": 4,
+      "collocation": "little computer with clear"
+    },
+    {
+      "lemma": "hair",
+      "pos": "n.",
+      "zh": "头发",
+      "stars": 4,
+      "collocation": "dark hair lies on"
+    },
+    {
+      "lemma": "sea",
+      "pos": "n.",
+      "zh": "海",
+      "stars": 4,
+      "collocation": "open sea."
+    },
+    {
+      "lemma": "manage",
+      "pos": "v.",
+      "zh": "处理",
+      "stars": 4,
+      "collocation": "who manages everything here"
+    },
+    {
+      "lemma": "normal",
+      "pos": "n./adj.",
+      "zh": "常态",
+      "stars": 4,
+      "collocation": "feels normal when we"
+    },
+    {
+      "lemma": "summer",
+      "pos": "n./v.",
+      "zh": "夏季",
+      "stars": 4,
+      "collocation": "warm summer, the long,"
+    },
+    {
+      "lemma": "regard",
+      "pos": "n./v.",
+      "zh": "关心",
+      "stars": 4,
+      "collocation": "We regard her as"
+    },
+    {
+      "lemma": "mouth",
+      "pos": "n./v.",
+      "zh": "嘴",
+      "stars": 4,
+      "collocation": "his mouth."
+    },
+    {
+      "lemma": "message",
+      "pos": "n./v.",
+      "zh": "消息",
+      "stars": 4,
+      "collocation": "clear message goes out"
+    },
+    {
+      "lemma": "none",
+      "pos": "adv./pron./adj.",
+      "zh": "一点也不",
+      "stars": 4,
+      "collocation": "None of us"
+    },
+    {
+      "lemma": "august",
+      "pos": "n./adj.",
+      "zh": "八月",
+      "stars": 4,
+      "collocation": "warm August, every long"
+    },
+    {
+      "lemma": "prison",
+      "pos": "n./v.",
+      "zh": "监狱",
+      "stars": 4,
+      "collocation": "stone prison."
+    },
+    {
+      "lemma": "wood",
+      "pos": "n./v.",
+      "zh": "木材",
+      "stars": 4,
+      "collocation": "solid wood shelf hangs"
+    },
+    {
+      "lemma": "address",
+      "pos": "n./v.",
+      "zh": "住址",
+      "stars": 4,
+      "collocation": "the address from the"
+    },
+    {
+      "lemma": "slow",
+      "pos": "adj./adv./v.",
+      "zh": "慢的",
+      "stars": 4,
+      "collocation": "a slow brass band"
+    },
+    {
+      "lemma": "gun",
+      "pos": "n.",
+      "zh": "枪",
+      "stars": 4,
+      "collocation": "a gun near the"
+    },
+    {
+      "lemma": "terrible",
+      "pos": "adj.",
+      "zh": "可怕的",
+      "stars": 4,
+      "collocation": "looks terrible from this"
+    },
+    {
+      "lemma": "prize",
+      "pos": "n./adj./v.",
+      "zh": "奖赏",
+      "stars": 4,
+      "collocation": "golden prize is yours"
+    },
+    {
+      "lemma": "fat",
+      "pos": "n./adj.",
+      "zh": "脂肪",
+      "stars": 4,
+      "collocation": "The fat cook orders"
+    },
+    {
+      "lemma": "march",
+      "pos": "n./v.",
+      "zh": "三月",
+      "stars": 3,
+      "collocation": "band marches along the"
+    },
+    {
+      "lemma": "background",
+      "pos": "n.",
+      "zh": "背景",
+      "stars": 3,
+      "collocation": "soft background music."
+    },
+    {
+      "lemma": "beside",
+      "pos": "prep.",
+      "zh": "在旁边",
+      "stars": 3,
+      "collocation": "sits beside the front"
+    },
+    {
+      "lemma": "breath",
+      "pos": "n.",
+      "zh": "呼吸",
+      "stars": 3,
+      "collocation": "deep breath and slowly"
+    },
+    {
+      "lemma": "beach",
+      "pos": "n.",
+      "zh": "海滩",
+      "stars": 3,
+      "collocation": "wide beach stays busy."
+    },
+    {
+      "lemma": "yours",
+      "pos": "pron.",
+      "zh": "你的",
+      "stars": 3,
+      "collocation": "is yours alone tonight."
+    },
+    {
+      "lemma": "sudden",
+      "pos": "n./adj.",
+      "zh": "突然",
+      "stars": 3,
+      "collocation": "A sudden storm looks"
+    },
+    {
+      "lemma": "solid",
+      "pos": "n./adj.",
+      "zh": "固体",
+      "stars": 3,
+      "collocation": "A solid wood shelf"
+    },
+    {
+      "lemma": "relax",
+      "pos": "v.",
+      "zh": "放松",
+      "stars": 3,
+      "collocation": "we relax together."
+    },
+    {
+      "lemma": "bowl",
+      "pos": "n./v.",
+      "zh": "碗",
+      "stars": 3,
+      "collocation": "warm bowl of soup"
+    },
+    {
+      "lemma": "concert",
+      "pos": "n./v.",
+      "zh": "音乐会",
+      "stars": 3,
+      "collocation": "pop concert fills the"
+    },
+    {
+      "lemma": "pop",
+      "pos": "n./adj./v.",
+      "zh": "砰然声",
+      "stars": 3,
+      "collocation": "A pop concert fills"
+    },
+    {
+      "lemma": "ton",
+      "pos": "n.",
+      "zh": "吨",
+      "stars": 3,
+      "collocation": "a ton of fresh"
+    },
+    {
+      "lemma": "entirely",
+      "pos": "adv.",
+      "zh": "完全",
+      "stars": 3,
+      "collocation": "is entirely sure about"
+    },
+    {
+      "lemma": "broadcasting",
+      "pos": "n.",
+      "zh": "广播",
+      "stars": 3,
+      "collocation": "busy broadcasting room today."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“broadcasting” 的意思是：",
+      "options": [
+        "广播",
+        "背景",
+        "消息",
+        "呼吸"
+      ],
+      "answer": 0,
+      "speak": "broadcasting"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The local police found a gun near the grey stone ___.",
+      "options": [
+        "prison",
+        "public",
+        "table",
+        "concert"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“terrible” 的意思是：",
+      "options": [
+        "可怕的",
+        "强壮的",
+        "正常的",
+        "结实的"
+      ],
+      "answer": 0,
+      "speak": "terrible"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A solid wood shelf hangs above the small, tidy ___.",
+      "options": [
+        "desk",
+        "prize",
+        "bowl",
+        "mouth"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "Loyal fans ___ outside to meet the young singer first.",
+      "options": [
+        "wait",
+        "relax",
+        "manage",
+        "direct"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“entirely” 的意思是：",
+      "options": [
+        "完全",
+        "突然",
+        "在旁边",
+        "再一次"
+      ],
+      "answer": 0,
+      "speak": "entirely"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "None of us is ___ sure about the plan today.",
+      "options": [
+        "entirely",
+        "suddenly",
+        "beside",
+        "again"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“prize” 的意思是：",
+      "options": [
+        "奖赏",
+        "监狱",
+        "枪",
+        "吨"
+      ],
+      "answer": 0,
+      "speak": "prize"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "Our little ",
+        "hint": "to",
+        "after": " looks quietly toward the wide, open sea.",
+        "answer": "town"
+      },
+      {
+        "before": "During the warm ",
+        "hint": "su",
+        "after": ", the long, wide beach stays busy.",
+        "answer": "summer"
+      },
+      {
+        "before": "In warm August, every long ",
+        "hint": "da",
+        "after": " feels bright and calm.",
+        "answer": "day"
+      },
+      {
+        "before": "My old friend runs our small, busy ",
+        "hint": "br",
+        "after": " room today.",
+        "answer": "broadcasting"
+      },
+      {
+        "before": "A clear ",
+        "hint": "me",
+        "after": " goes out to the whole wide public.",
+        "answer": "message"
+      },
+      {
+        "before": "We provide ",
+        "hint": "he",
+        "after": " news and simple advice each calm morning.",
+        "answer": "health"
+      },
+      {
+        "before": "A good ",
+        "hint": "st",
+        "after": " can describe a simple, quiet village life.",
+        "answer": "story"
+      },
+      {
+        "before": "She wants to direct a short ",
+        "hint": "fi",
+        "after": " this coming year.",
+        "answer": "film"
+      },
+      {
+        "before": "The local police found a gun near the grey stone ",
+        "hint": "pr",
+        "after": ".",
+        "answer": "prison"
+      },
+      {
+        "before": "Then a young singer fails to ",
+        "hint": "ap",
+        "after": " on the stage today.",
+        "answer": "appear"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Loyal fans wait outside to ",
+        "hint": "me",
+        "after": " the young singer first.",
+        "answer": "meet"
+      },
+      {
+        "before": "Next week she will ",
+        "hint": "mo",
+        "after": " and try again with our help.",
+        "answer": "move"
+      },
+      {
+        "before": "My strong signal fills the little ",
+        "hint": "co",
+        "after": " with clear sound.",
+        "answer": "computer"
+      },
+      {
+        "before": "A long, dark hair lies on the wooden kitchen ",
+        "hint": "ta",
+        "after": ".",
+        "answer": "table"
+      },
+      {
+        "before": "He takes a deep ",
+        "hint": "br",
+        "after": " and slowly opens his mouth.",
+        "answer": "breath"
+      },
+      {
+        "before": "A warm ",
+        "hint": "bo",
+        "after": " of soup sits beside the front wooden door.",
+        "answer": "bowl"
+      },
+      {
+        "before": "A ",
+        "hint": "so",
+        "after": " wood shelf hangs above the small, tidy desk.",
+        "answer": "solid"
+      },
+      {
+        "before": "The fat cook orders a ",
+        "hint": "to",
+        "after": " of fresh fish this morning.",
+        "answer": "ton"
+      },
+      {
+        "before": "My small golden ",
+        "hint": "pr",
+        "after": " is yours alone tonight.",
+        "answer": "prize"
+      },
+      {
+        "before": "A pop ",
+        "hint": "co",
+        "after": " fills the main hall with soft background music.",
+        "answer": "concert"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我们的小镇静静地朝着宽阔的大海。",
+        "keywords": [
+          "town",
+          "sea",
+          "quietly"
+        ]
+      },
+      {
+        "zh": "我的老朋友今天经营着我们这间小小的广播室。",
+        "keywords": [
+          "old",
+          "friend",
+          "broadcasting"
+        ]
+      },
+      {
+        "zh": "当地警察在灰色的石砌监狱附近发现了一把枪。",
+        "keywords": [
+          "police",
+          "gun",
+          "prison"
+        ]
+      },
+      {
+        "zh": "下周她会搬走，并在我们的帮助下再试一次。",
+        "keywords": [
+          "next",
+          "move",
+          "again"
+        ]
+      },
+      {
+        "zh": "一场流行音乐会伴着轻柔的背景音乐充满主厅。",
+        "keywords": [
+          "pop",
+          "concert",
+          "background"
+        ]
+      },
+      {
+        "zh": "今晚你能在广播里告诉我们众多忠实的听众什么呢？",
+        "keywords": [
+          "what",
+          "you",
+          "listeners"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 284,
+    "sentences": 28,
+    "newDensity": 0.208,
+    "targetTokenDensity": 0.208,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "以海边小镇的一间小广播站为主线，写老站长为公众播报健康消息、年轻歌手登台、流行音乐会与一场突如其来的暴风雨。"
+}

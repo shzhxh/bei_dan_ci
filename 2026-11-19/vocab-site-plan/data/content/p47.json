@@ -1,0 +1,831 @@
+{
+  "id": "p47",
+  "title": "The Clinic and the Bank Proposal",
+  "titleZh": "诊所与银行提案",
+  "topic": "社区法律援助与银行私有化",
+  "paragraphs": [
+    [
+      {
+        "en": "My aunt's small clinic offers support on immigration cases.",
+        "zh": "我姑姑的小诊所为移民案件提供支持。"
+      },
+      {
+        "en": "A young lawyer handles each affair with care and respect.",
+        "zh": "一位年轻律师谨慎而尊重地处理每一件事。"
+      },
+      {
+        "en": "Their calm approach helps settle most problems before night.",
+        "zh": "他们冷静的做法帮助大多数问题在入夜前解决。"
+      },
+      {
+        "en": "The studio upstairs records short interviews for the local media.",
+        "zh": "楼上的工作室为本地媒体录制简短的采访。"
+      },
+      {
+        "en": "An official from the ministry visits the clinic each month.",
+        "zh": "一位部里的官员每月来诊所一次。"
+      },
+      {
+        "en": "She checks every category of welfare claim with care.",
+        "zh": "她仔细核对福利申请的每一个类别。"
+      },
+      {
+        "en": "A consultant helps them secure a small financial grant.",
+        "zh": "一位顾问帮他们争取到一小笔财政补助。"
+      },
+      {
+        "en": "They establish a clear root cause list for each case.",
+        "zh": "他们为每个案件建立一份清楚的根源清单。"
+      },
+      {
+        "en": "An adequate plan can stretch a small budget through winter.",
+        "zh": "一份足够的计划能让小预算撑过冬天。"
+      },
+      {
+        "en": "My team's pace is slow, but every member stays capable.",
+        "zh": "我团队的节奏很慢，但每个成员都保持能干。"
+      }
+    ],
+    [
+      {
+        "en": "One violent case sends a frightened family into a shelter.",
+        "zh": "一起暴力案件把一个受惊的家庭送进了收容所。"
+      },
+      {
+        "en": "A trap in the wording fools even a careful reader.",
+        "zh": "措辞里的一个陷阱甚至骗过细心的读者。"
+      },
+      {
+        "en": "The ambassador's office becomes a useful contact for the clinic.",
+        "zh": "大使办公室成了诊所一个有用的人脉。"
+      },
+      {
+        "en": "The clinic's membership grows as word spreads overseas.",
+        "zh": "随着消息传到海外，诊所的会员人数增加。"
+      },
+      {
+        "en": "A short report discloses a gross error in the accounts.",
+        "zh": "一份简短报告披露了账目中的重大错误。"
+      },
+      {
+        "en": "A moderate group proposes to privatize the local banking service.",
+        "zh": "一个温和的团体提议将本地银行业私有化。"
+      },
+      {
+        "en": "The opposition calls the plan odd and deeply unfair.",
+        "zh": "反对派称这项计划古怪且极不公平。"
+      },
+      {
+        "en": "A public assembly gives every resident a real stake.",
+        "zh": "一次公开集会给了每位居民真正的利害关系。"
+      },
+      {
+        "en": "They opt for a careful path and wait for a clear cue.",
+        "zh": "他们选择一条谨慎的路，等待明确的提示。"
+      },
+      {
+        "en": "A leap in costs would otherwise leave families without help.",
+        "zh": "成本的跃升否则会让许多家庭得不到帮助。"
+      }
+    ],
+    [
+      {
+        "en": "Few residents can solve the initial puzzle of the new forms.",
+        "zh": "很少有居民能独自解开新表格最初的谜题。"
+      },
+      {
+        "en": "Then such cases tend to raise a relevant question about fairness.",
+        "zh": "那么这类案件往往会提出一个关于公平的相关问题。"
+      },
+      {
+        "en": "A new report describes abuse against a very vulnerable tenant.",
+        "zh": "一份新报告描述了针对一名非常脆弱租户的虐待。"
+      },
+      {
+        "en": "My cousin helps load the files and strengthen each weak point.",
+        "zh": "我表弟帮忙装载文件，并加强每个薄弱环节。"
+      },
+      {
+        "en": "No automatic system can cover this whole universe of needs.",
+        "zh": "没有任何自动系统能覆盖这整个需求世界。"
+      },
+      {
+        "en": "Later the final proposal draws a critical reply from the council.",
+        "zh": "后来最终提案引来议会严厉的回复。"
+      },
+      {
+        "en": "During the long review, the old fabric is definitely beyond repair.",
+        "zh": "在漫长的审查期间，这座建筑的旧结构肯定已无法修复。"
+      },
+      {
+        "en": "The clinic marks its eightieth year under a new and calm presidency.",
+        "zh": "诊所在新的、平静的主席任期下迎来第八十周年。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "support",
+      "pos": "n./v.",
+      "zh": "支持",
+      "stars": 5,
+      "collocation": "offers support on immigration"
+    },
+    {
+      "lemma": "official",
+      "pos": "n./adj.",
+      "zh": "官员",
+      "stars": 5,
+      "collocation": "An official from the"
+    },
+    {
+      "lemma": "approach",
+      "pos": "n./v.",
+      "zh": "接近",
+      "stars": 4,
+      "collocation": "calm approach helps settle"
+    },
+    {
+      "lemma": "tend",
+      "pos": "v.",
+      "zh": "走向",
+      "stars": 4,
+      "collocation": "cases tend to raise"
+    },
+    {
+      "lemma": "affair",
+      "pos": "n.",
+      "zh": "事件",
+      "stars": 4,
+      "collocation": "each affair with care"
+    },
+    {
+      "lemma": "otherwise",
+      "pos": "adv.",
+      "zh": "否则",
+      "stars": 4,
+      "collocation": "would otherwise leave families"
+    },
+    {
+      "lemma": "studio",
+      "pos": "n.",
+      "zh": "工作室",
+      "stars": 4,
+      "collocation": "The studio upstairs records"
+    },
+    {
+      "lemma": "settle",
+      "pos": "n./v.",
+      "zh": "有背长椅",
+      "stars": 4,
+      "collocation": "helps settle most problems"
+    },
+    {
+      "lemma": "respect",
+      "pos": "n./v.",
+      "zh": "尊敬",
+      "stars": 4,
+      "collocation": "and respect."
+    },
+    {
+      "lemma": "secure",
+      "pos": "adj./v.",
+      "zh": "无虑的",
+      "stars": 4,
+      "collocation": "them secure a small"
+    },
+    {
+      "lemma": "ministry",
+      "pos": "n.",
+      "zh": "部",
+      "stars": 4,
+      "collocation": "the ministry visits the"
+    },
+    {
+      "lemma": "lawyer",
+      "pos": "n.",
+      "zh": "律师",
+      "stars": 4,
+      "collocation": "young lawyer handles each"
+    },
+    {
+      "lemma": "abuse",
+      "pos": "n./v.",
+      "zh": "滥用",
+      "stars": 4,
+      "collocation": "describes abuse against a"
+    },
+    {
+      "lemma": "media",
+      "pos": "n.",
+      "zh": "媒体",
+      "stars": 4,
+      "collocation": "local media."
+    },
+    {
+      "lemma": "relevant",
+      "pos": "adj.",
+      "zh": "有关联的",
+      "stars": 3,
+      "collocation": "a relevant question about"
+    },
+    {
+      "lemma": "category",
+      "pos": "n.",
+      "zh": "种类",
+      "stars": 3,
+      "collocation": "every category of welfare"
+    },
+    {
+      "lemma": "initial",
+      "pos": "n./adj./v.",
+      "zh": "字首",
+      "stars": 3,
+      "collocation": "the initial puzzle of"
+    },
+    {
+      "lemma": "welfare",
+      "pos": "n./adj.",
+      "zh": "福利",
+      "stars": 3,
+      "collocation": "of welfare claim with"
+    },
+    {
+      "lemma": "root",
+      "pos": "n./v.",
+      "zh": "根",
+      "stars": 3,
+      "collocation": "clear root cause list"
+    },
+    {
+      "lemma": "load",
+      "pos": "n./v.",
+      "zh": "负荷",
+      "stars": 3,
+      "collocation": "helps load the files"
+    },
+    {
+      "lemma": "adequate",
+      "pos": "adj.",
+      "zh": "适当的",
+      "stars": 3,
+      "collocation": "An adequate plan can"
+    },
+    {
+      "lemma": "pace",
+      "pos": "n./v.",
+      "zh": "速度",
+      "stars": 3,
+      "collocation": "team's pace is slow,"
+    },
+    {
+      "lemma": "consultant",
+      "pos": "n.",
+      "zh": "顾问",
+      "stars": 3,
+      "collocation": "A consultant helps them"
+    },
+    {
+      "lemma": "strengthen",
+      "pos": "v.",
+      "zh": "加强",
+      "stars": 3,
+      "collocation": "and strengthen each weak"
+    },
+    {
+      "lemma": "violent",
+      "pos": "adj.",
+      "zh": "暴力的",
+      "stars": 3,
+      "collocation": "One violent case sends"
+    },
+    {
+      "lemma": "universe",
+      "pos": "n.",
+      "zh": "宇宙",
+      "stars": 3,
+      "collocation": "whole universe of needs."
+    },
+    {
+      "lemma": "automatic",
+      "pos": "n./adj.",
+      "zh": "自动手枪",
+      "stars": 3,
+      "collocation": "No automatic system can"
+    },
+    {
+      "lemma": "trap",
+      "pos": "n./v.",
+      "zh": "圈套",
+      "stars": 3,
+      "collocation": "A trap in the"
+    },
+    {
+      "lemma": "fool",
+      "pos": "n./v./adj.",
+      "zh": "愚人",
+      "stars": 3,
+      "collocation": "wording fools even a"
+    },
+    {
+      "lemma": "shelter",
+      "pos": "n./v.",
+      "zh": "庇护所",
+      "stars": 3,
+      "collocation": "a shelter."
+    },
+    {
+      "lemma": "ambassador",
+      "pos": "n.",
+      "zh": "大使",
+      "stars": 3,
+      "collocation": "The ambassador's office becomes"
+    },
+    {
+      "lemma": "immigration",
+      "pos": "n.",
+      "zh": "移民",
+      "stars": 3,
+      "collocation": "on immigration cases."
+    },
+    {
+      "lemma": "financial",
+      "pos": "adj.",
+      "zh": "财政的",
+      "stars": 5,
+      "collocation": "small financial grant."
+    },
+    {
+      "lemma": "establish",
+      "pos": "v.",
+      "zh": "建立",
+      "stars": 4,
+      "collocation": "They establish a clear"
+    },
+    {
+      "lemma": "proposal",
+      "pos": "n.",
+      "zh": "提议",
+      "stars": 4,
+      "collocation": "final proposal draws a"
+    },
+    {
+      "lemma": "contact",
+      "pos": "n./v.",
+      "zh": "联系",
+      "stars": 4,
+      "collocation": "useful contact for the"
+    },
+    {
+      "lemma": "critical",
+      "pos": "adj.",
+      "zh": "批评的",
+      "stars": 4,
+      "collocation": "a critical reply from"
+    },
+    {
+      "lemma": "odd",
+      "pos": "adj./n.",
+      "zh": "奇数的",
+      "stars": 4,
+      "collocation": "plan odd and deeply"
+    },
+    {
+      "lemma": "stake",
+      "pos": "n./v.",
+      "zh": "桩",
+      "stars": 4,
+      "collocation": "real stake."
+    },
+    {
+      "lemma": "assembly",
+      "pos": "n.",
+      "zh": "与会者",
+      "stars": 3,
+      "collocation": "public assembly gives every"
+    },
+    {
+      "lemma": "capable",
+      "pos": "adj.",
+      "zh": "有能力的",
+      "stars": 3,
+      "collocation": "stays capable."
+    },
+    {
+      "lemma": "stretch",
+      "pos": "n./adj./v.",
+      "zh": "伸展",
+      "stars": 3,
+      "collocation": "can stretch a small"
+    },
+    {
+      "lemma": "solve",
+      "pos": "v.",
+      "zh": "解决",
+      "stars": 3,
+      "collocation": "can solve the initial"
+    },
+    {
+      "lemma": "definitely",
+      "pos": "adv.",
+      "zh": "明确无疑地",
+      "stars": 3,
+      "collocation": "is definitely beyond repair."
+    },
+    {
+      "lemma": "fabric",
+      "pos": "n.",
+      "zh": "织物",
+      "stars": 3,
+      "collocation": "old fabric is definitely"
+    },
+    {
+      "lemma": "overseas",
+      "pos": "adj./adv.",
+      "zh": "海外的",
+      "stars": 3,
+      "collocation": "spreads overseas."
+    },
+    {
+      "lemma": "gross",
+      "pos": "n./adj./v.",
+      "zh": "总数",
+      "stars": 3,
+      "collocation": "a gross error in"
+    },
+    {
+      "lemma": "leap",
+      "pos": "n./v.",
+      "zh": "跳跃",
+      "stars": 3,
+      "collocation": "A leap in costs"
+    },
+    {
+      "lemma": "disclose",
+      "pos": "v.",
+      "zh": "揭露",
+      "stars": 3,
+      "collocation": "report discloses a gross"
+    },
+    {
+      "lemma": "moderate",
+      "pos": "adj./v.",
+      "zh": "适度的",
+      "stars": 3,
+      "collocation": "A moderate group proposes"
+    },
+    {
+      "lemma": "cue",
+      "pos": "n./v.",
+      "zh": "提示",
+      "stars": 3,
+      "collocation": "clear cue."
+    },
+    {
+      "lemma": "membership",
+      "pos": "n.",
+      "zh": "会员的资格",
+      "stars": 3,
+      "collocation": "clinic's membership grows as"
+    },
+    {
+      "lemma": "vulnerable",
+      "pos": "adj.",
+      "zh": "易受伤害的",
+      "stars": 3,
+      "collocation": "very vulnerable tenant."
+    },
+    {
+      "lemma": "opt",
+      "pos": "v.",
+      "zh": "选择",
+      "stars": 3,
+      "collocation": "They opt for a"
+    },
+    {
+      "lemma": "presidency",
+      "pos": "n.",
+      "zh": "总统职权",
+      "stars": 3,
+      "collocation": "calm presidency."
+    },
+    {
+      "lemma": "opposition",
+      "pos": "n.",
+      "zh": "反对",
+      "stars": 4,
+      "collocation": "The opposition calls the"
+    },
+    {
+      "lemma": "eightieth",
+      "pos": "num.",
+      "zh": "第八十",
+      "stars": 4,
+      "collocation": "its eightieth year under"
+    },
+    {
+      "lemma": "banking",
+      "pos": "n.",
+      "zh": "银行业务",
+      "stars": 3,
+      "collocation": "local banking service."
+    },
+    {
+      "lemma": "privatize",
+      "pos": "v.",
+      "zh": "vi. 私有化",
+      "stars": 3,
+      "collocation": "to privatize the local"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“immigration” 的意思是：",
+      "options": [
+        "移民",
+        "财政",
+        "福利",
+        "大使"
+      ],
+      "answer": 0,
+      "speak": "immigration"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A young lawyer handles each ___ with care and respect.",
+      "options": [
+        "affair",
+        "cue",
+        "trap",
+        "stake"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“adequate” 的意思是：",
+      "options": [
+        "足够的",
+        "暴力的",
+        "自动的",
+        "相关的"
+      ],
+      "answer": 0,
+      "speak": "adequate"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A public assembly gives every resident a real ___.",
+      "options": [
+        "stake",
+        "root",
+        "load",
+        "cue"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A short report ___ a gross error in the accounts.",
+      "options": [
+        "discloses",
+        "settles",
+        "stretches",
+        "opts"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“moderate” 的意思是：",
+      "options": [
+        "温和的",
+        "古怪的",
+        "紧急的",
+        "能干的"
+      ],
+      "answer": 0,
+      "speak": "moderate"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "No automatic system can cover this whole ___ of needs.",
+      "options": [
+        "universe",
+        "ministry",
+        "category",
+        "fabric"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“privatize” 的意思是：",
+      "options": [
+        "私有化",
+        "加强",
+        "解决",
+        "披露"
+      ],
+      "answer": 0,
+      "speak": "privatize"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My aunt's small clinic offers support on ",
+        "hint": "im",
+        "after": " cases.",
+        "answer": "immigration"
+      },
+      {
+        "before": "A young ",
+        "hint": "la",
+        "after": " handles each affair with care and respect.",
+        "answer": "lawyer"
+      },
+      {
+        "before": "Their calm approach helps ",
+        "hint": "se",
+        "after": " most problems before night.",
+        "answer": "settle"
+      },
+      {
+        "before": "The studio upstairs records short interviews for the local ",
+        "hint": "me",
+        "after": ".",
+        "answer": "media"
+      },
+      {
+        "before": "An official from the ",
+        "hint": "mi",
+        "after": " visits the clinic each month.",
+        "answer": "ministry"
+      },
+      {
+        "before": "She checks every ",
+        "hint": "ca",
+        "after": " of welfare claim with care.",
+        "answer": "category"
+      },
+      {
+        "before": "A consultant helps them secure a small ",
+        "hint": "fi",
+        "after": " grant.",
+        "answer": "financial"
+      },
+      {
+        "before": "They establish a clear ",
+        "hint": "ro",
+        "after": " cause list for each case.",
+        "answer": "root"
+      },
+      {
+        "before": "An ",
+        "hint": "ad",
+        "after": " plan can stretch a small budget through winter.",
+        "answer": "adequate"
+      },
+      {
+        "before": "My team's ",
+        "hint": "pa",
+        "after": " is slow, but every member stays capable.",
+        "answer": "pace"
+      }
+    ],
+    "b3": [
+      {
+        "before": "They opt for a careful path and wait for a clear ",
+        "hint": "cu",
+        "after": ".",
+        "answer": "cue"
+      },
+      {
+        "before": "A leap in costs would ",
+        "hint": "ot",
+        "after": " leave families without help.",
+        "answer": "otherwise"
+      },
+      {
+        "before": "Few residents can ",
+        "hint": "so",
+        "after": " the initial puzzle of the new forms.",
+        "answer": "solve"
+      },
+      {
+        "before": "Then such cases tend to raise a ",
+        "hint": "re",
+        "after": " question about fairness.",
+        "answer": "relevant"
+      },
+      {
+        "before": "A new report describes abuse against a very ",
+        "hint": "vu",
+        "after": " tenant.",
+        "answer": "vulnerable"
+      },
+      {
+        "before": "My cousin helps load the files and ",
+        "hint": "st",
+        "after": " each weak point.",
+        "answer": "strengthen"
+      },
+      {
+        "before": "No ",
+        "hint": "au",
+        "after": " system can cover this whole universe of needs.",
+        "answer": "automatic"
+      },
+      {
+        "before": "Later the final proposal draws a ",
+        "hint": "cr",
+        "after": " reply from the council.",
+        "answer": "critical"
+      },
+      {
+        "before": "During the long review, the old fabric is ",
+        "hint": "de",
+        "after": " beyond repair.",
+        "answer": "definitely"
+      },
+      {
+        "before": "The clinic marks its eightieth year under a new and calm ",
+        "hint": "pr",
+        "after": ".",
+        "answer": "presidency"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我姑姑的小诊所为移民案件提供支持。",
+        "keywords": [
+          "clinic",
+          "support",
+          "immigration"
+        ]
+      },
+      {
+        "zh": "一位部里的官员每月来诊所一次。",
+        "keywords": [
+          "official",
+          "ministry",
+          "visits"
+        ]
+      },
+      {
+        "zh": "措辞里的一个陷阱甚至骗过细心的读者。",
+        "keywords": [
+          "trap",
+          "wording",
+          "fools"
+        ]
+      },
+      {
+        "zh": "一个温和的团体提议将本地银行业私有化。",
+        "keywords": [
+          "moderate",
+          "privatize",
+          "banking"
+        ]
+      },
+      {
+        "zh": "一份新报告描述了针对一名非常脆弱租户的虐待。",
+        "keywords": [
+          "abuse",
+          "vulnerable",
+          "tenant"
+        ]
+      },
+      {
+        "zh": "诊所在新的、平静的主席任期下迎来第八十周年。",
+        "keywords": [
+          "eightieth",
+          "presidency",
+          "clinic"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 281,
+    "sentences": 28,
+    "newDensity": 0.21,
+    "targetTokenDensity": 0.21,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写老城区法律援助诊所：移民与福利案件、律师与顾问、媒体与部委、暴力案件与收容所、账目错误与银行私有化提案，结尾是集会、审查与诊所第八十周年。"
+}

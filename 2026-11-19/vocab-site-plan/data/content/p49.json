@@ -1,0 +1,831 @@
+{
+  "id": "p49",
+  "title": "The Hostel in the Old Post Office",
+  "titleZh": "旧邮局里的旅舍",
+  "topic": "旧邮局旅舍与酒牌争议",
+  "paragraphs": [
+    [
+      {
+        "en": "The grand old post office now hosts a small youth hostel.",
+        "zh": "那座宏伟的旧邮局如今经营着一家小型青年旅舍。"
+      },
+      {
+        "en": "Its seventieth year brings a bid for a new lease.",
+        "zh": "它的第七十周年带来了一份新租约的投标。"
+      },
+      {
+        "en": "A young candidate submits a careful application for the plan.",
+        "zh": "一位年轻候选人提交了一份仔细的计划申请。"
+      },
+      {
+        "en": "Then the plan simply adds an alcohol licence and a night cafe.",
+        "zh": "然后这项计划只是增加了一张酒牌和一家夜间咖啡馆。"
+      },
+      {
+        "en": "Some neighbours appeal the decision and demand a defence of it.",
+        "zh": "一些邻居对决定提出上诉，并要求为其辩护。"
+      },
+      {
+        "en": "My cousin, a specialist, explains the rules to interested guests.",
+        "zh": "我的表姐是一位专家，向感兴趣的客人解释规则。"
+      },
+      {
+        "en": "My aunt's editorial calls the whole scheme a corporate grab.",
+        "zh": "我姑姑的社论把整个方案称为企业掠夺。"
+      },
+      {
+        "en": "Her argument draws an intense reaction from the town council.",
+        "zh": "她的论点在镇议会引来了强烈反应。"
+      },
+      {
+        "en": "A mask and a painted vessel hang in the front room.",
+        "zh": "一张面具和一只彩绘容器挂在前面房间里。"
+      },
+      {
+        "en": "The exhibition explores the shadow side of the old postal service.",
+        "zh": "展览探讨旧邮政服务阴暗的一面。"
+      }
+    ],
+    [
+      {
+        "en": "An original poster quotes a letter about the building's status.",
+        "zh": "一张原来的海报引用了一封关于这栋建筑地位的信。"
+      },
+      {
+        "en": "Few guests identify the button that once rang a bell.",
+        "zh": "很少有客人认出那只曾经按响铃的按钮。"
+      },
+      {
+        "en": "A circuit of small rooms fills the old postal complex.",
+        "zh": "一圈小房间填满了旧邮政综合体。"
+      },
+      {
+        "en": "Then soft shade from paper lamps makes the dining room romantic.",
+        "zh": "然后纸灯柔和的阴影让餐厅变得浪漫。"
+      },
+      {
+        "en": "The kitchen serves a plain diet and keeps a sack of flour.",
+        "zh": "厨房供应简单的饮食，并存放一袋面粉。"
+      },
+      {
+        "en": "A junior chef learns to behave calmly under pressure.",
+        "zh": "一位初级厨师学会在压力下平静行事。"
+      },
+      {
+        "en": "One amazing dish wins recognition from a food magazine.",
+        "zh": "一道惊人的菜赢得了一份美食杂志的认可。"
+      },
+      {
+        "en": "Later a local subsidy helps cover the cost of new net curtains.",
+        "zh": "后来一项本地补贴帮助支付了新网帘的费用。"
+      },
+      {
+        "en": "The owners mount a photo wall and spin each story with care.",
+        "zh": "业主们装了一面照片墙，并小心地讲述每个故事。"
+      },
+      {
+        "en": "They ought to test the plan, apart from the noise question.",
+        "zh": "除了噪音问题，他们应该测试这项计划。"
+      }
+    ],
+    [
+      {
+        "en": "Their current income is unlikely to cover a second year.",
+        "zh": "他们目前的收入不太可能支撑第二年。"
+      },
+      {
+        "en": "A larger proportion of guests prefer the quiet back rooms.",
+        "zh": "更大比例的客人更喜欢安静的后屋。"
+      },
+      {
+        "en": "The owners sacrifice a small garden for a long-held desire.",
+        "zh": "业主们牺牲一个小花园，换取一个长久以来的愿望。"
+      },
+      {
+        "en": "Amid the noise, the council offers one small concession.",
+        "zh": "在喧闹声中，议会给出了一点小小的让步。"
+      },
+      {
+        "en": "The deal includes a testing period for the new establishment.",
+        "zh": "这笔交易包括对新机构的一段测试期。"
+      },
+      {
+        "en": "A drama group naturally performs in the old hall.",
+        "zh": "一个剧团自然地在旧大厅里演出。"
+      },
+      {
+        "en": "The council's decision rests on nerve and a fair account.",
+        "zh": "议会的决定取决于勇气和一份公正的账目。"
+      },
+      {
+        "en": "My mother calls the latter rule controversial and designed to victimize.",
+        "zh": "我母亲称后一条规则有争议，而且意在使人受害。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "account",
+      "pos": "n./v.",
+      "zh": "报告",
+      "stars": 5,
+      "collocation": "fair account."
+    },
+    {
+      "lemma": "host",
+      "pos": "n./v.",
+      "zh": "主人",
+      "stars": 5,
+      "collocation": "now hosts a small"
+    },
+    {
+      "lemma": "simply",
+      "pos": "adv.",
+      "zh": "简单地",
+      "stars": 4,
+      "collocation": "plan simply adds an"
+    },
+    {
+      "lemma": "defence",
+      "pos": "n.",
+      "zh": "防卫",
+      "stars": 4,
+      "collocation": "a defence of it."
+    },
+    {
+      "lemma": "appeal",
+      "pos": "n./v.",
+      "zh": "恳求",
+      "stars": 4,
+      "collocation": "neighbours appeal the decision"
+    },
+    {
+      "lemma": "status",
+      "pos": "n.",
+      "zh": "状态",
+      "stars": 4,
+      "collocation": "building's status."
+    },
+    {
+      "lemma": "candidate",
+      "pos": "n.",
+      "zh": "候选人",
+      "stars": 4,
+      "collocation": "young candidate submits a"
+    },
+    {
+      "lemma": "complex",
+      "pos": "n./adj.",
+      "zh": "综合体",
+      "stars": 4,
+      "collocation": "postal complex."
+    },
+    {
+      "lemma": "prefer",
+      "pos": "v.",
+      "zh": "宁可",
+      "stars": 4,
+      "collocation": "guests prefer the quiet"
+    },
+    {
+      "lemma": "desire",
+      "pos": "n./v.",
+      "zh": "欲望",
+      "stars": 4,
+      "collocation": "long-held desire."
+    },
+    {
+      "lemma": "grand",
+      "pos": "adj.",
+      "zh": "庄重的",
+      "stars": 4,
+      "collocation": "The grand old post"
+    },
+    {
+      "lemma": "diet",
+      "pos": "n./v.",
+      "zh": "日常饮食",
+      "stars": 4,
+      "collocation": "plain diet and keeps"
+    },
+    {
+      "lemma": "bid",
+      "pos": "n./v.",
+      "zh": "出价",
+      "stars": 4,
+      "collocation": "a bid for a"
+    },
+    {
+      "lemma": "application",
+      "pos": "n.",
+      "zh": "应用",
+      "stars": 3,
+      "collocation": "careful application for the"
+    },
+    {
+      "lemma": "latter",
+      "pos": "adj.",
+      "zh": "后者的",
+      "stars": 3,
+      "collocation": "the latter rule controversial"
+    },
+    {
+      "lemma": "exhibition",
+      "pos": "n.",
+      "zh": "表现",
+      "stars": 3,
+      "collocation": "The exhibition explores the"
+    },
+    {
+      "lemma": "ought",
+      "pos": "v./n.",
+      "zh": "应该",
+      "stars": 3,
+      "collocation": "They ought to test"
+    },
+    {
+      "lemma": "specialist",
+      "pos": "n./adj.",
+      "zh": "专门医师",
+      "stars": 3,
+      "collocation": "a specialist, explains the"
+    },
+    {
+      "lemma": "shadow",
+      "pos": "n./v.",
+      "zh": "阴影",
+      "stars": 3,
+      "collocation": "the shadow side of"
+    },
+    {
+      "lemma": "net",
+      "pos": "n./adj./v.",
+      "zh": "网",
+      "stars": 3,
+      "collocation": "new net curtains."
+    },
+    {
+      "lemma": "apart",
+      "pos": "adv./adj.",
+      "zh": "成零碎",
+      "stars": 3,
+      "collocation": "plan, apart from the"
+    },
+    {
+      "lemma": "behave",
+      "pos": "v.",
+      "zh": "举止端正",
+      "stars": 3,
+      "collocation": "to behave calmly under"
+    },
+    {
+      "lemma": "circuit",
+      "pos": "n.",
+      "zh": "电路",
+      "stars": 3,
+      "collocation": "A circuit of small"
+    },
+    {
+      "lemma": "alcohol",
+      "pos": "n.",
+      "zh": "酒精",
+      "stars": 3,
+      "collocation": "an alcohol licence and"
+    },
+    {
+      "lemma": "junior",
+      "pos": "n./adj.",
+      "zh": "年少者",
+      "stars": 3,
+      "collocation": "A junior chef learns"
+    },
+    {
+      "lemma": "button",
+      "pos": "n./v.",
+      "zh": "钮扣",
+      "stars": 3,
+      "collocation": "the button that once"
+    },
+    {
+      "lemma": "shade",
+      "pos": "n./v.",
+      "zh": "荫",
+      "stars": 3,
+      "collocation": "soft shade from paper"
+    },
+    {
+      "lemma": "controversial",
+      "pos": "adj.",
+      "zh": "争论的",
+      "stars": 3,
+      "collocation": "rule controversial and designed"
+    },
+    {
+      "lemma": "amazing",
+      "pos": "adj.",
+      "zh": "令人惊异的",
+      "stars": 3,
+      "collocation": "One amazing dish wins"
+    },
+    {
+      "lemma": "spin",
+      "pos": "n./v.",
+      "zh": "旋转",
+      "stars": 3,
+      "collocation": "and spin each story"
+    },
+    {
+      "lemma": "mask",
+      "pos": "n./v.",
+      "zh": "面具",
+      "stars": 3,
+      "collocation": "A mask and a"
+    },
+    {
+      "lemma": "sacrifice",
+      "pos": "n./v.",
+      "zh": "牺牲",
+      "stars": 3,
+      "collocation": "owners sacrifice a small"
+    },
+    {
+      "lemma": "current",
+      "pos": "n./adj.",
+      "zh": "涌流",
+      "stars": 5,
+      "collocation": "Their current income is"
+    },
+    {
+      "lemma": "identify",
+      "pos": "v.",
+      "zh": "识别",
+      "stars": 4,
+      "collocation": "guests identify the button"
+    },
+    {
+      "lemma": "original",
+      "pos": "adj./n.",
+      "zh": "最初的",
+      "stars": 4,
+      "collocation": "An original poster quotes"
+    },
+    {
+      "lemma": "reaction",
+      "pos": "n.",
+      "zh": "反应",
+      "stars": 4,
+      "collocation": "intense reaction from the"
+    },
+    {
+      "lemma": "unlikely",
+      "pos": "adj.",
+      "zh": "不太可能的",
+      "stars": 4,
+      "collocation": "is unlikely to cover"
+    },
+    {
+      "lemma": "quote",
+      "pos": "n./v.",
+      "zh": "引用",
+      "stars": 4,
+      "collocation": "poster quotes a letter"
+    },
+    {
+      "lemma": "proportion",
+      "pos": "n./v.",
+      "zh": "比例",
+      "stars": 3,
+      "collocation": "larger proportion of guests"
+    },
+    {
+      "lemma": "recognition",
+      "pos": "n.",
+      "zh": "赞誉",
+      "stars": 3,
+      "collocation": "wins recognition from a"
+    },
+    {
+      "lemma": "establishment",
+      "pos": "n.",
+      "zh": "确立",
+      "stars": 3,
+      "collocation": "new establishment."
+    },
+    {
+      "lemma": "naturally",
+      "pos": "adv.",
+      "zh": "自然地",
+      "stars": 3,
+      "collocation": "group naturally performs in"
+    },
+    {
+      "lemma": "drama",
+      "pos": "n.",
+      "zh": "戏剧",
+      "stars": 3,
+      "collocation": "A drama group naturally"
+    },
+    {
+      "lemma": "mount",
+      "pos": "n./v.",
+      "zh": "乘骑用马",
+      "stars": 3,
+      "collocation": "owners mount a photo"
+    },
+    {
+      "lemma": "vessel",
+      "pos": "n.",
+      "zh": "船",
+      "stars": 3,
+      "collocation": "painted vessel hang in"
+    },
+    {
+      "lemma": "nerve",
+      "pos": "n./v.",
+      "zh": "精神",
+      "stars": 3,
+      "collocation": "on nerve and a"
+    },
+    {
+      "lemma": "intense",
+      "pos": "adj.",
+      "zh": "非常的",
+      "stars": 3,
+      "collocation": "an intense reaction from"
+    },
+    {
+      "lemma": "romantic",
+      "pos": "adj.",
+      "zh": "浪漫的",
+      "stars": 3,
+      "collocation": "room romantic."
+    },
+    {
+      "lemma": "subsidy",
+      "pos": "n.",
+      "zh": "补助金",
+      "stars": 3,
+      "collocation": "local subsidy helps cover"
+    },
+    {
+      "lemma": "sack",
+      "pos": "n./v.",
+      "zh": "麻布袋",
+      "stars": 3,
+      "collocation": "a sack of flour."
+    },
+    {
+      "lemma": "editorial",
+      "pos": "n./adj.",
+      "zh": "社论",
+      "stars": 3,
+      "collocation": "aunt's editorial calls the"
+    },
+    {
+      "lemma": "corporate",
+      "pos": "adj.",
+      "zh": "社团的",
+      "stars": 3,
+      "collocation": "a corporate grab."
+    },
+    {
+      "lemma": "lease",
+      "pos": "n./v.",
+      "zh": "租约",
+      "stars": 3,
+      "collocation": "new lease."
+    },
+    {
+      "lemma": "concession",
+      "pos": "n.",
+      "zh": "特许",
+      "stars": 3,
+      "collocation": "small concession."
+    },
+    {
+      "lemma": "amid",
+      "pos": "prep.",
+      "zh": "在其间",
+      "stars": 3,
+      "collocation": "Amid the noise,"
+    },
+    {
+      "lemma": "interested",
+      "pos": "adj.",
+      "zh": "感兴趣的",
+      "stars": 4,
+      "collocation": "to interested guests."
+    },
+    {
+      "lemma": "seventieth",
+      "pos": "num.",
+      "zh": "第七十",
+      "stars": 4,
+      "collocation": "Its seventieth year brings"
+    },
+    {
+      "lemma": "testing",
+      "pos": "n./adj.",
+      "zh": "测试",
+      "stars": 3,
+      "collocation": "a testing period for"
+    },
+    {
+      "lemma": "victimize",
+      "pos": "v.",
+      "zh": "使牺牲",
+      "stars": 3,
+      "collocation": "to victimize."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“grand” 的意思是：",
+      "options": [
+        "宏伟的",
+        "开始的",
+        "有争议的",
+        "后来的"
+      ],
+      "answer": 0,
+      "speak": "grand"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "Its seventieth year brings a ___ for a new lease.",
+      "options": [
+        "bid",
+        "mask",
+        "net",
+        "shade"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“defence” 的意思是：",
+      "options": [
+        "辩护",
+        "申请",
+        "地位",
+        "反应"
+      ],
+      "answer": 0,
+      "speak": "defence"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "The exhibition explores the ___ side of the old postal service.",
+      "options": [
+        "shadow",
+        "button",
+        "vessel",
+        "diet"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "One amazing dish wins ___ from a food magazine.",
+      "options": [
+        "recognition",
+        "concession",
+        "proportion",
+        "nerve"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“controversial” 的意思是：",
+      "options": [
+        "有争议的",
+        "浪漫的",
+        "惊人的",
+        "原始的"
+      ],
+      "answer": 0,
+      "speak": "controversial"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A larger proportion of guests ___ the quiet back rooms.",
+      "options": [
+        "prefer",
+        "behave",
+        "mount",
+        "spin"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“sacrifice” 的意思是：",
+      "options": [
+        "牺牲",
+        "认出",
+        "引用",
+        "投标"
+      ],
+      "answer": 0,
+      "speak": "sacrifice"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "The grand old post office now ",
+        "hint": "ho",
+        "after": " a small youth hostel.",
+        "answer": "hosts"
+      },
+      {
+        "before": "Its seventieth year brings a ",
+        "hint": "bi",
+        "after": " for a new lease.",
+        "answer": "bid"
+      },
+      {
+        "before": "A young candidate submits a careful ",
+        "hint": "ap",
+        "after": " for the plan.",
+        "answer": "application"
+      },
+      {
+        "before": "Then the plan simply adds an ",
+        "hint": "al",
+        "after": " licence and a night cafe.",
+        "answer": "alcohol"
+      },
+      {
+        "before": "Some neighbours ",
+        "hint": "ap",
+        "after": " the decision and demand a defence of it.",
+        "answer": "appeal"
+      },
+      {
+        "before": "My cousin, a ",
+        "hint": "sp",
+        "after": ", explains the rules to interested guests.",
+        "answer": "specialist"
+      },
+      {
+        "before": "My aunt's ",
+        "hint": "ed",
+        "after": " calls the whole scheme a corporate grab.",
+        "answer": "editorial"
+      },
+      {
+        "before": "Her argument draws an intense ",
+        "hint": "re",
+        "after": " from the town council.",
+        "answer": "reaction"
+      },
+      {
+        "before": "A ",
+        "hint": "ma",
+        "after": " and a painted vessel hang in the front room.",
+        "answer": "mask"
+      },
+      {
+        "before": "The ",
+        "hint": "ex",
+        "after": " explores the shadow side of the old postal service.",
+        "answer": "exhibition"
+      }
+    ],
+    "b3": [
+      {
+        "before": "The owners ",
+        "hint": "mo",
+        "after": " a photo wall and spin each story with care.",
+        "answer": "mount"
+      },
+      {
+        "before": "They ought to test the plan, ",
+        "hint": "ap",
+        "after": " from the noise question.",
+        "answer": "apart"
+      },
+      {
+        "before": "Their current income is ",
+        "hint": "un",
+        "after": " to cover a second year.",
+        "answer": "unlikely"
+      },
+      {
+        "before": "A larger ",
+        "hint": "pr",
+        "after": " of guests prefer the quiet back rooms.",
+        "answer": "proportion"
+      },
+      {
+        "before": "The owners sacrifice a small garden for a long-held ",
+        "hint": "de",
+        "after": ".",
+        "answer": "desire"
+      },
+      {
+        "before": "Amid the noise, the council offers one small ",
+        "hint": "co",
+        "after": ".",
+        "answer": "concession"
+      },
+      {
+        "before": "The deal includes a ",
+        "hint": "te",
+        "after": " period for the new establishment.",
+        "answer": "testing"
+      },
+      {
+        "before": "A drama group ",
+        "hint": "na",
+        "after": " performs in the old hall.",
+        "answer": "naturally"
+      },
+      {
+        "before": "The council's decision rests on nerve and a fair ",
+        "hint": "ac",
+        "after": ".",
+        "answer": "account"
+      },
+      {
+        "before": "My mother calls the latter rule controversial and designed to ",
+        "hint": "vi",
+        "after": ".",
+        "answer": "victimize"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "那座宏伟的旧邮局如今经营着一家小型青年旅舍。",
+        "keywords": [
+          "grand",
+          "post",
+          "hostel"
+        ]
+      },
+      {
+        "zh": "一些邻居对决定提出上诉，并要求为其辩护。",
+        "keywords": [
+          "neighbours",
+          "appeal",
+          "defence"
+        ]
+      },
+      {
+        "zh": "展览探讨旧邮政服务阴暗的一面。",
+        "keywords": [
+          "exhibition",
+          "shadow",
+          "postal"
+        ]
+      },
+      {
+        "zh": "然后纸灯柔和的阴影让餐厅变得浪漫。",
+        "keywords": [
+          "shade",
+          "lamps",
+          "romantic"
+        ]
+      },
+      {
+        "zh": "在喧闹声中，议会给出了一点小小的让步。",
+        "keywords": [
+          "noise",
+          "concession",
+          "council"
+        ]
+      },
+      {
+        "zh": "我母亲称后一条规则有争议，而且意在使人受害。",
+        "keywords": [
+          "latter",
+          "controversial",
+          "victimize"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 292,
+    "sentences": 28,
+    "newDensity": 0.202,
+    "targetTokenDensity": 0.202,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写旧邮局改建的青年旅舍：七十周年与租约投标、酒牌申请、邻居上诉、专家解释、面具与容器展览、照片墙与补贴，结尾是噪音争议、测试期与董事会的最后决定。"
+}

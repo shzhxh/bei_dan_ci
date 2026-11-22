@@ -1,0 +1,831 @@
+{
+  "id": "p17",
+  "title": "The Fourth Sample",
+  "titleZh": "第四瓶水样",
+  "topic": "环境调查",
+  "paragraphs": [
+    [
+      {
+        "en": "My idea began in a college class about our local environment.",
+        "zh": "这个想法始于一节关于本地环境的大学课。"
+      },
+      {
+        "en": "My teacher let six students study the stream near a small dairy farm.",
+        "zh": "老师让我们六个学生去研究一个小奶牛场边的小溪。"
+      },
+      {
+        "en": "We could feel a sense that something was wrong here.",
+        "zh": "我们能感觉到这里有什么不对。"
+      },
+      {
+        "en": "This water had a strange smell and a red tint.",
+        "zh": "这水有一股怪味，还泛着红色。"
+      },
+      {
+        "en": "A thin leaf floated past, and then more came.",
+        "zh": "一片薄叶子漂过去，接着来了更多。"
+      },
+      {
+        "en": "During the first week we set each plate in the cool lab.",
+        "zh": "第一周里，我们把每个盘子摆进凉爽的实验室。"
+      }
+    ],
+    [
+      {
+        "en": "We brought enough bottles to collect one sample at each river bend.",
+        "zh": "我们带够了瓶子，要在每个河湾取一份样本。"
+      },
+      {
+        "en": "My legs ached as we carried the jars to the bridge.",
+        "zh": "我们把罐子提到桥边时，我的腿都酸了。"
+      },
+      {
+        "en": "The farmer met us there with his old uncle.",
+        "zh": "农夫带着他的老叔叔在那里迎我们。"
+      },
+      {
+        "en": "He was very patient as he told us about his chickens.",
+        "zh": "他非常耐心地跟我们讲他的鸡。"
+      },
+      {
+        "en": "Seventy years had passed since the brook ran clear.",
+        "zh": "七十年过去了，这条小溪才重新变清。"
+      },
+      {
+        "en": "He liked to speak of winters when the water would freeze.",
+        "zh": "他喜欢说起水会结冰的那些冬天。"
+      }
+    ],
+    [
+      {
+        "en": "Then he spoke about culture and the sharing of wells.",
+        "zh": "接着他讲起当地习俗和共用井水的事。"
+      },
+      {
+        "en": "A large, oily film covered the fourth cold sample.",
+        "zh": "一层大片油膜盖住了第四份冰冷的样本。"
+      },
+      {
+        "en": "We made a short video to explain the numbers to our grade.",
+        "zh": "我们做了个短片，向年级解释这些数字。"
+      },
+      {
+        "en": "His words gave us plenty to discuss on the long way back.",
+        "zh": "他的话让我们回去的长路上有得可讨论。"
+      },
+      {
+        "en": "Everything pointed to a plant up the brook, beyond the bend.",
+        "zh": "一切都指向河湾上游的一家工厂。"
+      },
+      {
+        "en": "A finger of colour spread and the pool turned red.",
+        "zh": "一缕颜色蔓延开，水潭变红了。"
+      }
+    ],
+    [
+      {
+        "en": "We joined the old man and found a pipe under a bed of stones.",
+        "zh": "我们跟着老人，在石床下找到了一根管子。"
+      },
+      {
+        "en": "By luck, he knew the old pipe and matched it very fast.",
+        "zh": "多亏运气，他认得那根旧管子，很快就配上了。"
+      },
+      {
+        "en": "He fixed it in a day, and the whole brook ran clear.",
+        "zh": "他一天就修好了，整条小溪重新变清。"
+      },
+      {
+        "en": "We could hardly believe how fast it came back.",
+        "zh": "我们几乎不敢相信它恢复得这么快。"
+      },
+      {
+        "en": "A plane crossed the sky while we packed our things below.",
+        "zh": "一架飞机掠过天空，我们在下面收拾东西。"
+      }
+    ],
+    [
+      {
+        "en": "The sun began to burn, so we dropped our bags in the shade.",
+        "zh": "太阳开始灼人，我们把包丢在树荫下。"
+      },
+      {
+        "en": "Later the town began to wake up, and it was a nice surprise.",
+        "zh": "后来小镇醒了过来，那是个不错的惊喜。"
+      },
+      {
+        "en": "Many neighbours joined us at the old bridge that day.",
+        "zh": "那天很多邻居在老桥边加入了我们。"
+      },
+      {
+        "en": "The school praised our quiet involvement and clear communication.",
+        "zh": "学校表扬了我们安静的参与和清楚的沟通。"
+      },
+      {
+        "en": "Our offering was small, but every penny helped a little.",
+        "zh": "我们的捐赠不多，但每一分钱都起了点作用。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "this",
+      "pos": "pron/adj/adv.",
+      "zh": "这",
+      "stars": 5,
+      "collocation": "This water"
+    },
+    {
+      "lemma": "could",
+      "pos": "v.",
+      "zh": "可以",
+      "stars": 5,
+      "collocation": "We could feel"
+    },
+    {
+      "lemma": "more",
+      "pos": "n/adj/adv.",
+      "zh": "更多；多的",
+      "stars": 5,
+      "collocation": "then more came"
+    },
+    {
+      "lemma": "thing",
+      "pos": "n.",
+      "zh": "事物",
+      "stars": 5,
+      "collocation": "our things below"
+    },
+    {
+      "lemma": "feel",
+      "pos": "v/n.",
+      "zh": "感觉；有知觉",
+      "stars": 5,
+      "collocation": "could feel a"
+    },
+    {
+      "lemma": "something",
+      "pos": "pron.",
+      "zh": "某事",
+      "stars": 5,
+      "collocation": "that something was"
+    },
+    {
+      "lemma": "large",
+      "pos": "adj/adv.",
+      "zh": "大的；大大地",
+      "stars": 5,
+      "collocation": "A large, oily"
+    },
+    {
+      "lemma": "run",
+      "pos": "n/v/adj.",
+      "zh": "跑",
+      "stars": 5,
+      "collocation": "brook ran clear"
+    },
+    {
+      "lemma": "water",
+      "pos": "n/v/adj.",
+      "zh": "水；给...浇水",
+      "stars": 5,
+      "collocation": "This water had"
+    },
+    {
+      "lemma": "idea",
+      "pos": "n.",
+      "zh": "主意",
+      "stars": 5,
+      "collocation": "My idea began"
+    },
+    {
+      "lemma": "six",
+      "pos": "num.",
+      "zh": "六",
+      "stars": 5,
+      "collocation": "let six students"
+    },
+    {
+      "lemma": "let",
+      "pos": "v/n.",
+      "zh": "让；出租",
+      "stars": 5,
+      "collocation": "teacher let six"
+    },
+    {
+      "lemma": "speak",
+      "pos": "v.",
+      "zh": "说",
+      "stars": 5,
+      "collocation": "to speak of"
+    },
+    {
+      "lemma": "enough",
+      "pos": "n/adj/adv.",
+      "zh": "充足；充足的",
+      "stars": 5,
+      "collocation": "brought enough bottles"
+    },
+    {
+      "lemma": "sense",
+      "pos": "n/v.",
+      "zh": "感应；感觉",
+      "stars": 5,
+      "collocation": "a sense that"
+    },
+    {
+      "lemma": "whole",
+      "pos": "n/adj.",
+      "zh": "全部；所有的",
+      "stars": 5,
+      "collocation": "the whole brook"
+    },
+    {
+      "lemma": "pass",
+      "pos": "n/v.",
+      "zh": "经过",
+      "stars": 5,
+      "collocation": "had passed since"
+    },
+    {
+      "lemma": "everything",
+      "pos": "pron.",
+      "zh": "每件事物",
+      "stars": 5,
+      "collocation": "Everything pointed"
+    },
+    {
+      "lemma": "join",
+      "pos": "v/n.",
+      "zh": "参加；连接",
+      "stars": 5,
+      "collocation": "We joined the"
+    },
+    {
+      "lemma": "plant",
+      "pos": "n/v.",
+      "zh": "植物；种植",
+      "stars": 5,
+      "collocation": "a plant up"
+    },
+    {
+      "lemma": "red",
+      "pos": "adj/n.",
+      "zh": "红的；红色",
+      "stars": 5,
+      "collocation": "a red tint"
+    },
+    {
+      "lemma": "match",
+      "pos": "n/v.",
+      "zh": "比赛；使相配",
+      "stars": 5,
+      "collocation": "and matched it"
+    },
+    {
+      "lemma": "seventy",
+      "pos": "num.",
+      "zh": "七十",
+      "stars": 5,
+      "collocation": "Seventy years"
+    },
+    {
+      "lemma": "patient",
+      "pos": "n/adj.",
+      "zh": "病人；忍耐的",
+      "stars": 4,
+      "collocation": "very patient as"
+    },
+    {
+      "lemma": "bed",
+      "pos": "n/v.",
+      "zh": "床；提供宿处",
+      "stars": 4,
+      "collocation": "a bed of"
+    },
+    {
+      "lemma": "discuss",
+      "pos": "v.",
+      "zh": "讨论",
+      "stars": 4,
+      "collocation": "to discuss on"
+    },
+    {
+      "lemma": "environment",
+      "pos": "n.",
+      "zh": "环境",
+      "stars": 4,
+      "collocation": "local environment"
+    },
+    {
+      "lemma": "nice",
+      "pos": "adj.",
+      "zh": "美好的",
+      "stars": 4,
+      "collocation": "a nice surprise"
+    },
+    {
+      "lemma": "college",
+      "pos": "n.",
+      "zh": "学院",
+      "stars": 4,
+      "collocation": "a college class"
+    },
+    {
+      "lemma": "leg",
+      "pos": "n/v.",
+      "zh": "腿；走",
+      "stars": 4,
+      "collocation": "My legs ached"
+    },
+    {
+      "lemma": "drop",
+      "pos": "n/v.",
+      "zh": "滴；放下",
+      "stars": 4,
+      "collocation": "we dropped our"
+    },
+    {
+      "lemma": "culture",
+      "pos": "n/v.",
+      "zh": "文化；耕种",
+      "stars": 4,
+      "collocation": "about culture and"
+    },
+    {
+      "lemma": "finger",
+      "pos": "n/v.",
+      "zh": "手指；用手指拨弄",
+      "stars": 4,
+      "collocation": "A finger of"
+    },
+    {
+      "lemma": "hardly",
+      "pos": "adv.",
+      "zh": "刚刚",
+      "stars": 4,
+      "collocation": "could hardly believe"
+    },
+    {
+      "lemma": "collect",
+      "pos": "v/adj/adv.",
+      "zh": "收集；由收到者付款的",
+      "stars": 4,
+      "collocation": "to collect one"
+    },
+    {
+      "lemma": "video",
+      "pos": "n/adj.",
+      "zh": "影像；图像的",
+      "stars": 4,
+      "collocation": "short video to"
+    },
+    {
+      "lemma": "farmer",
+      "pos": "n.",
+      "zh": "农夫",
+      "stars": 4,
+      "collocation": "The farmer met"
+    },
+    {
+      "lemma": "bridge",
+      "pos": "n/v.",
+      "zh": "桥；架桥于",
+      "stars": 4,
+      "collocation": "the bridge"
+    },
+    {
+      "lemma": "fourth",
+      "pos": "num.",
+      "zh": "第四",
+      "stars": 4,
+      "collocation": "the fourth cold"
+    },
+    {
+      "lemma": "bottle",
+      "pos": "n/v.",
+      "zh": "瓶子；装瓶",
+      "stars": 4,
+      "collocation": "enough bottles to"
+    },
+    {
+      "lemma": "burn",
+      "pos": "v/n.",
+      "zh": "烧；燃烧",
+      "stars": 4,
+      "collocation": "to burn, so"
+    },
+    {
+      "lemma": "plane",
+      "pos": "n/adj/v.",
+      "zh": "平面；平的",
+      "stars": 4,
+      "collocation": "A plane crossed"
+    },
+    {
+      "lemma": "cool",
+      "pos": "n/adj/v.",
+      "zh": "凉爽；凉爽的",
+      "stars": 4,
+      "collocation": "the cool lab"
+    },
+    {
+      "lemma": "set",
+      "pos": "n/v/adj.",
+      "zh": "日落；放",
+      "stars": 3,
+      "collocation": "we set each"
+    },
+    {
+      "lemma": "communication",
+      "pos": "n.",
+      "zh": "交流",
+      "stars": 3,
+      "collocation": "clear communication"
+    },
+    {
+      "lemma": "plate",
+      "pos": "n/v.",
+      "zh": "碟；镀金",
+      "stars": 3,
+      "collocation": "each plate in"
+    },
+    {
+      "lemma": "thin",
+      "pos": "adj/v/adv.",
+      "zh": "薄的；使变薄",
+      "stars": 3,
+      "collocation": "A thin leaf"
+    },
+    {
+      "lemma": "leaf",
+      "pos": "n/v.",
+      "zh": "叶；生叶",
+      "stars": 3,
+      "collocation": "thin leaf floated"
+    },
+    {
+      "lemma": "plenty",
+      "pos": "n/adj.",
+      "zh": "充分；很多的",
+      "stars": 3,
+      "collocation": "us plenty to"
+    },
+    {
+      "lemma": "wake",
+      "pos": "v/n.",
+      "zh": "叫醒；醒来",
+      "stars": 3,
+      "collocation": "to wake up"
+    },
+    {
+      "lemma": "uncle",
+      "pos": "n.",
+      "zh": "叔父",
+      "stars": 3,
+      "collocation": "old uncle"
+    },
+    {
+      "lemma": "stream",
+      "pos": "n/v.",
+      "zh": "水流；流出",
+      "stars": 3,
+      "collocation": "the stream near"
+    },
+    {
+      "lemma": "luck",
+      "pos": "n/v.",
+      "zh": "运气；靠好运成功",
+      "stars": 3,
+      "collocation": "By luck, he"
+    },
+    {
+      "lemma": "grade",
+      "pos": "n/v.",
+      "zh": "等级；分等",
+      "stars": 3,
+      "collocation": "our grade"
+    },
+    {
+      "lemma": "chicken",
+      "pos": "n.",
+      "zh": "小鸡",
+      "stars": 3,
+      "collocation": "his chickens"
+    },
+    {
+      "lemma": "freeze",
+      "pos": "v/n.",
+      "zh": "冻结；使结冰",
+      "stars": 3,
+      "collocation": "would freeze"
+    },
+    {
+      "lemma": "penny",
+      "pos": "n.",
+      "zh": "便士",
+      "stars": 3,
+      "collocation": "every penny helped"
+    },
+    {
+      "lemma": "involvement",
+      "pos": "n.",
+      "zh": "卷入",
+      "stars": 3,
+      "collocation": "quiet involvement and"
+    },
+    {
+      "lemma": "offering",
+      "pos": "n.",
+      "zh": "提供",
+      "stars": 3,
+      "collocation": "Our offering was"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“large” 的意思是：",
+      "options": [
+        "稀薄的",
+        "冰凉的",
+        "大的",
+        "红色的"
+      ],
+      "answer": 2,
+      "speak": "large"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "My teacher let six students study the ___ near a small dairy farm.",
+      "options": [
+        "bridge",
+        "stream",
+        "plate",
+        "grade"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“hardly” 的意思是：",
+      "options": [
+        "努力地",
+        "坚硬地",
+        "快速地",
+        "几乎不"
+      ],
+      "answer": 3,
+      "speak": "hardly"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "He was ___ as he told us about his chickens.",
+      "options": [
+        "patient",
+        "large",
+        "cool",
+        "thin"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "Seventy years had ___ since the brook ran clear.",
+      "options": [
+        "joined",
+        "burned",
+        "passed",
+        "frozen"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“offering” 的意思是：",
+      "options": [
+        "桥梁",
+        "提供物；捐赠",
+        "成绩",
+        "运气"
+      ],
+      "answer": 1,
+      "speak": "offering"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "The sun began to ___, so we dropped our bags in the shade.",
+      "options": [
+        "freeze",
+        "collect",
+        "discuss",
+        "burn"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "His words gave us plenty to ___ on the way back.",
+      "options": [
+        "discuss",
+        "burn",
+        "freeze",
+        "pass"
+      ],
+      "answer": 0
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My teacher let six students study the ",
+        "hint": "st",
+        "after": " near a small dairy farm.",
+        "answer": "stream"
+      },
+      {
+        "before": "We brought enough ",
+        "hint": "bo",
+        "after": " to collect one sample at each river bend.",
+        "answer": "bottles"
+      },
+      {
+        "before": "The ",
+        "hint": "fa",
+        "after": " met us there with his old uncle.",
+        "answer": "farmer"
+      },
+      {
+        "before": "He was very ",
+        "hint": "pa",
+        "after": " as he told us about his chickens.",
+        "answer": "patient"
+      },
+      {
+        "before": "",
+        "hint": "se",
+        "after": " years had passed since the brook ran clear.",
+        "answer": "Seventy"
+      },
+      {
+        "before": "Then he spoke about ",
+        "hint": "cu",
+        "after": " and the sharing of wells.",
+        "answer": "culture"
+      },
+      {
+        "before": "A large, oily film covered the ",
+        "hint": "fo",
+        "after": " cold sample.",
+        "answer": "fourth"
+      },
+      {
+        "before": "We made a short video to explain the numbers to our ",
+        "hint": "gr",
+        "after": ".",
+        "answer": "grade"
+      },
+      {
+        "before": "My legs ached as we carried the jars to the ",
+        "hint": "br",
+        "after": ".",
+        "answer": "bridge"
+      },
+      {
+        "before": "Our ",
+        "hint": "of",
+        "after": " was small, but every penny helped a little.",
+        "answer": "offering"
+      }
+    ],
+    "b3": [
+      {
+        "before": "My ",
+        "hint": "i",
+        "after": " began in a college class about our local environment.",
+        "answer": "idea"
+      },
+      {
+        "before": "My idea began in a college class about our local ",
+        "hint": "e",
+        "after": ".",
+        "answer": "environment"
+      },
+      {
+        "before": "A thin ",
+        "hint": "l",
+        "after": " floated past, and then more came.",
+        "answer": "leaf"
+      },
+      {
+        "before": "He fixed it in a day, and the ",
+        "hint": "w",
+        "after": " brook ran clear.",
+        "answer": "whole"
+      },
+      {
+        "before": "We brought ",
+        "hint": "e",
+        "after": " bottles to collect one sample at each river bend.",
+        "answer": "enough"
+      },
+      {
+        "before": "We brought enough bottles to ",
+        "hint": "c",
+        "after": " one sample at each river bend.",
+        "answer": "collect"
+      },
+      {
+        "before": "His words gave us plenty to ",
+        "hint": "d",
+        "after": " on the long way back.",
+        "answer": "discuss"
+      },
+      {
+        "before": "During the first week we set each plate in the ",
+        "hint": "c",
+        "after": " lab.",
+        "answer": "cool"
+      },
+      {
+        "before": "We made a short ",
+        "hint": "v",
+        "after": " to explain the numbers to our grade.",
+        "answer": "video"
+      },
+      {
+        "before": "Our offering was small, but every ",
+        "hint": "p",
+        "after": " helped a little.",
+        "answer": "penny"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "这个想法始于一节关于本地环境的大学课。",
+        "keywords": [
+          "idea",
+          "college",
+          "environment"
+        ]
+      },
+      {
+        "zh": "我们带够了瓶子，在每个河湾取一份样本。",
+        "keywords": [
+          "enough",
+          "bottles",
+          "collect"
+        ]
+      },
+      {
+        "zh": "农夫带着他的老叔叔在那里迎我们。",
+        "keywords": [
+          "farmer",
+          "uncle"
+        ]
+      },
+      {
+        "zh": "七十年过去了，这条小溪才重新变清。",
+        "keywords": [
+          "Seventy",
+          "passed"
+        ]
+      },
+      {
+        "zh": "头一周里，我们把每个盘子摆进凉爽的实验室。",
+        "keywords": [
+          "set",
+          "plate",
+          "cool"
+        ]
+      },
+      {
+        "zh": "多亏运气，他认得那根旧管子，很快就配上了。",
+        "keywords": [
+          "luck",
+          "matched"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 305,
+    "sentences": 28,
+    "newDensity": 0.193,
+    "targetTokenDensity": 0.216,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（3 次）",
+      "During / Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p17：305 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

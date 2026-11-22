@@ -1,0 +1,831 @@
+{
+  "id": "p13",
+  "title": "The Factory Sale",
+  "titleZh": "工厂出售",
+  "topic": "小镇",
+  "paragraphs": [
+    [
+      {
+        "en": "Who do you think will buy the old factory by the river?",
+        "zh": "你觉得今年春天谁会买下河边的老工厂？"
+      },
+      {
+        "en": "Now a small crowd waits between the front gate and the low wall.",
+        "zh": "现在一小群人等在正门和矮墙之间。"
+      },
+      {
+        "en": "My hands put the new sign beside the old problem list on the door.",
+        "zh": "我用双手把新牌子挂在门边那张旧问题清单旁边。"
+      },
+      {
+        "en": "Four families live in a small, quiet house near the river bank.",
+        "zh": "四户人家住在河边一栋安静的小房子里。"
+      },
+      {
+        "en": "This change brings a clear result for every tired worker.",
+        "zh": "这一变化给每个疲惫的工人都带来了明确的结果。"
+      },
+      {
+        "en": "Then together they suggest a short walk outside the gate.",
+        "zh": "然后他们一起提议到门外安静地走一小段。"
+      },
+      {
+        "en": "Our position is safe, though the road stays busy all day.",
+        "zh": "我们的位置很安全，尽管这条路整天都很忙。"
+      },
+      {
+        "en": "The old industry may return to this small southern town.",
+        "zh": "这个老行业也许会回到这座小小的南方城镇。"
+      },
+      {
+        "en": "We share the news and learn about the old machines.",
+        "zh": "我们分享消息，也了解了那些旧机器。"
+      },
+      {
+        "en": "Then fifty people stand at the top of the wide stone stairs.",
+        "zh": "然后五十个人站在宽阔石阶的顶端。"
+      }
+    ],
+    [
+      {
+        "en": "The sale will use the old hall for a month or more.",
+        "zh": "这次出售会让这座旧礼堂再用一个月甚至更久。"
+      },
+      {
+        "en": "Sometimes a warm wind comes from the south at night.",
+        "zh": "有时夜里会从南边吹来一阵暖风。"
+      },
+      {
+        "en": "The population near the station grows a little each year.",
+        "zh": "车站附近的人口每年都增长一点。"
+      },
+      {
+        "en": "Science nearly solves the old puzzle of the dirty water.",
+        "zh": "科学几乎解开了脏水这个老谜题。"
+      },
+      {
+        "en": "They mention the rough surface and the likely cause.",
+        "zh": "他们提到粗糙的路面，也提到可能的原因。"
+      },
+      {
+        "en": "A hot steam pipe runs through a quarter of the small room.",
+        "zh": "一根滚烫的蒸汽管穿过小房间的四分之一。"
+      },
+      {
+        "en": "My small newspaper prints the story at great speed today.",
+        "zh": "我的小报纸今天以极快的速度印出这条新闻。"
+      },
+      {
+        "en": "Later somebody leads a short tour through the silent plant.",
+        "zh": "后来有人带着大家穿过安静的厂区做了一次短途参观。"
+      },
+      {
+        "en": "A bright light burns above the little store on the corner.",
+        "zh": "一盏明亮的灯在小店上方的角落里亮着。"
+      },
+      {
+        "en": "One small mistake makes the old editor ill for a week.",
+        "zh": "一个小错误让老编辑病了一个星期。"
+      }
+    ],
+    [
+      {
+        "en": "My brother and I know the boys kick a ball behind the wooden shed.",
+        "zh": "我哥哥和我知道那些男孩在木棚后面踢球。"
+      },
+      {
+        "en": "The library sits far from the loud traffic of the main road.",
+        "zh": "图书馆离大路上嘈杂的交通很远。"
+      },
+      {
+        "en": "A deep silence fills the yard when the machines shut down.",
+        "zh": "机器一关，院子里就一片深深的寂静。"
+      },
+      {
+        "en": "A funny drawing covers every inch of the long back wall.",
+        "zh": "一幅好笑的画占满了后墙的每一英寸。"
+      },
+      {
+        "en": "His long illness makes it hard to breathe at night.",
+        "zh": "他长久的病让他在夜里很难呼吸。"
+      },
+      {
+        "en": "Whenever we pass the plain, the sky looks wide and clear.",
+        "zh": "每当我们经过那片平原，天空就显得又宽又清。"
+      },
+      {
+        "en": "Fresh potato soup with butter warms the whole tired team.",
+        "zh": "新鲜的土豆汤加上黄油，暖了整支疲惫的队伍。"
+      },
+      {
+        "en": "The smart buyer calls afterwards about the sudden takeover.",
+        "zh": "那位聪明的买家随后打来电话，谈这笔突然的接管。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "do",
+      "pos": "v.",
+      "zh": "做",
+      "stars": 5,
+      "collocation": "Who do you think"
+    },
+    {
+      "lemma": "who",
+      "pos": "pron.",
+      "zh": "谁",
+      "stars": 5,
+      "collocation": "Who do you"
+    },
+    {
+      "lemma": "now",
+      "pos": "adv./n./adj./conj.",
+      "zh": "现在",
+      "stars": 5,
+      "collocation": "Now a small"
+    },
+    {
+      "lemma": "between",
+      "pos": "prep.",
+      "zh": "在...之间",
+      "stars": 5,
+      "collocation": "waits between the front"
+    },
+    {
+      "lemma": "put",
+      "pos": "v./n./adj.",
+      "zh": "放",
+      "stars": 5,
+      "collocation": "hands put the new"
+    },
+    {
+      "lemma": "problem",
+      "pos": "n./adj.",
+      "zh": "问题",
+      "stars": 5,
+      "collocation": "old problem list on"
+    },
+    {
+      "lemma": "four",
+      "pos": "num.",
+      "zh": "四",
+      "stars": 5,
+      "collocation": "Four families live"
+    },
+    {
+      "lemma": "family",
+      "pos": "n./adj.",
+      "zh": "家庭",
+      "stars": 5,
+      "collocation": "Four families live in"
+    },
+    {
+      "lemma": "change",
+      "pos": "n./v.",
+      "zh": "变化",
+      "stars": 5,
+      "collocation": "This change brings a"
+    },
+    {
+      "lemma": "result",
+      "pos": "n./v.",
+      "zh": "结果",
+      "stars": 5,
+      "collocation": "clear result for every"
+    },
+    {
+      "lemma": "together",
+      "pos": "adv.",
+      "zh": "一起",
+      "stars": 5,
+      "collocation": "Then together they suggest"
+    },
+    {
+      "lemma": "suggest",
+      "pos": "v.",
+      "zh": "提议",
+      "stars": 5,
+      "collocation": "they suggest a short"
+    },
+    {
+      "lemma": "position",
+      "pos": "n./v.",
+      "zh": "位置",
+      "stars": 5,
+      "collocation": "Our position is safe,"
+    },
+    {
+      "lemma": "though",
+      "pos": "adv./conj.",
+      "zh": "然而",
+      "stars": 5,
+      "collocation": "safe, though the road"
+    },
+    {
+      "lemma": "industry",
+      "pos": "n.",
+      "zh": "勤劳",
+      "stars": 5,
+      "collocation": "old industry may return"
+    },
+    {
+      "lemma": "return",
+      "pos": "n./adj./v.",
+      "zh": "回来",
+      "stars": 5,
+      "collocation": "may return to this"
+    },
+    {
+      "lemma": "cause",
+      "pos": "n./v.",
+      "zh": "原因",
+      "stars": 5,
+      "collocation": "likely cause."
+    },
+    {
+      "lemma": "learn",
+      "pos": "v.",
+      "zh": "学习",
+      "stars": 5,
+      "collocation": "and learn about the"
+    },
+    {
+      "lemma": "worker",
+      "pos": "n.",
+      "zh": "工人",
+      "stars": 5,
+      "collocation": "tired worker."
+    },
+    {
+      "lemma": "share",
+      "pos": "n./v.",
+      "zh": "部分",
+      "stars": 5,
+      "collocation": "We share the news"
+    },
+    {
+      "lemma": "top",
+      "pos": "n./adj./v.",
+      "zh": "顶部",
+      "stars": 5,
+      "collocation": "the top of the"
+    },
+    {
+      "lemma": "fifty",
+      "pos": "num.",
+      "zh": "五十",
+      "stars": 5,
+      "collocation": "Then fifty people stand"
+    },
+    {
+      "lemma": "sale",
+      "pos": "n.",
+      "zh": "出售",
+      "stars": 5,
+      "collocation": "The sale will use"
+    },
+    {
+      "lemma": "use",
+      "pos": "n./v.",
+      "zh": "使用",
+      "stars": 4,
+      "collocation": "will use the old"
+    },
+    {
+      "lemma": "sometimes",
+      "pos": "adv.",
+      "zh": "有时",
+      "stars": 4,
+      "collocation": "Sometimes a warm"
+    },
+    {
+      "lemma": "south",
+      "pos": "n./adj./adv./v.",
+      "zh": "南方",
+      "stars": 4,
+      "collocation": "the south at night."
+    },
+    {
+      "lemma": "population",
+      "pos": "n.",
+      "zh": "人口",
+      "stars": 4,
+      "collocation": "The population near the"
+    },
+    {
+      "lemma": "station",
+      "pos": "n./v.",
+      "zh": "车站",
+      "stars": 4,
+      "collocation": "the station grows a"
+    },
+    {
+      "lemma": "science",
+      "pos": "n.",
+      "zh": "科学",
+      "stars": 4,
+      "collocation": "Science nearly solves"
+    },
+    {
+      "lemma": "nearly",
+      "pos": "adv.",
+      "zh": "几乎",
+      "stars": 4,
+      "collocation": "Science nearly solves the"
+    },
+    {
+      "lemma": "mention",
+      "pos": "n./v.",
+      "zh": "提到",
+      "stars": 4,
+      "collocation": "They mention the rough"
+    },
+    {
+      "lemma": "surface",
+      "pos": "n./adj./v.",
+      "zh": "面",
+      "stars": 4,
+      "collocation": "rough surface and the"
+    },
+    {
+      "lemma": "hot",
+      "pos": "adj./adv.",
+      "zh": "热的",
+      "stars": 4,
+      "collocation": "A hot steam pipe"
+    },
+    {
+      "lemma": "quarter",
+      "pos": "n./v.",
+      "zh": "四分之一",
+      "stars": 4,
+      "collocation": "a quarter of the"
+    },
+    {
+      "lemma": "newspaper",
+      "pos": "n.",
+      "zh": "报纸",
+      "stars": 4,
+      "collocation": "small newspaper prints the"
+    },
+    {
+      "lemma": "speed",
+      "pos": "n./v.",
+      "zh": "速率",
+      "stars": 4,
+      "collocation": "great speed today."
+    },
+    {
+      "lemma": "somebody",
+      "pos": "n./pron.",
+      "zh": "了不起的人",
+      "stars": 4,
+      "collocation": "Later somebody leads a"
+    },
+    {
+      "lemma": "tour",
+      "pos": "n./v.",
+      "zh": "旅游",
+      "stars": 4,
+      "collocation": "short tour through the"
+    },
+    {
+      "lemma": "bright",
+      "pos": "adj./adv.",
+      "zh": "明亮的",
+      "stars": 4,
+      "collocation": "A bright light burns"
+    },
+    {
+      "lemma": "store",
+      "pos": "n./v./adj.",
+      "zh": "商店",
+      "stars": 4,
+      "collocation": "little store on the"
+    },
+    {
+      "lemma": "mistake",
+      "pos": "n./v.",
+      "zh": "错误",
+      "stars": 4,
+      "collocation": "small mistake makes the"
+    },
+    {
+      "lemma": "ill",
+      "pos": "n./adj./adv.",
+      "zh": "疾病",
+      "stars": 4,
+      "collocation": "editor ill for a"
+    },
+    {
+      "lemma": "kick",
+      "pos": "n./v.",
+      "zh": "踢",
+      "stars": 4,
+      "collocation": "boys kick a ball"
+    },
+    {
+      "lemma": "know",
+      "pos": "v.",
+      "zh": "知道",
+      "stars": 3,
+      "collocation": "I know the boys"
+    },
+    {
+      "lemma": "library",
+      "pos": "n.",
+      "zh": "图书馆",
+      "stars": 3,
+      "collocation": "The library sits far"
+    },
+    {
+      "lemma": "traffic",
+      "pos": "n./v.",
+      "zh": "交通",
+      "stars": 3,
+      "collocation": "loud traffic of the"
+    },
+    {
+      "lemma": "silence",
+      "pos": "n./v.",
+      "zh": "沉默",
+      "stars": 3,
+      "collocation": "deep silence fills the"
+    },
+    {
+      "lemma": "shut",
+      "pos": "n./v.",
+      "zh": "关闭",
+      "stars": 3,
+      "collocation": "machines shut down."
+    },
+    {
+      "lemma": "funny",
+      "pos": "adj./n.",
+      "zh": "好笑的",
+      "stars": 3,
+      "collocation": "A funny drawing covers"
+    },
+    {
+      "lemma": "inch",
+      "pos": "n./v.",
+      "zh": "英寸",
+      "stars": 3,
+      "collocation": "every inch of the"
+    },
+    {
+      "lemma": "illness",
+      "pos": "n.",
+      "zh": "疾病",
+      "stars": 3,
+      "collocation": "long illness makes it"
+    },
+    {
+      "lemma": "breathe",
+      "pos": "v.",
+      "zh": "呼吸",
+      "stars": 3,
+      "collocation": "to breathe at night."
+    },
+    {
+      "lemma": "whenever",
+      "pos": "conj./adv.",
+      "zh": "每当",
+      "stars": 3,
+      "collocation": "Whenever we pass"
+    },
+    {
+      "lemma": "plain",
+      "pos": "n./adj./adv.",
+      "zh": "平原",
+      "stars": 3,
+      "collocation": "the plain, the sky"
+    },
+    {
+      "lemma": "potato",
+      "pos": "n.",
+      "zh": "马铃薯",
+      "stars": 3,
+      "collocation": "Fresh potato soup with"
+    },
+    {
+      "lemma": "butter",
+      "pos": "n./v.",
+      "zh": "奶油",
+      "stars": 3,
+      "collocation": "with butter warms the"
+    },
+    {
+      "lemma": "smart",
+      "pos": "adj./n./v.",
+      "zh": "聪明的",
+      "stars": 3,
+      "collocation": "The smart buyer calls"
+    },
+    {
+      "lemma": "afterwards",
+      "pos": "adv.",
+      "zh": "然后",
+      "stars": 3,
+      "collocation": "calls afterwards about the"
+    },
+    {
+      "lemma": "takeover",
+      "pos": "n.",
+      "zh": "接管",
+      "stars": 3,
+      "collocation": "sudden takeover."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“industry” 的意思是：",
+      "options": [
+        "工业",
+        "人口",
+        "交通",
+        "车站"
+      ],
+      "answer": 0,
+      "speak": "industry"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The population near the ___ grows a little each year.",
+      "options": [
+        "station",
+        "library",
+        "surface",
+        "sale"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“takeover” 的意思是：",
+      "options": [
+        "接管",
+        "出售",
+        "结果",
+        "位置"
+      ],
+      "answer": 0,
+      "speak": "takeover"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Fresh potato soup with ___ warms the whole tired team.",
+      "options": [
+        "butter",
+        "traffic",
+        "silence",
+        "inch"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A deep ___ fills the yard when the machines shut down.",
+      "options": [
+        "silence",
+        "speed",
+        "mistake",
+        "tour"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“newspaper” 的意思是：",
+      "options": [
+        "报纸",
+        "图书馆",
+        "商店",
+        "人口"
+      ],
+      "answer": 0,
+      "speak": "newspaper"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "One small ___ makes the old editor ill for a week.",
+      "options": [
+        "mistake",
+        "cause",
+        "problem",
+        "result"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“surface” 的意思是：",
+      "options": [
+        "表面",
+        "位置",
+        "原因",
+        "平原"
+      ],
+      "answer": 0,
+      "speak": "surface"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "Who ",
+        "hint": "do",
+        "after": " you think will buy the old factory by the river?",
+        "answer": "do"
+      },
+      {
+        "before": "Now a small crowd waits ",
+        "hint": "be",
+        "after": " the front gate and the low wall.",
+        "answer": "between"
+      },
+      {
+        "before": "My hands put the new sign beside the old ",
+        "hint": "pr",
+        "after": " list on the door.",
+        "answer": "problem"
+      },
+      {
+        "before": "",
+        "hint": "fo",
+        "after": " families live in a small, quiet house near the river bank.",
+        "answer": "Four"
+      },
+      {
+        "before": "This ",
+        "hint": "ch",
+        "after": " brings a clear result for every tired worker.",
+        "answer": "change"
+      },
+      {
+        "before": "Then ",
+        "hint": "to",
+        "after": " they suggest a short walk outside the gate.",
+        "answer": "together"
+      },
+      {
+        "before": "Our position is safe, ",
+        "hint": "th",
+        "after": " the road stays busy all day.",
+        "answer": "though"
+      },
+      {
+        "before": "The old ",
+        "hint": "in",
+        "after": " may return to this small southern town.",
+        "answer": "industry"
+      },
+      {
+        "before": "We share the news and ",
+        "hint": "le",
+        "after": " about the old machines.",
+        "answer": "learn"
+      },
+      {
+        "before": "Then fifty people stand at the ",
+        "hint": "to",
+        "after": " of the wide stone stairs.",
+        "answer": "top"
+      }
+    ],
+    "b3": [
+      {
+        "before": "The ",
+        "hint": "sa",
+        "after": " will use the old hall for a month or more.",
+        "answer": "sale"
+      },
+      {
+        "before": "Sometimes a warm wind comes from the ",
+        "hint": "so",
+        "after": " at night.",
+        "answer": "south"
+      },
+      {
+        "before": "The ",
+        "hint": "po",
+        "after": " near the station grows a little each year.",
+        "answer": "population"
+      },
+      {
+        "before": "Science ",
+        "hint": "ne",
+        "after": " solves the old puzzle of the dirty water.",
+        "answer": "nearly"
+      },
+      {
+        "before": "They mention the rough ",
+        "hint": "su",
+        "after": " and the likely cause.",
+        "answer": "surface"
+      },
+      {
+        "before": "A ",
+        "hint": "ho",
+        "after": " steam pipe runs through a quarter of the small room.",
+        "answer": "hot"
+      },
+      {
+        "before": "My small ",
+        "hint": "ne",
+        "after": " prints the story at great speed today.",
+        "answer": "newspaper"
+      },
+      {
+        "before": "Later ",
+        "hint": "so",
+        "after": " leads a short tour through the silent plant.",
+        "answer": "somebody"
+      },
+      {
+        "before": "A bright light burns above the little ",
+        "hint": "st",
+        "after": " on the corner.",
+        "answer": "store"
+      },
+      {
+        "before": "One small ",
+        "hint": "mi",
+        "after": " makes the old editor ill for a week.",
+        "answer": "mistake"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "你觉得今年春天谁会买下河边的老工厂？",
+        "keywords": [
+          "who",
+          "do",
+          "factory"
+        ]
+      },
+      {
+        "zh": "这一变化给每个疲惫的工人都带来了明确的结果。",
+        "keywords": [
+          "change",
+          "result",
+          "worker"
+        ]
+      },
+      {
+        "zh": "我哥哥和我知道那些男孩在木棚后面踢球。",
+        "keywords": [
+          "know",
+          "kick",
+          "shed"
+        ]
+      },
+      {
+        "zh": "一幅好笑的画占满了后墙的每一英寸。",
+        "keywords": [
+          "funny",
+          "inch",
+          "wall"
+        ]
+      },
+      {
+        "zh": "每当我们经过那片平原，天空就显得又宽又清。",
+        "keywords": [
+          "whenever",
+          "plain",
+          "sky"
+        ]
+      },
+      {
+        "zh": "那位聪明的买家随后打来电话，谈这笔突然的接管。",
+        "keywords": [
+          "smart",
+          "takeover",
+          "buyer"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 307,
+    "sentences": 28,
+    "newDensity": 0.192,
+    "targetTokenDensity": 0.192,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写小镇老工厂要被出售时的一天：人群在门口等待、工人关心结果、记者快速发稿、有人带参观厂区，最后以土豆汤和突然的买家来电收尾。"
+}

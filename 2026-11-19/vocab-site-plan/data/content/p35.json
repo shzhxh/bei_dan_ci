@@ -1,0 +1,831 @@
+{
+  "id": "p35",
+  "title": "The Rocket Club Merger",
+  "titleZh": "火箭俱乐部的合并",
+  "topic": "矿区青年俱乐部合并",
+  "paragraphs": [
+    [
+      {
+        "en": "My youth club will join a team at the mine site.",
+        "zh": "我的青年俱乐部将和矿区的一支队伍合并。"
+      },
+      {
+        "en": "A million dollars would help, but the recession hurt our export trade.",
+        "zh": "一百万美元会有帮助，可经济衰退伤了我们的出口生意。"
+      },
+      {
+        "en": "The foundation sends a warm offer, and the terms are positive.",
+        "zh": "基金会发来一份热忱的提议，条款也很积极。"
+      },
+      {
+        "en": "Thus our members assume the plan is a fair chance.",
+        "zh": "于是会员们认为这计划是个公平的机会。"
+      },
+      {
+        "en": "A retired miner brings a classic model rocket to the crowded hall.",
+        "zh": "一位退休矿工把一枚经典的模型火箭带进拥挤的大厅。"
+      },
+      {
+        "en": "Then a singer performs, and the mood turns spiritual.",
+        "zh": "接着一位歌手登台，气氛变得有灵性。"
+      },
+      {
+        "en": "An organized launch will inform every resident near the gate.",
+        "zh": "一次有组织的发射会让大门附近的每位居民都知情。"
+      }
+    ],
+    [
+      {
+        "en": "The output depends on a consistent fuel pattern.",
+        "zh": "产出取决于稳定的燃料配比。"
+      },
+      {
+        "en": "Pressure builds inside the pipe, and we check the valve.",
+        "zh": "压力在管道里积聚，我们去检查阀门。"
+      },
+      {
+        "en": "A newly built shelter can halt the wind and protect the crowd.",
+        "zh": "一座新建的棚子能挡住风，护住人群。"
+      },
+      {
+        "en": "The site has a provision for clean water and a small first aid kit.",
+        "zh": "场地备有干净水源，还有一个小急救箱。"
+      },
+      {
+        "en": "We vary the schedule and emphasize safety at each step.",
+        "zh": "我们调整日程，并在每一步强调安全。"
+      },
+      {
+        "en": "A comment from the chief is calm, and our moral is strong.",
+        "zh": "负责人的一句评论很平静，我们的士气也很足。"
+      }
+    ],
+    [
+      {
+        "en": "A wild fire starts near the fence, and the alarm screams.",
+        "zh": "栅栏附近起了野火，警报尖叫起来。"
+      },
+      {
+        "en": "The members flee, and a retired fighter leads them out.",
+        "zh": "会员们逃开，一位退役拳手带他们出去。"
+      },
+      {
+        "en": "Then smoke covers the site, and we stare at the flame.",
+        "zh": "接着烟雾盖住场地，我们盯着火焰。"
+      },
+      {
+        "en": "The fire crew hunts every spark in the wild grass.",
+        "zh": "消防队在野草里搜寻每一颗火星。"
+      },
+      {
+        "en": "A punch of wind sends a metal item flying.",
+        "zh": "一阵风的重击把一件金属物品吹得飞了起来。"
+      }
+    ],
+    [
+      {
+        "en": "A racial word on the wall causes a formal complaint.",
+        "zh": "墙上的一句种族言论引来正式投诉。"
+      },
+      {
+        "en": "Self belief is crucial, and we resolve not to harass anyone.",
+        "zh": "自信至关重要，我们决心不骚扰任何人。"
+      },
+      {
+        "en": "The seventeenth amendment to our rules is read aloud.",
+        "zh": "章程的第十七条修正案被大声宣读。"
+      },
+      {
+        "en": "The personnel office must check every printed item in the code.",
+        "zh": "人事办公室必须核对守则里每一条印出来的规定。"
+      },
+      {
+        "en": "My club feels the strain when the guilty member leaves.",
+        "zh": "那名有罪的会员离开时，我的俱乐部感到深深的紧绷。"
+      },
+      {
+        "en": "Later an auction raises a million for a new launch pad.",
+        "zh": "后来一场拍卖为新的发射台筹到一百万美元。"
+      }
+    ],
+    [
+      {
+        "en": "A corporation offers compensation and a chance to promote sport.",
+        "zh": "一家公司提供补偿，也给了推广运动的机会。"
+      },
+      {
+        "en": "The merger brings a remarkable change, and the club stays strong.",
+        "zh": "合并带来显著的变化，俱乐部依然坚强。"
+      },
+      {
+        "en": "My role is to note the possibility of a second trial.",
+        "zh": "我的职责是点明再试一次的可能性。"
+      },
+      {
+        "en": "A new foundation will support the club through the depression.",
+        "zh": "一个新的基金会将陪俱乐部度过这场萧条。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "million",
+      "pos": "n/num.",
+      "zh": "百万",
+      "stars": 5,
+      "collocation": "A million dollars"
+    },
+    {
+      "lemma": "pressure",
+      "pos": "n/v.",
+      "zh": "压；迫使",
+      "stars": 5,
+      "collocation": "Pressure builds"
+    },
+    {
+      "lemma": "thus",
+      "pos": "adv.",
+      "zh": "如此",
+      "stars": 4,
+      "collocation": "Thus our"
+    },
+    {
+      "lemma": "pattern",
+      "pos": "n/v.",
+      "zh": "模范；模仿",
+      "stars": 4,
+      "collocation": "fuel pattern"
+    },
+    {
+      "lemma": "assume",
+      "pos": "v.",
+      "zh": "假定；装腔作势",
+      "stars": 4,
+      "collocation": "members assume the"
+    },
+    {
+      "lemma": "possibility",
+      "pos": "n.",
+      "zh": "可能性",
+      "stars": 4,
+      "collocation": "the possibility of"
+    },
+    {
+      "lemma": "trial",
+      "pos": "n/adj.",
+      "zh": "审判；审讯的",
+      "stars": 4,
+      "collocation": "second trial"
+    },
+    {
+      "lemma": "comment",
+      "pos": "n/v.",
+      "zh": "注解；评论",
+      "stars": 4,
+      "collocation": "A comment from"
+    },
+    {
+      "lemma": "promote",
+      "pos": "v.",
+      "zh": "促进",
+      "stars": 4,
+      "collocation": "to promote sport"
+    },
+    {
+      "lemma": "youth",
+      "pos": "n.",
+      "zh": "年轻",
+      "stars": 4,
+      "collocation": "My youth club"
+    },
+    {
+      "lemma": "wild",
+      "pos": "n/adj/adv.",
+      "zh": "荒野；野性的",
+      "stars": 4,
+      "collocation": "A wild fire"
+    },
+    {
+      "lemma": "fuel",
+      "pos": "n/v.",
+      "zh": "燃料；加燃料",
+      "stars": 4,
+      "collocation": "consistent fuel pattern"
+    },
+    {
+      "lemma": "export",
+      "pos": "n/v.",
+      "zh": "输出品；输出",
+      "stars": 4,
+      "collocation": "our export trade"
+    },
+    {
+      "lemma": "classic",
+      "pos": "n/adj.",
+      "zh": "古典作品；第一流的",
+      "stars": 4,
+      "collocation": "a classic model"
+    },
+    {
+      "lemma": "stare",
+      "pos": "v/n.",
+      "zh": "注视；盯",
+      "stars": 3,
+      "collocation": "we stare at"
+    },
+    {
+      "lemma": "output",
+      "pos": "n.",
+      "zh": "输出",
+      "stars": 3,
+      "collocation": "The output depends"
+    },
+    {
+      "lemma": "inform",
+      "pos": "v.",
+      "zh": "通知；提供资料",
+      "stars": 3,
+      "collocation": "will inform every"
+    },
+    {
+      "lemma": "moral",
+      "pos": "n/adj.",
+      "zh": "道德；道德的",
+      "stars": 3,
+      "collocation": "our moral is"
+    },
+    {
+      "lemma": "corporation",
+      "pos": "n.",
+      "zh": "公司",
+      "stars": 3,
+      "collocation": "A corporation offers"
+    },
+    {
+      "lemma": "guilty",
+      "pos": "adj.",
+      "zh": "犯罪的",
+      "stars": 3,
+      "collocation": "the guilty member"
+    },
+    {
+      "lemma": "self",
+      "pos": "n/v/adj.",
+      "zh": "自己；使近亲繁殖",
+      "stars": 3,
+      "collocation": "Self belief"
+    },
+    {
+      "lemma": "pipe",
+      "pos": "n/v.",
+      "zh": "管；以管输送",
+      "stars": 3,
+      "collocation": "the pipe, and"
+    },
+    {
+      "lemma": "personnel",
+      "pos": "n.",
+      "zh": "人员",
+      "stars": 3,
+      "collocation": "The personnel office"
+    },
+    {
+      "lemma": "consistent",
+      "pos": "adj.",
+      "zh": "一致的",
+      "stars": 3,
+      "collocation": "a consistent fuel"
+    },
+    {
+      "lemma": "scream",
+      "pos": "n/v.",
+      "zh": "尖叫声；尖叫",
+      "stars": 3,
+      "collocation": "alarm screams"
+    },
+    {
+      "lemma": "alarm",
+      "pos": "n/v.",
+      "zh": "惊恐；使惊恐",
+      "stars": 3,
+      "collocation": "the alarm screams"
+    },
+    {
+      "lemma": "spiritual",
+      "pos": "adj/n.",
+      "zh": "精神上的；有关教会的事",
+      "stars": 3,
+      "collocation": "turns spiritual"
+    },
+    {
+      "lemma": "flee",
+      "pos": "v.",
+      "zh": "逃避；逃",
+      "stars": 3,
+      "collocation": "members flee, and"
+    },
+    {
+      "lemma": "singer",
+      "pos": "n.",
+      "zh": "歌手",
+      "stars": 3,
+      "collocation": "a singer performs"
+    },
+    {
+      "lemma": "fighter",
+      "pos": "n.",
+      "zh": "斗士",
+      "stars": 3,
+      "collocation": "retired fighter leads"
+    },
+    {
+      "lemma": "hunt",
+      "pos": "n/v.",
+      "zh": "狩猎",
+      "stars": 3,
+      "collocation": "crew hunts every"
+    },
+    {
+      "lemma": "racial",
+      "pos": "adj.",
+      "zh": "人种的",
+      "stars": 3,
+      "collocation": "A racial word"
+    },
+    {
+      "lemma": "rocket",
+      "pos": "n/v.",
+      "zh": "火箭；急升",
+      "stars": 3,
+      "collocation": "model rocket to"
+    },
+    {
+      "lemma": "site",
+      "pos": "n/v.",
+      "zh": "位置；给...择址",
+      "stars": 4,
+      "collocation": "mine site"
+    },
+    {
+      "lemma": "item",
+      "pos": "n.",
+      "zh": "项目",
+      "stars": 4,
+      "collocation": "metal item flying"
+    },
+    {
+      "lemma": "positive",
+      "pos": "adj.",
+      "zh": "肯定的",
+      "stars": 4,
+      "collocation": "are positive"
+    },
+    {
+      "lemma": "formal",
+      "pos": "adj/n.",
+      "zh": "正式的；正式的社交活动",
+      "stars": 4,
+      "collocation": "a formal complaint"
+    },
+    {
+      "lemma": "resident",
+      "pos": "n/adj.",
+      "zh": "居民；居留的",
+      "stars": 4,
+      "collocation": "every resident near"
+    },
+    {
+      "lemma": "provision",
+      "pos": "n/v.",
+      "zh": "钱和设备；供给...食物及必需品",
+      "stars": 3,
+      "collocation": "a provision for"
+    },
+    {
+      "lemma": "vary",
+      "pos": "v.",
+      "zh": "改变；变化",
+      "stars": 3,
+      "collocation": "We vary the"
+    },
+    {
+      "lemma": "foundation",
+      "pos": "n.",
+      "zh": "基础",
+      "stars": 3,
+      "collocation": "The foundation sends"
+    },
+    {
+      "lemma": "crucial",
+      "pos": "adj.",
+      "zh": "决定性的",
+      "stars": 3,
+      "collocation": "is crucial, and"
+    },
+    {
+      "lemma": "resolve",
+      "pos": "v/n.",
+      "zh": "决定；使分解",
+      "stars": 3,
+      "collocation": "we resolve not"
+    },
+    {
+      "lemma": "remarkable",
+      "pos": "adj.",
+      "zh": "不平常的",
+      "stars": 3,
+      "collocation": "a remarkable change"
+    },
+    {
+      "lemma": "strain",
+      "pos": "n/v.",
+      "zh": "紧张；使劳累",
+      "stars": 3,
+      "collocation": "the strain when"
+    },
+    {
+      "lemma": "newly",
+      "pos": "adv.",
+      "zh": "重新",
+      "stars": 3,
+      "collocation": "A newly built"
+    },
+    {
+      "lemma": "depression",
+      "pos": "n.",
+      "zh": "不景气",
+      "stars": 3,
+      "collocation": "the depression"
+    },
+    {
+      "lemma": "miner",
+      "pos": "n.",
+      "zh": "矿工",
+      "stars": 3,
+      "collocation": "retired miner brings"
+    },
+    {
+      "lemma": "emphasize",
+      "pos": "v.",
+      "zh": "强调",
+      "stars": 3,
+      "collocation": "and emphasize safety"
+    },
+    {
+      "lemma": "halt",
+      "pos": "n/v.",
+      "zh": "停止；使停止",
+      "stars": 3,
+      "collocation": "can halt the"
+    },
+    {
+      "lemma": "punch",
+      "pos": "n/v.",
+      "zh": "打洞器；以拳重击",
+      "stars": 3,
+      "collocation": "A punch of"
+    },
+    {
+      "lemma": "recession",
+      "pos": "n.",
+      "zh": "后退",
+      "stars": 4,
+      "collocation": "the recession hurt"
+    },
+    {
+      "lemma": "compensation",
+      "pos": "n.",
+      "zh": "补偿",
+      "stars": 3,
+      "collocation": "offers compensation and"
+    },
+    {
+      "lemma": "merger",
+      "pos": "n.",
+      "zh": "合并",
+      "stars": 3,
+      "collocation": "The merger brings"
+    },
+    {
+      "lemma": "auction",
+      "pos": "n/v.",
+      "zh": "拍卖",
+      "stars": 3,
+      "collocation": "an auction raises"
+    },
+    {
+      "lemma": "harass",
+      "pos": "v.",
+      "zh": "使困扰",
+      "stars": 3,
+      "collocation": "to harass anyone"
+    },
+    {
+      "lemma": "seventeenth",
+      "pos": "num.",
+      "zh": "第十七",
+      "stars": 4,
+      "collocation": "The seventeenth amendment"
+    },
+    {
+      "lemma": "amendment",
+      "pos": "n.",
+      "zh": "修订",
+      "stars": 3,
+      "collocation": "seventeenth amendment to"
+    },
+    {
+      "lemma": "organized",
+      "pos": "adj.",
+      "zh": "有组织的",
+      "stars": 3,
+      "collocation": "An organized launch"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“amendment” 的意思是：",
+      "options": [
+        "补偿",
+        "修正案",
+        "萧条",
+        "拍卖"
+      ],
+      "answer": 1,
+      "speak": "amendment"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The merger brings a ___ change, and the club stays strong.",
+      "options": [
+        "racial",
+        "remarkable",
+        "guilty",
+        "spiritual"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“compensation” 的意思是：",
+      "options": [
+        "补偿",
+        "合并",
+        "出口",
+        "人员"
+      ],
+      "answer": 0,
+      "speak": "compensation"
+    },
+    {
+      "id": "q4",
+      "type": "语境填空",
+      "prompt": "A wild fire starts near the fence, and the alarm ___.",
+      "options": [
+        "varies",
+        "halts",
+        "screams",
+        "promotes"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q5",
+      "type": "词义匹配",
+      "prompt": "“crucial” 的意思是：",
+      "options": [
+        "正式的",
+        "至关重要的",
+        "有罪的",
+        "精神上的"
+      ],
+      "answer": 1,
+      "speak": "crucial"
+    },
+    {
+      "id": "q6",
+      "type": "搭配",
+      "prompt": "The personnel office must check every printed ___ in the code.",
+      "options": [
+        "pipe",
+        "fuel",
+        "item",
+        "moral"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A newly built shelter can ___ the wind and protect the crowd.",
+      "options": [
+        "stare",
+        "scream",
+        "halt",
+        "promote"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "Later an auction raises a ___ for a new launch pad.",
+      "options": [
+        "punch",
+        "strain",
+        "million",
+        "item"
+      ],
+      "answer": 2
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My youth club will join a team at the mine ",
+        "hint": "si",
+        "after": ".",
+        "answer": "site"
+      },
+      {
+        "before": "A ",
+        "hint": "mi",
+        "after": " dollars would help, but the recession hurt our export trade.",
+        "answer": "million"
+      },
+      {
+        "before": "The foundation sends a warm offer, and the terms are ",
+        "hint": "po",
+        "after": ".",
+        "answer": "positive"
+      },
+      {
+        "before": "Thus our members ",
+        "hint": "as",
+        "after": " the plan is a fair chance.",
+        "answer": "assume"
+      },
+      {
+        "before": "A retired miner brings a classic model ",
+        "hint": "ro",
+        "after": " to the crowded hall.",
+        "answer": "rocket"
+      },
+      {
+        "before": "An ",
+        "hint": "or",
+        "after": " launch will inform every resident near the gate.",
+        "answer": "organized"
+      },
+      {
+        "before": "The output depends on a consistent fuel ",
+        "hint": "pa",
+        "after": ".",
+        "answer": "pattern"
+      },
+      {
+        "before": "The members ",
+        "hint": "fl",
+        "after": ", and a retired fighter leads them out.",
+        "answer": "flee"
+      },
+      {
+        "before": "Self belief is ",
+        "hint": "cr",
+        "after": ", and we resolve not to harass anyone.",
+        "answer": "crucial"
+      },
+      {
+        "before": "Later an ",
+        "hint": "au",
+        "after": " raises a million for a new launch pad.",
+        "answer": "auction"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Pressure builds inside the ",
+        "hint": "p",
+        "after": ", and we check the valve.",
+        "answer": "pipe"
+      },
+      {
+        "before": "A newly built shelter can ",
+        "hint": "h",
+        "after": " the wind and protect the crowd.",
+        "answer": "halt"
+      },
+      {
+        "before": "We ",
+        "hint": "v",
+        "after": " the schedule and emphasize safety at each step.",
+        "answer": "vary"
+      },
+      {
+        "before": "A ",
+        "hint": "c",
+        "after": " from the chief is calm, and our moral is strong.",
+        "answer": "comment"
+      },
+      {
+        "before": "A wild fire starts near the fence, and the ",
+        "hint": "a",
+        "after": " screams.",
+        "answer": "alarm"
+      },
+      {
+        "before": "The fire crew ",
+        "hint": "h",
+        "after": " every spark in the wild grass.",
+        "answer": "hunts"
+      },
+      {
+        "before": "A punch of wind sends a metal ",
+        "hint": "i",
+        "after": " flying.",
+        "answer": "item"
+      },
+      {
+        "before": "The ",
+        "hint": "p",
+        "after": " office must check every printed item in the code.",
+        "answer": "personnel"
+      },
+      {
+        "before": "My club feels the ",
+        "hint": "s",
+        "after": " when the guilty member leaves.",
+        "answer": "strain"
+      },
+      {
+        "before": "A new ",
+        "hint": "f",
+        "after": " will support the club through the depression.",
+        "answer": "foundation"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我的青年俱乐部将和矿区的一支队伍合并。",
+        "keywords": [
+          "youth",
+          "site"
+        ]
+      },
+      {
+        "zh": "一百万美元会有帮助，可经济衰退伤了我们的出口生意。",
+        "keywords": [
+          "million",
+          "recession",
+          "export"
+        ]
+      },
+      {
+        "zh": "一次有组织的试射会让大门附近的每位居民都知情。",
+        "keywords": [
+          "organized",
+          "trial",
+          "resident"
+        ]
+      },
+      {
+        "zh": "自信至关重要，我们决心不骚扰任何人。",
+        "keywords": [
+          "crucial",
+          "resolve",
+          "harass"
+        ]
+      },
+      {
+        "zh": "那名有罪的会员离开时，我的俱乐部感到深深的紧绷。",
+        "keywords": [
+          "guilty",
+          "strain"
+        ]
+      },
+      {
+        "zh": "后来一场拍卖为新的发射台筹到一百万美元。",
+        "keywords": [
+          "auction",
+          "million"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 296,
+    "sentences": 28,
+    "newDensity": 0.199,
+    "targetTokenDensity": 0.22,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（10 次）",
+      "Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p35：约 301 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

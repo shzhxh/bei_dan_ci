@@ -1,0 +1,830 @@
+{
+  "id": "p44",
+  "title": "The Food Bank",
+  "titleZh": "食物银行",
+  "topic": "社区食物银行与零售巨头之争",
+  "paragraphs": [
+    [
+      {
+        "en": "Our community food bank opens a small new facility today.",
+        "zh": "我们的社区食物银行今天启用一处小小的新场所。"
+      },
+      {
+        "en": "The goal is simple, but money is a serious concern.",
+        "zh": "目标很简单，但钱是个严肃的问题。"
+      },
+      {
+        "en": "Every product on the shelf, from bean to rice, is always free.",
+        "zh": "架上的每样东西，从豆子到米，永远免费。"
+      },
+      {
+        "en": "Access stays open, and the long queue is mainly local.",
+        "zh": "大门一直开着，长长的队伍主要是本地人。"
+      },
+      {
+        "en": "A warm invitation asks every neighbour to engage this week.",
+        "zh": "一份热情的邀请请每位邻居这周都来参与。"
+      },
+      {
+        "en": "The audience grows quickly, and indeed the whole small room fills.",
+        "zh": "来的人很快多起来，那间小屋确实坐满了。"
+      }
+    ],
+    [
+      {
+        "en": "A giant retailer sends a fleet of vans down our street.",
+        "zh": "一家零售巨头派出一支车队开进我们这条街。"
+      },
+      {
+        "en": "They blame us for unfair prices and falling local sales.",
+        "zh": "他们怪我们压价不公，害得本地销售下滑。"
+      },
+      {
+        "en": "A loud confrontation turns into an assault outside the front gate.",
+        "zh": "一场大声的冲突在前门外演变成殴打。"
+      },
+      {
+        "en": "Then a riot follows, and an unidentified man shouts at everyone.",
+        "zh": "接着发生了骚乱，一个身份不明的人对所有人喊叫。"
+      },
+      {
+        "en": "Our small margin starts to slide, and we cannot stem it.",
+        "zh": "我们微薄的利润开始下滑，我们止不住。"
+      },
+      {
+        "en": "Cash stays tight, and our luck may reverse straight away.",
+        "zh": "现金一直紧张，我们的运气也许转眼就翻转。"
+      }
+    ],
+    [
+      {
+        "en": "A bank loan arrives with a hopeful sales forecast for spring.",
+        "zh": "一笔银行贷款到账，还附着一份对春季销售的乐观预测。"
+      },
+      {
+        "en": "A new poll predicts a hard electoral fight this autumn.",
+        "zh": "一项新民意调查预测今年秋天会有一场激烈的选举之争。"
+      },
+      {
+        "en": "A sharp reduction in waste speeds our slow recovery after months.",
+        "zh": "浪费大幅减少，加快了我们在数月之后的缓慢恢复。"
+      },
+      {
+        "en": "My aunt copes for the sake of each hungry child.",
+        "zh": "我姑姑为了每一个挨饿的孩子坚持撑着。"
+      },
+      {
+        "en": "Later the rules that govern grants are based on real need.",
+        "zh": "后来，管理拨款的规则改为以真实需求为依据。"
+      },
+      {
+        "en": "One technical detail in the form delays the aid.",
+        "zh": "表格里的一个技术性细节拖慢了援助。"
+      }
+    ],
+    [
+      {
+        "en": "Her profession and her daily occupation are the same.",
+        "zh": "她的专业和她日常的职业是同一件事。"
+      },
+      {
+        "en": "My artist friend donates prints, and literature fills two boxes.",
+        "zh": "我的一位艺术家朋友捐了版画，文学作品装满了两个箱子。"
+      },
+      {
+        "en": "Then a male volunteer in a navy coat lifts heavy crates.",
+        "zh": "接着一位穿藏青色外套的男志愿者搬起沉重的箱子。"
+      },
+      {
+        "en": "His throat is sore, but his intent stays pure.",
+        "zh": "他嗓子哑了，可他的心意依旧纯粹。"
+      },
+      {
+        "en": "Beneath the old stairs we construct a dry store room.",
+        "zh": "我们在旧楼梯下面搭了一间干燥的储藏室。"
+      },
+      {
+        "en": "We combine rice and bread as a cheap substitute.",
+        "zh": "我们把米饭和面包搭配起来，作为一种廉价的替代。"
+      },
+      {
+        "en": "The daily flow of gifts helps us split the work.",
+        "zh": "每天源源不断的馈赠帮我们分担了工作。"
+      }
+    ],
+    [
+      {
+        "en": "One client is a lover of fresh bread and tea.",
+        "zh": "有一位顾客特别喜欢新鲜面包和茶。"
+      },
+      {
+        "en": "My small shop survives, and the whole town starts to heal.",
+        "zh": "我的小店活了下来，整个小镇也开始愈合。"
+      },
+      {
+        "en": "Previously the board gave little, but the thirtieth week may affect us.",
+        "zh": "以前董事会给得很少，但第三十周可能会影响到我们。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "product",
+      "pos": "n.",
+      "zh": "产品",
+      "stars": 5,
+      "collocation": "Every product on"
+    },
+    {
+      "lemma": "concern",
+      "pos": "n/v.",
+      "zh": "关心；与...有关",
+      "stars": 5,
+      "collocation": "serious concern"
+    },
+    {
+      "lemma": "indeed",
+      "pos": "adv.",
+      "zh": "的确",
+      "stars": 4,
+      "collocation": "and indeed the"
+    },
+    {
+      "lemma": "affect",
+      "pos": "v/n.",
+      "zh": "影响；自觉感情",
+      "stars": 4,
+      "collocation": "may affect us"
+    },
+    {
+      "lemma": "goal",
+      "pos": "n/v.",
+      "zh": "目标；攻门",
+      "stars": 4,
+      "collocation": "The goal is"
+    },
+    {
+      "lemma": "male",
+      "pos": "n/adj.",
+      "zh": "男人；男性的",
+      "stars": 4,
+      "collocation": "a male volunteer"
+    },
+    {
+      "lemma": "artist",
+      "pos": "n.",
+      "zh": "艺术家",
+      "stars": 4,
+      "collocation": "My artist friend"
+    },
+    {
+      "lemma": "survive",
+      "pos": "v.",
+      "zh": "比...活得长；活下来",
+      "stars": 4,
+      "collocation": "shop survives, and"
+    },
+    {
+      "lemma": "audience",
+      "pos": "n.",
+      "zh": "听众",
+      "stars": 4,
+      "collocation": "The audience grows"
+    },
+    {
+      "lemma": "straight",
+      "pos": "n/adj/adv.",
+      "zh": "直线；直的",
+      "stars": 4,
+      "collocation": "reverse straight away"
+    },
+    {
+      "lemma": "flow",
+      "pos": "n/v.",
+      "zh": "流程；流动",
+      "stars": 4,
+      "collocation": "daily flow of"
+    },
+    {
+      "lemma": "blame",
+      "pos": "n/v.",
+      "zh": "过失；责备",
+      "stars": 4,
+      "collocation": "They blame us"
+    },
+    {
+      "lemma": "split",
+      "pos": "n/adj/v.",
+      "zh": "劈开；劈开的",
+      "stars": 4,
+      "collocation": "us split the"
+    },
+    {
+      "lemma": "access",
+      "pos": "n/v.",
+      "zh": "通路；访问",
+      "stars": 3,
+      "collocation": "Access stays"
+    },
+    {
+      "lemma": "technical",
+      "pos": "adj.",
+      "zh": "技术上的",
+      "stars": 3,
+      "collocation": "One technical detail"
+    },
+    {
+      "lemma": "combine",
+      "pos": "v/n.",
+      "zh": "联合",
+      "stars": 3,
+      "collocation": "We combine rice"
+    },
+    {
+      "lemma": "literature",
+      "pos": "n.",
+      "zh": "文学",
+      "stars": 3,
+      "collocation": "and literature fills"
+    },
+    {
+      "lemma": "beneath",
+      "pos": "prep/adv.",
+      "zh": "在...下方",
+      "stars": 3,
+      "collocation": "Beneath the"
+    },
+    {
+      "lemma": "construct",
+      "pos": "v/n.",
+      "zh": "构造；构成物",
+      "stars": 3,
+      "collocation": "we construct a"
+    },
+    {
+      "lemma": "profession",
+      "pos": "n.",
+      "zh": "职业",
+      "stars": 3,
+      "collocation": "Her profession and"
+    },
+    {
+      "lemma": "pure",
+      "pos": "adj.",
+      "zh": "纯的",
+      "stars": 3,
+      "collocation": "stays pure"
+    },
+    {
+      "lemma": "throat",
+      "pos": "n/v.",
+      "zh": "咽喉；用喉音说",
+      "stars": 3,
+      "collocation": "His throat is"
+    },
+    {
+      "lemma": "occupation",
+      "pos": "n.",
+      "zh": "职业",
+      "stars": 3,
+      "collocation": "daily occupation are"
+    },
+    {
+      "lemma": "slide",
+      "pos": "n/v.",
+      "zh": "滑；使滑动",
+      "stars": 3,
+      "collocation": "to slide, and"
+    },
+    {
+      "lemma": "tight",
+      "pos": "adj/adv.",
+      "zh": "紧的；紧紧地",
+      "stars": 3,
+      "collocation": "stays tight, and"
+    },
+    {
+      "lemma": "govern",
+      "pos": "v.",
+      "zh": "统治",
+      "stars": 3,
+      "collocation": "that govern grants"
+    },
+    {
+      "lemma": "invitation",
+      "pos": "n.",
+      "zh": "邀请",
+      "stars": 3,
+      "collocation": "warm invitation asks"
+    },
+    {
+      "lemma": "navy",
+      "pos": "n.",
+      "zh": "海军",
+      "stars": 3,
+      "collocation": "a navy coat"
+    },
+    {
+      "lemma": "unfair",
+      "pos": "adj.",
+      "zh": "不公平的",
+      "stars": 3,
+      "collocation": "for unfair prices"
+    },
+    {
+      "lemma": "bean",
+      "pos": "n.",
+      "zh": "豆子",
+      "stars": 3,
+      "collocation": "from bean to"
+    },
+    {
+      "lemma": "forecast",
+      "pos": "n/v.",
+      "zh": "预想",
+      "stars": 3,
+      "collocation": "sales forecast for"
+    },
+    {
+      "lemma": "substitute",
+      "pos": "n/v/adj.",
+      "zh": "代理；代替",
+      "stars": 3,
+      "collocation": "cheap substitute"
+    },
+    {
+      "lemma": "community",
+      "pos": "n.",
+      "zh": "社区",
+      "stars": 5,
+      "collocation": "Our community food"
+    },
+    {
+      "lemma": "detail",
+      "pos": "n/v.",
+      "zh": "细节；详述",
+      "stars": 4,
+      "collocation": "technical detail in"
+    },
+    {
+      "lemma": "facility",
+      "pos": "n.",
+      "zh": "容易",
+      "stars": 4,
+      "collocation": "new facility today"
+    },
+    {
+      "lemma": "mainly",
+      "pos": "adv.",
+      "zh": "主要地",
+      "stars": 4,
+      "collocation": "is mainly local"
+    },
+    {
+      "lemma": "loan",
+      "pos": "n/v.",
+      "zh": "贷款；借",
+      "stars": 4,
+      "collocation": "bank loan arrives"
+    },
+    {
+      "lemma": "poll",
+      "pos": "n/v/adj.",
+      "zh": "投票；对...进行民意测验",
+      "stars": 4,
+      "collocation": "new poll predicts"
+    },
+    {
+      "lemma": "previously",
+      "pos": "adv.",
+      "zh": "先",
+      "stars": 3,
+      "collocation": "Previously the"
+    },
+    {
+      "lemma": "reduction",
+      "pos": "n.",
+      "zh": "减少",
+      "stars": 3,
+      "collocation": "sharp reduction in"
+    },
+    {
+      "lemma": "cope",
+      "pos": "v/n.",
+      "zh": "竞争；长袍",
+      "stars": 3,
+      "collocation": "aunt copes for"
+    },
+    {
+      "lemma": "engage",
+      "pos": "v.",
+      "zh": "答应；使忙碌",
+      "stars": 3,
+      "collocation": "to engage this"
+    },
+    {
+      "lemma": "recovery",
+      "pos": "n.",
+      "zh": "恢复",
+      "stars": 3,
+      "collocation": "slow recovery after"
+    },
+    {
+      "lemma": "sake",
+      "pos": "n.",
+      "zh": "目的",
+      "stars": 3,
+      "collocation": "the sake of"
+    },
+    {
+      "lemma": "lover",
+      "pos": "n.",
+      "zh": "爱人",
+      "stars": 3,
+      "collocation": "a lover of"
+    },
+    {
+      "lemma": "margin",
+      "pos": "n/v.",
+      "zh": "页边的空白；加边于",
+      "stars": 3,
+      "collocation": "small margin starts"
+    },
+    {
+      "lemma": "reverse",
+      "pos": "n/adj/v.",
+      "zh": "相反；反面的",
+      "stars": 3,
+      "collocation": "may reverse straight"
+    },
+    {
+      "lemma": "fleet",
+      "pos": "n/adj/adv/v.",
+      "zh": "舰队；快速的",
+      "stars": 3,
+      "collocation": "a fleet of"
+    },
+    {
+      "lemma": "giant",
+      "pos": "n/adj.",
+      "zh": "巨人；庞大的",
+      "stars": 3,
+      "collocation": "A giant retailer"
+    },
+    {
+      "lemma": "stem",
+      "pos": "n/v.",
+      "zh": "茎；摘掉茎",
+      "stars": 3,
+      "collocation": "cannot stem it"
+    },
+    {
+      "lemma": "heal",
+      "pos": "v.",
+      "zh": "痊愈；使复原",
+      "stars": 3,
+      "collocation": "to heal"
+    },
+    {
+      "lemma": "client",
+      "pos": "n.",
+      "zh": "客户",
+      "stars": 3,
+      "collocation": "One client is"
+    },
+    {
+      "lemma": "assault",
+      "pos": "n/v.",
+      "zh": "攻击；袭击",
+      "stars": 3,
+      "collocation": "an assault outside"
+    },
+    {
+      "lemma": "riot",
+      "pos": "n/v.",
+      "zh": "暴动；发动",
+      "stars": 3,
+      "collocation": "a riot follows"
+    },
+    {
+      "lemma": "confrontation",
+      "pos": "n.",
+      "zh": "对抗",
+      "stars": 3,
+      "collocation": "loud confrontation turns"
+    },
+    {
+      "lemma": "based",
+      "pos": "v.",
+      "zh": "立基于",
+      "stars": 5,
+      "collocation": "are based on"
+    },
+    {
+      "lemma": "thirtieth",
+      "pos": "num.",
+      "zh": "第三十",
+      "stars": 4,
+      "collocation": "the thirtieth week"
+    },
+    {
+      "lemma": "electoral",
+      "pos": "adj.",
+      "zh": "选举人的",
+      "stars": 3,
+      "collocation": "hard electoral fight"
+    },
+    {
+      "lemma": "unidentified",
+      "pos": "adj.",
+      "zh": "未被认出的",
+      "stars": 3,
+      "collocation": "an unidentified man"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“concern” 的意思是：",
+      "options": [
+        "利润",
+        "邀请",
+        "关注；担忧",
+        "余量"
+      ],
+      "answer": 2,
+      "speak": "concern"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A giant retailer sends a ___ of vans down our street.",
+      "options": [
+        "flow",
+        "fleet",
+        "poll",
+        "loan"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“substitute” 的意思是：",
+      "options": [
+        "补贴",
+        "替代品",
+        "预测",
+        "执照"
+      ],
+      "answer": 1,
+      "speak": "substitute"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A new ___ predicts a hard electoral fight this autumn.",
+      "options": [
+        "loan",
+        "margin",
+        "detail",
+        "poll"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A loud confrontation turns into an ___ outside the front gate.",
+      "options": [
+        "assault",
+        "audience",
+        "recovery",
+        "invitation"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“unfair” 的意思是：",
+      "options": [
+        "技术的",
+        "临时的",
+        "不公平的",
+        "主要的"
+      ],
+      "answer": 2,
+      "speak": "unfair"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A sharp reduction in waste speeds our slow ___.",
+      "options": [
+        "margin",
+        "recovery",
+        "fleet",
+        "flow"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "Beneath the old stairs we ___ a dry store room.",
+      "options": [
+        "combine",
+        "reverse",
+        "heal",
+        "construct"
+      ],
+      "answer": 3
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "Our ",
+        "hint": "co",
+        "after": " food bank opens a small new facility today.",
+        "answer": "community"
+      },
+      {
+        "before": "A giant retailer sends a ",
+        "hint": "fl",
+        "after": " of vans down our street.",
+        "answer": "fleet"
+      },
+      {
+        "before": "A new ",
+        "hint": "po",
+        "after": " predicts a hard electoral fight this autumn.",
+        "answer": "poll"
+      },
+      {
+        "before": "A bank ",
+        "hint": "lo",
+        "after": " arrives with a hopeful sales forecast for spring.",
+        "answer": "loan"
+      },
+      {
+        "before": "My aunt ",
+        "hint": "co",
+        "after": " for the sake of each hungry child.",
+        "answer": "copes"
+      },
+      {
+        "before": "One technical ",
+        "hint": "de",
+        "after": " in the form delays the aid.",
+        "answer": "detail"
+      },
+      {
+        "before": "Beneath the old stairs we ",
+        "hint": "co",
+        "after": " a dry store room.",
+        "answer": "construct"
+      },
+      {
+        "before": "The daily ",
+        "hint": "fl",
+        "after": " of gifts helps us split the work.",
+        "answer": "flow"
+      },
+      {
+        "before": "My ",
+        "hint": "ar",
+        "after": " friend donates prints, and literature fills two boxes.",
+        "answer": "artist"
+      },
+      {
+        "before": "His ",
+        "hint": "th",
+        "after": " is sore, but his intent stays pure.",
+        "answer": "throat"
+      }
+    ],
+    "b3": [
+      {
+        "before": "The goal is simple, but money is a serious ",
+        "hint": "c",
+        "after": ".",
+        "answer": "concern"
+      },
+      {
+        "before": "A warm ",
+        "hint": "i",
+        "after": " asks every neighbour to engage this week.",
+        "answer": "invitation"
+      },
+      {
+        "before": "A loud ",
+        "hint": "c",
+        "after": " turns into an assault outside the front gate.",
+        "answer": "confrontation"
+      },
+      {
+        "before": "Our small ",
+        "hint": "m",
+        "after": " starts to slide, and we cannot stem it.",
+        "answer": "margin"
+      },
+      {
+        "before": "A sharp reduction in waste speeds our slow ",
+        "hint": "r",
+        "after": " after months.",
+        "answer": "recovery"
+      },
+      {
+        "before": "Her ",
+        "hint": "p",
+        "after": " and her daily occupation are the same.",
+        "answer": "profession"
+      },
+      {
+        "before": "My small shop ",
+        "hint": "s",
+        "after": ", and the whole town starts to heal.",
+        "answer": "survives"
+      },
+      {
+        "before": "We ",
+        "hint": "c",
+        "after": " rice and bread as a cheap substitute.",
+        "answer": "combine"
+      },
+      {
+        "before": "Later the rules that ",
+        "hint": "g",
+        "after": " grants are based on real need.",
+        "answer": "govern"
+      },
+      {
+        "before": "My small shop survives, and the whole town starts to ",
+        "hint": "h",
+        "after": ".",
+        "answer": "heal"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我们的社区食物银行今天启用一处小小的新场所。",
+        "keywords": [
+          "community",
+          "facility"
+        ]
+      },
+      {
+        "zh": "架上的每样东西，从豆子到米，永远免费。",
+        "keywords": [
+          "product",
+          "bean"
+        ]
+      },
+      {
+        "zh": "一家零售巨头派出一支车队开进我们这条街。",
+        "keywords": [
+          "giant",
+          "fleet"
+        ]
+      },
+      {
+        "zh": "我们微薄的利润开始下滑，我们止不住。",
+        "keywords": [
+          "margin",
+          "slide",
+          "stem"
+        ]
+      },
+      {
+        "zh": "一笔银行贷款到账，还附着一份对春季销售的乐观预测。",
+        "keywords": [
+          "loan",
+          "forecast"
+        ]
+      },
+      {
+        "zh": "以前董事会给得很少，但第三十周可能会影响到我们。",
+        "keywords": [
+          "previously",
+          "thirtieth",
+          "affect"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 290,
+    "sentences": 28,
+    "newDensity": 0.203,
+    "targetTokenDensity": 0.203,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（7 次）",
+      "Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p44：约 288 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

@@ -1,0 +1,101 @@
+{
+ "ok": true,
+ "problems": [],
+ "main": {
+  "total": 2953,
+  "passages": 50,
+  "sizes": [
+   60,
+   60,
+   60,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59,
+   59
+  ],
+  "per_passage": "59–60",
+  "zhongkao": 1258,
+  "route_passages": 22,
+  "route_capacity": 1301,
+  "star_counts": {
+   "3": 1386,
+   "4": 967,
+   "5": 600
+  },
+  "pos_capability_min": {
+   "n": 38,
+   "v": 20,
+   "aa": 13
+  },
+  "family_collisions": 0
+ },
+ "supplement": {
+  "total": 289,
+  "passages": 5,
+  "sizes": [
+   58,
+   58,
+   58,
+   58,
+   57
+  ],
+  "per_passage": "57–58",
+  "stars": 0,
+  "star_source": "zhongkao",
+  "pos_capability_min": {
+   "n": 46,
+   "v": 20,
+   "aa": 12
+  },
+  "family_collisions": 0
+ },
+ "combined": {
+  "total": 3242,
+  "passages": 55,
+  "zhongkao": 1547,
+  "route_passages": 27
+ }
+}

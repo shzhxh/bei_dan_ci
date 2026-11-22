@@ -1,0 +1,831 @@
+{
+  "id": "p46",
+  "title": "Poetry Under a Desert Roof",
+  "titleZh": "沙漠屋顶下的诗歌",
+  "topic": "沙漠小镇诗歌节与气候",
+  "paragraphs": [
+    [
+      {
+        "en": "A small desert town prepares for a yearly poetry night.",
+        "zh": "一座小小的沙漠小镇正在筹备一年一度的诗歌之夜。"
+      },
+      {
+        "en": "A national journalist covers the event for a city paper.",
+        "zh": "一位全国性的记者为一家城市报纸报道这场活动。"
+      },
+      {
+        "en": "Her channel puts a clear focus on climate and local voices.",
+        "zh": "她的频道把明确的焦点放在气候和本地声音上。"
+      },
+      {
+        "en": "The town has seen steady economic growth since last spring.",
+        "zh": "自去年春天以来，小镇出现了稳定的经济增长。"
+      },
+      {
+        "en": "Small shops suffer when the local currency falls again.",
+        "zh": "当本地货币再次下跌时，小店会受苦。"
+      },
+      {
+        "en": "My cousin's physical work on the bare ground tires the crew.",
+        "zh": "我表姐在裸露地面上的体力劳动让工队很累。"
+      },
+      {
+        "en": "A partner group sends a young representative to speak.",
+        "zh": "一个合作团体派出一位年轻代表发言。"
+      },
+      {
+        "en": "Visitors observe a local tradition of sharing sweet tea.",
+        "zh": "来访者观察到分享甜茶的本地传统。"
+      },
+      {
+        "en": "An evening reading takes place under a wide cloth roof.",
+        "zh": "一场晚间朗读在一块宽大的布顶下举行。"
+      },
+      {
+        "en": "A contemporary dance follows the old rhythm and cycle of seasons.",
+        "zh": "一支当代舞蹈跟随季节的古老节奏与循环。"
+      }
+    ],
+    [
+      {
+        "en": "One actor must overcome a cough and a cigarette smell.",
+        "zh": "一位演员必须克服咳嗽和一股香烟味。"
+      },
+      {
+        "en": "Classical music plays while a rugby team warms up.",
+        "zh": "古典音乐响起，一支橄榄球队在热身。"
+      },
+      {
+        "en": "A loose string makes the young musician stop and laugh.",
+        "zh": "一根松了的弦让年轻乐手停下来大笑。"
+      },
+      {
+        "en": "A bunch of flowers helps her impress the visiting judge.",
+        "zh": "一束花帮助她给来访的评委留下印象。"
+      },
+      {
+        "en": "A thorough report offers one clear statistic on rainfall.",
+        "zh": "一份详尽的报告给出了一个关于降雨的清楚统计数字。"
+      },
+      {
+        "en": "Then they release a short report on species near the wells.",
+        "zh": "然后他们发布了一份关于井边物种的简短报告。"
+      },
+      {
+        "en": "A film commission praises the quiet presence of the dunes.",
+        "zh": "一个电影委员会称赞沙丘安静的在场感。"
+      },
+      {
+        "en": "A democratic vote chooses the fashion of the opening parade.",
+        "zh": "一次民主投票选出了开幕游行的时装风格。"
+      },
+      {
+        "en": "Her teaching sets a warm tone and raises consciousness.",
+        "zh": "她的教学定下温暖的基调，并提升了意识。"
+      },
+      {
+        "en": "Later a licence lets the music run past midnight, changing every perspective.",
+        "zh": "后来一张执照让音乐持续到午夜之后，改变了每个人的视角。"
+      }
+    ],
+    [
+      {
+        "en": "An advanced recipe adds one secret local ingredient.",
+        "zh": "一份高级食谱加入了一种秘密的本地食材。"
+      },
+      {
+        "en": "My father avoids excess and notes a marked drop in waste.",
+        "zh": "我父亲避免过度，并注意到浪费明显下降。"
+      },
+      {
+        "en": "A veteran player shows a bloody cut on his arm.",
+        "zh": "一位老球员展示手臂上一道流血的伤口。"
+      },
+      {
+        "en": "A coalition of groups tries a new tactic at the well.",
+        "zh": "一个团体联盟在井边尝试新策略。"
+      },
+      {
+        "en": "During the final week they seal a water pact and get everyone involved.",
+        "zh": "在最后一周，他们缔结了一份用水协议，并让每个人都参与进来。"
+      },
+      {
+        "en": "The millionth visitor certainly receives a warm welcome.",
+        "zh": "第一百万位访客当然受到了热烈欢迎。"
+      },
+      {
+        "en": "The programme lists music, food, dance, etc., on frequent posters.",
+        "zh": "节目单把音乐、食物、舞蹈等列在频繁出现的海报上。"
+      },
+      {
+        "en": "My uncle will sign a new deal after the bus strike ends.",
+        "zh": "我叔叔将在公交罢工结束后签署一项新协议。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "event",
+      "pos": "n.",
+      "zh": "事件",
+      "stars": 5,
+      "collocation": "the event for a"
+    },
+    {
+      "lemma": "sign",
+      "pos": "n./v.",
+      "zh": "符号",
+      "stars": 5,
+      "collocation": "will sign a new"
+    },
+    {
+      "lemma": "certainly",
+      "pos": "adv.",
+      "zh": "确定地",
+      "stars": 4,
+      "collocation": "visitor certainly receives a"
+    },
+    {
+      "lemma": "growth",
+      "pos": "n.",
+      "zh": "生长",
+      "stars": 4,
+      "collocation": "economic growth since last"
+    },
+    {
+      "lemma": "suffer",
+      "pos": "v.",
+      "zh": "遭受",
+      "stars": 4,
+      "collocation": "shops suffer when the"
+    },
+    {
+      "lemma": "physical",
+      "pos": "adj./n.",
+      "zh": "身体的",
+      "stars": 4,
+      "collocation": "cousin's physical work on"
+    },
+    {
+      "lemma": "partner",
+      "pos": "n./v.",
+      "zh": "合伙人",
+      "stars": 4,
+      "collocation": "A partner group sends"
+    },
+    {
+      "lemma": "strike",
+      "pos": "n./v.",
+      "zh": "罢工",
+      "stars": 4,
+      "collocation": "bus strike ends."
+    },
+    {
+      "lemma": "representative",
+      "pos": "n./adj.",
+      "zh": "代表",
+      "stars": 4,
+      "collocation": "young representative to speak."
+    },
+    {
+      "lemma": "channel",
+      "pos": "n./v.",
+      "zh": "海峡",
+      "stars": 4,
+      "collocation": "Her channel puts a"
+    },
+    {
+      "lemma": "focus",
+      "pos": "n./v.",
+      "zh": "焦点",
+      "stars": 4,
+      "collocation": "clear focus on climate"
+    },
+    {
+      "lemma": "currency",
+      "pos": "n.",
+      "zh": "货币",
+      "stars": 4,
+      "collocation": "local currency falls again."
+    },
+    {
+      "lemma": "journalist",
+      "pos": "n.",
+      "zh": "新闻记者",
+      "stars": 4,
+      "collocation": "national journalist covers the"
+    },
+    {
+      "lemma": "frequent",
+      "pos": "adj./v.",
+      "zh": "时常发生的",
+      "stars": 4,
+      "collocation": "on frequent posters."
+    },
+    {
+      "lemma": "observe",
+      "pos": "v.",
+      "zh": "觉察到",
+      "stars": 3,
+      "collocation": "Visitors observe a local"
+    },
+    {
+      "lemma": "tradition",
+      "pos": "n.",
+      "zh": "传说",
+      "stars": 3,
+      "collocation": "local tradition of sharing"
+    },
+    {
+      "lemma": "reading",
+      "pos": "n./adj.",
+      "zh": "阅读",
+      "stars": 3,
+      "collocation": "evening reading takes place"
+    },
+    {
+      "lemma": "roof",
+      "pos": "n./v.",
+      "zh": "屋顶",
+      "stars": 3,
+      "collocation": "cloth roof."
+    },
+    {
+      "lemma": "contemporary",
+      "pos": "n./adj.",
+      "zh": "同时代的人",
+      "stars": 3,
+      "collocation": "A contemporary dance follows"
+    },
+    {
+      "lemma": "cycle",
+      "pos": "n./v.",
+      "zh": "周期",
+      "stars": 3,
+      "collocation": "and cycle of seasons."
+    },
+    {
+      "lemma": "cigarette",
+      "pos": "n.",
+      "zh": "香烟",
+      "stars": 3,
+      "collocation": "a cigarette smell."
+    },
+    {
+      "lemma": "overcome",
+      "pos": "v.",
+      "zh": "战胜",
+      "stars": 3,
+      "collocation": "must overcome a cough"
+    },
+    {
+      "lemma": "classical",
+      "pos": "adj.",
+      "zh": "古典的",
+      "stars": 3,
+      "collocation": "Classical music plays"
+    },
+    {
+      "lemma": "climate",
+      "pos": "n.",
+      "zh": "气候",
+      "stars": 3,
+      "collocation": "on climate and local"
+    },
+    {
+      "lemma": "rugby",
+      "pos": "n.",
+      "zh": "橄榄球",
+      "stars": 3,
+      "collocation": "a rugby team warms"
+    },
+    {
+      "lemma": "loose",
+      "pos": "n./adj./v.",
+      "zh": "发射",
+      "stars": 3,
+      "collocation": "A loose string makes"
+    },
+    {
+      "lemma": "bare",
+      "pos": "adj./v.",
+      "zh": "赤裸的",
+      "stars": 3,
+      "collocation": "the bare ground tires"
+    },
+    {
+      "lemma": "desert",
+      "pos": "n./adj./v.",
+      "zh": "沙漠",
+      "stars": 3,
+      "collocation": "small desert town prepares"
+    },
+    {
+      "lemma": "musician",
+      "pos": "n.",
+      "zh": "音乐家",
+      "stars": 3,
+      "collocation": "young musician stop and"
+    },
+    {
+      "lemma": "impress",
+      "pos": "n./v.",
+      "zh": "印象",
+      "stars": 3,
+      "collocation": "her impress the visiting"
+    },
+    {
+      "lemma": "bunch",
+      "pos": "n.",
+      "zh": "串",
+      "stars": 3,
+      "collocation": "A bunch of flowers"
+    },
+    {
+      "lemma": "thorough",
+      "pos": "adj.",
+      "zh": "十分的",
+      "stars": 3,
+      "collocation": "A thorough report offers"
+    },
+    {
+      "lemma": "economic",
+      "pos": "adj.",
+      "zh": "经济上的",
+      "stars": 5,
+      "collocation": "steady economic growth since"
+    },
+    {
+      "lemma": "release",
+      "pos": "n./v.",
+      "zh": "释放",
+      "stars": 5,
+      "collocation": "they release a short"
+    },
+    {
+      "lemma": "commission",
+      "pos": "n./v.",
+      "zh": "委任状",
+      "stars": 4,
+      "collocation": "film commission praises the"
+    },
+    {
+      "lemma": "presence",
+      "pos": "n.",
+      "zh": "出席",
+      "stars": 4,
+      "collocation": "quiet presence of the"
+    },
+    {
+      "lemma": "democratic",
+      "pos": "adj.",
+      "zh": "民主的",
+      "stars": 4,
+      "collocation": "A democratic vote chooses"
+    },
+    {
+      "lemma": "fashion",
+      "pos": "n./v.",
+      "zh": "流行",
+      "stars": 4,
+      "collocation": "the fashion of the"
+    },
+    {
+      "lemma": "species",
+      "pos": "n.",
+      "zh": "种",
+      "stars": 3,
+      "collocation": "on species near the"
+    },
+    {
+      "lemma": "teaching",
+      "pos": "n.",
+      "zh": "教学",
+      "stars": 3,
+      "collocation": "Her teaching sets a"
+    },
+    {
+      "lemma": "tone",
+      "pos": "n./v.",
+      "zh": "音调",
+      "stars": 3,
+      "collocation": "warm tone and raises"
+    },
+    {
+      "lemma": "licence",
+      "pos": "n./v.",
+      "zh": "执照",
+      "stars": 3,
+      "collocation": "a licence lets the"
+    },
+    {
+      "lemma": "perspective",
+      "pos": "n./adj.",
+      "zh": "远景",
+      "stars": 3,
+      "collocation": "every perspective."
+    },
+    {
+      "lemma": "advanced",
+      "pos": "adj.",
+      "zh": "在前的",
+      "stars": 3,
+      "collocation": "An advanced recipe adds"
+    },
+    {
+      "lemma": "poetry",
+      "pos": "n.",
+      "zh": "诗",
+      "stars": 3,
+      "collocation": "yearly poetry night."
+    },
+    {
+      "lemma": "consciousness",
+      "pos": "n.",
+      "zh": "意识",
+      "stars": 3,
+      "collocation": "raises consciousness."
+    },
+    {
+      "lemma": "rhythm",
+      "pos": "n.",
+      "zh": "旋律",
+      "stars": 3,
+      "collocation": "old rhythm and cycle"
+    },
+    {
+      "lemma": "ingredient",
+      "pos": "n.",
+      "zh": "成分",
+      "stars": 3,
+      "collocation": "local ingredient."
+    },
+    {
+      "lemma": "excess",
+      "pos": "n./adj.",
+      "zh": "过度",
+      "stars": 3,
+      "collocation": "avoids excess and notes"
+    },
+    {
+      "lemma": "veteran",
+      "pos": "n./adj.",
+      "zh": "老手",
+      "stars": 3,
+      "collocation": "A veteran player shows"
+    },
+    {
+      "lemma": "bloody",
+      "pos": "adj.",
+      "zh": "血腥的",
+      "stars": 3,
+      "collocation": "a bloody cut on"
+    },
+    {
+      "lemma": "coalition",
+      "pos": "n.",
+      "zh": "结合体",
+      "stars": 3,
+      "collocation": "A coalition of groups"
+    },
+    {
+      "lemma": "tactic",
+      "pos": "n./adj.",
+      "zh": "一项战术",
+      "stars": 3,
+      "collocation": "new tactic at the"
+    },
+    {
+      "lemma": "pact",
+      "pos": "n.",
+      "zh": "契约",
+      "stars": 3,
+      "collocation": "water pact and get"
+    },
+    {
+      "lemma": "involved",
+      "pos": "adj.",
+      "zh": "难懂的",
+      "stars": 4,
+      "collocation": "everyone involved."
+    },
+    {
+      "lemma": "millionth",
+      "pos": "adj./n.",
+      "zh": "第一百万的",
+      "stars": 4,
+      "collocation": "The millionth visitor certainly"
+    },
+    {
+      "lemma": "etc",
+      "pos": "adv.",
+      "zh": "及其他",
+      "stars": 3,
+      "collocation": "dance, etc., on frequent"
+    },
+    {
+      "lemma": "marked",
+      "pos": "adj.",
+      "zh": "有记号的",
+      "stars": 3,
+      "collocation": "a marked drop in"
+    },
+    {
+      "lemma": "statistic",
+      "pos": "n./adj.",
+      "zh": "统计量",
+      "stars": 3,
+      "collocation": "clear statistic on rainfall."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“desert” 的意思是：",
+      "options": [
+        "沙漠",
+        "森林",
+        "山谷",
+        "海岸"
+      ],
+      "answer": 0,
+      "speak": "desert"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A national journalist covers the ___ for a city paper.",
+      "options": [
+        "event",
+        "roof",
+        "pact",
+        "tone"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“currency” 的意思是：",
+      "options": [
+        "货币",
+        "传统",
+        "意识",
+        "视角"
+      ],
+      "answer": 0,
+      "speak": "currency"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A contemporary dance follows the old ___ and cycle of seasons.",
+      "options": [
+        "rhythm",
+        "excess",
+        "licence",
+        "commission"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A thorough report offers one clear ___ on rainfall.",
+      "options": [
+        "statistic",
+        "ingredient",
+        "tactic",
+        "presence"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“veteran” 的意思是：",
+      "options": [
+        "经验丰富的",
+        "当代的",
+        "民主的",
+        "松的"
+      ],
+      "answer": 0,
+      "speak": "veteran"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "The millionth visitor ___ receives a warm welcome.",
+      "options": [
+        "certainly",
+        "badly",
+        "merely",
+        "fully"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“coalition” 的意思是：",
+      "options": [
+        "联盟",
+        "委员会",
+        "执照",
+        "仪式"
+      ],
+      "answer": 0,
+      "speak": "coalition"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "A small desert town prepares for a yearly ",
+        "hint": "po",
+        "after": " night.",
+        "answer": "poetry"
+      },
+      {
+        "before": "A national journalist covers the ",
+        "hint": "ev",
+        "after": " for a city paper.",
+        "answer": "event"
+      },
+      {
+        "before": "Her channel puts a clear focus on ",
+        "hint": "cl",
+        "after": " and local voices.",
+        "answer": "climate"
+      },
+      {
+        "before": "The town has seen steady ",
+        "hint": "ec",
+        "after": " growth since last spring.",
+        "answer": "economic"
+      },
+      {
+        "before": "Small shops suffer when the local ",
+        "hint": "cu",
+        "after": " falls again.",
+        "answer": "currency"
+      },
+      {
+        "before": "My cousin's ",
+        "hint": "ph",
+        "after": " work on the bare ground tires the crew.",
+        "answer": "physical"
+      },
+      {
+        "before": "A partner group sends a young ",
+        "hint": "re",
+        "after": " to speak.",
+        "answer": "representative"
+      },
+      {
+        "before": "Visitors observe a local ",
+        "hint": "tr",
+        "after": " of sharing sweet tea.",
+        "answer": "tradition"
+      },
+      {
+        "before": "An evening ",
+        "hint": "re",
+        "after": " takes place under a wide cloth roof.",
+        "answer": "reading"
+      },
+      {
+        "before": "A ",
+        "hint": "co",
+        "after": " dance follows the old rhythm and cycle of seasons.",
+        "answer": "contemporary"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Her teaching sets a warm ",
+        "hint": "to",
+        "after": " and raises consciousness.",
+        "answer": "tone"
+      },
+      {
+        "before": "Later a licence lets the music run past midnight, changing every ",
+        "hint": "pe",
+        "after": ".",
+        "answer": "perspective"
+      },
+      {
+        "before": "An advanced recipe adds one secret local ",
+        "hint": "in",
+        "after": ".",
+        "answer": "ingredient"
+      },
+      {
+        "before": "My father avoids excess and notes a ",
+        "hint": "ma",
+        "after": " drop in waste.",
+        "answer": "marked"
+      },
+      {
+        "before": "A veteran player shows a ",
+        "hint": "bl",
+        "after": " cut on his arm.",
+        "answer": "bloody"
+      },
+      {
+        "before": "A coalition of groups tries a new ",
+        "hint": "ta",
+        "after": " at the well.",
+        "answer": "tactic"
+      },
+      {
+        "before": "During the final week they seal a water pact and get everyone ",
+        "hint": "in",
+        "after": ".",
+        "answer": "involved"
+      },
+      {
+        "before": "The ",
+        "hint": "mi",
+        "after": " visitor certainly receives a warm welcome.",
+        "answer": "millionth"
+      },
+      {
+        "before": "The programme lists music, food, dance, etc., on ",
+        "hint": "fr",
+        "after": " posters.",
+        "answer": "frequent"
+      },
+      {
+        "before": "My uncle will sign a new deal after the bus ",
+        "hint": "st",
+        "after": " ends.",
+        "answer": "strike"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "一座小小的沙漠小镇正在筹备一年一度的诗歌之夜。",
+        "keywords": [
+          "desert",
+          "poetry",
+          "night"
+        ]
+      },
+      {
+        "zh": "我表姐在裸露地面上的体力劳动让工队很累。",
+        "keywords": [
+          "physical",
+          "bare",
+          "crew"
+        ]
+      },
+      {
+        "zh": "一支当代舞蹈跟随季节的古老节奏与循环。",
+        "keywords": [
+          "contemporary",
+          "rhythm",
+          "cycle"
+        ]
+      },
+      {
+        "zh": "一个电影委员会称赞沙丘安静的在场感。",
+        "keywords": [
+          "commission",
+          "presence",
+          "dunes"
+        ]
+      },
+      {
+        "zh": "一个团体联盟在井边尝试新策略。",
+        "keywords": [
+          "coalition",
+          "tactic",
+          "well"
+        ]
+      },
+      {
+        "zh": "我叔叔将在公交罢工结束后签署一项新协议。",
+        "keywords": [
+          "sign",
+          "strike",
+          "deal"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 283,
+    "sentences": 28,
+    "newDensity": 0.208,
+    "targetTokenDensity": 0.208,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写沙漠小镇的年度诗歌之夜：记者与频道、经济增长与货币下跌、体力劳动、橄榄球与流血伤口、详尽报告与物种统计，结尾是用水协议、第一百万位访客与罢工后的新协议。"
+}

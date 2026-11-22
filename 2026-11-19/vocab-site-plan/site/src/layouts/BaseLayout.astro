@@ -1,0 +1,121 @@
+---
+import '../styles/global.css';
+import { getCatalog } from '../lib/catalog.server';
+import { isActive, url } from '../lib/paths';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = '背单词 · 55 篇短文',
+  description = '主线 50 篇覆盖 2,953 个 Collins 3–5★ 词，考纲补漏 5 篇补齐 289 个无星级中考词；55 篇共 3,242 词。纯静态、无账号、无后端，学习进度只存本地。',
+} = Astro.props;
+
+const catalog = getCatalog();
+const clientCatalog = {
+  passages: catalog.passages.map((passage) => ({
+    id: passage.id,
+    slug: passage.slug,
+    order: passage.order,
+    title: passage.title,
+    titleZh: passage.titleZh,
+    topic: passage.topic,
+    stage: passage.stage,
+    track: passage.track,
+    inZhongkaoRoute: passage.inZhongkaoRoute,
+    targetCount: passage.targetCount,
+    wordCount: passage.wordCount,
+    hasContent: Boolean(passage.content),
+  })),
+  totals: catalog.totals,
+};
+const catalogJson = JSON.stringify(clientCatalog).replace(/</g, '\\u003c');
+
+const pathname = Astro.url.pathname;
+const navItems = [
+  { href: url('/'), label: '首页' },
+  { href: url('/course/'), label: '课程' },
+  { href: url('/review/'), label: '复习' },
+  { href: url('/me/'), label: '进度' },
+  { href: url('/method/'), label: '方法' },
+  { href: url('/about/'), label: '关于' },
+];
+const fullTitle = title.includes('背单词') ? title : `${title} · 背单词 55 篇`;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#f4f1e8" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#141815" media="(prefers-color-scheme: dark)" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <link rel="icon" href={url('/favicon.svg')} type="image/svg+xml" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">跳到正文</a>
+    <header class="site-header">
+      <div class="container">
+        <a class="brand" href={url('/')}>
+          <span class="brand-mark" aria-hidden="true">词</span>
+          <span>背单词</span>
+          <small>55 篇短文</small>
+        </a>
+        <nav class="site-nav" aria-label="主导航">
+          {
+            navItems.map((item) => {
+              const active =
+                isActive(pathname, item.href) ||
+                (item.href === url('/course/') && /\/p\/[^/]+\/?$/.test(pathname));
+              return (
+                <a href={item.href} aria-current={active ? 'page' : undefined}>
+                  {item.label}
+                </a>
+              );
+            })
+          }
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <slot />
+    </main>
+
+    <script type="application/json" id="site-catalog" set:html={catalogJson}></script>
+
+    <footer class="site-footer">
+      <div class="container">
+        <span>个人非营利学习站 · 无账号 · 无统计 · 进度仅存本地</span>
+        <span class="footer-spacer"></span>
+        <a href={url('/method/')}>方法</a>
+        <a href={url('/about/')}>许可与数据来源</a>
+        <a href="https://github.com/" rel="noopener">GitHub</a>
+      </div>
+    </footer>
+
+    <div class="toast" id="site-toast" role="status" aria-live="polite"></div>
+    <script>
+      const toast = document.getElementById('site-toast');
+      let toastTimer: number | undefined;
+      const showToast = (message: string) => {
+        if (!toast) return;
+        toast.textContent = message;
+        toast.classList.add('is-visible');
+        window.clearTimeout(toastTimer);
+        toastTimer = window.setTimeout(() => toast.classList.remove('is-visible'), 2400);
+      };
+      window.addEventListener('vocab:toast', (event) => {
+        showToast((event as CustomEvent<string>).detail);
+      });
+    </script>
+  </body>
+</html>

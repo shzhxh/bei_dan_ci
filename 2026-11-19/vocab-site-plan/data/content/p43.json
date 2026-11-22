@@ -1,0 +1,829 @@
+{
+  "id": "p43",
+  "title": "After the Flood",
+  "titleZh": "洪水之后",
+  "topic": "洪灾救援与重建",
+  "paragraphs": [
+    [
+      {
+        "en": "Our committee meets tonight to announce a new aid plan.",
+        "zh": "我们的委员会今晚开会，宣布一项新的援助计划。"
+      },
+      {
+        "en": "A massive flood ruined the agricultural land below our town.",
+        "zh": "一场大洪水毁掉了我们镇下游的农田。"
+      },
+      {
+        "en": "The subject shocks every family, and the pain feels real.",
+        "zh": "这个话题让每家每户都震惊，痛苦也真切可感。"
+      },
+      {
+        "en": "Then a broad settlement lies underwater, and help arrives very slowly.",
+        "zh": "接着，一大片定居点泡在水里，救援来得非常慢。"
+      },
+      {
+        "en": "Each cell of the temporary camp holds four wet beds.",
+        "zh": "临时营地的每个隔间里放着四张湿床。"
+      },
+      {
+        "en": "We are aware of the risk, yet the structure still stands.",
+        "zh": "我们清楚有风险，但这座建筑依然立着。"
+      }
+    ],
+    [
+      {
+        "en": "A troop of young volunteers brings clean clothing and food.",
+        "zh": "一队年轻志愿者带来了干净的衣物和食物。"
+      },
+      {
+        "en": "A neighbour helps us bury a wet tissue box and some old books.",
+        "zh": "一位邻居帮我们埋掉一个湿透的纸巾盒和几本旧书。"
+      },
+      {
+        "en": "We negotiate with one enterprise for a daily water supply.",
+        "zh": "我们与一家企业协商，争取每日供水。"
+      },
+      {
+        "en": "The upper road stays open, so a small payment passes.",
+        "zh": "上方的道路仍然通着，所以一小笔款项能送过去。"
+      },
+      {
+        "en": "My cousin helps propose a transfer of tents and blankets.",
+        "zh": "我的表亲帮忙提议调拨帐篷和毯子。"
+      },
+      {
+        "en": "A mobile clinic stops an infected cut before it spreads at all.",
+        "zh": "一辆流动诊所车在感染扩散之前处理了伤口。"
+      }
+    ],
+    [
+      {
+        "en": "A socialist member moves to resist the new safety rules.",
+        "zh": "一位社会主义派成员动议抵制新的安全规定。"
+      },
+      {
+        "en": "A critic broadcasts a short report about the camp.",
+        "zh": "一位批评家在广播里做了一段关于营地的简短报道。"
+      },
+      {
+        "en": "We label the plan bold, and the caption draws quiet laughs.",
+        "zh": "我们把这计划称为大胆之举，说明文字引来几声轻笑。"
+      },
+      {
+        "en": "A revolutionary passion runs through the whole long town meeting.",
+        "zh": "一种革命般的热情贯穿了整场漫长的镇民会议。"
+      },
+      {
+        "en": "Later the board reads the document and explores a new idea.",
+        "zh": "后来董事会读了这份文件，并探讨了一个新想法。"
+      },
+      {
+        "en": "Their conclusion is clear, and the equity gap looks huge.",
+        "zh": "他们的结论很明确，而公平上的差距看起来很大。"
+      }
+    ],
+    [
+      {
+        "en": "My old rescue team brings steady help to every street.",
+        "zh": "我原来的救援队给每条街带来稳定的帮助。"
+      },
+      {
+        "en": "The beauty of the old bridge hides damage at the rear.",
+        "zh": "老桥的美观掩盖了后部的损坏。"
+      },
+      {
+        "en": "A priest and a delegate open the shelter at noon.",
+        "zh": "一位神父和一位代表中午开放了避难所。"
+      },
+      {
+        "en": "My neighbour files a motion, whilst the council keeps silent.",
+        "zh": "我的邻居提交了一项动议，而议会保持沉默。"
+      },
+      {
+        "en": "Then workers convert a school into a home for each hostage.",
+        "zh": "接着工人们把一所学校改成每名受困者的住所。"
+      },
+      {
+        "en": "A premium price could trigger a rush for dry land.",
+        "zh": "高价可能引发对干燥土地的一轮抢购。"
+      }
+    ],
+    [
+      {
+        "en": "The coming fiftieth anniversary draws a quiet crowd outside the hall.",
+        "zh": "即将到来的五十周年纪念把一群人静静引到礼堂外。"
+      },
+      {
+        "en": "New legislation will actually fund the whole repair work.",
+        "zh": "新的立法将真正为整项修复工程出资。"
+      },
+      {
+        "en": "That fantasy of a quick fix looks calculated and cheap.",
+        "zh": "那种快速解决的幻想显得精于算计又廉价。"
+      },
+      {
+        "en": "In reality, this transition is bound to bring an invasion of aid.",
+        "zh": "现实中，这一转变必然会带来大量援助的涌入。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "committee",
+      "pos": "n.",
+      "zh": "委员会",
+      "stars": 5,
+      "collocation": "Our committee meets"
+    },
+    {
+      "lemma": "announce",
+      "pos": "v.",
+      "zh": "宣布；当报幕员",
+      "stars": 5,
+      "collocation": "to announce a"
+    },
+    {
+      "lemma": "subject",
+      "pos": "n/adj/adv/v.",
+      "zh": "科目；服从的",
+      "stars": 4,
+      "collocation": "The subject shocks"
+    },
+    {
+      "lemma": "cell",
+      "pos": "n.",
+      "zh": "单元",
+      "stars": 4,
+      "collocation": "Each cell of"
+    },
+    {
+      "lemma": "aware",
+      "pos": "adj.",
+      "zh": "知道的",
+      "stars": 4,
+      "collocation": "are aware of"
+    },
+    {
+      "lemma": "document",
+      "pos": "n/v.",
+      "zh": "文件；证明",
+      "stars": 4,
+      "collocation": "the document and"
+    },
+    {
+      "lemma": "pain",
+      "pos": "n/v.",
+      "zh": "痛苦；使痛苦",
+      "stars": 4,
+      "collocation": "the pain feels"
+    },
+    {
+      "lemma": "reality",
+      "pos": "n.",
+      "zh": "实在",
+      "stars": 4,
+      "collocation": "In reality, this"
+    },
+    {
+      "lemma": "broad",
+      "pos": "adj/adv/n.",
+      "zh": "宽广的；宽阔地",
+      "stars": 4,
+      "collocation": "a broad settlement"
+    },
+    {
+      "lemma": "settlement",
+      "pos": "n.",
+      "zh": "安顿",
+      "stars": 4,
+      "collocation": "broad settlement lies"
+    },
+    {
+      "lemma": "troop",
+      "pos": "n/v.",
+      "zh": "军队；群集",
+      "stars": 4,
+      "collocation": "A troop of"
+    },
+    {
+      "lemma": "shock",
+      "pos": "n/v/adj.",
+      "zh": "震动；使震动",
+      "stars": 4,
+      "collocation": "subject shocks every"
+    },
+    {
+      "lemma": "negotiate",
+      "pos": "v.",
+      "zh": "商议；谈妥",
+      "stars": 4,
+      "collocation": "We negotiate with"
+    },
+    {
+      "lemma": "caption",
+      "pos": "n/v.",
+      "zh": "说明；加上标题",
+      "stars": 4,
+      "collocation": "the caption draws"
+    },
+    {
+      "lemma": "conclusion",
+      "pos": "n.",
+      "zh": "结论",
+      "stars": 3,
+      "collocation": "Their conclusion is"
+    },
+    {
+      "lemma": "enterprise",
+      "pos": "n.",
+      "zh": "企业",
+      "stars": 3,
+      "collocation": "one enterprise for"
+    },
+    {
+      "lemma": "upper",
+      "pos": "adj/n.",
+      "zh": "上面的；鞋帮",
+      "stars": 3,
+      "collocation": "The upper road"
+    },
+    {
+      "lemma": "explore",
+      "pos": "v.",
+      "zh": "探险",
+      "stars": 3,
+      "collocation": "and explores a"
+    },
+    {
+      "lemma": "beauty",
+      "pos": "n.",
+      "zh": "美",
+      "stars": 3,
+      "collocation": "The beauty of"
+    },
+    {
+      "lemma": "agricultural",
+      "pos": "adj.",
+      "zh": "农业的",
+      "stars": 3,
+      "collocation": "the agricultural land"
+    },
+    {
+      "lemma": "temporary",
+      "pos": "adj/n.",
+      "zh": "暂时的；临时工",
+      "stars": 3,
+      "collocation": "the temporary camp"
+    },
+    {
+      "lemma": "resist",
+      "pos": "v/n.",
+      "zh": "抵抗；防染材料",
+      "stars": 3,
+      "collocation": "to resist the"
+    },
+    {
+      "lemma": "socialist",
+      "pos": "n.",
+      "zh": "社会主义者",
+      "stars": 3,
+      "collocation": "A socialist member"
+    },
+    {
+      "lemma": "bury",
+      "pos": "v.",
+      "zh": "埋葬",
+      "stars": 3,
+      "collocation": "us bury a"
+    },
+    {
+      "lemma": "tissue",
+      "pos": "n.",
+      "zh": "薄的织物",
+      "stars": 3,
+      "collocation": "wet tissue box"
+    },
+    {
+      "lemma": "steady",
+      "pos": "adj/v.",
+      "zh": "稳定的；使稳定",
+      "stars": 3,
+      "collocation": "brings steady help"
+    },
+    {
+      "lemma": "bound",
+      "pos": "n/adj/v.",
+      "zh": "跃；受约束的",
+      "stars": 3,
+      "collocation": "is bound to"
+    },
+    {
+      "lemma": "clothing",
+      "pos": "n.",
+      "zh": "衣服",
+      "stars": 3,
+      "collocation": "clean clothing and"
+    },
+    {
+      "lemma": "fantasy",
+      "pos": "n.",
+      "zh": "幻想",
+      "stars": 3,
+      "collocation": "That fantasy of"
+    },
+    {
+      "lemma": "rescue",
+      "pos": "n/v.",
+      "zh": "援救",
+      "stars": 3,
+      "collocation": "old rescue team"
+    },
+    {
+      "lemma": "mobile",
+      "pos": "adj/n.",
+      "zh": "移动的；活动物体",
+      "stars": 3,
+      "collocation": "A mobile clinic"
+    },
+    {
+      "lemma": "broadcast",
+      "pos": "n/adj/v/adv.",
+      "zh": "广播；广播的",
+      "stars": 3,
+      "collocation": "critic broadcasts a"
+    },
+    {
+      "lemma": "actually",
+      "pos": "adv.",
+      "zh": "事实上",
+      "stars": 5,
+      "collocation": "will actually fund"
+    },
+    {
+      "lemma": "structure",
+      "pos": "n/v.",
+      "zh": "结构；构成",
+      "stars": 4,
+      "collocation": "the structure still"
+    },
+    {
+      "lemma": "payment",
+      "pos": "n.",
+      "zh": "付款",
+      "stars": 4,
+      "collocation": "small payment passes"
+    },
+    {
+      "lemma": "propose",
+      "pos": "v.",
+      "zh": "计划；打算",
+      "stars": 4,
+      "collocation": "helps propose a"
+    },
+    {
+      "lemma": "transfer",
+      "pos": "n/v.",
+      "zh": "迁移；使转移",
+      "stars": 4,
+      "collocation": "a transfer of"
+    },
+    {
+      "lemma": "critic",
+      "pos": "n.",
+      "zh": "批评家",
+      "stars": 4,
+      "collocation": "A critic broadcasts"
+    },
+    {
+      "lemma": "legislation",
+      "pos": "n.",
+      "zh": "立法",
+      "stars": 3,
+      "collocation": "New legislation will"
+    },
+    {
+      "lemma": "whilst",
+      "pos": "conj.",
+      "zh": "当...的时候",
+      "stars": 3,
+      "collocation": "motion, whilst the"
+    },
+    {
+      "lemma": "motion",
+      "pos": "n/v.",
+      "zh": "移动；打手势",
+      "stars": 3,
+      "collocation": "a motion, whilst"
+    },
+    {
+      "lemma": "massive",
+      "pos": "adj.",
+      "zh": "大而重的",
+      "stars": 3,
+      "collocation": "A massive flood"
+    },
+    {
+      "lemma": "convert",
+      "pos": "n/v.",
+      "zh": "皈依者；使改变信仰",
+      "stars": 3,
+      "collocation": "workers convert a"
+    },
+    {
+      "lemma": "priest",
+      "pos": "n.",
+      "zh": "祭司",
+      "stars": 3,
+      "collocation": "A priest and"
+    },
+    {
+      "lemma": "label",
+      "pos": "n/v.",
+      "zh": "标签；贴标签于",
+      "stars": 3,
+      "collocation": "We label the"
+    },
+    {
+      "lemma": "passion",
+      "pos": "n.",
+      "zh": "激情",
+      "stars": 3,
+      "collocation": "revolutionary passion runs"
+    },
+    {
+      "lemma": "revolutionary",
+      "pos": "n/adj.",
+      "zh": "革命者；革命的",
+      "stars": 3,
+      "collocation": "A revolutionary passion"
+    },
+    {
+      "lemma": "invasion",
+      "pos": "n.",
+      "zh": "侵犯",
+      "stars": 3,
+      "collocation": "an invasion of"
+    },
+    {
+      "lemma": "delegate",
+      "pos": "n/v.",
+      "zh": "代表；委派...为代表",
+      "stars": 3,
+      "collocation": "a delegate open"
+    },
+    {
+      "lemma": "rear",
+      "pos": "n/adj/v.",
+      "zh": "后面；后面的",
+      "stars": 3,
+      "collocation": "the rear"
+    },
+    {
+      "lemma": "infect",
+      "pos": "v.",
+      "zh": "传染",
+      "stars": 3,
+      "collocation": "an infected cut"
+    },
+    {
+      "lemma": "hostage",
+      "pos": "n.",
+      "zh": "人质",
+      "stars": 4,
+      "collocation": "each hostage"
+    },
+    {
+      "lemma": "transition",
+      "pos": "n.",
+      "zh": "转变",
+      "stars": 3,
+      "collocation": "this transition is"
+    },
+    {
+      "lemma": "premium",
+      "pos": "n.",
+      "zh": "额外补贴",
+      "stars": 3,
+      "collocation": "A premium price"
+    },
+    {
+      "lemma": "trigger",
+      "pos": "n/v.",
+      "zh": "触发器；触发",
+      "stars": 3,
+      "collocation": "could trigger a"
+    },
+    {
+      "lemma": "coming",
+      "pos": "n/adj.",
+      "zh": "来临；就要来的",
+      "stars": 5,
+      "collocation": "The coming fiftieth"
+    },
+    {
+      "lemma": "fiftieth",
+      "pos": "num.",
+      "zh": "第五十",
+      "stars": 4,
+      "collocation": "coming fiftieth anniversary"
+    },
+    {
+      "lemma": "equity",
+      "pos": "n.",
+      "zh": "公平",
+      "stars": 3,
+      "collocation": "the equity gap"
+    },
+    {
+      "lemma": "calculated",
+      "pos": "adj.",
+      "zh": "有计划的",
+      "stars": 3,
+      "collocation": "looks calculated and"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“settlement” 的意思是：",
+      "options": [
+        "定居点",
+        "委员会",
+        "帐篷",
+        "涨潮"
+      ],
+      "answer": 0,
+      "speak": "settlement"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A troop of young volunteers brings clean ___ and food.",
+      "options": [
+        "equity",
+        "clothing",
+        "motion",
+        "caption"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“steady” 的意思是：",
+      "options": [
+        "临时的",
+        "稳定的",
+        "宽阔的",
+        "上方的"
+      ],
+      "answer": 1,
+      "speak": "steady"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A ___ price could trigger a rush for dry land.",
+      "options": [
+        "premium",
+        "temporary",
+        "agricultural",
+        "steady"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A mobile clinic stops an ___ cut before it spreads at all.",
+      "options": [
+        "infected",
+        "calculated",
+        "broad",
+        "aware"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“hostage” 的意思是：",
+      "options": [
+        "企业",
+        "人质",
+        "代表",
+        "神父"
+      ],
+      "answer": 1,
+      "speak": "hostage"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "New legislation will ___ fund the whole repair work.",
+      "options": [
+        "actually",
+        "whilst",
+        "towards",
+        "mostly"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "A socialist member moves to ___ the new safety rules.",
+      "options": [
+        "bury",
+        "resist",
+        "convert",
+        "explore"
+      ],
+      "answer": 1
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "Our ",
+        "hint": "co",
+        "after": " meets tonight to announce a new aid plan.",
+        "answer": "committee"
+      },
+      {
+        "before": "A massive flood ruined the ",
+        "hint": "ag",
+        "after": " land below our town.",
+        "answer": "agricultural"
+      },
+      {
+        "before": "Each cell of the ",
+        "hint": "te",
+        "after": " camp holds four wet beds.",
+        "answer": "temporary"
+      },
+      {
+        "before": "We are ",
+        "hint": "aw",
+        "after": " of the risk, yet the structure still stands.",
+        "answer": "aware"
+      },
+      {
+        "before": "A neighbour helps us ",
+        "hint": "bu",
+        "after": " a wet tissue box and some old books.",
+        "answer": "bury"
+      },
+      {
+        "before": "The upper road stays open, so a small ",
+        "hint": "pa",
+        "after": " passes.",
+        "answer": "payment"
+      },
+      {
+        "before": "We ",
+        "hint": "la",
+        "after": " the plan bold, and the caption draws quiet laughs.",
+        "answer": "label"
+      },
+      {
+        "before": "Later the board reads the ",
+        "hint": "do",
+        "after": " and explores a new idea.",
+        "answer": "document"
+      },
+      {
+        "before": "Then workers ",
+        "hint": "co",
+        "after": " a school into a home for each hostage.",
+        "answer": "convert"
+      },
+      {
+        "before": "New ",
+        "hint": "le",
+        "after": " will actually fund the whole repair work.",
+        "answer": "legislation"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Our committee meets tonight to ",
+        "hint": "a",
+        "after": " a new aid plan.",
+        "answer": "announce"
+      },
+      {
+        "before": "Then a broad ",
+        "hint": "s",
+        "after": " lies underwater, and help arrives very slowly.",
+        "answer": "settlement"
+      },
+      {
+        "before": "A troop of young volunteers brings clean ",
+        "hint": "c",
+        "after": " and food.",
+        "answer": "clothing"
+      },
+      {
+        "before": "We negotiate with one ",
+        "hint": "e",
+        "after": " for a daily water supply.",
+        "answer": "enterprise"
+      },
+      {
+        "before": "My cousin helps ",
+        "hint": "p",
+        "after": " a transfer of tents and blankets.",
+        "answer": "propose"
+      },
+      {
+        "before": "A ",
+        "hint": "s",
+        "after": " member moves to resist the new safety rules.",
+        "answer": "socialist"
+      },
+      {
+        "before": "We label the plan bold, and the ",
+        "hint": "c",
+        "after": " draws quiet laughs.",
+        "answer": "caption"
+      },
+      {
+        "before": "A ",
+        "hint": "c",
+        "after": " broadcasts a short report about the camp.",
+        "answer": "critic"
+      },
+      {
+        "before": "That ",
+        "hint": "f",
+        "after": " of a quick fix looks calculated and cheap.",
+        "answer": "fantasy"
+      },
+      {
+        "before": "In ",
+        "hint": "r",
+        "after": ", this transition is bound to bring an invasion of aid.",
+        "answer": "reality"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我们的委员会今晚开会，宣布一项新的援助计划。",
+        "keywords": [
+          "committee",
+          "announce"
+        ]
+      },
+      {
+        "zh": "一场大洪水毁掉了我们镇下游的农田。",
+        "keywords": [
+          "massive",
+          "agricultural"
+        ]
+      },
+      {
+        "zh": "一队年轻志愿者带来了干净的衣物和食物。",
+        "keywords": [
+          "troop",
+          "clothing"
+        ]
+      },
+      {
+        "zh": "我们与一家企业协商，争取每日供水。",
+        "keywords": [
+          "negotiate",
+          "enterprise"
+        ]
+      },
+      {
+        "zh": "我原来的救援队给每条街带来稳定的帮助。",
+        "keywords": [
+          "rescue",
+          "steady"
+        ]
+      },
+      {
+        "zh": "现实中，这一转变必然会带来大量援助的涌入。",
+        "keywords": [
+          "reality",
+          "transition",
+          "invasion"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 292,
+    "sentences": 28,
+    "newDensity": 0.202,
+    "targetTokenDensity": 0.202,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（9 次）",
+      "Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p43：约 292 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

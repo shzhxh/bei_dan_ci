@@ -1,0 +1,830 @@
+{
+  "id": "p24",
+  "title": "A Summer in the Valley",
+  "titleZh": "山谷里的夏天",
+  "topic": "野外考察",
+  "paragraphs": [
+    [
+      {
+        "en": "Our aim is to study the valley through a summer program.",
+        "zh": "我们的目标是通过一个夏季项目研究这条山谷。"
+      },
+      {
+        "en": "The team recruits anyone willing to walk, watch, and work.",
+        "zh": "团队招募任何愿意走路、观察和干活的人。"
+      },
+      {
+        "en": "Then, throughout the route, we mark each plant and stone.",
+        "zh": "然后，沿整条路线，我们标记每一株植物和每一块石头。"
+      },
+      {
+        "en": "A quiet guide will accompany us alongside the cold mountain stream.",
+        "zh": "一位安静的向导会陪我们沿着冰冷的山间小溪走。"
+      },
+      {
+        "en": "Each type of landscape needs a different and careful method.",
+        "zh": "每种地形都需要不同的、细致的调查方法。"
+      },
+      {
+        "en": "We seek small signs and concentrate on every slow change.",
+        "zh": "我们寻找细小的迹象，专注于每一个缓慢的变化。"
+      },
+      {
+        "en": "The quantity of acid in the wet soil looks quite high.",
+        "zh": "湿土里的酸含量看起来相当高。"
+      },
+      {
+        "en": "Old stone pipes drain the surplus water into the lake.",
+        "zh": "旧石管把多余的水排进湖里。"
+      },
+      {
+        "en": "My sister says fresh food brings vitamin C for strong muscles.",
+        "zh": "我姐姐说新鲜食物能带来维生素C，让肌肉强健。"
+      },
+      {
+        "en": "We combat rough weather with warm coats and strong boots.",
+        "zh": "我们用暖和的外套和结实的靴子对抗恶劣天气。"
+      }
+    ],
+    [
+      {
+        "en": "Our short journal must demonstrate results, not necessarily speed.",
+        "zh": "我们简短的日志必须展示结果，不一定要展示速度。"
+      },
+      {
+        "en": "A local politician claims the little town needs more funds.",
+        "zh": "一位本地政客声称这个小镇需要更多资金。"
+      },
+      {
+        "en": "The county is responsible for this narrow, broken village road.",
+        "zh": "县里负责这条狭窄破损的村路。"
+      },
+      {
+        "en": "Our teacher is worried about our small but growing reputation.",
+        "zh": "我们的老师为我们小而渐长的名声感到担心。"
+      },
+      {
+        "en": "My teacher's kind remark gives me comfort after a long day.",
+        "zh": "老师善意的一句话让我在漫长一天后感到安慰。"
+      },
+      {
+        "en": "We confront hard facts with real sympathy, not quick anger.",
+        "zh": "我们以真正的同情而不是怒气面对严酷的事实。"
+      },
+      {
+        "en": "We never condemn an innocent helper for one honest mistake.",
+        "zh": "我们从不因一个诚实的错误责备无辜的帮手。"
+      },
+      {
+        "en": "A sudden twist in the path prompts a short rest.",
+        "zh": "小路上突然的转折让人短暂休息一下。"
+      },
+      {
+        "en": "A quiet observer peers at the birds from a rock.",
+        "zh": "一位安静的观察者从岩石上盯着那些鸟。"
+      },
+      {
+        "en": "My recording of bird song helps our small craft improve.",
+        "zh": "我录下的鸟鸣帮助我们这门小手艺进步。"
+      }
+    ],
+    [
+      {
+        "en": "A new version of the map appears within a week.",
+        "zh": "地图的新版本一周之内就会出来。"
+      },
+      {
+        "en": "Later we found that every user wants simple, clear notes.",
+        "zh": "后来我们发现每个使用者都想要简单清楚的说明。"
+      },
+      {
+        "en": "They advertise the winning photo in a small corner shop.",
+        "zh": "他们在一家街角小店展出那张获奖照片。"
+      },
+      {
+        "en": "A painting of the green hills shows a bird in flight.",
+        "zh": "一幅青山画上有一只鸟在飞翔。"
+      },
+      {
+        "en": "The loss of old trees shows a clear lack of spring rain.",
+        "zh": "老树的消失明显说明春天下雨太少。"
+      },
+      {
+        "en": "Unity and a good combination of skills bring steady results.",
+        "zh": "团结加上良好的技能组合能带来稳定的成果。"
+      },
+      {
+        "en": "Then we proceed slowly and specialize in quiet, careful field work.",
+        "zh": "然后我们慢慢推进，专门做安静细致的野外工作。"
+      },
+      {
+        "en": "A health class is supposed to discuss abortion with care.",
+        "zh": "一堂健康课应该谨慎地讨论堕胎问题。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "within",
+      "pos": "n./adv./prep.",
+      "zh": "内部",
+      "stars": 5,
+      "collocation": "appears within a week."
+    },
+    {
+      "lemma": "seek",
+      "pos": "v.",
+      "zh": "寻求",
+      "stars": 5,
+      "collocation": "We seek small signs"
+    },
+    {
+      "lemma": "type",
+      "pos": "n./v.",
+      "zh": "类型",
+      "stars": 4,
+      "collocation": "Each type of landscape"
+    },
+    {
+      "lemma": "loss",
+      "pos": "n.",
+      "zh": "损失",
+      "stars": 4,
+      "collocation": "The loss of old"
+    },
+    {
+      "lemma": "throughout",
+      "pos": "adv./prep.",
+      "zh": "到处",
+      "stars": 4,
+      "collocation": "Then, throughout the route,"
+    },
+    {
+      "lemma": "version",
+      "pos": "n.",
+      "zh": "一种描述",
+      "stars": 4,
+      "collocation": "new version of the"
+    },
+    {
+      "lemma": "lack",
+      "pos": "n./v.",
+      "zh": "缺乏",
+      "stars": 4,
+      "collocation": "clear lack of spring"
+    },
+    {
+      "lemma": "aim",
+      "pos": "n./v.",
+      "zh": "目标",
+      "stars": 4,
+      "collocation": "Our aim is to"
+    },
+    {
+      "lemma": "painting",
+      "pos": "n.",
+      "zh": "画",
+      "stars": 4,
+      "collocation": "A painting of the"
+    },
+    {
+      "lemma": "flight",
+      "pos": "n./v.",
+      "zh": "飞行",
+      "stars": 4,
+      "collocation": "in flight."
+    },
+    {
+      "lemma": "narrow",
+      "pos": "n./adj./v.",
+      "zh": "狭窄部分",
+      "stars": 4,
+      "collocation": "this narrow, broken village"
+    },
+    {
+      "lemma": "politician",
+      "pos": "n.",
+      "zh": "政客",
+      "stars": 4,
+      "collocation": "local politician claims the"
+    },
+    {
+      "lemma": "willing",
+      "pos": "adj.",
+      "zh": "乐意的",
+      "stars": 4,
+      "collocation": "anyone willing to walk,"
+    },
+    {
+      "lemma": "found",
+      "pos": "v.",
+      "zh": "建立",
+      "stars": 4,
+      "collocation": "we found that every"
+    },
+    {
+      "lemma": "user",
+      "pos": "n.",
+      "zh": "使用者",
+      "stars": 3,
+      "collocation": "every user wants simple,"
+    },
+    {
+      "lemma": "concentrate",
+      "pos": "n./v.",
+      "zh": "浓缩",
+      "stars": 3,
+      "collocation": "and concentrate on every"
+    },
+    {
+      "lemma": "acid",
+      "pos": "n./adj.",
+      "zh": "酸",
+      "stars": 3,
+      "collocation": "of acid in the"
+    },
+    {
+      "lemma": "valley",
+      "pos": "n.",
+      "zh": "山谷",
+      "stars": 3,
+      "collocation": "the valley through a"
+    },
+    {
+      "lemma": "accompany",
+      "pos": "v.",
+      "zh": "陪伴",
+      "stars": 3,
+      "collocation": "will accompany us alongside"
+    },
+    {
+      "lemma": "quantity",
+      "pos": "n.",
+      "zh": "量",
+      "stars": 3,
+      "collocation": "The quantity of acid"
+    },
+    {
+      "lemma": "reputation",
+      "pos": "n.",
+      "zh": "名誉",
+      "stars": 3,
+      "collocation": "growing reputation."
+    },
+    {
+      "lemma": "worried",
+      "pos": "adj.",
+      "zh": "担心的",
+      "stars": 3,
+      "collocation": "is worried about our"
+    },
+    {
+      "lemma": "rough",
+      "pos": "n./adj./v.",
+      "zh": "粗糙的东西",
+      "stars": 3,
+      "collocation": "combat rough weather with"
+    },
+    {
+      "lemma": "remark",
+      "pos": "n./v.",
+      "zh": "评论",
+      "stars": 3,
+      "collocation": "kind remark gives me"
+    },
+    {
+      "lemma": "alongside",
+      "pos": "adv./prep.",
+      "zh": "在旁边",
+      "stars": 3,
+      "collocation": "us alongside the cold"
+    },
+    {
+      "lemma": "comfort",
+      "pos": "n./v.",
+      "zh": "舒适",
+      "stars": 3,
+      "collocation": "me comfort after a"
+    },
+    {
+      "lemma": "sympathy",
+      "pos": "n.",
+      "zh": "同情",
+      "stars": 3,
+      "collocation": "real sympathy, not quick"
+    },
+    {
+      "lemma": "condemn",
+      "pos": "v.",
+      "zh": "判刑",
+      "stars": 3,
+      "collocation": "never condemn an innocent"
+    },
+    {
+      "lemma": "innocent",
+      "pos": "adj./n.",
+      "zh": "无罪的",
+      "stars": 3,
+      "collocation": "an innocent helper for"
+    },
+    {
+      "lemma": "twist",
+      "pos": "n./v.",
+      "zh": "一扭",
+      "stars": 3,
+      "collocation": "sudden twist in the"
+    },
+    {
+      "lemma": "advertise",
+      "pos": "v.",
+      "zh": "做广告",
+      "stars": 3,
+      "collocation": "They advertise the winning"
+    },
+    {
+      "lemma": "abortion",
+      "pos": "n.",
+      "zh": "流产",
+      "stars": 3,
+      "collocation": "discuss abortion with care."
+    },
+    {
+      "lemma": "surplus",
+      "pos": "n./adj.",
+      "zh": "剩余",
+      "stars": 3,
+      "collocation": "the surplus water into"
+    },
+    {
+      "lemma": "claim",
+      "pos": "n./v.",
+      "zh": "要求",
+      "stars": 5,
+      "collocation": "politician claims the little"
+    },
+    {
+      "lemma": "county",
+      "pos": "n.",
+      "zh": "县",
+      "stars": 4,
+      "collocation": "The county is responsible"
+    },
+    {
+      "lemma": "responsible",
+      "pos": "adj.",
+      "zh": "有责任的",
+      "stars": 4,
+      "collocation": "is responsible for this"
+    },
+    {
+      "lemma": "route",
+      "pos": "n./v.",
+      "zh": "路径",
+      "stars": 4,
+      "collocation": "the route, we mark"
+    },
+    {
+      "lemma": "program",
+      "pos": "n./v.",
+      "zh": "节目",
+      "stars": 4,
+      "collocation": "summer program."
+    },
+    {
+      "lemma": "journal",
+      "pos": "n.",
+      "zh": "日记",
+      "stars": 4,
+      "collocation": "short journal must demonstrate"
+    },
+    {
+      "lemma": "demonstrate",
+      "pos": "v.",
+      "zh": "示范",
+      "stars": 3,
+      "collocation": "must demonstrate results, not"
+    },
+    {
+      "lemma": "necessarily",
+      "pos": "adv.",
+      "zh": "必然地",
+      "stars": 3,
+      "collocation": "not necessarily speed."
+    },
+    {
+      "lemma": "combination",
+      "pos": "n.",
+      "zh": "组合",
+      "stars": 3,
+      "collocation": "good combination of skills"
+    },
+    {
+      "lemma": "proceed",
+      "pos": "v.",
+      "zh": "继续进行",
+      "stars": 3,
+      "collocation": "we proceed slowly and"
+    },
+    {
+      "lemma": "muscle",
+      "pos": "n.",
+      "zh": "肌肉",
+      "stars": 3,
+      "collocation": "strong muscles."
+    },
+    {
+      "lemma": "observer",
+      "pos": "n.",
+      "zh": "观察者",
+      "stars": 3,
+      "collocation": "quiet observer peers at"
+    },
+    {
+      "lemma": "unity",
+      "pos": "n.",
+      "zh": "一致",
+      "stars": 3,
+      "collocation": "Unity and a"
+    },
+    {
+      "lemma": "craft",
+      "pos": "n./v.",
+      "zh": "技艺",
+      "stars": 3,
+      "collocation": "small craft improve."
+    },
+    {
+      "lemma": "prompt",
+      "pos": "n./adj./v./adv.",
+      "zh": "激励",
+      "stars": 3,
+      "collocation": "path prompts a short"
+    },
+    {
+      "lemma": "recruit",
+      "pos": "n./v.",
+      "zh": "新兵",
+      "stars": 3,
+      "collocation": "team recruits anyone willing"
+    },
+    {
+      "lemma": "drain",
+      "pos": "n./v.",
+      "zh": "排水沟",
+      "stars": 3,
+      "collocation": "pipes drain the surplus"
+    },
+    {
+      "lemma": "vitamin",
+      "pos": "n.",
+      "zh": "维生素",
+      "stars": 3,
+      "collocation": "brings vitamin C for"
+    },
+    {
+      "lemma": "specialize",
+      "pos": "v.",
+      "zh": "使特殊化",
+      "stars": 3,
+      "collocation": "and specialize in quiet,"
+    },
+    {
+      "lemma": "landscape",
+      "pos": "n./v.",
+      "zh": "风景",
+      "stars": 3,
+      "collocation": "of landscape needs a"
+    },
+    {
+      "lemma": "confront",
+      "pos": "v.",
+      "zh": "使面对",
+      "stars": 3,
+      "collocation": "We confront hard facts"
+    },
+    {
+      "lemma": "peer",
+      "pos": "n./v.",
+      "zh": "同等的人",
+      "stars": 3,
+      "collocation": "observer peers at the"
+    },
+    {
+      "lemma": "combat",
+      "pos": "n./v.",
+      "zh": "争斗",
+      "stars": 3,
+      "collocation": "We combat rough weather"
+    },
+    {
+      "lemma": "supposed",
+      "pos": "adj.",
+      "zh": "想象上的",
+      "stars": 4,
+      "collocation": "is supposed to discuss"
+    },
+    {
+      "lemma": "recording",
+      "pos": "adj./n.",
+      "zh": "记录的",
+      "stars": 3,
+      "collocation": "My recording of bird"
+    },
+    {
+      "lemma": "winning",
+      "pos": "n./adj.",
+      "zh": "胜利",
+      "stars": 3,
+      "collocation": "the winning photo in"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“landscape” 的意思是：",
+      "options": [
+        "风景",
+        "小溪",
+        "岩石",
+        "日志"
+      ],
+      "answer": 0,
+      "speak": "landscape"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The quantity of ___ in the wet soil looks quite high.",
+      "options": [
+        "acid",
+        "surplus",
+        "vitamin",
+        "muscle"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“reputation” 的意思是：",
+      "options": [
+        "名声",
+        "目标",
+        "路线",
+        "组合"
+      ],
+      "answer": 0,
+      "speak": "reputation"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Old stone pipes drain the ___ water into the lake.",
+      "options": [
+        "surplus",
+        "narrow",
+        "innocent",
+        "willing"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "The loss of old trees shows a clear ___ of spring rain.",
+      "options": [
+        "lack",
+        "twist",
+        "claim",
+        "comfort"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“sympathy” 的意思是：",
+      "options": [
+        "同情",
+        "愤怒",
+        "名声",
+        "数量"
+      ],
+      "answer": 0,
+      "speak": "sympathy"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "We never condemn an ___ helper for one honest mistake.",
+      "options": [
+        "innocent",
+        "narrow",
+        "rough",
+        "winning"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“concentrate” 的意思是：",
+      "options": [
+        "集中注意力",
+        "陪伴",
+        "排水",
+        "招募"
+      ],
+      "answer": 0,
+      "speak": "concentrate"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "Our aim is to study the valley through a summer ",
+        "hint": "pr",
+        "after": ".",
+        "answer": "program"
+      },
+      {
+        "before": "The team ",
+        "hint": "re",
+        "after": " anyone willing to walk, watch, and work.",
+        "answer": "recruits"
+      },
+      {
+        "before": "Then, throughout the ",
+        "hint": "ro",
+        "after": ", we mark each plant and stone.",
+        "answer": "route"
+      },
+      {
+        "before": "A quiet guide will ",
+        "hint": "ac",
+        "after": " us alongside the cold mountain stream.",
+        "answer": "accompany"
+      },
+      {
+        "before": "Each type of ",
+        "hint": "la",
+        "after": " needs a different and careful method.",
+        "answer": "landscape"
+      },
+      {
+        "before": "We seek small signs and ",
+        "hint": "co",
+        "after": " on every slow change.",
+        "answer": "concentrate"
+      },
+      {
+        "before": "The quantity of ",
+        "hint": "ac",
+        "after": " in the wet soil looks quite high.",
+        "answer": "acid"
+      },
+      {
+        "before": "Old stone pipes drain the ",
+        "hint": "su",
+        "after": " water into the lake.",
+        "answer": "surplus"
+      },
+      {
+        "before": "My sister says fresh food brings ",
+        "hint": "vi",
+        "after": " C for strong muscles.",
+        "answer": "vitamin"
+      },
+      {
+        "before": "We ",
+        "hint": "co",
+        "after": " rough weather with warm coats and strong boots.",
+        "answer": "combat"
+      }
+    ],
+    "b3": [
+      {
+        "before": "A quiet ",
+        "hint": "ob",
+        "after": " peers at the birds from a rock.",
+        "answer": "observer"
+      },
+      {
+        "before": "My ",
+        "hint": "re",
+        "after": " of bird song helps our small craft improve.",
+        "answer": "recording"
+      },
+      {
+        "before": "A new ",
+        "hint": "ve",
+        "after": " of the map appears within a week.",
+        "answer": "version"
+      },
+      {
+        "before": "Later we found that every ",
+        "hint": "us",
+        "after": " wants simple, clear notes.",
+        "answer": "user"
+      },
+      {
+        "before": "They advertise the ",
+        "hint": "wi",
+        "after": " photo in a small corner shop.",
+        "answer": "winning"
+      },
+      {
+        "before": "A ",
+        "hint": "pa",
+        "after": " of the green hills shows a bird in flight.",
+        "answer": "painting"
+      },
+      {
+        "before": "The loss of old trees shows a clear ",
+        "hint": "la",
+        "after": " of spring rain.",
+        "answer": "lack"
+      },
+      {
+        "before": "Unity and a good ",
+        "hint": "co",
+        "after": " of skills bring steady results.",
+        "answer": "combination"
+      },
+      {
+        "before": "Then we proceed slowly and ",
+        "hint": "sp",
+        "after": " in quiet, careful field work.",
+        "answer": "specialize"
+      },
+      {
+        "before": "A health class is ",
+        "hint": "su",
+        "after": " to discuss abortion with care.",
+        "answer": "supposed"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我们的目标是通过一个夏季项目研究这条山谷。",
+        "keywords": [
+          "aim",
+          "valley",
+          "program"
+        ]
+      },
+      {
+        "zh": "我们用暖和的外套和结实的靴子对抗恶劣天气。",
+        "keywords": [
+          "combat",
+          "rough",
+          "weather"
+        ]
+      },
+      {
+        "zh": "县里负责这条狭窄破损的村路。",
+        "keywords": [
+          "county",
+          "responsible",
+          "narrow"
+        ]
+      },
+      {
+        "zh": "我们以真正的同情而不是怒气面对严酷的事实。",
+        "keywords": [
+          "confront",
+          "sympathy"
+        ]
+      },
+      {
+        "zh": "一幅青山画上有一只鸟在飞翔。",
+        "keywords": [
+          "painting",
+          "hills",
+          "flight"
+        ]
+      },
+      {
+        "zh": "团结加上良好的技能组合能带来稳定的成果。",
+        "keywords": [
+          "unity",
+          "combination",
+          "results"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 288,
+    "sentences": 28,
+    "newDensity": 0.205,
+    "targetTokenDensity": 0.205,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写一支小队在山谷做夏季野外考察：招募、路线标记、酸性土壤取样、排水与维生素，穿插政客与县里的说法、老师的担心，最后是地图、录音、绘画与研究成果。"
+}

@@ -1,0 +1,831 @@
+{
+  "id": "p11",
+  "title": "The Cinema Repair Day",
+  "titleZh": "电影院修缮日",
+  "topic": "社区",
+  "paragraphs": [
+    [
+      {
+        "en": "My village will repair the old town hall this morning.",
+        "zh": "今天早上，我们村子要修缮那座老镇政厅。"
+      },
+      {
+        "en": "A simple notice on the wooden window says work starts soon.",
+        "zh": "木窗上贴着一张简单的告示，说工作很快就开始。"
+      },
+      {
+        "en": "Seven members of our village team meet beside the side door.",
+        "zh": "我们村队的七名成员在侧门旁集合。"
+      },
+      {
+        "en": "A qualified carpenter explains the detailed plan again.",
+        "zh": "一位有资格的木匠又讲了一遍详细的计划。"
+      },
+      {
+        "en": "We consider every action before we touch the heavy furniture.",
+        "zh": "我们每做一个动作之前都先考虑，然后才去搬那些沉重的家具。"
+      },
+      {
+        "en": "My good friend wants a small part in this work.",
+        "zh": "我的好朋友想在这件工作里出一小份力。"
+      },
+      {
+        "en": "Her name appears at the top of the list.",
+        "zh": "她的名字出现在名单的最上面。"
+      },
+      {
+        "en": "A retired soldier brings a long pipe and a warm coat.",
+        "zh": "一位退役士兵带来一根长管子和一件暖和的外套。"
+      },
+      {
+        "en": "A young prisoner joins us too, and nobody seems to mind.",
+        "zh": "一个年轻的囚犯也加入我们，似乎没有人介意。"
+      },
+      {
+        "en": "His behaviour is calm, and his effort is clear.",
+        "zh": "他的举止平静，他的努力也显而易见。"
+      }
+    ],
+    [
+      {
+        "en": "A high wooden gate opens to the wide, dusty yard.",
+        "zh": "一扇高高的木门通向宽阔多尘的院子。"
+      },
+      {
+        "en": "Then a nurse arrives with hot coffee for us.",
+        "zh": "这时一位护士带着热咖啡来到我们这儿。"
+      },
+      {
+        "en": "My mother packs orange drinks and a small plate for us.",
+        "zh": "我母亲为我们装好橙汁和一小盘食物。"
+      },
+      {
+        "en": "A couple from the next street brings a small gift.",
+        "zh": "隔壁街的一对夫妇带来一件小小的礼物。"
+      },
+      {
+        "en": "Later, a tall clock and a photo bring back old times.",
+        "zh": "后来，一座高钟和一张照片唤起了旧日时光。"
+      },
+      {
+        "en": "The museum sends a framed picture for our small discussion.",
+        "zh": "博物馆为我们的简短讨论寄来一幅带框的画。"
+      },
+      {
+        "en": "Our successful holiday project wins a city prize this year.",
+        "zh": "我们成功的假日项目今年赢得了市里的一个奖项。"
+      },
+      {
+        "en": "A sport festival follows next week at the riverside park.",
+        "zh": "下周在河畔公园还有一场体育节。"
+      },
+      {
+        "en": "Five hundred people may come, and sixty will bring food.",
+        "zh": "可能会有五百人来，六十人会带食物。"
+      },
+      {
+        "en": "My father warns us about the wet floor near the passage.",
+        "zh": "父亲提醒我们小心通道附近的湿地。"
+      }
+    ],
+    [
+      {
+        "en": "A small cap hangs there, and nothing else looks new.",
+        "zh": "那里挂着一顶小帽子，别的地方看起来都不新。"
+      },
+      {
+        "en": "We spread the news, and every helper gets a chance.",
+        "zh": "我们把这个消息传开，每个帮手都得到一次机会。"
+      },
+      {
+        "en": "The children play outside and enjoy the warm, bright afternoon.",
+        "zh": "孩子们在外面玩耍，享受着温暖明亮的下午。"
+      },
+      {
+        "en": "Then we make a short speech early in the afternoon.",
+        "zh": "然后，我们在下午早些时候做了一个简短的讲话。"
+      },
+      {
+        "en": "The boys' small fight ends fast, and a lot of us laugh.",
+        "zh": "男孩们的小打斗很快结束，我们很多人都笑了。"
+      },
+      {
+        "en": "The cool earth under the floor keeps the air excellent.",
+        "zh": "地板下凉爽的泥土让空气保持得非常好。"
+      },
+      {
+        "en": "The cinema gets a new steel frame above the front door.",
+        "zh": "电影院在正门上方装上了新的钢架。"
+      },
+      {
+        "en": "We write a short record, and we share bread and cheese.",
+        "zh": "我们写下简短的记录，一起分面包和奶酪。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "on",
+      "pos": "prep./adv./adj.",
+      "zh": "在...之上",
+      "stars": 5,
+      "collocation": "notice on the wooden"
+    },
+    {
+      "lemma": "her",
+      "pos": "pron.",
+      "zh": "她的",
+      "stars": 5,
+      "collocation": "Her name appears"
+    },
+    {
+      "lemma": "good",
+      "pos": "n./adj.",
+      "zh": "善行",
+      "stars": 5,
+      "collocation": "My good friend wants"
+    },
+    {
+      "lemma": "want",
+      "pos": "n./v.",
+      "zh": "需要的东西",
+      "stars": 5,
+      "collocation": "friend wants a small"
+    },
+    {
+      "lemma": "seem",
+      "pos": "v.",
+      "zh": "象是",
+      "stars": 5,
+      "collocation": "nobody seems to mind."
+    },
+    {
+      "lemma": "high",
+      "pos": "n./adj./adv.",
+      "zh": "高度",
+      "stars": 5,
+      "collocation": "A high wooden gate"
+    },
+    {
+      "lemma": "member",
+      "pos": "n.",
+      "zh": "成员",
+      "stars": 5,
+      "collocation": "Seven members of our"
+    },
+    {
+      "lemma": "five",
+      "pos": "num.",
+      "zh": "五",
+      "stars": 5,
+      "collocation": "Five hundred people"
+    },
+    {
+      "lemma": "play",
+      "pos": "n./v.",
+      "zh": "游戏",
+      "stars": 5,
+      "collocation": "children play outside and"
+    },
+    {
+      "lemma": "early",
+      "pos": "adj./adv.",
+      "zh": "早的",
+      "stars": 5,
+      "collocation": "speech early in the"
+    },
+    {
+      "lemma": "name",
+      "pos": "n./v./adj.",
+      "zh": "名字",
+      "stars": 5,
+      "collocation": "Her name appears at"
+    },
+    {
+      "lemma": "consider",
+      "pos": "v.",
+      "zh": "考虑",
+      "stars": 5,
+      "collocation": "We consider every action"
+    },
+    {
+      "lemma": "action",
+      "pos": "n./v.",
+      "zh": "行动",
+      "stars": 5,
+      "collocation": "every action before we"
+    },
+    {
+      "lemma": "lot",
+      "pos": "n./v.",
+      "zh": "运气",
+      "stars": 5,
+      "collocation": "a lot of us"
+    },
+    {
+      "lemma": "hundred",
+      "pos": "n./num./adj.",
+      "zh": "百",
+      "stars": 5,
+      "collocation": "Five hundred people may"
+    },
+    {
+      "lemma": "morning",
+      "pos": "n.",
+      "zh": "早晨",
+      "stars": 5,
+      "collocation": "this morning."
+    },
+    {
+      "lemma": "else",
+      "pos": "adj./adv.",
+      "zh": "别的",
+      "stars": 5,
+      "collocation": "nothing else looks new."
+    },
+    {
+      "lemma": "record",
+      "pos": "n./v./adj.",
+      "zh": "记录",
+      "stars": 5,
+      "collocation": "short record, and we"
+    },
+    {
+      "lemma": "seven",
+      "pos": "num.",
+      "zh": "七",
+      "stars": 5,
+      "collocation": "Seven members of"
+    },
+    {
+      "lemma": "chance",
+      "pos": "n./v.",
+      "zh": "机会",
+      "stars": 5,
+      "collocation": "a chance."
+    },
+    {
+      "lemma": "effort",
+      "pos": "n.",
+      "zh": "努力",
+      "stars": 5,
+      "collocation": "his effort is clear."
+    },
+    {
+      "lemma": "fight",
+      "pos": "n./v.",
+      "zh": "打架",
+      "stars": 5,
+      "collocation": "small fight ends fast,"
+    },
+    {
+      "lemma": "sixty",
+      "pos": "num.",
+      "zh": "六十",
+      "stars": 5,
+      "collocation": "and sixty will bring"
+    },
+    {
+      "lemma": "photo",
+      "pos": "n./v./adj.",
+      "zh": "相片",
+      "stars": 5,
+      "collocation": "a photo bring back"
+    },
+    {
+      "lemma": "window",
+      "pos": "n./v.",
+      "zh": "窗户",
+      "stars": 4,
+      "collocation": "wooden window says work"
+    },
+    {
+      "lemma": "simple",
+      "pos": "adj./n.",
+      "zh": "简单的",
+      "stars": 4,
+      "collocation": "A simple notice on"
+    },
+    {
+      "lemma": "enjoy",
+      "pos": "v.",
+      "zh": "享受",
+      "stars": 4,
+      "collocation": "and enjoy the warm,"
+    },
+    {
+      "lemma": "couple",
+      "pos": "n./v.",
+      "zh": "对",
+      "stars": 4,
+      "collocation": "A couple from the"
+    },
+    {
+      "lemma": "behaviour",
+      "pos": "n.",
+      "zh": "行为",
+      "stars": 4,
+      "collocation": "His behaviour is calm,"
+    },
+    {
+      "lemma": "discussion",
+      "pos": "n.",
+      "zh": "讨论",
+      "stars": 4,
+      "collocation": "small discussion."
+    },
+    {
+      "lemma": "successful",
+      "pos": "adj.",
+      "zh": "成功的",
+      "stars": 4,
+      "collocation": "Our successful holiday project"
+    },
+    {
+      "lemma": "holiday",
+      "pos": "n./v.",
+      "zh": "假日",
+      "stars": 4,
+      "collocation": "successful holiday project wins"
+    },
+    {
+      "lemma": "earth",
+      "pos": "n./v.",
+      "zh": "地球",
+      "stars": 4,
+      "collocation": "cool earth under the"
+    },
+    {
+      "lemma": "sport",
+      "pos": "n./adj./v.",
+      "zh": "运动",
+      "stars": 4,
+      "collocation": "A sport festival follows"
+    },
+    {
+      "lemma": "museum",
+      "pos": "n.",
+      "zh": "博物馆",
+      "stars": 4,
+      "collocation": "The museum sends a"
+    },
+    {
+      "lemma": "drink",
+      "pos": "n./v.",
+      "zh": "饮料",
+      "stars": 4,
+      "collocation": "orange drinks and a"
+    },
+    {
+      "lemma": "yard",
+      "pos": "n.",
+      "zh": "码",
+      "stars": 4,
+      "collocation": "dusty yard."
+    },
+    {
+      "lemma": "excellent",
+      "pos": "adj.",
+      "zh": "优良的",
+      "stars": 4,
+      "collocation": "air excellent."
+    },
+    {
+      "lemma": "warn",
+      "pos": "v.",
+      "zh": "警告",
+      "stars": 4,
+      "collocation": "father warns us about"
+    },
+    {
+      "lemma": "spread",
+      "pos": "n./adj./v.",
+      "zh": "传播",
+      "stars": 4,
+      "collocation": "We spread the news,"
+    },
+    {
+      "lemma": "soldier",
+      "pos": "n./v.",
+      "zh": "军人",
+      "stars": 4,
+      "collocation": "retired soldier brings a"
+    },
+    {
+      "lemma": "prisoner",
+      "pos": "n.",
+      "zh": "囚犯",
+      "stars": 4,
+      "collocation": "young prisoner joins us"
+    },
+    {
+      "lemma": "festival",
+      "pos": "adj./n.",
+      "zh": "节日的",
+      "stars": 4,
+      "collocation": "sport festival follows next"
+    },
+    {
+      "lemma": "make",
+      "pos": "v./n.",
+      "zh": "制造",
+      "stars": 3,
+      "collocation": "we make a short"
+    },
+    {
+      "lemma": "hall",
+      "pos": "n.",
+      "zh": "门厅",
+      "stars": 3,
+      "collocation": "town hall this morning."
+    },
+    {
+      "lemma": "coffee",
+      "pos": "n.",
+      "zh": "咖啡",
+      "stars": 3,
+      "collocation": "hot coffee for us."
+    },
+    {
+      "lemma": "nurse",
+      "pos": "n./v.",
+      "zh": "护士",
+      "stars": 3,
+      "collocation": "a nurse arrives with"
+    },
+    {
+      "lemma": "passage",
+      "pos": "n./v.",
+      "zh": "通道",
+      "stars": 3,
+      "collocation": "the passage."
+    },
+    {
+      "lemma": "gift",
+      "pos": "n./v.",
+      "zh": "礼物",
+      "stars": 3,
+      "collocation": "small gift."
+    },
+    {
+      "lemma": "coat",
+      "pos": "n./v.",
+      "zh": "外套",
+      "stars": 3,
+      "collocation": "warm coat."
+    },
+    {
+      "lemma": "steel",
+      "pos": "n./adj./v.",
+      "zh": "钢",
+      "stars": 3,
+      "collocation": "new steel frame above"
+    },
+    {
+      "lemma": "furniture",
+      "pos": "n.",
+      "zh": "家具",
+      "stars": 3,
+      "collocation": "heavy furniture."
+    },
+    {
+      "lemma": "clock",
+      "pos": "n./v.",
+      "zh": "时钟",
+      "stars": 3,
+      "collocation": "tall clock and a"
+    },
+    {
+      "lemma": "cheese",
+      "pos": "n.",
+      "zh": "乳酪",
+      "stars": 3,
+      "collocation": "and cheese."
+    },
+    {
+      "lemma": "cap",
+      "pos": "n./v.",
+      "zh": "盖子",
+      "stars": 3,
+      "collocation": "small cap hangs there,"
+    },
+    {
+      "lemma": "cinema",
+      "pos": "n.",
+      "zh": "电影院",
+      "stars": 3,
+      "collocation": "The cinema gets a"
+    },
+    {
+      "lemma": "orange",
+      "pos": "n./adj.",
+      "zh": "柑橘",
+      "stars": 3,
+      "collocation": "packs orange drinks and"
+    },
+    {
+      "lemma": "detailed",
+      "pos": "adj.",
+      "zh": "详细的",
+      "stars": 3,
+      "collocation": "the detailed plan again."
+    },
+    {
+      "lemma": "qualified",
+      "pos": "adj.",
+      "zh": "有资格的",
+      "stars": 3,
+      "collocation": "A qualified carpenter explains"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“furniture” 的意思是：",
+      "options": [
+        "家具",
+        "外套",
+        "帽子",
+        "照片"
+      ],
+      "answer": 0,
+      "speak": "furniture"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "We consider every ___ before we touch the heavy furniture.",
+      "options": [
+        "action",
+        "yard",
+        "clock",
+        "gift"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“prisoner” 的意思是：",
+      "options": [
+        "囚犯",
+        "士兵",
+        "护士",
+        "木匠"
+      ],
+      "answer": 0,
+      "speak": "prisoner"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A retired soldier brings a long pipe and a warm ___.",
+      "options": [
+        "coat",
+        "cap",
+        "gift",
+        "plate"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "The museum sends a framed picture for our small ___.",
+      "options": [
+        "discussion",
+        "festival",
+        "passage",
+        "record"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“festival” 的意思是：",
+      "options": [
+        "节日",
+        "假日",
+        "记录",
+        "院子"
+      ],
+      "answer": 0,
+      "speak": "festival"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Five hundred people may come, and ___ will bring food.",
+      "options": [
+        "sixty",
+        "seven",
+        "five",
+        "hundred"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“passage” 的意思是：",
+      "options": [
+        "通道",
+        "窗户",
+        "门厅",
+        "电影院"
+      ],
+      "answer": 0,
+      "speak": "passage"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My village will repair the old town ",
+        "hint": "ha",
+        "after": " this morning.",
+        "answer": "hall"
+      },
+      {
+        "before": "A ",
+        "hint": "si",
+        "after": " notice on the wooden window says work starts soon.",
+        "answer": "simple"
+      },
+      {
+        "before": "Seven ",
+        "hint": "me",
+        "after": " of our village team meet beside the side door.",
+        "answer": "members"
+      },
+      {
+        "before": "A ",
+        "hint": "qu",
+        "after": " carpenter explains the detailed plan again.",
+        "answer": "qualified"
+      },
+      {
+        "before": "We consider every action before we touch the heavy ",
+        "hint": "fu",
+        "after": ".",
+        "answer": "furniture"
+      },
+      {
+        "before": "My ",
+        "hint": "go",
+        "after": " friend wants a small part in this work.",
+        "answer": "good"
+      },
+      {
+        "before": "Her ",
+        "hint": "na",
+        "after": " appears at the top of the list.",
+        "answer": "name"
+      },
+      {
+        "before": "A retired soldier brings a long pipe and a warm ",
+        "hint": "co",
+        "after": ".",
+        "answer": "coat"
+      },
+      {
+        "before": "A young ",
+        "hint": "pr",
+        "after": " joins us too, and nobody seems to mind.",
+        "answer": "prisoner"
+      },
+      {
+        "before": "His ",
+        "hint": "be",
+        "after": " is calm, and his effort is clear.",
+        "answer": "behaviour"
+      }
+    ],
+    "b3": [
+      {
+        "before": "A high wooden gate opens to the wide, dusty ",
+        "hint": "ya",
+        "after": ".",
+        "answer": "yard"
+      },
+      {
+        "before": "Then a nurse arrives with hot ",
+        "hint": "co",
+        "after": " for us.",
+        "answer": "coffee"
+      },
+      {
+        "before": "My mother packs ",
+        "hint": "or",
+        "after": " drinks and a small plate for us.",
+        "answer": "orange"
+      },
+      {
+        "before": "A couple from the next street brings a small ",
+        "hint": "gi",
+        "after": ".",
+        "answer": "gift"
+      },
+      {
+        "before": "Later, a tall ",
+        "hint": "cl",
+        "after": " and a photo bring back old times.",
+        "answer": "clock"
+      },
+      {
+        "before": "The ",
+        "hint": "mu",
+        "after": " sends a framed picture for our small discussion.",
+        "answer": "museum"
+      },
+      {
+        "before": "Our ",
+        "hint": "su",
+        "after": " holiday project wins a city prize this year.",
+        "answer": "successful"
+      },
+      {
+        "before": "A sport ",
+        "hint": "fe",
+        "after": " follows next week at the riverside park.",
+        "answer": "festival"
+      },
+      {
+        "before": "Five ",
+        "hint": "hu",
+        "after": " people may come, and sixty will bring food.",
+        "answer": "hundred"
+      },
+      {
+        "before": "My father warns us about the wet floor near the ",
+        "hint": "pa",
+        "after": ".",
+        "answer": "passage"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "今天早上，我们村子要修缮那座老镇政厅。",
+        "keywords": [
+          "hall",
+          "village",
+          "repair"
+        ]
+      },
+      {
+        "zh": "我们每做一个动作之前都先考虑，然后才去搬那些沉重的家具。",
+        "keywords": [
+          "consider",
+          "action",
+          "furniture"
+        ]
+      },
+      {
+        "zh": "她的名字出现在名单的最上面。",
+        "keywords": [
+          "her",
+          "name",
+          "list"
+        ]
+      },
+      {
+        "zh": "博物馆为我们的简短讨论寄来一幅带框的画。",
+        "keywords": [
+          "museum",
+          "discussion",
+          "picture"
+        ]
+      },
+      {
+        "zh": "下周在河畔公园还有一场体育节。",
+        "keywords": [
+          "sport",
+          "festival",
+          "park"
+        ]
+      },
+      {
+        "zh": "男孩们的小打斗很快结束，我们很多人都笑了。",
+        "keywords": [
+          "fight",
+          "lot",
+          "laugh"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 286,
+    "sentences": 28,
+    "newDensity": 0.206,
+    "targetTokenDensity": 0.206,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写村子里的志愿者队伍用一天时间修缮老电影院，从集合、看图纸、搬家具，到护士送咖啡、博物馆送画、体育节筹备，最后以面包和奶酪收尾。"
+}

@@ -1,0 +1,835 @@
+{
+  "id": "p02",
+  "title": "The Museum Tape",
+  "titleZh": "博物馆的磁带",
+  "topic": "记忆",
+  "paragraphs": [
+    [
+      {
+        "en": "The first room of the old iron museum feels warm and very quiet.",
+        "zh": "老铁厂博物馆的第一间屋子又暖又静。"
+      },
+      {
+        "en": "A retired man would teach local history in this small town.",
+        "zh": "一位退休的老人曾在这个小镇上教本地历史。"
+      },
+      {
+        "en": "My guide asks me to be patient and listen with real care.",
+        "zh": "我的向导让我耐心点，认真听。"
+      },
+      {
+        "en": "I must search a dark storeroom for an old and plastic tape.",
+        "zh": "我得在一间昏暗的储藏室里找一盒旧塑料磁带。"
+      },
+      {
+        "en": "Two shelves are black, and a third shelf lies almost completely bare.",
+        "zh": "两个架子是黑的，第三个架子几乎空无一物。"
+      },
+      {
+        "en": "I read the seventh number on a dusty old wooden box.",
+        "zh": "我读出一只落满灰尘的旧木箱上的第七个编号。"
+      },
+      {
+        "en": "My hands do not understand why it even matters so much today.",
+        "zh": "我的双手不明白，为什么这件事今天还如此要紧。"
+      },
+      {
+        "en": "A friend carries the box toward the crowded old front desk.",
+        "zh": "一位朋友把箱子搬向拥挤的旧前台。"
+      },
+      {
+        "en": "We stay inside a small bedroom and wait for complete, total silence.",
+        "zh": "我们待在一间小卧室里，等着彻底的安静。"
+      }
+    ],
+    [
+      {
+        "en": "Then the tape begins with the low, tired, quiet voice of a cook.",
+        "zh": "接着，磁带里响起一个厨子低沉、疲倦又安静的声音。"
+      },
+      {
+        "en": "She talks about low pay, hard labour and the long war.",
+        "zh": "她讲起微薄的工资、辛苦的劳动和那场漫长的战争。"
+      },
+      {
+        "en": "Her words have a meaning beyond their plain and daily sound.",
+        "zh": "她的话有超出日常字面声音的意义。"
+      },
+      {
+        "en": "My chest feels tight when she names that wide open field.",
+        "zh": "当她念到那片开阔的田野时，我胸口发紧。"
+      },
+      {
+        "en": "A sick child once slept in this very small back room.",
+        "zh": "曾有一个生病的孩子睡在这间很小的后屋里。"
+      },
+      {
+        "en": "Her mother brought cool juice and stayed near the cot.",
+        "zh": "她母亲端来凉果汁，守在床边。"
+      },
+      {
+        "en": "The child is long dead, and the whole family has gone.",
+        "zh": "那孩子早已去世，全家也都离开了。"
+      },
+      {
+        "en": "I wonder what spirit kept these tired old workers standing there.",
+        "zh": "我想知道是什么精神让这些疲惫的老工人站在那里。"
+      },
+      {
+        "en": "The director advises me on writing about their quiet pride.",
+        "zh": "馆长给我建议，教我怎么写他们那种安静的骄傲。"
+      },
+      {
+        "en": "A school magazine may influence how we see this sleepy little place.",
+        "zh": "一本校刊也许会影响我们怎么看这个昏昏欲睡的小地方。"
+      }
+    ],
+    [
+      {
+        "en": "During the conference, visitors will enter the very same small room.",
+        "zh": "会议期间，参观者会走进同一间小屋。"
+      },
+      {
+        "en": "A recent mail asks for the box and its paper label.",
+        "zh": "最近一封邮件索要这只箱子和它的纸质标签。"
+      },
+      {
+        "en": "We must protect the box and keep a high and clear standard.",
+        "zh": "我们必须保护好这只箱子，保持高而明确的标准。"
+      },
+      {
+        "en": "This difficulty is associated with the old plastic recording.",
+        "zh": "这个困难与那盘旧塑料录音有关。"
+      },
+      {
+        "en": "Then it probably runs fast and slips quietly away.",
+        "zh": "然后它大概会转得很快，悄悄溜走。"
+      },
+      {
+        "en": "My eyes watch the wheels stop at the very end of it.",
+        "zh": "我盯着轮子，直到它在最末尾停下。"
+      },
+      {
+        "en": "A grey cloud hides a planet; heaven feels far.",
+        "zh": "一片灰云遮住了一颗行星；天堂显得遥远。"
+      },
+      {
+        "en": "At sixteen I walk slowly home under a wide and quiet evening sky.",
+        "zh": "十六岁的我，在宽阔安静的夜空下慢慢走回家。"
+      },
+      {
+        "en": "Sharing that history is enough for me now.",
+        "zh": "如今，能分享那段历史对我就够了。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "be",
+      "pos": "v.",
+      "zh": "是",
+      "stars": 5,
+      "collocation": "to be patient"
+    },
+    {
+      "lemma": "to",
+      "pos": "prep./adv.",
+      "zh": "到",
+      "stars": 5,
+      "collocation": "to be patient"
+    },
+    {
+      "lemma": "their",
+      "pos": "pron.",
+      "zh": "他们的",
+      "stars": 5,
+      "collocation": "their plain and daily sound"
+    },
+    {
+      "lemma": "two",
+      "pos": "num.",
+      "zh": "二",
+      "stars": 5,
+      "collocation": "Two shelves are black"
+    },
+    {
+      "lemma": "first",
+      "pos": "adv./adj./num./n.",
+      "zh": "首先",
+      "stars": 5,
+      "collocation": "The first room"
+    },
+    {
+      "lemma": "child",
+      "pos": "n.",
+      "zh": "孩子",
+      "stars": 5,
+      "collocation": "A sick child"
+    },
+    {
+      "lemma": "number",
+      "pos": "n./v.",
+      "zh": "数",
+      "stars": 5,
+      "collocation": "the seventh number"
+    },
+    {
+      "lemma": "why",
+      "pos": "adv./n.",
+      "zh": "为什么",
+      "stars": 5,
+      "collocation": "understand why it even matters"
+    },
+    {
+      "lemma": "begin",
+      "pos": "v.",
+      "zh": "开始",
+      "stars": 5,
+      "collocation": "the tape begins"
+    },
+    {
+      "lemma": "pay",
+      "pos": "n./v.",
+      "zh": "薪资",
+      "stars": 5,
+      "collocation": "low pay, hard labour"
+    },
+    {
+      "lemma": "away",
+      "pos": "adv.",
+      "zh": "离去",
+      "stars": 5,
+      "collocation": "slips quietly away"
+    },
+    {
+      "lemma": "friend",
+      "pos": "n.",
+      "zh": "朋友",
+      "stars": 5,
+      "collocation": "A friend carries"
+    },
+    {
+      "lemma": "war",
+      "pos": "n./v./adj.",
+      "zh": "战争",
+      "stars": 5,
+      "collocation": "the long war"
+    },
+    {
+      "lemma": "probably",
+      "pos": "adv.",
+      "zh": "大概",
+      "stars": 5,
+      "collocation": "it probably runs fast"
+    },
+    {
+      "lemma": "stop",
+      "pos": "n./v.",
+      "zh": "停止",
+      "stars": 5,
+      "collocation": "the wheels stop"
+    },
+    {
+      "lemma": "understand",
+      "pos": "v.",
+      "zh": "理解",
+      "stars": 5,
+      "collocation": "do not understand why"
+    },
+    {
+      "lemma": "black",
+      "pos": "n./adj.",
+      "zh": "黑色",
+      "stars": 5,
+      "collocation": "shelves are black"
+    },
+    {
+      "lemma": "walk",
+      "pos": "n./v.",
+      "zh": "走",
+      "stars": 5,
+      "collocation": "I walk slowly home"
+    },
+    {
+      "lemma": "history",
+      "pos": "n.",
+      "zh": "历史",
+      "stars": 5,
+      "collocation": "teach local history"
+    },
+    {
+      "lemma": "stay",
+      "pos": "n./v.",
+      "zh": "停留",
+      "stars": 5,
+      "collocation": "We stay inside"
+    },
+    {
+      "lemma": "recent",
+      "pos": "adj.",
+      "zh": "最近的",
+      "stars": 5,
+      "collocation": "A recent mail"
+    },
+    {
+      "lemma": "labour",
+      "pos": "n./v.",
+      "zh": "劳动",
+      "stars": 5,
+      "collocation": "hard labour"
+    },
+    {
+      "lemma": "conference",
+      "pos": "n.",
+      "zh": "会议",
+      "stars": 5,
+      "collocation": "During the conference"
+    },
+    {
+      "lemma": "front",
+      "pos": "n./v.",
+      "zh": "前面",
+      "stars": 5,
+      "collocation": "old front desk"
+    },
+    {
+      "lemma": "sixteen",
+      "pos": "num.",
+      "zh": "十六",
+      "stars": 5,
+      "collocation": "At sixteen"
+    },
+    {
+      "lemma": "third",
+      "pos": "num.",
+      "zh": "第三",
+      "stars": 4,
+      "collocation": "a third shelf"
+    },
+    {
+      "lemma": "field",
+      "pos": "n./v./adj.",
+      "zh": "领域",
+      "stars": 4,
+      "collocation": "wide open field"
+    },
+    {
+      "lemma": "standard",
+      "pos": "n./adj.",
+      "zh": "标准",
+      "stars": 4,
+      "collocation": "a high and clear standard"
+    },
+    {
+      "lemma": "enter",
+      "pos": "v.",
+      "zh": "进入",
+      "stars": 4,
+      "collocation": "visitors will enter"
+    },
+    {
+      "lemma": "difficulty",
+      "pos": "n.",
+      "zh": "困难",
+      "stars": 4,
+      "collocation": "This difficulty is associated"
+    },
+    {
+      "lemma": "wonder",
+      "pos": "n./v.",
+      "zh": "奇迹",
+      "stars": 4,
+      "collocation": "I wonder what spirit"
+    },
+    {
+      "lemma": "dead",
+      "pos": "adj./n./adv.",
+      "zh": "死的",
+      "stars": 4,
+      "collocation": "long dead"
+    },
+    {
+      "lemma": "beyond",
+      "pos": "prep./adv./n.",
+      "zh": "超过",
+      "stars": 4,
+      "collocation": "beyond their plain"
+    },
+    {
+      "lemma": "teach",
+      "pos": "v.",
+      "zh": "教",
+      "stars": 4,
+      "collocation": "would teach local"
+    },
+    {
+      "lemma": "influence",
+      "pos": "n./v.",
+      "zh": "影响力",
+      "stars": 4,
+      "collocation": "may influence how"
+    },
+    {
+      "lemma": "protect",
+      "pos": "v.",
+      "zh": "防卫",
+      "stars": 4,
+      "collocation": "must protect the box"
+    },
+    {
+      "lemma": "spirit",
+      "pos": "n./v.",
+      "zh": "精神",
+      "stars": 4,
+      "collocation": "what spirit kept"
+    },
+    {
+      "lemma": "inside",
+      "pos": "n./adj./adv./prep.",
+      "zh": "内部",
+      "stars": 4,
+      "collocation": "stay inside a small"
+    },
+    {
+      "lemma": "warm",
+      "pos": "adj./v./n.",
+      "zh": "暖和的",
+      "stars": 4,
+      "collocation": "feels warm and very"
+    },
+    {
+      "lemma": "magazine",
+      "pos": "n.",
+      "zh": "杂志",
+      "stars": 4,
+      "collocation": "school magazine"
+    },
+    {
+      "lemma": "tape",
+      "pos": "n./v.",
+      "zh": "带子",
+      "stars": 4,
+      "collocation": "plastic tape"
+    },
+    {
+      "lemma": "search",
+      "pos": "n./v.",
+      "zh": "搜寻",
+      "stars": 4,
+      "collocation": "must search a dark"
+    },
+    {
+      "lemma": "fast",
+      "pos": "adj./adv./n./v.",
+      "zh": "快速的",
+      "stars": 4,
+      "collocation": "runs fast"
+    },
+    {
+      "lemma": "cook",
+      "pos": "n./v.",
+      "zh": "厨子",
+      "stars": 4,
+      "collocation": "voice of a cook"
+    },
+    {
+      "lemma": "seventh",
+      "pos": "num.",
+      "zh": "第七",
+      "stars": 4,
+      "collocation": "the seventh number"
+    },
+    {
+      "lemma": "watch",
+      "pos": "n./v.",
+      "zh": "观察",
+      "stars": 3,
+      "collocation": "eyes watch the wheels"
+    },
+    {
+      "lemma": "meaning",
+      "pos": "n./adj.",
+      "zh": "意义",
+      "stars": 3,
+      "collocation": "have a meaning"
+    },
+    {
+      "lemma": "bedroom",
+      "pos": "n.",
+      "zh": "卧室",
+      "stars": 3,
+      "collocation": "small bedroom"
+    },
+    {
+      "lemma": "advise",
+      "pos": "v.",
+      "zh": "劝告",
+      "stars": 3,
+      "collocation": "director advises me"
+    },
+    {
+      "lemma": "iron",
+      "pos": "n./v.",
+      "zh": "铁",
+      "stars": 3,
+      "collocation": "old iron museum"
+    },
+    {
+      "lemma": "sick",
+      "pos": "n./adj./v.",
+      "zh": "病人",
+      "stars": 3,
+      "collocation": "A sick child"
+    },
+    {
+      "lemma": "chest",
+      "pos": "n.",
+      "zh": "胸",
+      "stars": 3,
+      "collocation": "My chest feels tight"
+    },
+    {
+      "lemma": "cloud",
+      "pos": "n./v.",
+      "zh": "云",
+      "stars": 3,
+      "collocation": "A grey cloud"
+    },
+    {
+      "lemma": "mail",
+      "pos": "n./v.",
+      "zh": "邮件",
+      "stars": 3,
+      "collocation": "A recent mail"
+    },
+    {
+      "lemma": "heaven",
+      "pos": "n.",
+      "zh": "天堂",
+      "stars": 3,
+      "collocation": "heaven feels far"
+    },
+    {
+      "lemma": "pride",
+      "pos": "n./v.",
+      "zh": "骄傲",
+      "stars": 3,
+      "collocation": "their quiet pride"
+    },
+    {
+      "lemma": "planet",
+      "pos": "n.",
+      "zh": "行星",
+      "stars": 3,
+      "collocation": "hides a planet"
+    },
+    {
+      "lemma": "juice",
+      "pos": "n./v.",
+      "zh": "汁",
+      "stars": 3,
+      "collocation": "cool juice"
+    },
+    {
+      "lemma": "gone",
+      "pos": "adj.",
+      "zh": "离去的",
+      "stars": 4,
+      "collocation": "family has gone"
+    },
+    {
+      "lemma": "associated",
+      "pos": "adj.",
+      "zh": "联合的",
+      "stars": 3,
+      "collocation": "is associated with"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“labour” 在短文里最接近的意思是：",
+      "options": [
+        "劳动",
+        "会议",
+        "骄傲",
+        "带子"
+      ],
+      "answer": 0,
+      "speak": "labour"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "This difficulty is ___ with the old plastic recording.",
+      "options": [
+        "associated",
+        "protected",
+        "advised",
+        "entered"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“planet” 的意思是：",
+      "options": [
+        "行星",
+        "天堂",
+        "云",
+        "铁"
+      ],
+      "answer": 0,
+      "speak": "planet"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "We must ___ the box and keep a high and clear standard.",
+      "options": [
+        "protect",
+        "search",
+        "advise",
+        "enter"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "Then it ___ runs fast and slips quietly away.",
+      "options": [
+        "probably",
+        "recent",
+        "inside",
+        "seventh"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“pride” 在短文里指的是：",
+      "options": [
+        "骄傲",
+        "精神",
+        "意义",
+        "标准"
+      ],
+      "answer": 0,
+      "speak": "pride"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A grey cloud hides a ___; heaven feels far.",
+      "options": [
+        "field",
+        "planet",
+        "chest",
+        "tape"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“wonder” 作动词的意思是：",
+      "options": [
+        "想知道",
+        "行走",
+        "停止",
+        "教导"
+      ],
+      "answer": 0,
+      "speak": "wonder"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "The ",
+        "hint": "fi",
+        "after": " room of the old iron museum feels warm and very quiet.",
+        "answer": "first"
+      },
+      {
+        "before": "Two shelves are ",
+        "hint": "bl",
+        "after": ", and a third shelf lies almost completely bare.",
+        "answer": "black"
+      },
+      {
+        "before": "I read the ",
+        "hint": "se",
+        "after": " number on a dusty old wooden box.",
+        "answer": "seventh"
+      },
+      {
+        "before": "Her mother brought cool ",
+        "hint": "ju",
+        "after": " and stayed near the cot.",
+        "answer": "juice"
+      },
+      {
+        "before": "A grey ",
+        "hint": "cl",
+        "after": " hides a planet; heaven feels far.",
+        "answer": "cloud"
+      },
+      {
+        "before": "My ",
+        "hint": "ch",
+        "after": " feels tight when she names that wide open field.",
+        "answer": "chest"
+      },
+      {
+        "before": "A school ",
+        "hint": "ma",
+        "after": " may influence how we see this sleepy little place.",
+        "answer": "magazine"
+      },
+      {
+        "before": "We must ",
+        "hint": "pr",
+        "after": " the box and keep a high and clear standard.",
+        "answer": "protect"
+      },
+      {
+        "before": "A recent ",
+        "hint": "ma",
+        "after": " asks for the box and its paper label.",
+        "answer": "mail"
+      },
+      {
+        "before": "Then the tape ",
+        "hint": "be",
+        "after": " with the low, tired, quiet voice of a cook.",
+        "answer": "begins"
+      }
+    ],
+    "b3": [
+      {
+        "before": "I must ",
+        "hint": "s",
+        "after": " a dark storeroom for an old and plastic tape.",
+        "answer": "search"
+      },
+      {
+        "before": "She talks about low pay, hard ",
+        "hint": "l",
+        "after": " and the long war.",
+        "answer": "labour"
+      },
+      {
+        "before": "This ",
+        "hint": "d",
+        "after": " is associated with the old plastic recording.",
+        "answer": "difficulty"
+      },
+      {
+        "before": "I ",
+        "hint": "w",
+        "after": " what spirit kept these tired old workers standing there.",
+        "answer": "wonder"
+      },
+      {
+        "before": "The director ",
+        "hint": "a",
+        "after": " me on writing about their quiet pride.",
+        "answer": "advises"
+      },
+      {
+        "before": "A sick ",
+        "hint": "c",
+        "after": " once slept in this very small back room.",
+        "answer": "child"
+      },
+      {
+        "before": "The child is long ",
+        "hint": "d",
+        "after": ", and the whole family has gone.",
+        "answer": "dead"
+      },
+      {
+        "before": "A friend carries the box toward the crowded old ",
+        "hint": "f",
+        "after": " desk.",
+        "answer": "front"
+      },
+      {
+        "before": "During the ",
+        "hint": "c",
+        "after": ", visitors will enter the very same small room.",
+        "answer": "conference"
+      },
+      {
+        "before": "At ",
+        "hint": "s",
+        "after": " I walk slowly home under a wide and quiet evening sky.",
+        "answer": "sixteen"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "老铁厂博物馆的第一间屋子又暖又静。",
+        "keywords": [
+          "first",
+          "iron",
+          "warm"
+        ]
+      },
+      {
+        "zh": "我得在一间昏暗的储藏室里找一盒旧塑料磁带。",
+        "keywords": [
+          "search",
+          "tape"
+        ]
+      },
+      {
+        "zh": "她讲起微薄的工资、辛苦的劳动和那场漫长的战争。",
+        "keywords": [
+          "pay",
+          "labour",
+          "war"
+        ]
+      },
+      {
+        "zh": "那孩子早已去世，全家也都离开了。",
+        "keywords": [
+          "child",
+          "dead",
+          "gone"
+        ]
+      },
+      {
+        "zh": "最近一封邮件索要这只箱子和它的纸质标签。",
+        "keywords": [
+          "recent",
+          "mail"
+        ]
+      },
+      {
+        "zh": "这个困难与那盘旧塑料录音有关。",
+        "keywords": [
+          "difficulty",
+          "associated"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 311,
+    "sentences": 28,
+    "newDensity": 0.193,
+    "targetTokenDensity": 0.219,
+    "patterns": [
+      "My + N + V（4 次）",
+      "A + 形容词 + N + V（6 次）",
+      "During / Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p02 稿：311 词 / 28 句；60 个目标词各出现 ≥1 次，目标词次 68（21.9%）；每句 8–13 词、2–4 个目标词。写作与自查规则见 work/p01-写作规则与自查清单.md。"
+}

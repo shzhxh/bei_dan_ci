@@ -1,0 +1,830 @@
+{
+  "id": "p22",
+  "title": "The Little Theatre in the Garden",
+  "titleZh": "花园里的小剧场",
+  "topic": "露天剧场",
+  "paragraphs": [
+    [
+      {
+        "en": "Several local people come to a meeting in the walled garden.",
+        "zh": "好几位本地人来到围墙花园里参加一次会议。"
+      },
+      {
+        "en": "The old primary school lends a small outdoor theatre for the summer.",
+        "zh": "老小学把一个小型露天剧场借给他们过夏天。"
+      },
+      {
+        "en": "My mother says their summer season is popular with local families.",
+        "zh": "我母亲说他们的夏季演出季很受本地家庭欢迎。"
+      },
+      {
+        "en": "My sister, a young girl, will play the hero.",
+        "zh": "我妹妹是个小姑娘，将扮演故事里的英雄。"
+      },
+      {
+        "en": "A tall quiet boy plays a king in a bright gold crown.",
+        "zh": "一个高个安静的男孩戴着闪亮的金冠扮演国王。"
+      },
+      {
+        "en": "One brave guard must solve a murder before the clock strikes.",
+        "zh": "一位勇敢的卫兵必须在钟声敲响前破解一桩谋杀案。"
+      },
+      {
+        "en": "They practise a perfect circle around the wooden stage.",
+        "zh": "他们围着木舞台练习一个完美的圆圈。"
+      },
+      {
+        "en": "My uncle and two helpers lift a heavy wooden box.",
+        "zh": "我叔叔和两个帮手抬上一个沉重的木箱。"
+      },
+      {
+        "en": "An old television stands in the corner, dusty and dark.",
+        "zh": "一台旧电视摆在角落里，满是灰尘，黑漆漆的。"
+      },
+      {
+        "en": "A grey cat sleeps on the soft grass near the wall.",
+        "zh": "一只灰猫在墙边的软草地上睡觉。"
+      }
+    ],
+    [
+      {
+        "en": "She must write all her lines in a new and difficult language.",
+        "zh": "她必须用一种新的、难学的语言写下所有台词。"
+      },
+      {
+        "en": "The teacher examines each page and adds a short note in red.",
+        "zh": "老师检查每一页，并用红笔加上简短的批注。"
+      },
+      {
+        "en": "One careful person checks every thing that is necessary.",
+        "zh": "一位细心的人检查每一样必要的东西。"
+      },
+      {
+        "en": "She essentially avoids the part that makes her truly afraid.",
+        "zh": "她基本上避开了让她真正害怕的那部分。"
+      },
+      {
+        "en": "Then, once the music starts, the whole show will begin soon.",
+        "zh": "然后，音乐一响起，整场演出很快就会开始。"
+      },
+      {
+        "en": "A kind neighbour lets them borrow a silver hat for the play.",
+        "zh": "一位好心的邻居让他们借一顶银色的帽子演出用。"
+      },
+      {
+        "en": "During the morning, they wash the dirty curtains for the show.",
+        "zh": "上午，他们为演出洗那些脏窗帘。"
+      },
+      {
+        "en": "One young actor hurts his arm and gets injured on the step.",
+        "zh": "一个年轻演员摔倒，在台阶上伤了手臂。"
+      },
+      {
+        "en": "It is a shame that he coughs through the quiet scene.",
+        "zh": "遗憾的是他在安静的这一幕里一直咳嗽。"
+      },
+      {
+        "en": "Their quick hello grows into a warm and lasting friendship.",
+        "zh": "他们匆匆的一声问候长成了温暖而持久的友谊。"
+      }
+    ],
+    [
+      {
+        "en": "Later they take a certain train for a mile to the old town.",
+        "zh": "后来他们坐上一班特定的火车，走一英里到老镇。"
+      },
+      {
+        "en": "Parents drive eighteen happy children to the wooden gate.",
+        "zh": "父母开车送十八个快乐的孩子到木门前。"
+      },
+      {
+        "en": "The town law bans any race on this quiet little street.",
+        "zh": "镇上的法律禁止在这条安静的小街上进行任何赛跑。"
+      },
+      {
+        "en": "Then, by the twentieth show, their level has clearly risen again.",
+        "zh": "然后，到第二十场演出时，他们的水平明显又提高了。"
+      },
+      {
+        "en": "Much work remains, but few people seem worried or tired.",
+        "zh": "还有很多工作，但很少有人显得担心或疲倦。"
+      },
+      {
+        "en": "There is no easy way back after the red curtain opens.",
+        "zh": "红幕拉开后，就没有轻松的回头路了。"
+      },
+      {
+        "en": "They need more time to sort the coats and heavy bags.",
+        "zh": "他们需要更多时间来整理外套和沉重的包。"
+      },
+      {
+        "en": "The old stage has its charm, which everyone loves tonight.",
+        "zh": "老舞台有它自己的魅力，今晚每个人都喜欢。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "which",
+      "pos": "pron.",
+      "zh": "哪一个",
+      "stars": 5,
+      "collocation": "charm, which everyone loves"
+    },
+    {
+      "lemma": "its",
+      "pos": "pron.",
+      "zh": "它的",
+      "stars": 5,
+      "collocation": "has its charm, which"
+    },
+    {
+      "lemma": "no",
+      "pos": "n./adj./adv.",
+      "zh": "不",
+      "stars": 5,
+      "collocation": "is no easy way"
+    },
+    {
+      "lemma": "back",
+      "pos": "adj./v./adv.",
+      "zh": "后面的",
+      "stars": 5,
+      "collocation": "way back after the"
+    },
+    {
+      "lemma": "need",
+      "pos": "n./v.",
+      "zh": "需要",
+      "stars": 5,
+      "collocation": "They need more time"
+    },
+    {
+      "lemma": "much",
+      "pos": "n./adj./adv.",
+      "zh": "大量",
+      "stars": 5,
+      "collocation": "Much work remains,"
+    },
+    {
+      "lemma": "few",
+      "pos": "adj./n.",
+      "zh": "很少的",
+      "stars": 5,
+      "collocation": "but few people seem"
+    },
+    {
+      "lemma": "write",
+      "pos": "v.",
+      "zh": "书写",
+      "stars": 5,
+      "collocation": "must write all her"
+    },
+    {
+      "lemma": "level",
+      "pos": "n./adj./v.",
+      "zh": "水平",
+      "stars": 5,
+      "collocation": "their level has clearly"
+    },
+    {
+      "lemma": "law",
+      "pos": "n./v.",
+      "zh": "法律",
+      "stars": 5,
+      "collocation": "town law bans any"
+    },
+    {
+      "lemma": "person",
+      "pos": "n.",
+      "zh": "人",
+      "stars": 5,
+      "collocation": "careful person checks every"
+    },
+    {
+      "lemma": "add",
+      "pos": "v.",
+      "zh": "增加",
+      "stars": 5,
+      "collocation": "and adds a short"
+    },
+    {
+      "lemma": "girl",
+      "pos": "n.",
+      "zh": "女孩",
+      "stars": 5,
+      "collocation": "young girl, will play"
+    },
+    {
+      "lemma": "several",
+      "pos": "adj./pron.",
+      "zh": "几个的",
+      "stars": 5,
+      "collocation": "Several local people"
+    },
+    {
+      "lemma": "sort",
+      "pos": "n./v.",
+      "zh": "种类",
+      "stars": 5,
+      "collocation": "to sort the coats"
+    },
+    {
+      "lemma": "meeting",
+      "pos": "n.",
+      "zh": "会议",
+      "stars": 5,
+      "collocation": "a meeting in the"
+    },
+    {
+      "lemma": "arm",
+      "pos": "n./v.",
+      "zh": "手臂",
+      "stars": 5,
+      "collocation": "his arm and gets"
+    },
+    {
+      "lemma": "once",
+      "pos": "adv./conj./n./adj.",
+      "zh": "一次",
+      "stars": 5,
+      "collocation": "Then, once the music"
+    },
+    {
+      "lemma": "soon",
+      "pos": "adv.",
+      "zh": "不久",
+      "stars": 5,
+      "collocation": "begin soon."
+    },
+    {
+      "lemma": "drive",
+      "pos": "n./v.",
+      "zh": "驾车",
+      "stars": 5,
+      "collocation": "Parents drive eighteen happy"
+    },
+    {
+      "lemma": "season",
+      "pos": "n./v.",
+      "zh": "季节",
+      "stars": 5,
+      "collocation": "summer season is popular"
+    },
+    {
+      "lemma": "race",
+      "pos": "n./v.",
+      "zh": "种族",
+      "stars": 5,
+      "collocation": "any race on this"
+    },
+    {
+      "lemma": "eighteen",
+      "pos": "num.",
+      "zh": "十八",
+      "stars": 5,
+      "collocation": "drive eighteen happy children"
+    },
+    {
+      "lemma": "language",
+      "pos": "n.",
+      "zh": "语言",
+      "stars": 4,
+      "collocation": "difficult language."
+    },
+    {
+      "lemma": "necessary",
+      "pos": "adj.",
+      "zh": "必要的",
+      "stars": 4,
+      "collocation": "is necessary."
+    },
+    {
+      "lemma": "king",
+      "pos": "n./v.",
+      "zh": "国王",
+      "stars": 4,
+      "collocation": "a king in a"
+    },
+    {
+      "lemma": "garden",
+      "pos": "n./v./adj.",
+      "zh": "花园",
+      "stars": 4,
+      "collocation": "walled garden."
+    },
+    {
+      "lemma": "mile",
+      "pos": "n.",
+      "zh": "英里",
+      "stars": 4,
+      "collocation": "a mile to the"
+    },
+    {
+      "lemma": "avoid",
+      "pos": "v.",
+      "zh": "避免",
+      "stars": 4,
+      "collocation": "essentially avoids the part"
+    },
+    {
+      "lemma": "box",
+      "pos": "n./v.",
+      "zh": "盒子",
+      "stars": 4,
+      "collocation": "wooden box."
+    },
+    {
+      "lemma": "popular",
+      "pos": "adj.",
+      "zh": "通俗的",
+      "stars": 4,
+      "collocation": "is popular with local"
+    },
+    {
+      "lemma": "television",
+      "pos": "n.",
+      "zh": "电视",
+      "stars": 4,
+      "collocation": "old television stands in"
+    },
+    {
+      "lemma": "examine",
+      "pos": "v.",
+      "zh": "检查",
+      "stars": 4,
+      "collocation": "teacher examines each page"
+    },
+    {
+      "lemma": "corner",
+      "pos": "n./v.",
+      "zh": "角落",
+      "stars": 4,
+      "collocation": "the corner, dusty and"
+    },
+    {
+      "lemma": "train",
+      "pos": "n./v.",
+      "zh": "火车",
+      "stars": 4,
+      "collocation": "certain train for a"
+    },
+    {
+      "lemma": "gold",
+      "pos": "n./adj.",
+      "zh": "黄金",
+      "stars": 4,
+      "collocation": "bright gold crown."
+    },
+    {
+      "lemma": "lift",
+      "pos": "n./v.",
+      "zh": "举起",
+      "stars": 4,
+      "collocation": "helpers lift a heavy"
+    },
+    {
+      "lemma": "theatre",
+      "pos": "n.",
+      "zh": "戏院",
+      "stars": 4,
+      "collocation": "outdoor theatre for the"
+    },
+    {
+      "lemma": "murder",
+      "pos": "n./v.",
+      "zh": "谋杀",
+      "stars": 4,
+      "collocation": "a murder before the"
+    },
+    {
+      "lemma": "perfect",
+      "pos": "n./adj./v.",
+      "zh": "完成时",
+      "stars": 4,
+      "collocation": "a perfect circle around"
+    },
+    {
+      "lemma": "circle",
+      "pos": "n./v.",
+      "zh": "圆周",
+      "stars": 4,
+      "collocation": "perfect circle around the"
+    },
+    {
+      "lemma": "guard",
+      "pos": "n./v.",
+      "zh": "守卫者",
+      "stars": 4,
+      "collocation": "brave guard must solve"
+    },
+    {
+      "lemma": "twentieth",
+      "pos": "num.",
+      "zh": "第二十",
+      "stars": 4,
+      "collocation": "the twentieth show, their"
+    },
+    {
+      "lemma": "certain",
+      "pos": "adj.",
+      "zh": "确定的",
+      "stars": 3,
+      "collocation": "a certain train for"
+    },
+    {
+      "lemma": "primary",
+      "pos": "n./adj.",
+      "zh": "最主要者",
+      "stars": 3,
+      "collocation": "old primary school lends"
+    },
+    {
+      "lemma": "afraid",
+      "pos": "adj.",
+      "zh": "害怕的",
+      "stars": 3,
+      "collocation": "truly afraid."
+    },
+    {
+      "lemma": "cat",
+      "pos": "n./v.",
+      "zh": "猫",
+      "stars": 3,
+      "collocation": "grey cat sleeps on"
+    },
+    {
+      "lemma": "wash",
+      "pos": "n./v.",
+      "zh": "洗",
+      "stars": 3,
+      "collocation": "they wash the dirty"
+    },
+    {
+      "lemma": "grass",
+      "pos": "n.",
+      "zh": "草",
+      "stars": 3,
+      "collocation": "soft grass near the"
+    },
+    {
+      "lemma": "hat",
+      "pos": "n./v.",
+      "zh": "帽子",
+      "stars": 3,
+      "collocation": "silver hat for the"
+    },
+    {
+      "lemma": "hello",
+      "pos": "int.",
+      "zh": "喂",
+      "stars": 3,
+      "collocation": "quick hello grows into"
+    },
+    {
+      "lemma": "hero",
+      "pos": "n.",
+      "zh": "英雄",
+      "stars": 3,
+      "collocation": "the hero."
+    },
+    {
+      "lemma": "borrow",
+      "pos": "v.",
+      "zh": "借",
+      "stars": 3,
+      "collocation": "them borrow a silver"
+    },
+    {
+      "lemma": "dirty",
+      "pos": "adj./v.",
+      "zh": "肮脏的",
+      "stars": 3,
+      "collocation": "the dirty curtains for"
+    },
+    {
+      "lemma": "friendship",
+      "pos": "n.",
+      "zh": "友谊",
+      "stars": 3,
+      "collocation": "lasting friendship."
+    },
+    {
+      "lemma": "shame",
+      "pos": "n./v.",
+      "zh": "羞耻",
+      "stars": 3,
+      "collocation": "a shame that he"
+    },
+    {
+      "lemma": "cough",
+      "pos": "n./v.",
+      "zh": "咳嗽",
+      "stars": 3,
+      "collocation": "he coughs through the"
+    },
+    {
+      "lemma": "essentially",
+      "pos": "adv.",
+      "zh": "本质上",
+      "stars": 3,
+      "collocation": "She essentially avoids the"
+    },
+    {
+      "lemma": "injured",
+      "pos": "adj.",
+      "zh": "受伤的",
+      "stars": 3,
+      "collocation": "gets injured on the"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“murder” 的意思是：",
+      "options": [
+        "谋杀",
+        "国王",
+        "卫兵",
+        "舞台"
+      ],
+      "answer": 0,
+      "speak": "murder"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "One brave guard must solve a ___ before the clock strikes.",
+      "options": [
+        "murder",
+        "circle",
+        "cough",
+        "sort"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“friendship” 的意思是：",
+      "options": [
+        "友谊",
+        "语言",
+        "花园",
+        "水平"
+      ],
+      "answer": 0,
+      "speak": "friendship"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Two helpers lift a heavy wooden ___ onto the floor.",
+      "options": [
+        "box",
+        "hat",
+        "crown",
+        "corner"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "They take a certain train for a ___ to the old town.",
+      "options": [
+        "mile",
+        "level",
+        "season",
+        "circle"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“essentially” 的意思是：",
+      "options": [
+        "基本上",
+        "简单地",
+        "完美地",
+        "必要地"
+      ],
+      "answer": 0,
+      "speak": "essentially"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "They wash the dirty ___ before the first evening show.",
+      "options": [
+        "curtains",
+        "crowns",
+        "coughs",
+        "notes"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“injured” 的意思是：",
+      "options": [
+        "受伤的",
+        "害怕的",
+        "脏的",
+        "受欢迎的"
+      ],
+      "answer": 0,
+      "speak": "injured"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "Several local people come to a meeting in the walled ",
+        "hint": "ga",
+        "after": ".",
+        "answer": "garden"
+      },
+      {
+        "before": "The old primary school lends a small outdoor ",
+        "hint": "th",
+        "after": " for the summer.",
+        "answer": "theatre"
+      },
+      {
+        "before": "My mother says their summer season is ",
+        "hint": "po",
+        "after": " with local families.",
+        "answer": "popular"
+      },
+      {
+        "before": "My sister, a young girl, will play the ",
+        "hint": "he",
+        "after": ".",
+        "answer": "hero"
+      },
+      {
+        "before": "A tall quiet boy plays a ",
+        "hint": "ki",
+        "after": " in a bright gold crown.",
+        "answer": "king"
+      },
+      {
+        "before": "One brave guard must solve a ",
+        "hint": "mu",
+        "after": " before the clock strikes.",
+        "answer": "murder"
+      },
+      {
+        "before": "They practise a perfect ",
+        "hint": "ci",
+        "after": " around the wooden stage.",
+        "answer": "circle"
+      },
+      {
+        "before": "My uncle and two helpers lift a heavy wooden ",
+        "hint": "bo",
+        "after": ".",
+        "answer": "box"
+      },
+      {
+        "before": "An old ",
+        "hint": "te",
+        "after": " stands in the corner, dusty and dark.",
+        "answer": "television"
+      },
+      {
+        "before": "A grey ",
+        "hint": "ca",
+        "after": " sleeps on the soft grass near the wall.",
+        "answer": "cat"
+      }
+    ],
+    "b3": [
+      {
+        "before": "It is a shame that he ",
+        "hint": "co",
+        "after": " through the quiet scene.",
+        "answer": "coughs"
+      },
+      {
+        "before": "Their quick hello grows into a warm and lasting ",
+        "hint": "fr",
+        "after": ".",
+        "answer": "friendship"
+      },
+      {
+        "before": "Later they take a certain ",
+        "hint": "tr",
+        "after": " for a mile to the old town.",
+        "answer": "train"
+      },
+      {
+        "before": "Parents ",
+        "hint": "dr",
+        "after": " eighteen happy children to the wooden gate.",
+        "answer": "drive"
+      },
+      {
+        "before": "The town ",
+        "hint": "la",
+        "after": " bans any race on this quiet little street.",
+        "answer": "law"
+      },
+      {
+        "before": "Then, by the ",
+        "hint": "tw",
+        "after": " show, their level has clearly risen again.",
+        "answer": "twentieth"
+      },
+      {
+        "before": "Much work remains, but ",
+        "hint": "fe",
+        "after": " people seem worried or tired.",
+        "answer": "few"
+      },
+      {
+        "before": "There is no easy way ",
+        "hint": "ba",
+        "after": " after the red curtain opens.",
+        "answer": "back"
+      },
+      {
+        "before": "They need more time to ",
+        "hint": "so",
+        "after": " the coats and heavy bags.",
+        "answer": "sort"
+      },
+      {
+        "before": "The old stage has ",
+        "hint": "it",
+        "after": " charm, which everyone loves tonight.",
+        "answer": "its"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "好几位本地人来到围墙花园里参加一次会议。",
+        "keywords": [
+          "several",
+          "meeting",
+          "garden"
+        ]
+      },
+      {
+        "zh": "一位勇敢的卫兵必须在钟声敲响前破解一桩谋杀案。",
+        "keywords": [
+          "guard",
+          "murder"
+        ]
+      },
+      {
+        "zh": "她基本上避开了让她真正害怕的那部分。",
+        "keywords": [
+          "essentially",
+          "avoids",
+          "afraid"
+        ]
+      },
+      {
+        "zh": "一个年轻演员摔倒，在台阶上伤了手臂。",
+        "keywords": [
+          "actor",
+          "injured",
+          "arm"
+        ]
+      },
+      {
+        "zh": "镇上的法律禁止在这条安静的小街上进行任何赛跑。",
+        "keywords": [
+          "law",
+          "race",
+          "street"
+        ]
+      },
+      {
+        "zh": "老舞台有它自己的魅力，今晚每个人都喜欢。",
+        "keywords": [
+          "stage",
+          "its",
+          "charm"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 302,
+    "sentences": 28,
+    "newDensity": 0.195,
+    "targetTokenDensity": 0.195,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写社区在围墙花园里排演一出谋杀悬疑剧：孩子演英雄与国王，借来银帽、洗脏窗帘、有演员受伤咳嗽，最后坐火车去老镇演出，第二十场水平更稳。"
+}

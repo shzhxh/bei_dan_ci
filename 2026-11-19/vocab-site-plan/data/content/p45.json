@@ -1,0 +1,828 @@
+{
+  "id": "p45",
+  "title": "The Castle Wedding",
+  "titleZh": "城堡婚礼",
+  "topic": "城堡婚礼与身份丑闻",
+  "paragraphs": [
+    [
+      {
+        "en": "The old castle hosts a wedding for the whole town.",
+        "zh": "那座古老的城堡为全镇人举办一场婚礼。"
+      },
+      {
+        "en": "Our small budget cannot confirm a second warm banquet for the guests.",
+        "zh": "我们那点预算无法再为客人确认第二场温暖的宴席。"
+      },
+      {
+        "en": "The style is simple, yet the quality looks quietly rich and warm.",
+        "zh": "风格朴素，可质感看起来低调地丰厚而温暖。"
+      },
+      {
+        "en": "A live band will attract a much younger generation from nearby.",
+        "zh": "一支现场乐队会从附近吸引来年轻得多的一代。"
+      },
+      {
+        "en": "The printed card quotes a novel as its clear reference for the evening.",
+        "zh": "印好的请柬引用一部小说，作为当晚明确的参照。"
+      },
+      {
+        "en": "The union of two families becomes a public celebration.",
+        "zh": "两个家庭的结合成了一场公开的庆典。"
+      }
+    ],
+    [
+      {
+        "en": "A wooden barrier blocks the narrow road to the gate.",
+        "zh": "一道木栅栏挡住了通向大门的那条窄路。"
+      },
+      {
+        "en": "The actual bride is late, and her long absence worries us badly.",
+        "zh": "真正的新娘迟迟不到，她长久的缺席让我们十分担心。"
+      },
+      {
+        "en": "Then a guard checks identity and may expose any hidden crime.",
+        "zh": "接着一名守卫查验身份，可能会揭出任何隐藏的罪过。"
+      },
+      {
+        "en": "A cruel trick hides a coming scandal, we all fear.",
+        "zh": "我们都害怕，一个残酷的恶作剧掩盖着一桩即将爆出的丑闻。"
+      },
+      {
+        "en": "A camera flash lights a bat above the tall tower.",
+        "zh": "一道相机闪光灯照亮了高塔上方的一只蝙蝠。"
+      },
+      {
+        "en": "A dark tunnel leads where old stone stairs plunge down.",
+        "zh": "一条黑暗的隧道通向老石阶陡然下坠的地方。"
+      }
+    ],
+    [
+      {
+        "en": "My delighted mother holds the small gift to her breast.",
+        "zh": "我母亲满心欢喜，把那件小礼物抱在胸前。"
+      },
+      {
+        "en": "An aggressive teenager pushes past a quiet older guest at the door.",
+        "zh": "一个横冲直撞的少年在门口挤过一位安静的年长客人。"
+      },
+      {
+        "en": "Later one individual raises an issue about the crowded seating.",
+        "zh": "后来有一个人提出了座位过于拥挤的问题。"
+      },
+      {
+        "en": "A short domestic survey asks about food, music, and the seating.",
+        "zh": "一份简短的家庭问卷询问食物、音乐和座位情况。"
+      },
+      {
+        "en": "A thick layer of dust covers the crystal glasses.",
+        "zh": "厚厚一层灰盖住了水晶杯。"
+      },
+      {
+        "en": "A small seed of doubt becomes an exciting spark, to some extent.",
+        "zh": "一小粒怀疑的种子在某种程度上变成了一簇令人兴奋的火花。"
+      }
+    ],
+    [
+      {
+        "en": "The republic calls this event a test of democracy in a small state.",
+        "zh": "共和国把这场活动称作一次在小国里的民主考验。"
+      },
+      {
+        "en": "My concentration fails, and I slip on the wet step.",
+        "zh": "我的注意力散了，在湿台阶上滑了一下。"
+      },
+      {
+        "en": "The index lists every guest, with one clear and surprising exception.",
+        "zh": "名册列出了每位客人，只有一个明确而令人意外的例外。"
+      },
+      {
+        "en": "Then a reporter cites the letter but ignores its context.",
+        "zh": "接着一名记者引用了那封信，却忽略了它的语境。"
+      },
+      {
+        "en": "His nightmare began in exile, far from this cold northern place.",
+        "zh": "他的噩梦始于流亡之中，离这个寒冷的北方之地很远。"
+      },
+      {
+        "en": "Earlier we planned this for his fortieth birthday.",
+        "zh": "早些时候我们是为他的四十岁生日筹划这件事的。"
+      }
+    ],
+    [
+      {
+        "en": "My father realizes this match was never about fate alone.",
+        "zh": "我父亲意识到这桩婚事从来不只是关乎命运。"
+      },
+      {
+        "en": "Protection fails when an attack comes from inside the old stone hall.",
+        "zh": "当攻击来自老石厅内部时，保护就失效了。"
+      },
+      {
+        "en": "He cannot fulfil his promise, and she looks disappointed.",
+        "zh": "他无法兑现承诺，她看上去很失望。"
+      },
+      {
+        "en": "Unfortunately a roach crawls past, and one guest gives a glance.",
+        "zh": "不幸的是，一只蟑螂爬过，一位客人瞥了一眼。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "union",
+      "pos": "n.",
+      "zh": "联盟",
+      "stars": 5,
+      "collocation": "The union of"
+    },
+    {
+      "lemma": "attack",
+      "pos": "n/v.",
+      "zh": "攻击",
+      "stars": 5,
+      "collocation": "an attack comes"
+    },
+    {
+      "lemma": "quality",
+      "pos": "n/adj.",
+      "zh": "品质；优质的",
+      "stars": 4,
+      "collocation": "the quality looks"
+    },
+    {
+      "lemma": "style",
+      "pos": "n/v.",
+      "zh": "风格；称呼",
+      "stars": 4,
+      "collocation": "The style is"
+    },
+    {
+      "lemma": "budget",
+      "pos": "n/v/adj.",
+      "zh": "预算；编预算",
+      "stars": 4,
+      "collocation": "small budget cannot"
+    },
+    {
+      "lemma": "confirm",
+      "pos": "v.",
+      "zh": "证实",
+      "stars": 4,
+      "collocation": "cannot confirm a"
+    },
+    {
+      "lemma": "protection",
+      "pos": "n.",
+      "zh": "保护",
+      "stars": 4,
+      "collocation": "Protection fails"
+    },
+    {
+      "lemma": "generation",
+      "pos": "n.",
+      "zh": "一代",
+      "stars": 4,
+      "collocation": "younger generation from"
+    },
+    {
+      "lemma": "attract",
+      "pos": "v.",
+      "zh": "吸引；有吸引力",
+      "stars": 4,
+      "collocation": "will attract a"
+    },
+    {
+      "lemma": "republic",
+      "pos": "n.",
+      "zh": "共和国",
+      "stars": 4,
+      "collocation": "The republic calls"
+    },
+    {
+      "lemma": "slip",
+      "pos": "n/v/adj.",
+      "zh": "滑；滑动",
+      "stars": 4,
+      "collocation": "I slip on"
+    },
+    {
+      "lemma": "novel",
+      "pos": "n/adj.",
+      "zh": "小说；新奇的",
+      "stars": 4,
+      "collocation": "a novel as"
+    },
+    {
+      "lemma": "seed",
+      "pos": "n/v.",
+      "zh": "种子；在...播种",
+      "stars": 4,
+      "collocation": "small seed of"
+    },
+    {
+      "lemma": "reference",
+      "pos": "n/v.",
+      "zh": "参考；给...加上参考资料",
+      "stars": 3,
+      "collocation": "clear reference for"
+    },
+    {
+      "lemma": "actual",
+      "pos": "adj.",
+      "zh": "真实的",
+      "stars": 3,
+      "collocation": "The actual bride"
+    },
+    {
+      "lemma": "absence",
+      "pos": "n.",
+      "zh": "缺席",
+      "stars": 3,
+      "collocation": "long absence worries"
+    },
+    {
+      "lemma": "castle",
+      "pos": "n/v.",
+      "zh": "城堡；置于城堡中",
+      "stars": 3,
+      "collocation": "old castle hosts"
+    },
+    {
+      "lemma": "unfortunately",
+      "pos": "adv.",
+      "zh": "恐怕",
+      "stars": 3,
+      "collocation": "Unfortunately a"
+    },
+    {
+      "lemma": "identity",
+      "pos": "n.",
+      "zh": "身份",
+      "stars": 3,
+      "collocation": "checks identity and"
+    },
+    {
+      "lemma": "glance",
+      "pos": "n/v.",
+      "zh": "一瞥；扫视",
+      "stars": 3,
+      "collocation": "a glance"
+    },
+    {
+      "lemma": "wedding",
+      "pos": "n.",
+      "zh": "婚礼",
+      "stars": 3,
+      "collocation": "a wedding for"
+    },
+    {
+      "lemma": "wooden",
+      "pos": "adj.",
+      "zh": "木制的",
+      "stars": 3,
+      "collocation": "A wooden barrier"
+    },
+    {
+      "lemma": "expose",
+      "pos": "v.",
+      "zh": "使暴露",
+      "stars": 3,
+      "collocation": "may expose any"
+    },
+    {
+      "lemma": "barrier",
+      "pos": "n.",
+      "zh": "障碍",
+      "stars": 3,
+      "collocation": "wooden barrier blocks"
+    },
+    {
+      "lemma": "breast",
+      "pos": "n/v.",
+      "zh": "胸部；以胸对着",
+      "stars": 3,
+      "collocation": "her breast"
+    },
+    {
+      "lemma": "delighted",
+      "pos": "adj.",
+      "zh": "高兴的",
+      "stars": 3,
+      "collocation": "My delighted mother"
+    },
+    {
+      "lemma": "trick",
+      "pos": "n/v/adj.",
+      "zh": "诡计；愚弄",
+      "stars": 3,
+      "collocation": "cruel trick hides"
+    },
+    {
+      "lemma": "celebration",
+      "pos": "n.",
+      "zh": "庆祝",
+      "stars": 3,
+      "collocation": "public celebration"
+    },
+    {
+      "lemma": "aggressive",
+      "pos": "adj.",
+      "zh": "侵略的",
+      "stars": 3,
+      "collocation": "An aggressive teenager"
+    },
+    {
+      "lemma": "teenager",
+      "pos": "n.",
+      "zh": "十三岁到十九岁的少年",
+      "stars": 3,
+      "collocation": "aggressive teenager pushes"
+    },
+    {
+      "lemma": "flash",
+      "pos": "n/v.",
+      "zh": "闪光",
+      "stars": 3,
+      "collocation": "camera flash lights"
+    },
+    {
+      "lemma": "bat",
+      "pos": "n/v.",
+      "zh": "蝙蝠；用球棒打",
+      "stars": 3,
+      "collocation": "a bat above"
+    },
+    {
+      "lemma": "issue",
+      "pos": "n/v.",
+      "zh": "发行",
+      "stars": 5,
+      "collocation": "an issue about"
+    },
+    {
+      "lemma": "individual",
+      "pos": "n/adj.",
+      "zh": "人；个别的",
+      "stars": 4,
+      "collocation": "one individual raises"
+    },
+    {
+      "lemma": "survey",
+      "pos": "n/v.",
+      "zh": "纵览；审视",
+      "stars": 4,
+      "collocation": "domestic survey asks"
+    },
+    {
+      "lemma": "domestic",
+      "pos": "adj.",
+      "zh": "家庭的",
+      "stars": 4,
+      "collocation": "short domestic survey"
+    },
+    {
+      "lemma": "realize",
+      "pos": "v.",
+      "zh": "了解；变卖",
+      "stars": 4,
+      "collocation": "father realizes this"
+    },
+    {
+      "lemma": "democracy",
+      "pos": "n.",
+      "zh": "民主政治",
+      "stars": 4,
+      "collocation": "of democracy in"
+    },
+    {
+      "lemma": "extent",
+      "pos": "n.",
+      "zh": "范围",
+      "stars": 3,
+      "collocation": "some extent"
+    },
+    {
+      "lemma": "concentration",
+      "pos": "n.",
+      "zh": "集中",
+      "stars": 3,
+      "collocation": "My concentration fails"
+    },
+    {
+      "lemma": "index",
+      "pos": "n/v.",
+      "zh": "索引；编入索引中",
+      "stars": 3,
+      "collocation": "The index lists"
+    },
+    {
+      "lemma": "exception",
+      "pos": "n.",
+      "zh": "例外",
+      "stars": 3,
+      "collocation": "surprising exception"
+    },
+    {
+      "lemma": "layer",
+      "pos": "n/v.",
+      "zh": "层；分层堆积",
+      "stars": 3,
+      "collocation": "thick layer of"
+    },
+    {
+      "lemma": "exciting",
+      "pos": "adj.",
+      "zh": "令人兴奋的",
+      "stars": 3,
+      "collocation": "an exciting spark"
+    },
+    {
+      "lemma": "tunnel",
+      "pos": "n/v.",
+      "zh": "隧道；挖隧道",
+      "stars": 3,
+      "collocation": "dark tunnel leads"
+    },
+    {
+      "lemma": "fulfil",
+      "pos": "v.",
+      "zh": "实践",
+      "stars": 3,
+      "collocation": "cannot fulfil his"
+    },
+    {
+      "lemma": "fate",
+      "pos": "n/v.",
+      "zh": "命运；注定",
+      "stars": 3,
+      "collocation": "about fate alone"
+    },
+    {
+      "lemma": "crystal",
+      "pos": "n/adj.",
+      "zh": "水晶；水晶的",
+      "stars": 3,
+      "collocation": "the crystal glasses"
+    },
+    {
+      "lemma": "scandal",
+      "pos": "n.",
+      "zh": "丑闻",
+      "stars": 3,
+      "collocation": "coming scandal, we"
+    },
+    {
+      "lemma": "plunge",
+      "pos": "n/v.",
+      "zh": "钻进；投入",
+      "stars": 3,
+      "collocation": "stairs plunge down"
+    },
+    {
+      "lemma": "spark",
+      "pos": "n/v.",
+      "zh": "火花；闪光",
+      "stars": 3,
+      "collocation": "exciting spark, to"
+    },
+    {
+      "lemma": "context",
+      "pos": "n.",
+      "zh": "上下文",
+      "stars": 3,
+      "collocation": "its context"
+    },
+    {
+      "lemma": "cite",
+      "pos": "v.",
+      "zh": "引用",
+      "stars": 3,
+      "collocation": "reporter cites the"
+    },
+    {
+      "lemma": "nightmare",
+      "pos": "n.",
+      "zh": "梦魇",
+      "stars": 3,
+      "collocation": "His nightmare began"
+    },
+    {
+      "lemma": "exile",
+      "pos": "n/v.",
+      "zh": "放逐",
+      "stars": 3,
+      "collocation": "in exile, far"
+    },
+    {
+      "lemma": "earlier",
+      "pos": "adj.",
+      "zh": "早的",
+      "stars": 4,
+      "collocation": "Earlier we"
+    },
+    {
+      "lemma": "fortieth",
+      "pos": "num.",
+      "zh": "第四十",
+      "stars": 4,
+      "collocation": "his fortieth birthday"
+    },
+    {
+      "lemma": "disappointed",
+      "pos": "adj.",
+      "zh": "失望的",
+      "stars": 3,
+      "collocation": "looks disappointed"
+    },
+    {
+      "lemma": "roach",
+      "pos": "n/v.",
+      "zh": "斜齿鳊；使成凹状",
+      "stars": 3,
+      "collocation": "a roach crawls"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“castle” 的意思是：",
+      "options": [
+        "庄园",
+        "塔楼",
+        "城堡",
+        "帐篷"
+      ],
+      "answer": 2,
+      "speak": "castle"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A camera ___ lights a bat above the tall tower.",
+      "options": [
+        "layer",
+        "flash",
+        "index",
+        "style"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“barrier” 的意思是：",
+      "options": [
+        "预算",
+        "宾客",
+        "誓言",
+        "屏障"
+      ],
+      "answer": 3,
+      "speak": "barrier"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A thick ___ of dust covers the crystal glasses.",
+      "options": [
+        "layer",
+        "spark",
+        "extent",
+        "glance"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "An ___ teenager pushes past a quiet older guest at the door.",
+      "options": [
+        "delighted",
+        "domestic",
+        "aggressive",
+        "exciting"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“fortieth” 的意思是：",
+      "options": [
+        "第十四",
+        "第四",
+        "第四十五",
+        "第四十"
+      ],
+      "answer": 3,
+      "speak": "fortieth"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "The index lists every guest, with one clear ___.",
+      "options": [
+        "context",
+        "exception",
+        "reference",
+        "protection"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "His nightmare began in ___, far from this cold northern place.",
+      "options": [
+        "exile",
+        "tunnel",
+        "celebration",
+        "absence"
+      ],
+      "answer": 0
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "The old ",
+        "hint": "ca",
+        "after": " hosts a wedding for the whole town.",
+        "answer": "castle"
+      },
+      {
+        "before": "Our small ",
+        "hint": "bu",
+        "after": " cannot confirm a second warm banquet for the guests.",
+        "answer": "budget"
+      },
+      {
+        "before": "A live band will attract a much younger ",
+        "hint": "ge",
+        "after": " from nearby.",
+        "answer": "generation"
+      },
+      {
+        "before": "A cruel ",
+        "hint": "tr",
+        "after": " hides a coming scandal, we all fear.",
+        "answer": "trick"
+      },
+      {
+        "before": "Then a guard checks ",
+        "hint": "id",
+        "after": " and may expose any hidden crime.",
+        "answer": "identity"
+      },
+      {
+        "before": "Later one ",
+        "hint": "in",
+        "after": " raises an issue about the crowded seating.",
+        "answer": "individual"
+      },
+      {
+        "before": "My ",
+        "hint": "co",
+        "after": " fails, and I slip on the wet step.",
+        "answer": "concentration"
+      },
+      {
+        "before": "The ",
+        "hint": "in",
+        "after": " lists every guest, with one clear and surprising exception.",
+        "answer": "index"
+      },
+      {
+        "before": "His ",
+        "hint": "ni",
+        "after": " began in exile, far from this cold northern place.",
+        "answer": "nightmare"
+      },
+      {
+        "before": "He cannot ",
+        "hint": "fu",
+        "after": " his promise, and she looks disappointed.",
+        "answer": "fulfil"
+      }
+    ],
+    "b3": [
+      {
+        "before": "The ",
+        "hint": "s",
+        "after": " is simple, yet the quality looks quietly rich and warm.",
+        "answer": "style"
+      },
+      {
+        "before": "The printed card quotes a novel as its clear ",
+        "hint": "r",
+        "after": " for the evening.",
+        "answer": "reference"
+      },
+      {
+        "before": "The actual bride is late, and her long ",
+        "hint": "a",
+        "after": " worries us badly.",
+        "answer": "absence"
+      },
+      {
+        "before": "A wooden ",
+        "hint": "b",
+        "after": " blocks the narrow road to the gate.",
+        "answer": "barrier"
+      },
+      {
+        "before": "An ",
+        "hint": "a",
+        "after": " teenager pushes past a quiet older guest at the door.",
+        "answer": "aggressive"
+      },
+      {
+        "before": "A thick layer of dust covers the ",
+        "hint": "c",
+        "after": " glasses.",
+        "answer": "crystal"
+      },
+      {
+        "before": "A small seed of doubt becomes an exciting ",
+        "hint": "s",
+        "after": ", to some extent.",
+        "answer": "spark"
+      },
+      {
+        "before": "The republic calls this event a test of ",
+        "hint": "d",
+        "after": " in a small state.",
+        "answer": "democracy"
+      },
+      {
+        "before": "A cruel trick hides a coming ",
+        "hint": "s",
+        "after": ", we all fear.",
+        "answer": "scandal"
+      },
+      {
+        "before": "Unfortunately a ",
+        "hint": "r",
+        "after": " crawls past, and one guest gives a glance.",
+        "answer": "roach"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "那座古老的城堡为全镇人举办一场婚礼。",
+        "keywords": [
+          "castle",
+          "wedding"
+        ]
+      },
+      {
+        "zh": "真正的新娘迟迟不到，她长久的缺席让我们十分担心。",
+        "keywords": [
+          "actual",
+          "absence"
+        ]
+      },
+      {
+        "zh": "接着一名守卫查验身份，可能会揭出任何隐藏的罪过。",
+        "keywords": [
+          "identity",
+          "expose"
+        ]
+      },
+      {
+        "zh": "他的噩梦始于流亡之中，离这个寒冷的北方之地很远。",
+        "keywords": [
+          "nightmare",
+          "exile"
+        ]
+      },
+      {
+        "zh": "当攻击来自老石厅内部时，保护就失效了。",
+        "keywords": [
+          "protection",
+          "attack"
+        ]
+      },
+      {
+        "zh": "他无法兑现承诺，她看上去很失望。",
+        "keywords": [
+          "fulfil",
+          "disappointed"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 299,
+    "sentences": 28,
+    "newDensity": 0.197,
+    "targetTokenDensity": 0.197,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（6 次）",
+      "Then / Later / Earlier 开头（3 次）"
+    ]
+  },
+  "note": "p45：约 287 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

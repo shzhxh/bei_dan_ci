@@ -1,0 +1,831 @@
+{
+  "id": "p48",
+  "title": "The Sixtieth Year of the Nuclear Department",
+  "titleZh": "核物理系的第六十年",
+  "topic": "大学核物理系存废听证",
+  "paragraphs": [
+    [
+      {
+        "en": "The city university marks the sixtieth year of its nuclear department.",
+        "zh": "这所城市大学迎来其核物理系第六十周年。"
+      },
+      {
+        "en": "A growing debt and a sudden collapse shock the whole faculty.",
+        "zh": "不断增长的债务和突然的崩溃震动了整个学院。"
+      },
+      {
+        "en": "The chief of the department still holds the title of acting dean.",
+        "zh": "系主任仍然挂着代理院长的头衔。"
+      },
+      {
+        "en": "My honest opinion is mixed about the coming closure.",
+        "zh": "我对即将到来的关闭持混合的诚实看法。"
+      },
+      {
+        "en": "They adopt a new mechanism to share the teaching load.",
+        "zh": "他们采用一种新机制来分担教学负担。"
+      },
+      {
+        "en": "The department must hire new talent and protect every pension.",
+        "zh": "系里必须雇用新人才，并保住每一份养老金。"
+      },
+      {
+        "en": "The annual fee is a fairly small amount for most local students.",
+        "zh": "对大多数本地学生来说，年费是相当小的数目。"
+      },
+      {
+        "en": "A legal suit tests the freedom of every research group.",
+        "zh": "一场法律诉讼考验着每个研究群体的自由。"
+      },
+      {
+        "en": "The latest photo shot is absolutely full of angry faces.",
+        "zh": "最新的照片里满是不满的面孔。"
+      },
+      {
+        "en": "Urban soil near the campus holds an odd chemical trace.",
+        "zh": "校园附近的城市土壤带有一丝奇怪的化学痕迹。"
+      }
+    ],
+    [
+      {
+        "en": "Then the fault is not theirs, unlike the earlier report.",
+        "zh": "那么错不在他们，不像早先的报告所说。"
+      },
+      {
+        "en": "Donations pour in after news of the coming disaster.",
+        "zh": "即将到来的灾难消息传出后，捐款涌入。"
+      },
+      {
+        "en": "The opposite view comes from an outstanding young teacher.",
+        "zh": "相反的观点来自一位杰出的年轻教师。"
+      },
+      {
+        "en": "A small reward goes to the team that cuts carbon.",
+        "zh": "一小笔奖励发给减少碳排放的团队。"
+      },
+      {
+        "en": "Their superb data convince even the doubtful dean.",
+        "zh": "他们一流的数据说服了连多疑的院长。"
+      },
+      {
+        "en": "A neat stall sells sauce and bread from a local trader.",
+        "zh": "一个整洁的摊位卖酱料和一位本地商贩的面包。"
+      },
+      {
+        "en": "No quick cure appears before the cold autumn election in May.",
+        "zh": "在镇上寒冷的秋季选举之前，看不到速效的解决办法。"
+      },
+      {
+        "en": "The plan's best feature is a considerable and steady saving for all.",
+        "zh": "这项计划最好的特点是相当可观的稳定节省。"
+      },
+      {
+        "en": "A commercial partner wants a share of the old territory.",
+        "zh": "一个商业伙伴想要旧有地盘的一份份额。"
+      },
+      {
+        "en": "A panel meets, and one implication is clear to all.",
+        "zh": "一个小组开会，其中一个含义对所有人都是清楚的。"
+      }
+    ],
+    [
+      {
+        "en": "A public inquiry draws keen support from many young students.",
+        "zh": "一次公开调查赢得了许多年轻学生的热烈支持。"
+      },
+      {
+        "en": "My aunt's numerous gifts help sustain the department.",
+        "zh": "我姑姑的大量礼物帮助维持这个系。"
+      },
+      {
+        "en": "Later, as a last resort, the staff seek an ultimate ruling.",
+        "zh": "后来，作为最后手段，教职员寻求一项最终裁决。"
+      },
+      {
+        "en": "A budget raid brings a student delegation to the gate.",
+        "zh": "一场预算突袭把学生代表团带到门口。"
+      },
+      {
+        "en": "During the meeting they set forth how waiting became torture.",
+        "zh": "会议期间，他们陈述了等待如何变成折磨。"
+      },
+      {
+        "en": "The final stage wins wide publicity in the local city press.",
+        "zh": "最后阶段在本地城市媒体上获得了广泛宣传。"
+      },
+      {
+        "en": "Alumni lobby the council and fully back the plan.",
+        "zh": "校友游说议会，并全力支持这项计划。"
+      },
+      {
+        "en": "My sister's activism rests on a firm belief in science.",
+        "zh": "我姐姐的行动主义建立在坚定的科学信念上。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "stage",
+      "pos": "n./v.",
+      "zh": "阶段",
+      "stars": 5,
+      "collocation": "final stage wins wide"
+    },
+    {
+      "lemma": "chief",
+      "pos": "n./adj.",
+      "zh": "领袖",
+      "stars": 5,
+      "collocation": "The chief of the"
+    },
+    {
+      "lemma": "amount",
+      "pos": "n./v.",
+      "zh": "总数",
+      "stars": 4,
+      "collocation": "small amount for most"
+    },
+    {
+      "lemma": "title",
+      "pos": "n./v.",
+      "zh": "头衔",
+      "stars": 4,
+      "collocation": "the title of acting"
+    },
+    {
+      "lemma": "opinion",
+      "pos": "n.",
+      "zh": "意见",
+      "stars": 4,
+      "collocation": "honest opinion is mixed"
+    },
+    {
+      "lemma": "adopt",
+      "pos": "v.",
+      "zh": "采用",
+      "stars": 4,
+      "collocation": "They adopt a new"
+    },
+    {
+      "lemma": "nuclear",
+      "pos": "adj.",
+      "zh": "核子的",
+      "stars": 4,
+      "collocation": "its nuclear department."
+    },
+    {
+      "lemma": "debt",
+      "pos": "n.",
+      "zh": "债务",
+      "stars": 4,
+      "collocation": "growing debt and a"
+    },
+    {
+      "lemma": "freedom",
+      "pos": "n.",
+      "zh": "自由",
+      "stars": 4,
+      "collocation": "the freedom of every"
+    },
+    {
+      "lemma": "fee",
+      "pos": "n./v.",
+      "zh": "费用",
+      "stars": 4,
+      "collocation": "annual fee is a"
+    },
+    {
+      "lemma": "shot",
+      "pos": "n./v./adj.",
+      "zh": "发射",
+      "stars": 4,
+      "collocation": "photo shot is absolutely"
+    },
+    {
+      "lemma": "suit",
+      "pos": "n./v.",
+      "zh": "套装",
+      "stars": 4,
+      "collocation": "legal suit tests the"
+    },
+    {
+      "lemma": "talent",
+      "pos": "n.",
+      "zh": "天才",
+      "stars": 4,
+      "collocation": "new talent and protect"
+    },
+    {
+      "lemma": "latest",
+      "pos": "adj.",
+      "zh": "最近的",
+      "stars": 4,
+      "collocation": "The latest photo shot"
+    },
+    {
+      "lemma": "belief",
+      "pos": "n.",
+      "zh": "信念",
+      "stars": 3,
+      "collocation": "firm belief in science."
+    },
+    {
+      "lemma": "pension",
+      "pos": "n./v.",
+      "zh": "养老金",
+      "stars": 3,
+      "collocation": "every pension."
+    },
+    {
+      "lemma": "urban",
+      "pos": "adj.",
+      "zh": "都市的",
+      "stars": 3,
+      "collocation": "Urban soil near"
+    },
+    {
+      "lemma": "soil",
+      "pos": "n./v.",
+      "zh": "土壤",
+      "stars": 3,
+      "collocation": "Urban soil near the"
+    },
+    {
+      "lemma": "fault",
+      "pos": "n./v.",
+      "zh": "过错",
+      "stars": 3,
+      "collocation": "the fault is not"
+    },
+    {
+      "lemma": "unlike",
+      "pos": "adj./prep.",
+      "zh": "不像的",
+      "stars": 3,
+      "collocation": "theirs, unlike the earlier"
+    },
+    {
+      "lemma": "pour",
+      "pos": "n./v.",
+      "zh": "流出",
+      "stars": 3,
+      "collocation": "Donations pour in after"
+    },
+    {
+      "lemma": "disaster",
+      "pos": "n.",
+      "zh": "灾祸",
+      "stars": 3,
+      "collocation": "coming disaster."
+    },
+    {
+      "lemma": "opposite",
+      "pos": "adj./prep./n.",
+      "zh": "相对的",
+      "stars": 3,
+      "collocation": "The opposite view comes"
+    },
+    {
+      "lemma": "outstanding",
+      "pos": "adj.",
+      "zh": "杰出的",
+      "stars": 3,
+      "collocation": "an outstanding young teacher."
+    },
+    {
+      "lemma": "reward",
+      "pos": "n./v.",
+      "zh": "报酬",
+      "stars": 3,
+      "collocation": "small reward goes to"
+    },
+    {
+      "lemma": "carbon",
+      "pos": "n.",
+      "zh": "碳",
+      "stars": 3,
+      "collocation": "cuts carbon."
+    },
+    {
+      "lemma": "convince",
+      "pos": "v.",
+      "zh": "说服",
+      "stars": 3,
+      "collocation": "data convince even the"
+    },
+    {
+      "lemma": "superb",
+      "pos": "adj.",
+      "zh": "极度的",
+      "stars": 3,
+      "collocation": "Their superb data convince"
+    },
+    {
+      "lemma": "hire",
+      "pos": "n./v.",
+      "zh": "租金",
+      "stars": 3,
+      "collocation": "must hire new talent"
+    },
+    {
+      "lemma": "neat",
+      "pos": "adj./n.",
+      "zh": "整洁的",
+      "stars": 3,
+      "collocation": "A neat stall sells"
+    },
+    {
+      "lemma": "sauce",
+      "pos": "n./v.",
+      "zh": "酱油",
+      "stars": 3,
+      "collocation": "sells sauce and bread"
+    },
+    {
+      "lemma": "cure",
+      "pos": "n./v.",
+      "zh": "治疗",
+      "stars": 3,
+      "collocation": "quick cure appears before"
+    },
+    {
+      "lemma": "election",
+      "pos": "n.",
+      "zh": "选举",
+      "stars": 5,
+      "collocation": "autumn election in May."
+    },
+    {
+      "lemma": "feature",
+      "pos": "n./v.",
+      "zh": "面孔的一部分",
+      "stars": 4,
+      "collocation": "best feature is a"
+    },
+    {
+      "lemma": "considerable",
+      "pos": "adj.",
+      "zh": "相当的",
+      "stars": 4,
+      "collocation": "a considerable and steady"
+    },
+    {
+      "lemma": "commercial",
+      "pos": "adj./n.",
+      "zh": "商业的",
+      "stars": 4,
+      "collocation": "A commercial partner wants"
+    },
+    {
+      "lemma": "absolutely",
+      "pos": "adv.",
+      "zh": "完全地",
+      "stars": 4,
+      "collocation": "is absolutely full of"
+    },
+    {
+      "lemma": "territory",
+      "pos": "n.",
+      "zh": "领土",
+      "stars": 4,
+      "collocation": "old territory."
+    },
+    {
+      "lemma": "collapse",
+      "pos": "n./v.",
+      "zh": "崩溃",
+      "stars": 4,
+      "collocation": "sudden collapse shock the"
+    },
+    {
+      "lemma": "implication",
+      "pos": "n.",
+      "zh": "牵连",
+      "stars": 3,
+      "collocation": "one implication is clear"
+    },
+    {
+      "lemma": "panel",
+      "pos": "n./v.",
+      "zh": "嵌板",
+      "stars": 3,
+      "collocation": "A panel meets, and"
+    },
+    {
+      "lemma": "inquiry",
+      "pos": "n.",
+      "zh": "质询",
+      "stars": 3,
+      "collocation": "public inquiry draws keen"
+    },
+    {
+      "lemma": "keen",
+      "pos": "adj./n./v.",
+      "zh": "锋利的",
+      "stars": 3,
+      "collocation": "draws keen support from"
+    },
+    {
+      "lemma": "numerous",
+      "pos": "adj.",
+      "zh": "很多的",
+      "stars": 3,
+      "collocation": "aunt's numerous gifts help"
+    },
+    {
+      "lemma": "sustain",
+      "pos": "v.",
+      "zh": "承受",
+      "stars": 3,
+      "collocation": "help sustain the department."
+    },
+    {
+      "lemma": "ultimate",
+      "pos": "n./adj.",
+      "zh": "终极",
+      "stars": 3,
+      "collocation": "an ultimate ruling."
+    },
+    {
+      "lemma": "resort",
+      "pos": "n./v.",
+      "zh": "度假胜地",
+      "stars": 3,
+      "collocation": "last resort, the staff"
+    },
+    {
+      "lemma": "raid",
+      "pos": "n./v.",
+      "zh": "袭击",
+      "stars": 3,
+      "collocation": "budget raid brings a"
+    },
+    {
+      "lemma": "delegation",
+      "pos": "n.",
+      "zh": "代表团",
+      "stars": 3,
+      "collocation": "student delegation to the"
+    },
+    {
+      "lemma": "forth",
+      "pos": "adv.",
+      "zh": "往前",
+      "stars": 3,
+      "collocation": "set forth how waiting"
+    },
+    {
+      "lemma": "torture",
+      "pos": "n./v.",
+      "zh": "拷问",
+      "stars": 3,
+      "collocation": "became torture."
+    },
+    {
+      "lemma": "mechanism",
+      "pos": "n.",
+      "zh": "机械",
+      "stars": 3,
+      "collocation": "new mechanism to share"
+    },
+    {
+      "lemma": "publicity",
+      "pos": "n.",
+      "zh": "名声",
+      "stars": 3,
+      "collocation": "wide publicity in the"
+    },
+    {
+      "lemma": "trader",
+      "pos": "n.",
+      "zh": "商人",
+      "stars": 3,
+      "collocation": "local trader."
+    },
+    {
+      "lemma": "lobby",
+      "pos": "n./v.",
+      "zh": "大厅",
+      "stars": 3,
+      "collocation": "Alumni lobby the council"
+    },
+    {
+      "lemma": "fully",
+      "pos": "adv.",
+      "zh": "十分地",
+      "stars": 4,
+      "collocation": "and fully back the"
+    },
+    {
+      "lemma": "sixtieth",
+      "pos": "num.",
+      "zh": "第六十",
+      "stars": 4,
+      "collocation": "the sixtieth year of"
+    },
+    {
+      "lemma": "mixed",
+      "pos": "adj.",
+      "zh": "混合的",
+      "stars": 3,
+      "collocation": "is mixed about the"
+    },
+    {
+      "lemma": "activism",
+      "pos": "n.",
+      "zh": "激进主义",
+      "stars": 3,
+      "collocation": "sister's activism rests on"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“nuclear” 的意思是：",
+      "options": [
+        "核的",
+        "城市的",
+        "商业的",
+        "最终的"
+      ],
+      "answer": 0,
+      "speak": "nuclear"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A growing debt and a sudden ___ shock the whole faculty.",
+      "options": [
+        "collapse",
+        "reward",
+        "cure",
+        "stage"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“outstanding” 的意思是：",
+      "options": [
+        "杰出的",
+        "相反的",
+        "整洁的",
+        "多疑的"
+      ],
+      "answer": 0,
+      "speak": "outstanding"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A small reward goes to the team that cuts ___.",
+      "options": [
+        "carbon",
+        "sauce",
+        "soil",
+        "pension"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A public ___ draws keen support from many young students.",
+      "options": [
+        "inquiry",
+        "territory",
+        "mechanism",
+        "publicity"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“superb” 的意思是：",
+      "options": [
+        "一流的",
+        "整洁的",
+        "温和的",
+        "众多的"
+      ],
+      "answer": 0,
+      "speak": "superb"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "The final stage wins wide ___ in the local city press.",
+      "options": [
+        "publicity",
+        "pension",
+        "activism",
+        "title"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“ultimate” 的意思是：",
+      "options": [
+        "最终的",
+        "相反的",
+        "商业的",
+        "杰出的"
+      ],
+      "answer": 0,
+      "speak": "ultimate"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "The city university marks the ",
+        "hint": "si",
+        "after": " year of its nuclear department.",
+        "answer": "sixtieth"
+      },
+      {
+        "before": "A growing ",
+        "hint": "de",
+        "after": " and a sudden collapse shock the whole faculty.",
+        "answer": "debt"
+      },
+      {
+        "before": "The chief of the department still holds the ",
+        "hint": "ti",
+        "after": " of acting dean.",
+        "answer": "title"
+      },
+      {
+        "before": "My honest ",
+        "hint": "op",
+        "after": " is mixed about the coming closure.",
+        "answer": "opinion"
+      },
+      {
+        "before": "They adopt a new ",
+        "hint": "me",
+        "after": " to share the teaching load.",
+        "answer": "mechanism"
+      },
+      {
+        "before": "The department must hire new talent and protect every ",
+        "hint": "pe",
+        "after": ".",
+        "answer": "pension"
+      },
+      {
+        "before": "The annual fee is a fairly small ",
+        "hint": "am",
+        "after": " for most local students.",
+        "answer": "amount"
+      },
+      {
+        "before": "A legal suit tests the ",
+        "hint": "fr",
+        "after": " of every research group.",
+        "answer": "freedom"
+      },
+      {
+        "before": "The latest photo shot is ",
+        "hint": "ab",
+        "after": " full of angry faces.",
+        "answer": "absolutely"
+      },
+      {
+        "before": "",
+        "hint": "ur",
+        "after": " soil near the campus holds an odd chemical trace.",
+        "answer": "Urban"
+      }
+    ],
+    "b3": [
+      {
+        "before": "A commercial partner wants a share of the old ",
+        "hint": "te",
+        "after": ".",
+        "answer": "territory"
+      },
+      {
+        "before": "A panel meets, and one ",
+        "hint": "im",
+        "after": " is clear to all.",
+        "answer": "implication"
+      },
+      {
+        "before": "A public ",
+        "hint": "in",
+        "after": " draws keen support from many young students.",
+        "answer": "inquiry"
+      },
+      {
+        "before": "My aunt's numerous gifts help ",
+        "hint": "su",
+        "after": " the department.",
+        "answer": "sustain"
+      },
+      {
+        "before": "Later, as a last resort, the staff seek an ",
+        "hint": "ul",
+        "after": " ruling.",
+        "answer": "ultimate"
+      },
+      {
+        "before": "A budget raid brings a student ",
+        "hint": "de",
+        "after": " to the gate.",
+        "answer": "delegation"
+      },
+      {
+        "before": "During the meeting they set forth how waiting became ",
+        "hint": "to",
+        "after": ".",
+        "answer": "torture"
+      },
+      {
+        "before": "The final stage wins wide ",
+        "hint": "pu",
+        "after": " in the local city press.",
+        "answer": "publicity"
+      },
+      {
+        "before": "Alumni lobby the council and ",
+        "hint": "fu",
+        "after": " back the plan.",
+        "answer": "fully"
+      },
+      {
+        "before": "My sister's ",
+        "hint": "ac",
+        "after": " rests on a firm belief in science.",
+        "answer": "activism"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "这所城市大学迎来其核物理系第六十周年。",
+        "keywords": [
+          "sixtieth",
+          "nuclear",
+          "department"
+        ]
+      },
+      {
+        "zh": "不断增长的债务和突然的崩溃震动了整个学院。",
+        "keywords": [
+          "debt",
+          "collapse",
+          "faculty"
+        ]
+      },
+      {
+        "zh": "最新的照片里满是不满的面孔。",
+        "keywords": [
+          "latest",
+          "shot",
+          "angry"
+        ]
+      },
+      {
+        "zh": "校园附近的城市土壤带有一丝奇怪的化学痕迹。",
+        "keywords": [
+          "urban",
+          "soil",
+          "trace"
+        ]
+      },
+      {
+        "zh": "一个整洁的摊位卖酱料和一位本地商贩的面包。",
+        "keywords": [
+          "neat",
+          "sauce",
+          "trader"
+        ]
+      },
+      {
+        "zh": "我姐姐的行动主义建立在坚定的科学信念上。",
+        "keywords": [
+          "activism",
+          "belief",
+          "science"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 284,
+    "sentences": 28,
+    "newDensity": 0.208,
+    "targetTokenDensity": 0.208,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写城市大学核物理系六十周年之际的关闭危机：债务与崩溃、院长头衔、诉讼与自由、最新照片、土壤痕迹、捐款与奖励、公开调查与学生代表团，结尾是最终裁决、宣传与校友游说。"
+}

@@ -1,0 +1,833 @@
+{
+  "id": "p06",
+  "title": "The Corner Bakery",
+  "titleZh": "街角面包店",
+  "topic": "家庭与街区",
+  "paragraphs": [
+    [
+      {
+        "en": "My dad keeps a small bakery before dawn every day.",
+        "zh": "我爸爸每天天亮前都守着一家小面包店。"
+      },
+      {
+        "en": "My aunt comes at six to bake the fresh bread.",
+        "zh": "我姑姑六点就来烤新鲜的面包。"
+      },
+      {
+        "en": "There is an old factory near our quiet little corner shop.",
+        "zh": "我们安静的小店旁边有一座老工厂。"
+      },
+      {
+        "en": "Our little bakery sits on East Road near the green park.",
+        "zh": "我们的小面包店坐落在东路上，靠近绿色的公园。"
+      },
+      {
+        "en": "The government has a new plan for our small and narrow street.",
+        "zh": "政府为我们这条狭窄的小街制定了一个新计划。"
+      },
+      {
+        "en": "Another plan may force us to move away next early spring.",
+        "zh": "另一个计划可能会迫使我们明年早春搬走。"
+      },
+      {
+        "en": "He will not close his small family business this year.",
+        "zh": "他今年不会关掉自己的小家族生意。"
+      },
+      {
+        "en": "A careful officer checks the long green form and slowly nods.",
+        "zh": "一位细心的官员检查了那份长长的绿色表格，慢慢点了点头。"
+      },
+      {
+        "en": "The second page is completely blank and badly torn now.",
+        "zh": "第二页完全空白，而且被撕得很严重。"
+      }
+    ],
+    [
+      {
+        "en": "The picture by the door looks like an old photograph.",
+        "zh": "门边的那幅画看起来像一张老照片。"
+      },
+      {
+        "en": "This is a fine example of honest, patient, steady work.",
+        "zh": "这是诚实、耐心、踏实工作的一个很好的例子。"
+      },
+      {
+        "en": "During the early morning, fresh food arrives from the farm.",
+        "zh": "清晨时分，新鲜的食物从农场运到这里。"
+      },
+      {
+        "en": "Twelve neighbors wait outside, and seventeen tired workers arrive.",
+        "zh": "十二位邻居在外面等着，十七位疲惫的工人也到了。"
+      },
+      {
+        "en": "In the afternoon, bright yellow flowers fill the front window.",
+        "zh": "下午，明黄色的花摆满了前面的橱窗。"
+      },
+      {
+        "en": "A tall glass jar takes the small space by the door.",
+        "zh": "一个高高的玻璃罐占了门边那块小地方。"
+      },
+      {
+        "en": "We prepare a modern wooden sign above the front door.",
+        "zh": "我们在前门上方准备了一块现代风格的木牌。"
+      },
+      {
+        "en": "The small shop will remain open until midnight again tonight.",
+        "zh": "这家小店今晚会再次营业到午夜。"
+      },
+      {
+        "en": "Maybe a new start is not truly impossible after all.",
+        "zh": "也许重新开始对我们来说并非真的不可能。"
+      },
+      {
+        "en": "Then nature gives us this wonderful, quiet evening air.",
+        "zh": "于是，大自然又给了我们这个美好、安静的傍晚空气。"
+      }
+    ],
+    [
+      {
+        "en": "He is too busy to sleep, but still quite determined.",
+        "zh": "他忙得没时间睡觉，但依然十分坚定。"
+      },
+      {
+        "en": "A city businessman offers to buy our little bakery shop.",
+        "zh": "一位城里的商人提出要买下我们的小面包店。"
+      },
+      {
+        "en": "Neither plan works, and either choice is very hard today.",
+        "zh": "两个计划都行不通，而任何一种选择都非常艰难。"
+      },
+      {
+        "en": "A wool jacket hangs beside an old brown tie.",
+        "zh": "一件羊毛夹克挂在一条旧棕色领带旁边。"
+      },
+      {
+        "en": "My nose is red, and my left ear hurts a lot.",
+        "zh": "我的鼻子红了，左耳也疼得厉害。"
+      },
+      {
+        "en": "A tall mirror from abroad hangs on the back wall.",
+        "zh": "一面来自国外的镜子挂在后墙上。"
+      },
+      {
+        "en": "A blind old man plays a guitar outside the shop.",
+        "zh": "一位失明的老人在店外弹吉他。"
+      },
+      {
+        "en": "His loud song makes the lonely street feel warm and bright.",
+        "zh": "他响亮的歌声让这条孤独的街道变得温暖又明亮。"
+      },
+      {
+        "en": "Later the existing sign is complete and bright at last.",
+        "zh": "后来，那块原有的招牌终于做好了，亮堂堂的。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "for",
+      "pos": "prep./conj.",
+      "zh": "为",
+      "stars": 5,
+      "collocation": "plan for our small"
+    },
+    {
+      "lemma": "there",
+      "pos": "adv.",
+      "zh": "在那里",
+      "stars": 5,
+      "collocation": "There is an"
+    },
+    {
+      "lemma": "come",
+      "pos": "v.",
+      "zh": "过来",
+      "stars": 5,
+      "collocation": "aunt comes at six"
+    },
+    {
+      "lemma": "like",
+      "pos": "adj./v./n.",
+      "zh": "相似的",
+      "stars": 5,
+      "collocation": "looks like an old"
+    },
+    {
+      "lemma": "government",
+      "pos": "n.",
+      "zh": "政府",
+      "stars": 5,
+      "collocation": "The government has a"
+    },
+    {
+      "lemma": "another",
+      "pos": "adj./pron.",
+      "zh": "另外的",
+      "stars": 5,
+      "collocation": "Another plan may"
+    },
+    {
+      "lemma": "keep",
+      "pos": "n./v.",
+      "zh": "生计",
+      "stars": 5,
+      "collocation": "dad keeps a small"
+    },
+    {
+      "lemma": "before",
+      "pos": "prep./conj./adv.",
+      "zh": "在...之前",
+      "stars": 5,
+      "collocation": "bakery before dawn every"
+    },
+    {
+      "lemma": "business",
+      "pos": "n.",
+      "zh": "生意",
+      "stars": 5,
+      "collocation": "family business this year."
+    },
+    {
+      "lemma": "second",
+      "pos": "n./adj./num./v.",
+      "zh": "秒",
+      "stars": 5,
+      "collocation": "The second page is"
+    },
+    {
+      "lemma": "road",
+      "pos": "n.",
+      "zh": "路",
+      "stars": 5,
+      "collocation": "East Road near the"
+    },
+    {
+      "lemma": "offer",
+      "pos": "n./v.",
+      "zh": "给予",
+      "stars": 5,
+      "collocation": "businessman offers to buy"
+    },
+    {
+      "lemma": "remain",
+      "pos": "v.",
+      "zh": "保持",
+      "stars": 5,
+      "collocation": "will remain open until"
+    },
+    {
+      "lemma": "force",
+      "pos": "n./v.",
+      "zh": "力量",
+      "stars": 5,
+      "collocation": "may force us to"
+    },
+    {
+      "lemma": "open",
+      "pos": "n./adj./v.",
+      "zh": "公开",
+      "stars": 5,
+      "collocation": "remain open until midnight"
+    },
+    {
+      "lemma": "either",
+      "pos": "adj./pron./conj.",
+      "zh": "任一的",
+      "stars": 5,
+      "collocation": "and either choice is"
+    },
+    {
+      "lemma": "food",
+      "pos": "n.",
+      "zh": "食物",
+      "stars": 5,
+      "collocation": "fresh food arrives from"
+    },
+    {
+      "lemma": "example",
+      "pos": "n.",
+      "zh": "例子",
+      "stars": 5,
+      "collocation": "fine example of honest,"
+    },
+    {
+      "lemma": "officer",
+      "pos": "n./v.",
+      "zh": "军官",
+      "stars": 5,
+      "collocation": "careful officer checks the"
+    },
+    {
+      "lemma": "page",
+      "pos": "n./v.",
+      "zh": "页",
+      "stars": 5,
+      "collocation": "second page is completely"
+    },
+    {
+      "lemma": "east",
+      "pos": "n./adj./adv.",
+      "zh": "东方",
+      "stars": 5,
+      "collocation": "on East Road near"
+    },
+    {
+      "lemma": "complete",
+      "pos": "adj./v.",
+      "zh": "完全的",
+      "stars": 5,
+      "collocation": "is complete and bright"
+    },
+    {
+      "lemma": "twelve",
+      "pos": "num.",
+      "zh": "十二",
+      "stars": 5,
+      "collocation": "Twelve neighbors wait"
+    },
+    {
+      "lemma": "seventeen",
+      "pos": "num.",
+      "zh": "十七",
+      "stars": 5,
+      "collocation": "and seventeen tired workers"
+    },
+    {
+      "lemma": "city",
+      "pos": "n.",
+      "zh": "城市",
+      "stars": 4,
+      "collocation": "A city businessman offers"
+    },
+    {
+      "lemma": "nature",
+      "pos": "n.",
+      "zh": "自然",
+      "stars": 4,
+      "collocation": "Then nature gives us"
+    },
+    {
+      "lemma": "picture",
+      "pos": "n./v.",
+      "zh": "图画",
+      "stars": 4,
+      "collocation": "The picture by the"
+    },
+    {
+      "lemma": "space",
+      "pos": "n./v.",
+      "zh": "位置",
+      "stars": 4,
+      "collocation": "small space by the"
+    },
+    {
+      "lemma": "modern",
+      "pos": "n./adj.",
+      "zh": "现代人",
+      "stars": 4,
+      "collocation": "a modern wooden sign"
+    },
+    {
+      "lemma": "glass",
+      "pos": "n./v.",
+      "zh": "玻璃",
+      "stars": 4,
+      "collocation": "tall glass jar takes"
+    },
+    {
+      "lemma": "prepare",
+      "pos": "v.",
+      "zh": "准备",
+      "stars": 4,
+      "collocation": "We prepare a modern"
+    },
+    {
+      "lemma": "maybe",
+      "pos": "adv./n.",
+      "zh": "也许",
+      "stars": 4,
+      "collocation": "Maybe a new"
+    },
+    {
+      "lemma": "check",
+      "pos": "n./v.",
+      "zh": "检查",
+      "stars": 4,
+      "collocation": "officer checks the long"
+    },
+    {
+      "lemma": "afternoon",
+      "pos": "n.",
+      "zh": "午后",
+      "stars": 4,
+      "collocation": "the afternoon, bright yellow"
+    },
+    {
+      "lemma": "farm",
+      "pos": "n./v.",
+      "zh": "农场",
+      "stars": 4,
+      "collocation": "the farm."
+    },
+    {
+      "lemma": "flower",
+      "pos": "n./v.",
+      "zh": "花",
+      "stars": 4,
+      "collocation": "yellow flowers fill the"
+    },
+    {
+      "lemma": "impossible",
+      "pos": "adj.",
+      "zh": "不可能的",
+      "stars": 4,
+      "collocation": "truly impossible after all."
+    },
+    {
+      "lemma": "sleep",
+      "pos": "n./v.",
+      "zh": "睡眠",
+      "stars": 4,
+      "collocation": "to sleep, but still"
+    },
+    {
+      "lemma": "factory",
+      "pos": "n.",
+      "zh": "工厂",
+      "stars": 4,
+      "collocation": "old factory near our"
+    },
+    {
+      "lemma": "photograph",
+      "pos": "n./v.",
+      "zh": "相片",
+      "stars": 4,
+      "collocation": "old photograph."
+    },
+    {
+      "lemma": "neither",
+      "pos": "adv./adj./pron./conj.",
+      "zh": "皆不",
+      "stars": 4,
+      "collocation": "Neither plan works,"
+    },
+    {
+      "lemma": "wonderful",
+      "pos": "adj.",
+      "zh": "令人惊奇的",
+      "stars": 4,
+      "collocation": "this wonderful, quiet evening"
+    },
+    {
+      "lemma": "tie",
+      "pos": "n./v.",
+      "zh": "带子",
+      "stars": 4,
+      "collocation": "brown tie."
+    },
+    {
+      "lemma": "aunt",
+      "pos": "n.",
+      "zh": "阿姨",
+      "stars": 4,
+      "collocation": "My aunt comes at"
+    },
+    {
+      "lemma": "close",
+      "pos": "n./adj./v.",
+      "zh": "结束",
+      "stars": 3,
+      "collocation": "not close his small"
+    },
+    {
+      "lemma": "dad",
+      "pos": "n.",
+      "zh": "爸爸",
+      "stars": 3,
+      "collocation": "My dad keeps a"
+    },
+    {
+      "lemma": "ear",
+      "pos": "n./v.",
+      "zh": "耳朵",
+      "stars": 3,
+      "collocation": "left ear hurts a"
+    },
+    {
+      "lemma": "busy",
+      "pos": "adj./v.",
+      "zh": "忙碌的",
+      "stars": 3,
+      "collocation": "too busy to sleep,"
+    },
+    {
+      "lemma": "nose",
+      "pos": "n./v.",
+      "zh": "鼻子",
+      "stars": 3,
+      "collocation": "My nose is red,"
+    },
+    {
+      "lemma": "mirror",
+      "pos": "n./v.",
+      "zh": "镜子",
+      "stars": 3,
+      "collocation": "tall mirror from abroad"
+    },
+    {
+      "lemma": "abroad",
+      "pos": "adv./adj.",
+      "zh": "往国外",
+      "stars": 3,
+      "collocation": "from abroad hangs on"
+    },
+    {
+      "lemma": "jacket",
+      "pos": "n./v.",
+      "zh": "夹克",
+      "stars": 3,
+      "collocation": "wool jacket hangs beside"
+    },
+    {
+      "lemma": "guitar",
+      "pos": "n.",
+      "zh": "吉他",
+      "stars": 3,
+      "collocation": "a guitar outside the"
+    },
+    {
+      "lemma": "honest",
+      "pos": "adj.",
+      "zh": "诚实的",
+      "stars": 3,
+      "collocation": "of honest, patient, steady"
+    },
+    {
+      "lemma": "blind",
+      "pos": "n./adj./v./adv.",
+      "zh": "蒙蔽物",
+      "stars": 3,
+      "collocation": "A blind old man"
+    },
+    {
+      "lemma": "loud",
+      "pos": "adj./adv.",
+      "zh": "大声的",
+      "stars": 3,
+      "collocation": "His loud song makes"
+    },
+    {
+      "lemma": "lonely",
+      "pos": "adj.",
+      "zh": "孤单的",
+      "stars": 3,
+      "collocation": "the lonely street feel"
+    },
+    {
+      "lemma": "existing",
+      "pos": "adj.",
+      "zh": "存在的",
+      "stars": 3,
+      "collocation": "the existing sign is"
+    },
+    {
+      "lemma": "determined",
+      "pos": "adj.",
+      "zh": "坚决的",
+      "stars": 3,
+      "collocation": "quite determined."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“government” 的意思是：",
+      "options": [
+        "政府",
+        "生意",
+        "工厂",
+        "农场"
+      ],
+      "answer": 0,
+      "speak": "government"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The government has a new plan ___ our small and narrow street.",
+      "options": [
+        "for",
+        "from",
+        "before",
+        "with"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“officer” 的意思是：",
+      "options": [
+        "军官",
+        "秘书",
+        "教练",
+        "法官"
+      ],
+      "answer": 0,
+      "speak": "officer"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A tall glass jar takes the small ___ by the door.",
+      "options": [
+        "space",
+        "price",
+        "value",
+        "shape"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "He is too busy to ___, but still quite determined.",
+      "options": [
+        "sleep",
+        "serve",
+        "check",
+        "prepare"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“existing” 的意思是：",
+      "options": [
+        "现有的",
+        "现代的",
+        "孤独的",
+        "诚实的"
+      ],
+      "answer": 0,
+      "speak": "existing"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Maybe a new start is not ___ after all.",
+      "options": [
+        "impossible",
+        "wonderful",
+        "honest",
+        "lonely"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“abroad” 的意思是：",
+      "options": [
+        "在国外",
+        "在室内",
+        "在楼上",
+        "在附近"
+      ],
+      "answer": 0,
+      "speak": "abroad"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My ",
+        "hint": "da",
+        "after": " keeps a small bakery before dawn every day.",
+        "answer": "dad"
+      },
+      {
+        "before": "My ",
+        "hint": "au",
+        "after": " comes at six to bake the fresh bread.",
+        "answer": "aunt"
+      },
+      {
+        "before": "There is an old ",
+        "hint": "fa",
+        "after": " near our quiet little corner shop.",
+        "answer": "factory"
+      },
+      {
+        "before": "Our little bakery sits on ",
+        "hint": "Ea",
+        "after": " Road near the green park.",
+        "answer": "East"
+      },
+      {
+        "before": "The ",
+        "hint": "go",
+        "after": " has a new plan for our small and narrow street.",
+        "answer": "government"
+      },
+      {
+        "before": "Another plan may ",
+        "hint": "fo",
+        "after": " us to move away next early spring.",
+        "answer": "force"
+      },
+      {
+        "before": "He will not close his small family ",
+        "hint": "bu",
+        "after": " this year.",
+        "answer": "business"
+      },
+      {
+        "before": "A careful ",
+        "hint": "of",
+        "after": " checks the long green form and slowly nods.",
+        "answer": "officer"
+      },
+      {
+        "before": "The ",
+        "hint": "se",
+        "after": " page is completely blank and badly torn now.",
+        "answer": "second"
+      },
+      {
+        "before": "The picture by the door looks like an old ",
+        "hint": "ph",
+        "after": ".",
+        "answer": "photograph"
+      }
+    ],
+    "b3": [
+      {
+        "before": "This is a fine example of ",
+        "hint": "ho",
+        "after": ", patient, steady work.",
+        "answer": "honest"
+      },
+      {
+        "before": "During the early morning, fresh ",
+        "hint": "fo",
+        "after": " arrives from the farm.",
+        "answer": "food"
+      },
+      {
+        "before": "Twelve neighbors wait outside, and ",
+        "hint": "se",
+        "after": " tired workers arrive.",
+        "answer": "seventeen"
+      },
+      {
+        "before": "In the ",
+        "hint": "af",
+        "after": ", bright yellow flowers fill the front window.",
+        "answer": "afternoon"
+      },
+      {
+        "before": "A tall ",
+        "hint": "gl",
+        "after": " jar takes the small space by the door.",
+        "answer": "glass"
+      },
+      {
+        "before": "We prepare a ",
+        "hint": "mo",
+        "after": " wooden sign above the front door.",
+        "answer": "modern"
+      },
+      {
+        "before": "The small shop will ",
+        "hint": "re",
+        "after": " open until midnight again tonight.",
+        "answer": "remain"
+      },
+      {
+        "before": "Maybe a new start is not truly ",
+        "hint": "im",
+        "after": " after all.",
+        "answer": "impossible"
+      },
+      {
+        "before": "Then nature gives us this ",
+        "hint": "wo",
+        "after": ", quiet evening air.",
+        "answer": "wonderful"
+      },
+      {
+        "before": "He is too busy to sleep, but still quite ",
+        "hint": "de",
+        "after": ".",
+        "answer": "determined"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我爸爸每天天亮前都守着一家小面包店。",
+        "keywords": [
+          "dad",
+          "keep",
+          "bakery",
+          "before"
+        ]
+      },
+      {
+        "zh": "政府为我们这条狭窄的小街制定了一个新计划。",
+        "keywords": [
+          "government",
+          "plan",
+          "for",
+          "street"
+        ]
+      },
+      {
+        "zh": "门边的那幅画看起来像一张老照片。",
+        "keywords": [
+          "picture",
+          "like",
+          "photograph"
+        ]
+      },
+      {
+        "zh": "一个高高的玻璃罐占了门边那块小地方。",
+        "keywords": [
+          "glass",
+          "jar",
+          "space"
+        ]
+      },
+      {
+        "zh": "他忙得没时间睡觉，但依然十分坚定。",
+        "keywords": [
+          "busy",
+          "sleep",
+          "determined"
+        ]
+      },
+      {
+        "zh": "后来，那块原有的招牌终于做好了，亮堂堂的。",
+        "keywords": [
+          "existing",
+          "sign",
+          "complete"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 286,
+    "sentences": 28,
+    "newDensity": 0.206,
+    "targetTokenDensity": 0.206,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "以一家街角面包店为主线，串起政府修路、官员核查、邻里支援与一家人坚守生意的小故事。"
+}

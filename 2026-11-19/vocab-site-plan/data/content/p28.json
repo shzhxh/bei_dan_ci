@@ -1,0 +1,831 @@
+{
+  "id": "p28",
+  "title": "The Dispute at the Lake",
+  "titleZh": "湖边的争执",
+  "topic": "湖泊渔业争端",
+  "paragraphs": [
+    [
+      {
+        "en": "Later we gather evidence beside the wide, quiet lake.",
+        "zh": "后来我们在宽阔安静的湖边收集证据。"
+      },
+      {
+        "en": "A new tax will finance the slow clean-up of the water.",
+        "zh": "一项新税将为缓慢的水体清理提供资金。"
+      },
+      {
+        "en": "My aunt's club will represent the majority of local families.",
+        "zh": "我姑姑的俱乐部将代表当地大多数家庭。"
+      },
+      {
+        "en": "Age and sex do not change the slow track of the disease.",
+        "zh": "年龄和性别并不改变这种疾病缓慢的传播轨迹。"
+      },
+      {
+        "en": "A small grant plus a private gift is a useful addition.",
+        "zh": "一小笔补助加上一份私人捐赠是一项有用的补充。"
+      },
+      {
+        "en": "The old rules are exactly the same under the current regulation.",
+        "zh": "在现行法规下，旧规则完全一样。"
+      },
+      {
+        "en": "Then their plan will consist of three steps and a public opening.",
+        "zh": "然后他们的计划将包括三个步骤和一次公开开幕。"
+      },
+      {
+        "en": "One large expense may force the group to abandon the plan.",
+        "zh": "一笔大开销可能迫使这个团体放弃计划。"
+      },
+      {
+        "en": "A slight change makes an absolute difference to the fish.",
+        "zh": "一个微小的变化对鱼来说却是绝对的不同。"
+      },
+      {
+        "en": "Then the heavy nets drag along the lake bottom without ease.",
+        "zh": "然后沉重的渔网毫不轻松地拖过湖底。"
+      }
+    ],
+    [
+      {
+        "en": "We must get rid of the waste before the colours fade.",
+        "zh": "我们必须在颜色褪去之前清除这些废物。"
+      },
+      {
+        "en": "My cousin, an elegant actress, supports the lake campaign.",
+        "zh": "我的表亲是一位优雅的演员，她支持保护湖泊的运动。"
+      },
+      {
+        "en": "Each small wave will lap against the hunter's wooden boat.",
+        "zh": "每一个小浪都会拍打猎人那条木船。"
+      },
+      {
+        "en": "The two sides accord on one point: they must maintain the lake.",
+        "zh": "双方在一个问题上达成一致：他们必须维护这个湖。"
+      },
+      {
+        "en": "My father says a cheap filter is a good option for consumers.",
+        "zh": "我父亲说，便宜的过滤器对消费者来说是个不错的选择。"
+      },
+      {
+        "en": "Leaders occupy the summit hall for the whole long afternoon.",
+        "zh": "领导们整个漫长的下午都待在峰会大厅里。"
+      },
+      {
+        "en": "In strong contrast, the east lane stays clean and clear.",
+        "zh": "与之形成强烈对比的是，东边的小路依然干净清亮。"
+      },
+      {
+        "en": "A fair comparison may alter the final and difficult decision.",
+        "zh": "公正的比较可能会改变最终而艰难的决定。"
+      },
+      {
+        "en": "Then one opponent lacks imagination and repeats old claims.",
+        "zh": "然后一位反对者缺乏想象力，重复着旧的说法。"
+      },
+      {
+        "en": "Critics criticize the plan, and their sharp words echo for weeks.",
+        "zh": "批评者批评这个计划，他们尖锐的话回荡了好几周。"
+      }
+    ],
+    [
+      {
+        "en": "A health alert warns every sector of the lake trade.",
+        "zh": "一项健康警报提醒着湖泊贸易的每个部门。"
+      },
+      {
+        "en": "The federation may add a penalty for each broken rule.",
+        "zh": "联合会可能会对每一条被破坏的规则加收罚款。"
+      },
+      {
+        "en": "Its rating falls, and wise counsel arrives a little too late.",
+        "zh": "它的评分下降，明智的建议来得有点太晚。"
+      },
+      {
+        "en": "One worried investor leaves the fishing business before winter.",
+        "zh": "一位忧心的投资者在冬天前离开了渔业生意。"
+      },
+      {
+        "en": "Some older members remain opposed to the new responsibility.",
+        "zh": "一些年长的成员仍然反对这项新责任。"
+      },
+      {
+        "en": "A severe winter storm mixes the shallows with the deep water.",
+        "zh": "一场严酷的冬季风暴把浅水与深水混在一起。"
+      },
+      {
+        "en": "A clinic treats anxious children and one difficult childhood case.",
+        "zh": "一家诊所治疗焦虑的儿童和一个艰难的童年病例。"
+      },
+      {
+        "en": "A molecule study meets old philosophy and intellectual pride.",
+        "zh": "一项分子研究与古老的哲学和知识分子的骄傲相遇。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "later",
+      "pos": "adv.",
+      "zh": "以后",
+      "stars": 5,
+      "collocation": "Later we gather"
+    },
+    {
+      "lemma": "tax",
+      "pos": "n./v.",
+      "zh": "税",
+      "stars": 5,
+      "collocation": "new tax will finance"
+    },
+    {
+      "lemma": "evidence",
+      "pos": "n.",
+      "zh": "根据",
+      "stars": 4,
+      "collocation": "gather evidence beside the"
+    },
+    {
+      "lemma": "represent",
+      "pos": "v.",
+      "zh": "表现",
+      "stars": 4,
+      "collocation": "will represent the majority"
+    },
+    {
+      "lemma": "responsibility",
+      "pos": "n.",
+      "zh": "责任",
+      "stars": 4,
+      "collocation": "new responsibility."
+    },
+    {
+      "lemma": "majority",
+      "pos": "n.",
+      "zh": "多数",
+      "stars": 4,
+      "collocation": "the majority of local"
+    },
+    {
+      "lemma": "sex",
+      "pos": "n./v.",
+      "zh": "性别",
+      "stars": 4,
+      "collocation": "and sex do not"
+    },
+    {
+      "lemma": "track",
+      "pos": "n./v.",
+      "zh": "轨迹",
+      "stars": 4,
+      "collocation": "slow track of the"
+    },
+    {
+      "lemma": "plus",
+      "pos": "prep./adj./n.",
+      "zh": "加上",
+      "stars": 4,
+      "collocation": "grant plus a private"
+    },
+    {
+      "lemma": "finance",
+      "pos": "n./v.",
+      "zh": "财政",
+      "stars": 4,
+      "collocation": "will finance the slow"
+    },
+    {
+      "lemma": "gather",
+      "pos": "n./v.",
+      "zh": "集合",
+      "stars": 4,
+      "collocation": "we gather evidence beside"
+    },
+    {
+      "lemma": "severe",
+      "pos": "adj.",
+      "zh": "严格的",
+      "stars": 4,
+      "collocation": "A severe winter storm"
+    },
+    {
+      "lemma": "mix",
+      "pos": "n./v.",
+      "zh": "混合物",
+      "stars": 4,
+      "collocation": "storm mixes the shallows"
+    },
+    {
+      "lemma": "addition",
+      "pos": "n.",
+      "zh": "加法",
+      "stars": 4,
+      "collocation": "useful addition."
+    },
+    {
+      "lemma": "exactly",
+      "pos": "adv.",
+      "zh": "确切地",
+      "stars": 3,
+      "collocation": "are exactly the same"
+    },
+    {
+      "lemma": "regulation",
+      "pos": "n.",
+      "zh": "规则",
+      "stars": 3,
+      "collocation": "current regulation."
+    },
+    {
+      "lemma": "consist",
+      "pos": "v.",
+      "zh": "组成",
+      "stars": 3,
+      "collocation": "will consist of three"
+    },
+    {
+      "lemma": "opening",
+      "pos": "n./adj.",
+      "zh": "开始",
+      "stars": 3,
+      "collocation": "public opening."
+    },
+    {
+      "lemma": "expense",
+      "pos": "n.",
+      "zh": "费用",
+      "stars": 3,
+      "collocation": "large expense may force"
+    },
+    {
+      "lemma": "abandon",
+      "pos": "v./n.",
+      "zh": "放弃",
+      "stars": 3,
+      "collocation": "to abandon the plan."
+    },
+    {
+      "lemma": "slight",
+      "pos": "n./adj./v.",
+      "zh": "轻蔑",
+      "stars": 3,
+      "collocation": "A slight change makes"
+    },
+    {
+      "lemma": "absolute",
+      "pos": "adj./n.",
+      "zh": "绝对的",
+      "stars": 3,
+      "collocation": "an absolute difference to"
+    },
+    {
+      "lemma": "drag",
+      "pos": "n./v.",
+      "zh": "拖",
+      "stars": 3,
+      "collocation": "nets drag along the"
+    },
+    {
+      "lemma": "anxious",
+      "pos": "adj.",
+      "zh": "忧虑的",
+      "stars": 3,
+      "collocation": "treats anxious children and"
+    },
+    {
+      "lemma": "childhood",
+      "pos": "n.",
+      "zh": "孩童时期",
+      "stars": 3,
+      "collocation": "difficult childhood case."
+    },
+    {
+      "lemma": "rid",
+      "pos": "v.",
+      "zh": "免除",
+      "stars": 3,
+      "collocation": "get rid of the"
+    },
+    {
+      "lemma": "ease",
+      "pos": "n./v.",
+      "zh": "安乐",
+      "stars": 3,
+      "collocation": "without ease."
+    },
+    {
+      "lemma": "clinic",
+      "pos": "n.",
+      "zh": "诊所",
+      "stars": 3,
+      "collocation": "A clinic treats anxious"
+    },
+    {
+      "lemma": "fade",
+      "pos": "v./n./adj.",
+      "zh": "褪色",
+      "stars": 3,
+      "collocation": "colours fade."
+    },
+    {
+      "lemma": "elegant",
+      "pos": "adj.",
+      "zh": "优雅的",
+      "stars": 3,
+      "collocation": "an elegant actress, supports"
+    },
+    {
+      "lemma": "lap",
+      "pos": "n./v.",
+      "zh": "膝盖",
+      "stars": 3,
+      "collocation": "will lap against the"
+    },
+    {
+      "lemma": "actress",
+      "pos": "n.",
+      "zh": "女演员",
+      "stars": 3,
+      "collocation": "elegant actress, supports the"
+    },
+    {
+      "lemma": "hunter",
+      "pos": "n.",
+      "zh": "猎人",
+      "stars": 3,
+      "collocation": "the hunter's wooden boat."
+    },
+    {
+      "lemma": "accord",
+      "pos": "n./v.",
+      "zh": "一致",
+      "stars": 5,
+      "collocation": "sides accord on one"
+    },
+    {
+      "lemma": "maintain",
+      "pos": "v.",
+      "zh": "维持",
+      "stars": 4,
+      "collocation": "must maintain the lake."
+    },
+    {
+      "lemma": "option",
+      "pos": "n.",
+      "zh": "选择权",
+      "stars": 4,
+      "collocation": "good option for consumers."
+    },
+    {
+      "lemma": "consumer",
+      "pos": "n.",
+      "zh": "消费者",
+      "stars": 4,
+      "collocation": "for consumers."
+    },
+    {
+      "lemma": "occupy",
+      "pos": "v.",
+      "zh": "占领",
+      "stars": 4,
+      "collocation": "Leaders occupy the summit"
+    },
+    {
+      "lemma": "summit",
+      "pos": "n./adj.",
+      "zh": "顶点",
+      "stars": 4,
+      "collocation": "the summit hall for"
+    },
+    {
+      "lemma": "contrast",
+      "pos": "n./v.",
+      "zh": "差别",
+      "stars": 3,
+      "collocation": "strong contrast, the east"
+    },
+    {
+      "lemma": "lane",
+      "pos": "n.",
+      "zh": "小路",
+      "stars": 3,
+      "collocation": "east lane stays clean"
+    },
+    {
+      "lemma": "comparison",
+      "pos": "n.",
+      "zh": "比较",
+      "stars": 3,
+      "collocation": "fair comparison may alter"
+    },
+    {
+      "lemma": "alter",
+      "pos": "v.",
+      "zh": "改变",
+      "stars": 3,
+      "collocation": "may alter the final"
+    },
+    {
+      "lemma": "philosophy",
+      "pos": "n.",
+      "zh": "哲学",
+      "stars": 3,
+      "collocation": "old philosophy and intellectual"
+    },
+    {
+      "lemma": "opponent",
+      "pos": "n./adj.",
+      "zh": "对手",
+      "stars": 3,
+      "collocation": "one opponent lacks imagination"
+    },
+    {
+      "lemma": "imagination",
+      "pos": "n.",
+      "zh": "想像",
+      "stars": 3,
+      "collocation": "lacks imagination and repeats"
+    },
+    {
+      "lemma": "intellectual",
+      "pos": "n./adj.",
+      "zh": "有知识者",
+      "stars": 3,
+      "collocation": "and intellectual pride."
+    },
+    {
+      "lemma": "molecule",
+      "pos": "n.",
+      "zh": "分子",
+      "stars": 3,
+      "collocation": "A molecule study meets"
+    },
+    {
+      "lemma": "echo",
+      "pos": "n./v.",
+      "zh": "回声",
+      "stars": 3,
+      "collocation": "words echo for weeks."
+    },
+    {
+      "lemma": "criticize",
+      "pos": "v.",
+      "zh": "批评",
+      "stars": 3,
+      "collocation": "Critics criticize the plan,"
+    },
+    {
+      "lemma": "alert",
+      "pos": "adj./n./v.",
+      "zh": "警觉的",
+      "stars": 3,
+      "collocation": "health alert warns every"
+    },
+    {
+      "lemma": "sector",
+      "pos": "n./v.",
+      "zh": "扇形",
+      "stars": 4,
+      "collocation": "every sector of the"
+    },
+    {
+      "lemma": "penalty",
+      "pos": "n.",
+      "zh": "处罚",
+      "stars": 3,
+      "collocation": "a penalty for each"
+    },
+    {
+      "lemma": "federation",
+      "pos": "n.",
+      "zh": "联邦",
+      "stars": 3,
+      "collocation": "The federation may add"
+    },
+    {
+      "lemma": "rating",
+      "pos": "n.",
+      "zh": "等级",
+      "stars": 3,
+      "collocation": "Its rating falls, and"
+    },
+    {
+      "lemma": "counsel",
+      "pos": "n./v.",
+      "zh": "商议",
+      "stars": 3,
+      "collocation": "wise counsel arrives a"
+    },
+    {
+      "lemma": "investor",
+      "pos": "n.",
+      "zh": "投资者",
+      "stars": 4,
+      "collocation": "worried investor leaves the"
+    },
+    {
+      "lemma": "fishing",
+      "pos": "n./adj.",
+      "zh": "钓鱼",
+      "stars": 3,
+      "collocation": "the fishing business before"
+    },
+    {
+      "lemma": "opposed",
+      "pos": "adj.",
+      "zh": "反对的",
+      "stars": 3,
+      "collocation": "remain opposed to the"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“evidence” 的意思是：",
+      "options": [
+        "证据",
+        "税款",
+        "罚款",
+        "费用"
+      ],
+      "answer": 0,
+      "speak": "evidence"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The old rules are exactly the same under the current ___.",
+      "options": [
+        "regulation",
+        "addition",
+        "option",
+        "rating"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“slight” 的意思是：",
+      "options": [
+        "轻微的",
+        "绝对的",
+        "严重的",
+        "优雅的"
+      ],
+      "answer": 0,
+      "speak": "slight"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "The two sides ___ on one point: they must maintain the lake.",
+      "options": [
+        "accord",
+        "alter",
+        "occupy",
+        "abandon"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A cheap filter is a good ___ for every consumer.",
+      "options": [
+        "option",
+        "penalty",
+        "expense",
+        "track"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“opposed” 的意思是：",
+      "options": [
+        "反对的",
+        "焦虑的",
+        "优雅的",
+        "满意的"
+      ],
+      "answer": 0,
+      "speak": "opposed"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Its rating falls, and wise ___ arrives a little too late.",
+      "options": [
+        "counsel",
+        "sector",
+        "molecule",
+        "clinic"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“majority” 的意思是：",
+      "options": [
+        "大多数",
+        "少数",
+        "责任",
+        "对比"
+      ],
+      "answer": 0,
+      "speak": "majority"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "Later we ",
+        "hint": "ga",
+        "after": " evidence beside the wide, quiet lake.",
+        "answer": "gather"
+      },
+      {
+        "before": "A new ",
+        "hint": "ta",
+        "after": " will finance the slow clean-up of the water.",
+        "answer": "tax"
+      },
+      {
+        "before": "My aunt's club will ",
+        "hint": "re",
+        "after": " the majority of local families.",
+        "answer": "represent"
+      },
+      {
+        "before": "Age and ",
+        "hint": "se",
+        "after": " do not change the slow track of the disease.",
+        "answer": "sex"
+      },
+      {
+        "before": "A small grant plus a private gift is a useful ",
+        "hint": "ad",
+        "after": ".",
+        "answer": "addition"
+      },
+      {
+        "before": "The old rules are exactly the same under the current ",
+        "hint": "re",
+        "after": ".",
+        "answer": "regulation"
+      },
+      {
+        "before": "Then their plan will ",
+        "hint": "co",
+        "after": " of three steps and a public opening.",
+        "answer": "consist"
+      },
+      {
+        "before": "One large ",
+        "hint": "ex",
+        "after": " may force the group to abandon the plan.",
+        "answer": "expense"
+      },
+      {
+        "before": "A ",
+        "hint": "sl",
+        "after": " change makes an absolute difference to the fish.",
+        "answer": "slight"
+      },
+      {
+        "before": "Then the heavy nets ",
+        "hint": "dr",
+        "after": " along the lake bottom without ease.",
+        "answer": "drag"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Then one opponent lacks ",
+        "hint": "im",
+        "after": " and repeats old claims.",
+        "answer": "imagination"
+      },
+      {
+        "before": "Critics criticize the plan, and their sharp words ",
+        "hint": "ec",
+        "after": " for weeks.",
+        "answer": "echo"
+      },
+      {
+        "before": "A health alert warns every ",
+        "hint": "se",
+        "after": " of the lake trade.",
+        "answer": "sector"
+      },
+      {
+        "before": "The federation may add a ",
+        "hint": "pe",
+        "after": " for each broken rule.",
+        "answer": "penalty"
+      },
+      {
+        "before": "Its rating falls, and wise ",
+        "hint": "co",
+        "after": " arrives a little too late.",
+        "answer": "counsel"
+      },
+      {
+        "before": "One worried ",
+        "hint": "in",
+        "after": " leaves the fishing business before winter.",
+        "answer": "investor"
+      },
+      {
+        "before": "Some older members remain ",
+        "hint": "op",
+        "after": " to the new responsibility.",
+        "answer": "opposed"
+      },
+      {
+        "before": "A ",
+        "hint": "se",
+        "after": " winter storm mixes the shallows with the deep water.",
+        "answer": "severe"
+      },
+      {
+        "before": "A ",
+        "hint": "cl",
+        "after": " treats anxious children and one difficult childhood case.",
+        "answer": "clinic"
+      },
+      {
+        "before": "A ",
+        "hint": "mo",
+        "after": " study meets old philosophy and intellectual pride.",
+        "answer": "molecule"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "后来我们在宽阔安静的湖边收集证据。",
+        "keywords": [
+          "gather",
+          "evidence",
+          "lake"
+        ]
+      },
+      {
+        "zh": "一个微小的变化对鱼来说却是绝对的不同。",
+        "keywords": [
+          "slight",
+          "absolute",
+          "fish"
+        ]
+      },
+      {
+        "zh": "双方在一个问题上达成一致：他们必须维护这个湖。",
+        "keywords": [
+          "accord",
+          "maintain",
+          "lake"
+        ]
+      },
+      {
+        "zh": "与之形成强烈对比的是，东边的小路依然干净清亮。",
+        "keywords": [
+          "contrast",
+          "lane",
+          "clean"
+        ]
+      },
+      {
+        "zh": "联合会可能会对每一条被破坏的规则加收罚款。",
+        "keywords": [
+          "federation",
+          "penalty",
+          "rule"
+        ]
+      },
+      {
+        "zh": "一场严酷的冬季风暴把浅水与深水混在一起。",
+        "keywords": [
+          "severe",
+          "storm",
+          "mixes"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 292,
+    "sentences": 28,
+    "newDensity": 0.202,
+    "targetTokenDensity": 0.202,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写湖边渔业争端：取证、征税与补助、疾病与性别数据、法规与计划、开销与放弃，随后是演员与猎人、峰会与对比、批评、警报、罚款、投资撤出，最后是儿童诊所与分子研究。"
+}

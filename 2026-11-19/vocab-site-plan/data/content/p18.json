@@ -1,0 +1,829 @@
+{
+  "id": "p18",
+  "title": "The Orchard Partnership",
+  "titleZh": "果园合伙账",
+  "topic": "家庭果园与账本",
+  "paragraphs": [
+    [
+      {
+        "en": "My sister and I run the fruit farm as a small partnership.",
+        "zh": "我和妹妹把果园当作一个小合伙企业来经营。"
+      },
+      {
+        "en": "This year the fiscal report was late and very hard to read.",
+        "zh": "今年的财政报表来晚了，而且非常难读。"
+      },
+      {
+        "en": "A woman from the bank sent a letter that week.",
+        "zh": "银行的一位女士在那周寄来一封信。"
+      },
+      {
+        "en": "My mother hates paper, but I fill in the forms.",
+        "zh": "母亲讨厌纸张，表格由我来填。"
+      },
+      {
+        "en": "We had a thousand pounds and a long, useful list.",
+        "zh": "我们有一千英镑和一张长长的有用清单。"
+      },
+      {
+        "en": "Then we decided to buy a new electric pump.",
+        "zh": "然后我们决定买一台新的电动水泵。"
+      }
+    ],
+    [
+      {
+        "en": "The old pump sat behind the barn, below the fruit store.",
+        "zh": "旧水泵在谷仓后面，果库的下方。"
+      },
+      {
+        "en": "A spare part cost more, so we called a young engineer.",
+        "zh": "一个备件比整机还贵，我们就请来一位年轻工程师。"
+      },
+      {
+        "en": "A sixth-form student heard about us and came to help.",
+        "zh": "一位六年级学生听说后，跑来帮忙。"
+      },
+      {
+        "en": "His mother works in education, and she knows our society.",
+        "zh": "他母亲从事教育，也认识我们这边的协会。"
+      },
+      {
+        "en": "He brought a model pump and a plan for new technology.",
+        "zh": "他带来一台模型泵，还有一份新技术的方案。"
+      },
+      {
+        "en": "We could not follow him over the engine, but we guessed.",
+        "zh": "引擎太响，我们听不清他讲什么，只能靠猜。"
+      }
+    ],
+    [
+      {
+        "en": "Later the pump arrived in a package on a soft, wet day.",
+        "zh": "后来在一个潮湿松软的日子里，水泵装在包裹里到了。"
+      },
+      {
+        "en": "The baby sat on the floor and marked the boxes.",
+        "zh": "宝宝坐在地上，在箱子上做记号。"
+      },
+      {
+        "en": "An animal put its tail through the fence and ate our corn.",
+        "zh": "一只动物把尾巴伸过围栏，吃了我们的玉米。"
+      },
+      {
+        "en": "Our kind neighbour, an old captain, lent us his truck and horse.",
+        "zh": "好心的邻居是位老船长，把卡车和马都借给了我们。"
+      },
+      {
+        "en": "We pushed the heavy cart up the hill and hurt my knee.",
+        "zh": "我们把沉重的车推上山坡，我的膝盖还受了伤。"
+      },
+      {
+        "en": "A bell rang at noon, and we stopped for cake.",
+        "zh": "中午铃响了，我们停下来吃蛋糕。"
+      }
+    ],
+    [
+      {
+        "en": "My old school sent a card with a poem on it.",
+        "zh": "我的母校寄来一张卡片，上面有一首诗。"
+      },
+      {
+        "en": "The words were lovely, and it told our story.",
+        "zh": "诗句很可爱，讲的正是我们的故事。"
+      },
+      {
+        "en": "At least one good thing came from the long, wet winter month.",
+        "zh": "漫长的湿冷冬月里，至少有一件好事。"
+      },
+      {
+        "en": "We stood upon the hill and watched the wide sky turn pink.",
+        "zh": "我们站在山上，看辽阔的天空变成粉色。"
+      },
+      {
+        "en": "She built a wooden cover herself and thanked us all.",
+        "zh": "她自己做了个木罩子，还感谢了我们所有人。"
+      }
+    ],
+    [
+      {
+        "en": "By autumn we had nothing at all left in the bank.",
+        "zh": "到了秋天，我们银行账户里什么都没剩。"
+      },
+      {
+        "en": "During the summer the pears were soft, and we always ate them fresh.",
+        "zh": "夏天梨子很软，我们总是趁新鲜吃掉。"
+      },
+      {
+        "en": "We will divide the money and keep part for safety.",
+        "zh": "我们要把钱分开，留一部分作安全资金。"
+      },
+      {
+        "en": "The captain swam a kilometre in the cold river that day.",
+        "zh": "那天船长在冰冷的河里游了一公里。"
+      },
+      {
+        "en": "A small partnership can produce good food for a whole town.",
+        "zh": "一个小小的合伙企业，能为一整座镇子供上好食物。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "but",
+      "pos": "prep/conj/adv.",
+      "zh": "除了；但是",
+      "stars": 5,
+      "collocation": "paper, but I"
+    },
+    {
+      "lemma": "year",
+      "pos": "n.",
+      "zh": "年",
+      "stars": 5,
+      "collocation": "This year the"
+    },
+    {
+      "lemma": "new",
+      "pos": "adj.",
+      "zh": "新的",
+      "stars": 5,
+      "collocation": "a new electric"
+    },
+    {
+      "lemma": "tell",
+      "pos": "v.",
+      "zh": "告诉；讲述",
+      "stars": 5,
+      "collocation": "it told our"
+    },
+    {
+      "lemma": "woman",
+      "pos": "n/adj/v.",
+      "zh": "女人；女用的",
+      "stars": 5,
+      "collocation": "A woman from"
+    },
+    {
+      "lemma": "call",
+      "pos": "n/v.",
+      "zh": "呼叫",
+      "stars": 5,
+      "collocation": "we called a"
+    },
+    {
+      "lemma": "always",
+      "pos": "adv.",
+      "zh": "总是",
+      "stars": 5,
+      "collocation": "we always ate"
+    },
+    {
+      "lemma": "month",
+      "pos": "n.",
+      "zh": "月",
+      "stars": 5,
+      "collocation": "winter month"
+    },
+    {
+      "lemma": "hear",
+      "pos": "v.",
+      "zh": "听到；听见",
+      "stars": 5,
+      "collocation": "student heard about"
+    },
+    {
+      "lemma": "nothing",
+      "pos": "n/adv.",
+      "zh": "无；毫不",
+      "stars": 5,
+      "collocation": "had nothing at"
+    },
+    {
+      "lemma": "produce",
+      "pos": "n/v.",
+      "zh": "生产品；产生",
+      "stars": 5,
+      "collocation": "can produce good"
+    },
+    {
+      "lemma": "society",
+      "pos": "n.",
+      "zh": "社会",
+      "stars": 5,
+      "collocation": "our society"
+    },
+    {
+      "lemma": "education",
+      "pos": "n.",
+      "zh": "教育",
+      "stars": 5,
+      "collocation": "in education, and"
+    },
+    {
+      "lemma": "decide",
+      "pos": "v.",
+      "zh": "决定",
+      "stars": 5,
+      "collocation": "we decided to"
+    },
+    {
+      "lemma": "paper",
+      "pos": "n/v/adj.",
+      "zh": "纸；用纸糊",
+      "stars": 5,
+      "collocation": "hates paper, but"
+    },
+    {
+      "lemma": "letter",
+      "pos": "n/v.",
+      "zh": "信；写字母于",
+      "stars": 5,
+      "collocation": "a letter that"
+    },
+    {
+      "lemma": "behind",
+      "pos": "adv/prep.",
+      "zh": "在后地；在...背后",
+      "stars": 5,
+      "collocation": "sat behind the"
+    },
+    {
+      "lemma": "cover",
+      "pos": "n/v.",
+      "zh": "盖子；覆盖",
+      "stars": 5,
+      "collocation": "wooden cover herself"
+    },
+    {
+      "lemma": "herself",
+      "pos": "pron.",
+      "zh": "她自己",
+      "stars": 5,
+      "collocation": "cover herself and"
+    },
+    {
+      "lemma": "thousand",
+      "pos": "num/adj/n.",
+      "zh": "千；成千的",
+      "stars": 5,
+      "collocation": "a thousand pounds"
+    },
+    {
+      "lemma": "thank",
+      "pos": "n/v.",
+      "zh": "谢意；谢谢",
+      "stars": 5,
+      "collocation": "and thanked us"
+    },
+    {
+      "lemma": "sister",
+      "pos": "n/v.",
+      "zh": "姐妹；姐妹般对待",
+      "stars": 5,
+      "collocation": "My sister and"
+    },
+    {
+      "lemma": "least",
+      "pos": "n/adj/adv.",
+      "zh": "最少；最少的",
+      "stars": 5,
+      "collocation": "At least one"
+    },
+    {
+      "lemma": "upon",
+      "pos": "prep.",
+      "zh": "在...之上",
+      "stars": 4,
+      "collocation": "stood upon the"
+    },
+    {
+      "lemma": "model",
+      "pos": "n/adj/v.",
+      "zh": "模型；模范的",
+      "stars": 4,
+      "collocation": "a model pump"
+    },
+    {
+      "lemma": "animal",
+      "pos": "n.",
+      "zh": "动物",
+      "stars": 4,
+      "collocation": "An animal put"
+    },
+    {
+      "lemma": "eat",
+      "pos": "v.",
+      "zh": "吃",
+      "stars": 4,
+      "collocation": "and ate our"
+    },
+    {
+      "lemma": "technology",
+      "pos": "n.",
+      "zh": "技术",
+      "stars": 4,
+      "collocation": "new technology"
+    },
+    {
+      "lemma": "horse",
+      "pos": "n/v.",
+      "zh": "马；骑马",
+      "stars": 4,
+      "collocation": "and horse"
+    },
+    {
+      "lemma": "baby",
+      "pos": "n.",
+      "zh": "婴孩",
+      "stars": 4,
+      "collocation": "The baby sat"
+    },
+    {
+      "lemma": "push",
+      "pos": "n/v.",
+      "zh": "推",
+      "stars": 4,
+      "collocation": "We pushed the"
+    },
+    {
+      "lemma": "useful",
+      "pos": "adj.",
+      "zh": "有用的",
+      "stars": 4,
+      "collocation": "long, useful list"
+    },
+    {
+      "lemma": "card",
+      "pos": "n/v.",
+      "zh": "卡片；备置卡片",
+      "stars": 4,
+      "collocation": "a card with"
+    },
+    {
+      "lemma": "below",
+      "pos": "prep/adv.",
+      "zh": "在下面",
+      "stars": 4,
+      "collocation": "barn, below the"
+    },
+    {
+      "lemma": "safety",
+      "pos": "n/v.",
+      "zh": "安全；保护",
+      "stars": 4,
+      "collocation": "for safety"
+    },
+    {
+      "lemma": "mark",
+      "pos": "n/v.",
+      "zh": "标志；做标记于",
+      "stars": 4,
+      "collocation": "and marked the"
+    },
+    {
+      "lemma": "package",
+      "pos": "n/v/adj.",
+      "zh": "包裹；包装",
+      "stars": 4,
+      "collocation": "a package on"
+    },
+    {
+      "lemma": "soft",
+      "pos": "adj/n/adv.",
+      "zh": "软的；柔软的东西",
+      "stars": 4,
+      "collocation": "a soft, wet"
+    },
+    {
+      "lemma": "divide",
+      "pos": "v/n.",
+      "zh": "分开；分",
+      "stars": 4,
+      "collocation": "will divide the"
+    },
+    {
+      "lemma": "captain",
+      "pos": "n/v.",
+      "zh": "船长；率领",
+      "stars": 4,
+      "collocation": "old captain, lent"
+    },
+    {
+      "lemma": "fruit",
+      "pos": "n.",
+      "zh": "水果",
+      "stars": 4,
+      "collocation": "the fruit farm"
+    },
+    {
+      "lemma": "guess",
+      "pos": "n/v.",
+      "zh": "猜测",
+      "stars": 4,
+      "collocation": "we guessed"
+    },
+    {
+      "lemma": "sixth",
+      "pos": "num.",
+      "zh": "第六",
+      "stars": 4,
+      "collocation": "A sixth-form"
+    },
+    {
+      "lemma": "form",
+      "pos": "n/v.",
+      "zh": "形状；形成",
+      "stars": 3,
+      "collocation": "the forms"
+    },
+    {
+      "lemma": "left",
+      "pos": "adj/adv/n.",
+      "zh": "左边的；在左面",
+      "stars": 3,
+      "collocation": "all left in"
+    },
+    {
+      "lemma": "lovely",
+      "pos": "adj.",
+      "zh": "可爱的",
+      "stars": 3,
+      "collocation": "were lovely, and"
+    },
+    {
+      "lemma": "sky",
+      "pos": "n/v.",
+      "zh": "天空；击向空中",
+      "stars": 3,
+      "collocation": "wide sky turn"
+    },
+    {
+      "lemma": "hate",
+      "pos": "n/v.",
+      "zh": "憎恨",
+      "stars": 3,
+      "collocation": "mother hates paper"
+    },
+    {
+      "lemma": "knee",
+      "pos": "n/v.",
+      "zh": "膝；膝行",
+      "stars": 3,
+      "collocation": "my knee"
+    },
+    {
+      "lemma": "poem",
+      "pos": "n.",
+      "zh": "诗",
+      "stars": 3,
+      "collocation": "a poem on"
+    },
+    {
+      "lemma": "cake",
+      "pos": "n/v.",
+      "zh": "蛋糕；使结块",
+      "stars": 3,
+      "collocation": "for cake"
+    },
+    {
+      "lemma": "electric",
+      "pos": "adj.",
+      "zh": "电的",
+      "stars": 3,
+      "collocation": "new electric pump"
+    },
+    {
+      "lemma": "tail",
+      "pos": "n/adj/v.",
+      "zh": "尾部；在后面的",
+      "stars": 3,
+      "collocation": "its tail through"
+    },
+    {
+      "lemma": "bell",
+      "pos": "n.",
+      "zh": "铃",
+      "stars": 3,
+      "collocation": "A bell rang"
+    },
+    {
+      "lemma": "swim",
+      "pos": "n/v.",
+      "zh": "游泳",
+      "stars": 3,
+      "collocation": "captain swam a"
+    },
+    {
+      "lemma": "spare",
+      "pos": "n/adj/v.",
+      "zh": "剩余；多余的",
+      "stars": 3,
+      "collocation": "A spare part"
+    },
+    {
+      "lemma": "kilometre",
+      "pos": "n.",
+      "zh": "公里",
+      "stars": 3,
+      "collocation": "a kilometre in"
+    },
+    {
+      "lemma": "partnership",
+      "pos": "n.",
+      "zh": "合伙",
+      "stars": 3,
+      "collocation": "small partnership"
+    },
+    {
+      "lemma": "fiscal",
+      "pos": "adj.",
+      "zh": "财政的",
+      "stars": 3,
+      "collocation": "the fiscal report"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“fiscal” 的意思是：",
+      "options": [
+        "柔和的",
+        "第六的",
+        "财政的",
+        "备用的"
+      ],
+      "answer": 2,
+      "speak": "fiscal"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "This year the ___ report was late and hard to read.",
+      "options": [
+        "fiscal",
+        "lovely",
+        "spare",
+        "soft"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“divide” 的意思是：",
+      "options": [
+        "搬运",
+        "分开",
+        "猜测",
+        "感谢"
+      ],
+      "answer": 1,
+      "speak": "divide"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "We had a ___ pounds and a long, useful list.",
+      "options": [
+        "thousand",
+        "kilometre",
+        "captain",
+        "package"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "My sister's school sent a card with a ___ on it.",
+      "options": [
+        "horse",
+        "poem",
+        "cake",
+        "tail"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“useful” 的意思是：",
+      "options": [
+        "松软的",
+        "可爱的",
+        "有用的",
+        "备用的"
+      ],
+      "answer": 2,
+      "speak": "useful"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "At least one good thing came from the long, wet winter ___.",
+      "options": [
+        "month",
+        "knee",
+        "bell",
+        "sky"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "She built a wooden ___ herself and thanked us all.",
+      "options": [
+        "cover",
+        "mark",
+        "form",
+        "card"
+      ],
+      "answer": 0
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My ",
+        "hint": "si",
+        "after": " and I run the fruit farm as a small partnership.",
+        "answer": "sister"
+      },
+      {
+        "before": "This year the ",
+        "hint": "fi",
+        "after": " report was late and very hard to read.",
+        "answer": "fiscal"
+      },
+      {
+        "before": "A woman from the bank sent a ",
+        "hint": "le",
+        "after": " that week.",
+        "answer": "letter"
+      },
+      {
+        "before": "We had a ",
+        "hint": "th",
+        "after": " pounds and a long, useful list.",
+        "answer": "thousand"
+      },
+      {
+        "before": "Then we decided to buy a new ",
+        "hint": "el",
+        "after": " pump.",
+        "answer": "electric"
+      },
+      {
+        "before": "He brought a model pump and a plan for new ",
+        "hint": "te",
+        "after": ".",
+        "answer": "technology"
+      },
+      {
+        "before": "Later the pump arrived in a ",
+        "hint": "pa",
+        "after": " on a soft, wet day.",
+        "answer": "package"
+      },
+      {
+        "before": "Our kind neighbour, an old ",
+        "hint": "ca",
+        "after": ", lent us his truck and horse.",
+        "answer": "captain"
+      },
+      {
+        "before": "We will ",
+        "hint": "di",
+        "after": " the money and keep part for safety.",
+        "answer": "divide"
+      },
+      {
+        "before": "A small ",
+        "hint": "pa",
+        "after": " can produce good food for a whole town.",
+        "answer": "partnership"
+      }
+    ],
+    "b3": [
+      {
+        "before": "My sister and I run the ",
+        "hint": "f",
+        "after": " farm as a small partnership.",
+        "answer": "fruit"
+      },
+      {
+        "before": "A ",
+        "hint": "w",
+        "after": " from the bank sent a letter that week.",
+        "answer": "woman"
+      },
+      {
+        "before": "We had a thousand pounds and a long, ",
+        "hint": "u",
+        "after": " list.",
+        "answer": "useful"
+      },
+      {
+        "before": "The old pump sat ",
+        "hint": "b",
+        "after": " the barn, below the fruit store.",
+        "answer": "behind"
+      },
+      {
+        "before": "A sixth-form student ",
+        "hint": "h",
+        "after": " about us and came to help.",
+        "answer": "heard"
+      },
+      {
+        "before": "A ",
+        "hint": "s",
+        "after": "-form student heard about us and came to help.",
+        "answer": "sixth"
+      },
+      {
+        "before": "The ",
+        "hint": "b",
+        "after": " sat on the floor and marked the boxes.",
+        "answer": "baby"
+      },
+      {
+        "before": "An animal put its ",
+        "hint": "t",
+        "after": " through the fence and ate our corn.",
+        "answer": "tail"
+      },
+      {
+        "before": "We pushed the heavy cart up the hill and hurt my ",
+        "hint": "k",
+        "after": ".",
+        "answer": "knee"
+      },
+      {
+        "before": "We stood upon the hill and watched the wide ",
+        "hint": "s",
+        "after": " turn pink.",
+        "answer": "sky"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我和妹妹把果园当作一个小合伙企业来经营。",
+        "keywords": [
+          "sister",
+          "fruit",
+          "partnership"
+        ]
+      },
+      {
+        "zh": "今年的财政报表来晚了，而且很难读。",
+        "keywords": [
+          "fiscal",
+          "year"
+        ]
+      },
+      {
+        "zh": "银行的一位女士在那周寄来一封信。",
+        "keywords": [
+          "woman",
+          "letter"
+        ]
+      },
+      {
+        "zh": "我们有一千英镑和一张长长的有用清单。",
+        "keywords": [
+          "thousand",
+          "useful"
+        ]
+      },
+      {
+        "zh": "一位六年级学生听说后，跑来帮忙。",
+        "keywords": [
+          "sixth",
+          "heard"
+        ]
+      },
+      {
+        "zh": "我们会把钱分开，留一部分作安全资金。",
+        "keywords": [
+          "divide",
+          "safety"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 306,
+    "sentences": 28,
+    "newDensity": 0.193,
+    "targetTokenDensity": 0.219,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（3 次以上）",
+      "During / Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p18：315 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

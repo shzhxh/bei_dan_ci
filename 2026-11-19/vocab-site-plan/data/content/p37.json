@@ -1,0 +1,831 @@
+{
+  "id": "p37",
+  "title": "The Ski School on the Hill",
+  "titleZh": "山上的滑雪学校",
+  "topic": "山区滑雪学校",
+  "paragraphs": [
+    [
+      {
+        "en": "The ski school matters in this cold mountain province.",
+        "zh": "这所滑雪学校在这片寒冷的山区省份很重要。"
+      },
+      {
+        "en": "A refugee family from another nation saves every spare yen.",
+        "zh": "一个来自另一个国家的难民家庭省下每一分闲钱。"
+      },
+      {
+        "en": "A female champion and a young runner lead the school.",
+        "zh": "一位女冠军和一位年轻跑者带领这所学校。"
+      },
+      {
+        "en": "Cheap local material and a simple function suit the small hut.",
+        "zh": "便宜的本地材料和简单的功能很适合这间小屋。"
+      },
+      {
+        "en": "My notes admit the whole scene looks rough at dawn.",
+        "zh": "我的笔记承认，黎明时整个场景看起来很粗糙。"
+      },
+      {
+        "en": "A quiet school reform brings a new colleague from the city.",
+        "zh": "一场安静的学校改革从城里带来一位新同事。"
+      },
+      {
+        "en": "Lessons are extremely cheap, so the teachers earn very little.",
+        "zh": "课程极其便宜，所以老师们挣得很少。"
+      },
+      {
+        "en": "A kind donor helps them purchase boots and a photo album.",
+        "zh": "一位好心捐助者帮他们购买了靴子和一本相册。"
+      },
+      {
+        "en": "They employ two young local guides at a reasonable daily rate.",
+        "zh": "他们以合理的日薪雇用两名年轻的本地向导。"
+      },
+      {
+        "en": "The theme is courage, and they attach it to every lesson.",
+        "zh": "主题是勇气，他们把它附加在每一节课上。"
+      }
+    ],
+    [
+      {
+        "en": "A human being can do much when the result is unknown.",
+        "zh": "当结果未知时，一个人能做的很多。"
+      },
+      {
+        "en": "They preserve the old wooden boards with maximum care.",
+        "zh": "他们用最大的小心保存旧木板。"
+      },
+      {
+        "en": "My gentle tip helps a nervous child stand on the snow.",
+        "zh": "我温和的提示帮助一个紧张的孩子在雪上站起来。"
+      },
+      {
+        "en": "Warm leather boots protect small feet from harm.",
+        "zh": "温暖的皮靴保护小脚免受伤害。"
+      },
+      {
+        "en": "A painful fall teaches the small ones how to float safely.",
+        "zh": "一次痛苦的摔倒教会小家伙们如何安全地漂浮。"
+      },
+      {
+        "en": "Their cautious coach is a strong advocate of slow steps.",
+        "zh": "他们谨慎的教练是慢步骤的坚定倡导者。"
+      },
+      {
+        "en": "Then, despite the cold wind, the first race reveals real talent.",
+        "zh": "然后，尽管有冷风，第一场比赛显露出真正的天赋。"
+      },
+      {
+        "en": "Their only weapon is warm laughter, largely shared by all.",
+        "zh": "他们唯一的武器是温暖的笑声，很大程度上大家共有。"
+      },
+      {
+        "en": "A firm resolution normally helps a team through winter.",
+        "zh": "坚定的决心通常能帮一个团队度过冬天。"
+      },
+      {
+        "en": "Surely this hard phase will end with the warm spring.",
+        "zh": "这个艰难的阶段一定会随着温暖的春天结束。"
+      }
+    ],
+    [
+      {
+        "en": "My mother's negative test and warm protein soup help.",
+        "zh": "我母亲的阴性检测和热蛋白汤有帮助。"
+      },
+      {
+        "en": "A mere half hour of practice can enhance balance.",
+        "zh": "仅仅半小时的练习就能增强平衡。"
+      },
+      {
+        "en": "They entitle each child to a free lesson and wrap small gifts.",
+        "zh": "他们让每个孩子都有免费课程，并包好小礼物。"
+      },
+      {
+        "en": "Later an unexpected stroke leaves the old coach very weak.",
+        "zh": "后来一次意外的中风让老教练非常虚弱。"
+      },
+      {
+        "en": "A short retreat follows, and a new segment begins.",
+        "zh": "短暂的退修之后，新的阶段开始了。"
+      },
+      {
+        "en": "Helpers tackle the steep path and provoke loud happy cheers.",
+        "zh": "帮手们应对陡峭的小路，激起响亮的欢呼。"
+      },
+      {
+        "en": "The overwhelming support is noted in every local paper.",
+        "zh": "铺天盖地的支持被当地每家报纸记录下来。"
+      },
+      {
+        "en": "Then the lost child is found, and all are accepted home.",
+        "zh": "然后走失的孩子被找到，所有人都被接纳回家。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "matter",
+      "pos": "n./v.",
+      "zh": "事件",
+      "stars": 5,
+      "collocation": "school matters in this"
+    },
+    {
+      "lemma": "nation",
+      "pos": "n.",
+      "zh": "国家",
+      "stars": 5,
+      "collocation": "another nation saves every"
+    },
+    {
+      "lemma": "material",
+      "pos": "n./adj.",
+      "zh": "材料",
+      "stars": 4,
+      "collocation": "local material and a"
+    },
+    {
+      "lemma": "function",
+      "pos": "n./v.",
+      "zh": "官能",
+      "stars": 4,
+      "collocation": "simple function suit the"
+    },
+    {
+      "lemma": "admit",
+      "pos": "v.",
+      "zh": "承认",
+      "stars": 4,
+      "collocation": "notes admit the whole"
+    },
+    {
+      "lemma": "scene",
+      "pos": "n.",
+      "zh": "场",
+      "stars": 4,
+      "collocation": "whole scene looks rough"
+    },
+    {
+      "lemma": "reform",
+      "pos": "n./v.",
+      "zh": "改革",
+      "stars": 4,
+      "collocation": "school reform brings a"
+    },
+    {
+      "lemma": "colleague",
+      "pos": "n.",
+      "zh": "同事",
+      "stars": 4,
+      "collocation": "new colleague from the"
+    },
+    {
+      "lemma": "extremely",
+      "pos": "adv.",
+      "zh": "极端地",
+      "stars": 4,
+      "collocation": "are extremely cheap, so"
+    },
+    {
+      "lemma": "female",
+      "pos": "n./adj.",
+      "zh": "女性",
+      "stars": 4,
+      "collocation": "A female champion and"
+    },
+    {
+      "lemma": "earn",
+      "pos": "v.",
+      "zh": "赚得",
+      "stars": 4,
+      "collocation": "teachers earn very little."
+    },
+    {
+      "lemma": "champion",
+      "pos": "n./v./adj.",
+      "zh": "冠军",
+      "stars": 4,
+      "collocation": "female champion and a"
+    },
+    {
+      "lemma": "purchase",
+      "pos": "n./v.",
+      "zh": "购买",
+      "stars": 4,
+      "collocation": "them purchase boots and"
+    },
+    {
+      "lemma": "album",
+      "pos": "n.",
+      "zh": "粘贴簿",
+      "stars": 4,
+      "collocation": "photo album."
+    },
+    {
+      "lemma": "employ",
+      "pos": "n./v.",
+      "zh": "雇用",
+      "stars": 3,
+      "collocation": "They employ two young"
+    },
+    {
+      "lemma": "reasonable",
+      "pos": "adj.",
+      "zh": "合理的",
+      "stars": 3,
+      "collocation": "a reasonable daily rate."
+    },
+    {
+      "lemma": "theme",
+      "pos": "n.",
+      "zh": "主题",
+      "stars": 3,
+      "collocation": "The theme is courage,"
+    },
+    {
+      "lemma": "attach",
+      "pos": "v.",
+      "zh": "附上",
+      "stars": 3,
+      "collocation": "they attach it to"
+    },
+    {
+      "lemma": "being",
+      "pos": "n.",
+      "zh": "存在",
+      "stars": 3,
+      "collocation": "human being can do"
+    },
+    {
+      "lemma": "unknown",
+      "pos": "adj./n.",
+      "zh": "不知道的",
+      "stars": 3,
+      "collocation": "is unknown."
+    },
+    {
+      "lemma": "preserve",
+      "pos": "v./n.",
+      "zh": "保护",
+      "stars": 3,
+      "collocation": "They preserve the old"
+    },
+    {
+      "lemma": "maximum",
+      "pos": "n./adj.",
+      "zh": "极点",
+      "stars": 3,
+      "collocation": "with maximum care."
+    },
+    {
+      "lemma": "province",
+      "pos": "n.",
+      "zh": "省",
+      "stars": 3,
+      "collocation": "mountain province."
+    },
+    {
+      "lemma": "tip",
+      "pos": "n./v.",
+      "zh": "顶",
+      "stars": 3,
+      "collocation": "gentle tip helps a"
+    },
+    {
+      "lemma": "gentle",
+      "pos": "adj.",
+      "zh": "温和的",
+      "stars": 3,
+      "collocation": "My gentle tip helps"
+    },
+    {
+      "lemma": "leather",
+      "pos": "n./v./adj.",
+      "zh": "皮革",
+      "stars": 3,
+      "collocation": "Warm leather boots protect"
+    },
+    {
+      "lemma": "harm",
+      "pos": "n./v.",
+      "zh": "伤害",
+      "stars": 3,
+      "collocation": "from harm."
+    },
+    {
+      "lemma": "float",
+      "pos": "n./v.",
+      "zh": "漂流物",
+      "stars": 3,
+      "collocation": "to float safely."
+    },
+    {
+      "lemma": "painful",
+      "pos": "adj.",
+      "zh": "痛苦的",
+      "stars": 3,
+      "collocation": "A painful fall teaches"
+    },
+    {
+      "lemma": "advocate",
+      "pos": "n./v.",
+      "zh": "提倡者",
+      "stars": 3,
+      "collocation": "strong advocate of slow"
+    },
+    {
+      "lemma": "runner",
+      "pos": "n.",
+      "zh": "跑步者",
+      "stars": 3,
+      "collocation": "young runner lead the"
+    },
+    {
+      "lemma": "cautious",
+      "pos": "adj.",
+      "zh": "谨慎的",
+      "stars": 3,
+      "collocation": "Their cautious coach is"
+    },
+    {
+      "lemma": "ski",
+      "pos": "n./v.",
+      "zh": "滑雪橇",
+      "stars": 3,
+      "collocation": "The ski school matters"
+    },
+    {
+      "lemma": "despite",
+      "pos": "n./prep.",
+      "zh": "轻视",
+      "stars": 4,
+      "collocation": "Then, despite the cold"
+    },
+    {
+      "lemma": "reveal",
+      "pos": "v./n.",
+      "zh": "露出",
+      "stars": 4,
+      "collocation": "race reveals real talent."
+    },
+    {
+      "lemma": "largely",
+      "pos": "adv.",
+      "zh": "大量地",
+      "stars": 4,
+      "collocation": "laughter, largely shared by"
+    },
+    {
+      "lemma": "weapon",
+      "pos": "n./v.",
+      "zh": "武器",
+      "stars": 4,
+      "collocation": "only weapon is warm"
+    },
+    {
+      "lemma": "resolution",
+      "pos": "n.",
+      "zh": "解析",
+      "stars": 4,
+      "collocation": "firm resolution normally helps"
+    },
+    {
+      "lemma": "normally",
+      "pos": "adv.",
+      "zh": "正规地",
+      "stars": 3,
+      "collocation": "resolution normally helps a"
+    },
+    {
+      "lemma": "surely",
+      "pos": "adv.",
+      "zh": "的确地",
+      "stars": 3,
+      "collocation": "Surely this hard"
+    },
+    {
+      "lemma": "phase",
+      "pos": "n./v.",
+      "zh": "时期",
+      "stars": 3,
+      "collocation": "hard phase will end"
+    },
+    {
+      "lemma": "negative",
+      "pos": "n./adj.",
+      "zh": "否定",
+      "stars": 3,
+      "collocation": "mother's negative test and"
+    },
+    {
+      "lemma": "protein",
+      "pos": "n./adj.",
+      "zh": "蛋白质",
+      "stars": 3,
+      "collocation": "warm protein soup help."
+    },
+    {
+      "lemma": "mere",
+      "pos": "n./adj.",
+      "zh": "小湖",
+      "stars": 3,
+      "collocation": "A mere half hour"
+    },
+    {
+      "lemma": "enhance",
+      "pos": "v.",
+      "zh": "提高",
+      "stars": 3,
+      "collocation": "can enhance balance."
+    },
+    {
+      "lemma": "entitle",
+      "pos": "v.",
+      "zh": "给...权利",
+      "stars": 3,
+      "collocation": "They entitle each child"
+    },
+    {
+      "lemma": "wrap",
+      "pos": "n./v.",
+      "zh": "外套",
+      "stars": 3,
+      "collocation": "and wrap small gifts."
+    },
+    {
+      "lemma": "unexpected",
+      "pos": "adj.",
+      "zh": "料想不到的",
+      "stars": 3,
+      "collocation": "an unexpected stroke leaves"
+    },
+    {
+      "lemma": "stroke",
+      "pos": "n./v.",
+      "zh": "笔划",
+      "stars": 3,
+      "collocation": "unexpected stroke leaves the"
+    },
+    {
+      "lemma": "segment",
+      "pos": "n./v.",
+      "zh": "片段",
+      "stars": 3,
+      "collocation": "new segment begins."
+    },
+    {
+      "lemma": "retreat",
+      "pos": "n./v.",
+      "zh": "休息寓所",
+      "stars": 3,
+      "collocation": "short retreat follows, and"
+    },
+    {
+      "lemma": "refugee",
+      "pos": "n.",
+      "zh": "难民",
+      "stars": 4,
+      "collocation": "A refugee family from"
+    },
+    {
+      "lemma": "tackle",
+      "pos": "n./v.",
+      "zh": "工具",
+      "stars": 3,
+      "collocation": "Helpers tackle the steep"
+    },
+    {
+      "lemma": "provoke",
+      "pos": "v.",
+      "zh": "激怒",
+      "stars": 3,
+      "collocation": "and provoke loud happy"
+    },
+    {
+      "lemma": "overwhelming",
+      "pos": "adj.",
+      "zh": "压倒性的",
+      "stars": 3,
+      "collocation": "The overwhelming support is"
+    },
+    {
+      "lemma": "noted",
+      "pos": "adj.",
+      "zh": "著名的",
+      "stars": 3,
+      "collocation": "is noted in every"
+    },
+    {
+      "lemma": "accepted",
+      "pos": "adj.",
+      "zh": "公认的",
+      "stars": 4,
+      "collocation": "are accepted home."
+    },
+    {
+      "lemma": "lost",
+      "pos": "adj.",
+      "zh": "失去的",
+      "stars": 3,
+      "collocation": "the lost child is"
+    },
+    {
+      "lemma": "yen",
+      "pos": "n./v.",
+      "zh": "日元",
+      "stars": 3,
+      "collocation": "spare yen."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“province” 的意思是：",
+      "options": [
+        "省份",
+        "国家",
+        "冠军",
+        "相册"
+      ],
+      "answer": 0,
+      "speak": "province"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A refugee family from another nation saves every spare ___.",
+      "options": [
+        "yen",
+        "tip",
+        "phase",
+        "stroke"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“cautious” 的意思是：",
+      "options": [
+        "谨慎的",
+        "极其的",
+        "痛苦的",
+        "未知的"
+      ],
+      "answer": 0,
+      "speak": "cautious"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Warm leather boots protect small feet from ___.",
+      "options": [
+        "harm",
+        "theme",
+        "material",
+        "protein"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A mere half hour of practice can ___ balance.",
+      "options": [
+        "enhance",
+        "entitle",
+        "preserve",
+        "provoke"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“overwhelming” 的意思是：",
+      "options": [
+        "压倒性的",
+        "有决心的",
+        "合理的",
+        "意外的"
+      ],
+      "answer": 0,
+      "speak": "overwhelming"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Helpers tackle the steep path and ___ loud happy cheers.",
+      "options": [
+        "provoke",
+        "float",
+        "tackle",
+        "wrap"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“refugee” 的意思是：",
+      "options": [
+        "难民",
+        "同事",
+        "向导",
+        "冠军"
+      ],
+      "answer": 0,
+      "speak": "refugee"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "The ski school ",
+        "hint": "ma",
+        "after": " in this cold mountain province.",
+        "answer": "matters"
+      },
+      {
+        "before": "A refugee family from another nation saves every spare ",
+        "hint": "ye",
+        "after": ".",
+        "answer": "yen"
+      },
+      {
+        "before": "A female champion and a young ",
+        "hint": "ru",
+        "after": " lead the school.",
+        "answer": "runner"
+      },
+      {
+        "before": "Cheap local ",
+        "hint": "ma",
+        "after": " and a simple function suit the small hut.",
+        "answer": "material"
+      },
+      {
+        "before": "My notes ",
+        "hint": "ad",
+        "after": " the whole scene looks rough at dawn.",
+        "answer": "admit"
+      },
+      {
+        "before": "A quiet school ",
+        "hint": "re",
+        "after": " brings a new colleague from the city.",
+        "answer": "reform"
+      },
+      {
+        "before": "Lessons are ",
+        "hint": "ex",
+        "after": " cheap, so the teachers earn very little.",
+        "answer": "extremely"
+      },
+      {
+        "before": "A kind donor helps them ",
+        "hint": "pu",
+        "after": " boots and a photo album.",
+        "answer": "purchase"
+      },
+      {
+        "before": "They employ two young local guides at a ",
+        "hint": "re",
+        "after": " daily rate.",
+        "answer": "reasonable"
+      },
+      {
+        "before": "The ",
+        "hint": "th",
+        "after": " is courage, and they attach it to every lesson.",
+        "answer": "theme"
+      }
+    ],
+    "b3": [
+      {
+        "before": "A firm ",
+        "hint": "re",
+        "after": " normally helps a team through winter.",
+        "answer": "resolution"
+      },
+      {
+        "before": "Surely this hard ",
+        "hint": "ph",
+        "after": " will end with the warm spring.",
+        "answer": "phase"
+      },
+      {
+        "before": "My mother's negative test and warm ",
+        "hint": "pr",
+        "after": " soup help.",
+        "answer": "protein"
+      },
+      {
+        "before": "A mere half hour of practice can ",
+        "hint": "en",
+        "after": " balance.",
+        "answer": "enhance"
+      },
+      {
+        "before": "They ",
+        "hint": "en",
+        "after": " each child to a free lesson and wrap small gifts.",
+        "answer": "entitle"
+      },
+      {
+        "before": "Later an unexpected ",
+        "hint": "st",
+        "after": " leaves the old coach very weak.",
+        "answer": "stroke"
+      },
+      {
+        "before": "A short ",
+        "hint": "re",
+        "after": " follows, and a new segment begins.",
+        "answer": "retreat"
+      },
+      {
+        "before": "Helpers tackle the steep path and ",
+        "hint": "pr",
+        "after": " loud happy cheers.",
+        "answer": "provoke"
+      },
+      {
+        "before": "The ",
+        "hint": "ov",
+        "after": " support is noted in every local paper.",
+        "answer": "overwhelming"
+      },
+      {
+        "before": "Then the lost child is found, and all are ",
+        "hint": "ac",
+        "after": " home.",
+        "answer": "accepted"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "这所滑雪学校在这片寒冷的山区省份很重要。",
+        "keywords": [
+          "matters",
+          "ski",
+          "province"
+        ]
+      },
+      {
+        "zh": "一个来自另一个国家的难民家庭省下每一分闲钱。",
+        "keywords": [
+          "refugee",
+          "nation",
+          "yen"
+        ]
+      },
+      {
+        "zh": "一位好心捐助者帮他们购买了靴子和一本相册。",
+        "keywords": [
+          "purchase",
+          "boots",
+          "album"
+        ]
+      },
+      {
+        "zh": "温暖的皮靴保护小脚免受伤害。",
+        "keywords": [
+          "leather",
+          "boots",
+          "harm"
+        ]
+      },
+      {
+        "zh": "他们谨慎的教练是慢步骤的坚定倡导者。",
+        "keywords": [
+          "cautious",
+          "advocate",
+          "steps"
+        ]
+      },
+      {
+        "zh": "后来一次意外的中风让老教练非常虚弱。",
+        "keywords": [
+          "unexpected",
+          "stroke",
+          "coach"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 283,
+    "sentences": 28,
+    "newDensity": 0.208,
+    "targetTokenDensity": 0.208,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写山区省份的一所滑雪学校：女冠军与跑者带队、难民家庭、便宜材料与相册、本地向导、勇气主题，结尾是谨慎训练、意外中风、退修与新阶段。"
+}

@@ -1,0 +1,10791 @@
+{
+ "meta": {
+  "source": "ECDICT (skywind3000/ECDICT)",
+  "source_license": "MIT",
+  "generated_at": "2026-11-21",
+  "set": "zk-supplement",
+  "total": 289,
+  "stars": 0,
+  "star_source": "zhongkao",
+  "per_passage": "57–58",
+  "passage_sizes": [
+   58,
+   58,
+   58,
+   58,
+   57
+  ],
+  "passages": 5,
+  "route": "zhongkao",
+  "route_positions": "23–27",
+  "notes": "中考无星级补漏词，不参与主线星级统计"
+ },
+ "words": [
+  {
+   "lemma": "in",
+   "pos": [
+    "prep",
+    "adv",
+    "adj",
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "prep",
+     "zh": "在...期间"
+    },
+    {
+     "pos": "adv",
+     "zh": "进入"
+    },
+    {
+     "pos": "adj",
+     "zh": "在里面的"
+    },
+    {
+     "pos": "n",
+     "zh": "执政者"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 6,
+    "frq": 6
+   },
+   "forms": [],
+   "phonetic": "in",
+   "order": 1,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "can",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "装罐"
+    },
+    {
+     "pos": "n",
+     "zh": "罐头"
+    },
+    {
+     "pos": "v",
+     "zh": "能"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 35,
+    "frq": 37
+   },
+   "forms": [
+    "cans",
+    "could",
+    "can"
+   ],
+   "phonetic": "kæn",
+   "order": 2,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "take",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "拿"
+    },
+    {
+     "pos": "v",
+     "zh": "吃掉对方棋子"
+    },
+    {
+     "pos": "n",
+     "zh": "拿"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 51,
+    "frq": 63
+   },
+   "forms": [
+    "took",
+    "taken",
+    "taking",
+    "takes"
+   ],
+   "phonetic": "teik",
+   "order": 3,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "up",
+   "pos": [
+    "adj",
+    "adv",
+    "prep"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "向上的"
+    },
+    {
+     "pos": "adv",
+     "zh": "向上"
+    },
+    {
+     "pos": "prep",
+     "zh": "在...上面"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 52,
+    "frq": 50
+   },
+   "forms": [
+    "upped",
+    "upping",
+    "up",
+    "ups"
+   ],
+   "phonetic": "ʌp",
+   "order": 4,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "just",
+   "pos": [
+    "adj",
+    "adv"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "正直的"
+    },
+    {
+     "pos": "adv",
+     "zh": "刚刚"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 72,
+    "frq": 66
+   },
+   "forms": [],
+   "phonetic": "dʒʌst",
+   "order": 5,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "well",
+   "pos": [
+    "n",
+    "v",
+    "adj",
+    "adv"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "井"
+    },
+    {
+     "pos": "v",
+     "zh": "涌出"
+    },
+    {
+     "pos": "adj",
+     "zh": "健康的"
+    },
+    {
+     "pos": "adv",
+     "zh": "很好地"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 84,
+    "frq": 100
+   },
+   "forms": [
+    "wells",
+    "welling",
+    "welled"
+   ],
+   "phonetic": "wel",
+   "order": 6,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "down",
+   "pos": [
+    "adj",
+    "adv",
+    "prep",
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "向下的"
+    },
+    {
+     "pos": "adv",
+     "zh": "下"
+    },
+    {
+     "pos": "prep",
+     "zh": "往下"
+    },
+    {
+     "pos": "n",
+     "zh": "丘陵"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 102,
+    "frq": 118
+   },
+   "forms": [
+    "downs",
+    "downing",
+    "downed"
+   ],
+   "phonetic": "daun",
+   "order": 7,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "even",
+   "pos": [
+    "adj",
+    "v",
+    "adv"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "平坦的"
+    },
+    {
+     "pos": "v",
+     "zh": "使平坦"
+    },
+    {
+     "pos": "v",
+     "zh": "变平"
+    },
+    {
+     "pos": "adv",
+     "zh": "甚至"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl",
+    "ielts",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 113,
+    "frq": 107
+   },
+   "forms": [
+    "evening",
+    "evened",
+    "evens"
+   ],
+   "phonetic": "'i:vәn",
+   "order": 8,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "mean",
+   "pos": [
+    "adj",
+    "v",
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "低劣的"
+    },
+    {
+     "pos": "v",
+     "zh": "意谓"
+    },
+    {
+     "pos": "v",
+     "zh": "用意"
+    },
+    {
+     "pos": "n",
+     "zh": "平均数"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl",
+    "ielts",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 121,
+    "frq": 154
+   },
+   "forms": [
+    "means",
+    "meant",
+    "meaning"
+   ],
+   "phonetic": "mi:n",
+   "order": 9,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "might",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "力量"
+    },
+    {
+     "pos": "v",
+     "zh": "可能"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 138,
+    "frq": 175
+   },
+   "forms": [],
+   "phonetic": "mait",
+   "order": 10,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "place",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "地方"
+    },
+    {
+     "pos": "v",
+     "zh": "放置"
+    },
+    {
+     "pos": "v",
+     "zh": "名次列前"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 162,
+    "frq": 181
+   },
+   "forms": [
+    "places",
+    "placed",
+    "placing"
+   ],
+   "phonetic": "pleis",
+   "order": 11,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "long",
+   "pos": [
+    "adj",
+    "v",
+    "adv",
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "长的"
+    },
+    {
+     "pos": "v",
+     "zh": "渴望"
+    },
+    {
+     "pos": "adv",
+     "zh": "长久"
+    },
+    {
+     "pos": "n",
+     "zh": "长时间"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 217,
+    "frq": 254
+   },
+   "forms": [
+    "longer",
+    "longest",
+    "longed",
+    "longing",
+    "longs"
+   ],
+   "phonetic": "lɒŋ",
+   "order": 12,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "home",
+   "pos": [
+    "n",
+    "adj",
+    "adv"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "家"
+    },
+    {
+     "pos": "adj",
+     "zh": "家庭的"
+    },
+    {
+     "pos": "adv",
+     "zh": "在家"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 222,
+    "frq": 224
+   },
+   "forms": [
+    "homes",
+    "homing",
+    "homed"
+   ],
+   "phonetic": "hәum",
+   "order": 13,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "lead",
+   "pos": [
+    "n",
+    "v",
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "铅"
+    },
+    {
+     "pos": "v",
+     "zh": "引导"
+    },
+    {
+     "pos": "v",
+     "zh": "领导"
+    },
+    {
+     "pos": "adj",
+     "zh": "带头的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 263,
+    "frq": 318
+   },
+   "forms": [
+    "led",
+    "leading",
+    "leads"
+   ],
+   "phonetic": "li:d. led",
+   "order": 14,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "kind",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "种类"
+    },
+    {
+     "pos": "adj",
+     "zh": "亲切的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 337,
+    "frq": 250
+   },
+   "forms": [
+    "kinds",
+    "kinder",
+    "kindest"
+   ],
+   "phonetic": "kaind",
+   "order": 15,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "minute",
+   "pos": [
+    "n",
+    "v",
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "分"
+    },
+    {
+     "pos": "v",
+     "zh": "记录"
+    },
+    {
+     "pos": "adj",
+     "zh": "微小的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 348,
+    "frq": 308
+   },
+   "forms": [
+    "minutes"
+   ],
+   "phonetic": "'minit. mai'nju:t",
+   "order": 16,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "bank",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "银行"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 406,
+    "frq": 663
+   },
+   "forms": [
+    "banks",
+    "banking",
+    "banked"
+   ],
+   "phonetic": "bæŋk",
+   "order": 17,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "teacher",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "教师"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 486,
+    "frq": 371
+   },
+   "forms": [
+    "teachers"
+   ],
+   "phonetic": "'ti:tʃә",
+   "order": 18,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "short",
+   "pos": [
+    "adj",
+    "adv",
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "短的"
+    },
+    {
+     "pos": "adv",
+     "zh": "简短地"
+    },
+    {
+     "pos": "n",
+     "zh": "扼要"
+    },
+    {
+     "pos": "v",
+     "zh": "故意少给"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 500,
+    "frq": 627
+   },
+   "forms": [
+    "shorter",
+    "shortest",
+    "shorting",
+    "shorted",
+    "shorts"
+   ],
+   "phonetic": "ʃɒ:t",
+   "order": 19,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "training",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "训练"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 516,
+    "frq": 796
+   },
+   "forms": [
+    "training"
+   ],
+   "phonetic": "'treiniŋ",
+   "order": 20,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "common",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "通常的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 554,
+    "frq": 710
+   },
+   "forms": [],
+   "phonetic": "'kɒmәn",
+   "order": 21,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "foreign",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "外国的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 621,
+    "frq": 689
+   },
+   "forms": [],
+   "phonetic": "'fɒ:rin",
+   "order": 22,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "used",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "使用过的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 641,
+    "frq": 1828
+   },
+   "forms": [
+    "used"
+   ],
+   "phonetic": "'ju:st",
+   "order": 23,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "present",
+   "pos": [
+    "n",
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "现在"
+    },
+    {
+     "pos": "adj",
+     "zh": "现在的"
+    },
+    {
+     "pos": "v",
+     "zh": "介绍"
+    },
+    {
+     "pos": "v",
+     "zh": "举枪瞄准"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 678,
+    "frq": 817
+   },
+   "forms": [
+    "presented",
+    "presents",
+    "presenting"
+   ],
+   "phonetic": "'preznt",
+   "order": 24,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "fire",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "火"
+    },
+    {
+     "pos": "v",
+     "zh": "点燃"
+    },
+    {
+     "pos": "v",
+     "zh": "着火"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 693,
+    "frq": 653
+   },
+   "forms": [
+    "fires",
+    "fired",
+    "firing"
+   ],
+   "phonetic": "'faiә",
+   "order": 25,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "round",
+   "pos": [
+    "n",
+    "adj",
+    "prep",
+    "adv"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "圆"
+    },
+    {
+     "pos": "adj",
+     "zh": "圆的"
+    },
+    {
+     "pos": "prep",
+     "zh": "围着"
+    },
+    {
+     "pos": "adv",
+     "zh": "围绕着"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 730,
+    "frq": 2372
+   },
+   "forms": [
+    "rounds",
+    "rounded",
+    "rounding",
+    "rounder"
+   ],
+   "phonetic": "raund",
+   "order": 26,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "sound",
+   "pos": [
+    "n",
+    "adj",
+    "adv",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "声音"
+    },
+    {
+     "pos": "adj",
+     "zh": "健全的"
+    },
+    {
+     "pos": "adv",
+     "zh": "彻底地"
+    },
+    {
+     "pos": "v",
+     "zh": "发出声音"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 780,
+    "frq": 702
+   },
+   "forms": [
+    "sounds",
+    "sounded",
+    "sounding",
+    "sounder"
+   ],
+   "phonetic": "saund",
+   "order": 27,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "sun",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "太阳"
+    },
+    {
+     "pos": "v",
+     "zh": "晒"
+    },
+    {
+     "pos": "v",
+     "zh": "晒太阳"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 872,
+    "frq": 1233
+   },
+   "forms": [
+    "suns",
+    "sunning",
+    "sunned"
+   ],
+   "phonetic": "sʌn",
+   "order": 28,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "post",
+   "pos": [
+    "n",
+    "v",
+    "adv"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "柱"
+    },
+    {
+     "pos": "v",
+     "zh": "张帖"
+    },
+    {
+     "pos": "v",
+     "zh": "快速行进"
+    },
+    {
+     "pos": "adv",
+     "zh": "急速地"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 895,
+    "frq": 2148
+   },
+   "forms": [
+    "posts",
+    "posted",
+    "posting"
+   ],
+   "phonetic": "pәust",
+   "order": 29,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "western",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "西方人"
+    },
+    {
+     "pos": "adj",
+     "zh": "向西方的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 1008,
+    "frq": 1079
+   },
+   "forms": [
+    "westerns"
+   ],
+   "phonetic": "'westәn",
+   "order": 30,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "realise",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "实现"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 1018,
+    "frq": 0
+   },
+   "forms": [
+    "realised",
+    "realising",
+    "realises"
+   ],
+   "phonetic": "'riәlaiz,'ri:-",
+   "order": 31,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "fit",
+   "pos": [
+    "n",
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "适宜"
+    },
+    {
+     "pos": "adj",
+     "zh": "适宜的"
+    },
+    {
+     "pos": "v",
+     "zh": "适合"
+    },
+    {
+     "pos": "v",
+     "zh": "适合"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 1046,
+    "frq": 1349
+   },
+   "forms": [
+    "fitted",
+    "fits",
+    "fitting",
+    "fitter",
+    "fittest"
+   ],
+   "phonetic": "fit",
+   "order": 32,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "driver",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "驾驶员"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 1225,
+    "frq": 1226
+   },
+   "forms": [
+    "drivers"
+   ],
+   "phonetic": "'draivә",
+   "order": 33,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "cross",
+   "pos": [
+    "n",
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "十字架"
+    },
+    {
+     "pos": "adj",
+     "zh": "生气的"
+    },
+    {
+     "pos": "v",
+     "zh": "交叉"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 1352,
+    "frq": 1391
+   },
+   "forms": [
+    "crossed",
+    "crossing",
+    "crosses"
+   ],
+   "phonetic": "krɒs",
+   "order": 34,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "introduction",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "介绍"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 1379,
+    "frq": 2904
+   },
+   "forms": [
+    "introductions"
+   ],
+   "phonetic": ".intrә'dʌkʃәn",
+   "order": 35,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "row",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "排"
+    },
+    {
+     "pos": "v",
+     "zh": "使成排"
+    },
+    {
+     "pos": "v",
+     "zh": "划船"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 1406,
+    "frq": 1843
+   },
+   "forms": [
+    "rows",
+    "rowed",
+    "rowing"
+   ],
+   "phonetic": "rәu. rau",
+   "order": 36,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "northern",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "北方人"
+    },
+    {
+     "pos": "adj",
+     "zh": "北方的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 1445,
+    "frq": 1556
+   },
+   "forms": [],
+   "phonetic": "'nɒ:ðәn",
+   "order": 37,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "instruction",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "指令"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 1594,
+    "frq": 1563
+   },
+   "forms": [
+    "instructions"
+   ],
+   "phonetic": "in'strʌkʃәn",
+   "order": 38,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "count",
+   "pos": [
+    "v",
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "计算"
+    },
+    {
+     "pos": "v",
+     "zh": "计数"
+    },
+    {
+     "pos": "n",
+     "zh": "计算"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 1830,
+    "frq": 1331
+   },
+   "forms": [
+    "counts",
+    "counted",
+    "counting"
+   ],
+   "phonetic": "kaunt",
+   "order": 39,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "connect",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "连接"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 2042,
+    "frq": 1636
+   },
+   "forms": [
+    "connected",
+    "connecting",
+    "connects"
+   ],
+   "phonetic": "kә'nekt",
+   "order": 40,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "rose",
+   "pos": [
+    "n",
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "玫瑰"
+    },
+    {
+     "pos": "adj",
+     "zh": "玫瑰色的"
+    },
+    {
+     "pos": "v",
+     "zh": "使成玫瑰色"
+    },
+    {
+     "pos": null,
+     "zh": "rise的过去式"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 2179,
+    "frq": 23633
+   },
+   "forms": [
+    "roses"
+   ],
+   "phonetic": "rәuz",
+   "order": 41,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "stairs",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "楼梯"
+    }
+   ],
+   "exams": [
+    "zk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 2222,
+    "frq": 13908
+   },
+   "forms": [
+    "stairs"
+   ],
+   "phonetic": "",
+   "order": 42,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "helpful",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "有帮助的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 2582,
+    "frq": 3054
+   },
+   "forms": [],
+   "phonetic": "'helpful",
+   "order": 43,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "sheep",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "羊"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 2697,
+    "frq": 4210
+   },
+   "forms": [
+    "sheeps"
+   ],
+   "phonetic": "ʃi:p",
+   "order": 44,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "practise",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "实践"
+    }
+   ],
+   "exams": [
+    "zk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 2744,
+    "frq": 23578
+   },
+   "forms": [
+    "practised",
+    "practising",
+    "practises"
+   ],
+   "phonetic": "'præktis",
+   "order": 45,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "satisfy",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "使满意"
+    },
+    {
+     "pos": "v",
+     "zh": "令人满意"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 2775,
+    "frq": 3001
+   },
+   "forms": [
+    "satisfies",
+    "satisfied",
+    "satisfying"
+   ],
+   "phonetic": "'sætisfai",
+   "order": 46,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "silly",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "愚蠢的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 2789,
+    "frq": 4009
+   },
+   "forms": [
+    "silliest",
+    "sillier"
+   ],
+   "phonetic": "'sili",
+   "order": 47,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "tongue",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "舌"
+    },
+    {
+     "pos": "v",
+     "zh": "舔"
+    },
+    {
+     "pos": "v",
+     "zh": "使用舌头"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 2831,
+    "frq": 2871
+   },
+   "forms": [
+    "tongues",
+    "tonguing",
+    "tongued"
+   ],
+   "phonetic": "tʌŋ",
+   "order": 48,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "classroom",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "教室"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 2842,
+    "frq": 1479
+   },
+   "forms": [
+    "classrooms"
+   ],
+   "phonetic": "'klɑ:sru:m",
+   "order": 49,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "mouse",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "老鼠"
+    },
+    {
+     "pos": "v",
+     "zh": "捕鼠"
+    },
+    {
+     "pos": "v",
+     "zh": "探出"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 2845,
+    "frq": 3305
+   },
+   "forms": [
+    "mice",
+    "mousing",
+    "moused",
+    "mouses"
+   ],
+   "phonetic": "maus",
+   "order": 50,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "ceiling",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "天花板"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 2874,
+    "frq": 2641
+   },
+   "forms": [
+    "ceilings"
+   ],
+   "phonetic": "'si:liŋ",
+   "order": 51,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "deaf",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "聋的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 2897,
+    "frq": 6755
+   },
+   "forms": [
+    "deafer",
+    "deafest"
+   ],
+   "phonetic": "def",
+   "order": 52,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "composition",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "作文"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 2911,
+    "frq": 3000
+   },
+   "forms": [
+    "compositions"
+   ],
+   "phonetic": "kɒmpә'ziʃәn",
+   "order": 53,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "pacific",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "太平洋"
+    },
+    {
+     "pos": "adj",
+     "zh": "太平洋的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 2913,
+    "frq": 26607
+   },
+   "forms": [],
+   "phonetic": "pә'sifik",
+   "order": 54,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "shelf",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "架子"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 2930,
+    "frq": 2947
+   },
+   "forms": [
+    "shelves"
+   ],
+   "phonetic": "ʃelf",
+   "order": 55,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "coin",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "硬币"
+    },
+    {
+     "pos": "v",
+     "zh": "铸币"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 2964,
+    "frq": 4376
+   },
+   "forms": [
+    "coins",
+    "coined",
+    "coining"
+   ],
+   "phonetic": "kɒin",
+   "order": 56,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "grammar",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "语法学"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 2979,
+    "frq": 8367
+   },
+   "forms": [
+    "grammars"
+   ],
+   "phonetic": "'græmә",
+   "order": 57,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "pig",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "猪"
+    },
+    {
+     "pos": "v",
+     "zh": "生小猪"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3014,
+    "frq": 3488
+   },
+   "forms": [
+    "pigs",
+    "pigging",
+    "pigged"
+   ],
+   "phonetic": "pig",
+   "order": 58,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "rabbit",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "兔子"
+    },
+    {
+     "pos": "v",
+     "zh": "猎兔"
+    },
+    {
+     "pos": "v",
+     "zh": "让...见鬼去"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3037,
+    "frq": 4373
+   },
+   "forms": [
+    "rabbits",
+    "rabbiting",
+    "rabbited"
+   ],
+   "phonetic": "'ræbit",
+   "order": 59,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "asleep",
+   "pos": [
+    "adj",
+    "adv"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "睡着的"
+    },
+    {
+     "pos": "adv",
+     "zh": "熟睡地"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3043,
+    "frq": 3081
+   },
+   "forms": [],
+   "phonetic": "ә'sli:p",
+   "order": 60,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "hurry",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "匆忙"
+    },
+    {
+     "pos": "v",
+     "zh": "急派"
+    },
+    {
+     "pos": "v",
+     "zh": "匆忙"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 3065,
+    "frq": 3609
+   },
+   "forms": [
+    "hurried",
+    "hurrying",
+    "hurries"
+   ],
+   "phonetic": "'hʌri",
+   "order": 61,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "upstairs",
+   "pos": [
+    "adj",
+    "adv",
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "楼上的"
+    },
+    {
+     "pos": "adv",
+     "zh": "在楼上"
+    },
+    {
+     "pos": "n",
+     "zh": "楼层"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3067,
+    "frq": 4381
+   },
+   "forms": [],
+   "phonetic": "'ʌp'stєәz",
+   "order": 62,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "hers",
+   "pos": [
+    "pron"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "pron",
+     "zh": "她的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 3071,
+    "frq": 3849
+   },
+   "forms": [],
+   "phonetic": "hә:z",
+   "order": 63,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "silk",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "丝"
+    },
+    {
+     "pos": "adj",
+     "zh": "丝的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 3130,
+    "frq": 3969
+   },
+   "forms": [
+    "silks"
+   ],
+   "phonetic": "silk",
+   "order": 64,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "rat",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "鼠"
+    },
+    {
+     "pos": "v",
+     "zh": "捕鼠"
+    },
+    {
+     "pos": "v",
+     "zh": "弄蓬松"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3139,
+    "frq": 3558
+   },
+   "forms": [
+    "rats",
+    "ratting",
+    "ratted"
+   ],
+   "phonetic": "ræt",
+   "order": 65,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "rubbish",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "废物"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3206,
+    "frq": 14955
+   },
+   "forms": [
+    "rubbished",
+    "rubbishing",
+    "rubbishes"
+   ],
+   "phonetic": "'rʌbiʃ",
+   "order": 66,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "stranger",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "陌生人"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3225,
+    "frq": 2691
+   },
+   "forms": [
+    "strangers"
+   ],
+   "phonetic": "'streindʒә",
+   "order": 67,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "disturb",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "扰乱"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3272,
+    "frq": 4565
+   },
+   "forms": [
+    "disturbed",
+    "disturbing",
+    "disturbs"
+   ],
+   "phonetic": "dis'tә:b",
+   "order": 68,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "advertisement",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "广告"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3277,
+    "frq": 5957
+   },
+   "forms": [
+    "advertisements"
+   ],
+   "phonetic": ".ædvә'taizmәnt",
+   "order": 69,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "translate",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "翻译"
+    },
+    {
+     "pos": "v",
+     "zh": "翻译"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3281,
+    "frq": 2729
+   },
+   "forms": [
+    "translated",
+    "translating",
+    "translates"
+   ],
+   "phonetic": "træns'leit",
+   "order": 70,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "taxi",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "出租车"
+    },
+    {
+     "pos": "v",
+     "zh": "乘出租车"
+    },
+    {
+     "pos": "v",
+     "zh": "用出租车送"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3317,
+    "frq": 5161
+   },
+   "forms": [
+    "taxis",
+    "taxiing",
+    "taxied",
+    "taxies"
+   ],
+   "phonetic": "'tæksi",
+   "order": 71,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "shine",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "光泽"
+    },
+    {
+     "pos": "v",
+     "zh": "使发光"
+    },
+    {
+     "pos": "v",
+     "zh": "照耀"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 3329,
+    "frq": 3385
+   },
+   "forms": [
+    "shone",
+    "shining",
+    "shines"
+   ],
+   "phonetic": "ʃain",
+   "order": 72,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "dictionary",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "字典"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 3332,
+    "frq": 8493
+   },
+   "forms": [
+    "dictionaries"
+   ],
+   "phonetic": "'dikʃәnәri",
+   "order": 73,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "rope",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "绳"
+    },
+    {
+     "pos": "v",
+     "zh": "捆"
+    },
+    {
+     "pos": "v",
+     "zh": "拧成绳状"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 3336,
+    "frq": 3309
+   },
+   "forms": [
+    "ropes",
+    "roped",
+    "roping"
+   ],
+   "phonetic": "rәup",
+   "order": 74,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "lamp",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "灯"
+    },
+    {
+     "pos": "v",
+     "zh": "照亮"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3340,
+    "frq": 3936
+   },
+   "forms": [
+    "lamps"
+   ],
+   "phonetic": "læmp",
+   "order": 75,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "pond",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "池塘"
+    },
+    {
+     "pos": "v",
+     "zh": "筑成池塘"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3344,
+    "frq": 3626
+   },
+   "forms": [
+    "ponds"
+   ],
+   "phonetic": "pɒnd",
+   "order": 76,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "everyday",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "每天的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3381,
+    "frq": 3291
+   },
+   "forms": [],
+   "phonetic": "'evri'dei",
+   "order": 77,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "lion",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "狮子"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3397,
+    "frq": 4305
+   },
+   "forms": [
+    "lions"
+   ],
+   "phonetic": "'laiәn",
+   "order": 78,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "piano",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "钢琴"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 3449,
+    "frq": 3299
+   },
+   "forms": [
+    "pianos"
+   ],
+   "phonetic": "pi'ɑ:nәu",
+   "order": 79,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "toilet",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "厕所"
+    },
+    {
+     "pos": "v",
+     "zh": "梳妆"
+    },
+    {
+     "pos": "v",
+     "zh": "给...梳妆打扮"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3550,
+    "frq": 3983
+   },
+   "forms": [
+    "toilets"
+   ],
+   "phonetic": "'tɒilit",
+   "order": 80,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "menu",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "菜单"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 3553,
+    "frq": 3086
+   },
+   "forms": [
+    "menus"
+   ],
+   "phonetic": "'menju:",
+   "order": 81,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "chemistry",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "化学"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3555,
+    "frq": 4736
+   },
+   "forms": [],
+   "phonetic": "'kemistri",
+   "order": 82,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "skirt",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "裙子"
+    },
+    {
+     "pos": "v",
+     "zh": "位于...边缘"
+    },
+    {
+     "pos": "v",
+     "zh": "位于边缘"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 3590,
+    "frq": 3637
+   },
+   "forms": [
+    "skirts",
+    "skirted",
+    "skirting"
+   ],
+   "phonetic": "skә:t",
+   "order": 83,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "mathematics",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "数学"
+    }
+   ],
+   "exams": [
+    "zk",
+    "cet4",
+    "cet6",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3593,
+    "frq": 4257
+   },
+   "forms": [],
+   "phonetic": ".mæθә'mætiks",
+   "order": 84,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "invent",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "发明"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3639,
+    "frq": 3398
+   },
+   "forms": [
+    "invented",
+    "inventing",
+    "invents"
+   ],
+   "phonetic": "in'vent",
+   "order": 85,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "sandwich",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "三明治"
+    },
+    {
+     "pos": "v",
+     "zh": "插入"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3670,
+    "frq": 3529
+   },
+   "forms": [
+    "sandwiches",
+    "sandwiched",
+    "sandwiching"
+   ],
+   "phonetic": "'sændwitʃ",
+   "order": 86,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "hungry",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "饥饿的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 3683,
+    "frq": 3181
+   },
+   "forms": [
+    "hungrier",
+    "hungriest"
+   ],
+   "phonetic": "'hʌŋgi",
+   "order": 87,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "fetch",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "取得"
+    },
+    {
+     "pos": "v",
+     "zh": "接来"
+    },
+    {
+     "pos": "v",
+     "zh": "取物"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3687,
+    "frq": 6744
+   },
+   "forms": [
+    "fetched",
+    "fetching",
+    "fetches"
+   ],
+   "phonetic": "fetʃ",
+   "order": 88,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "accent",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "重音"
+    },
+    {
+     "pos": "v",
+     "zh": "重读"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3701,
+    "frq": 4140
+   },
+   "forms": [
+    "accents",
+    "accented",
+    "accenting"
+   ],
+   "phonetic": "'æksәnt",
+   "order": 89,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "shower",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "阵雨"
+    },
+    {
+     "pos": "v",
+     "zh": "淋浴"
+    },
+    {
+     "pos": "v",
+     "zh": "淋湿"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3712,
+    "frq": 3204
+   },
+   "forms": [
+    "showers",
+    "showered",
+    "showering"
+   ],
+   "phonetic": "'ʃauә",
+   "order": 90,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "duck",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "鸭子"
+    },
+    {
+     "pos": "v",
+     "zh": "没入水中"
+    },
+    {
+     "pos": "v",
+     "zh": "猛按...入水"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3713,
+    "frq": 3521
+   },
+   "forms": [
+    "ducks",
+    "ducked",
+    "ducking"
+   ],
+   "phonetic": "dʌk",
+   "order": 91,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "physics",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "物理学"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 3720,
+    "frq": 3417
+   },
+   "forms": [],
+   "phonetic": "'fiziks",
+   "order": 92,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "pity",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "遗憾"
+    },
+    {
+     "pos": "v",
+     "zh": "同情"
+    },
+    {
+     "pos": "v",
+     "zh": "觉得可怜"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 3803,
+    "frq": 6927
+   },
+   "forms": [
+    "pitied",
+    "pitying",
+    "pities"
+   ],
+   "phonetic": "'piti",
+   "order": 93,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "swimming",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "游泳"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3814,
+    "frq": 4441
+   },
+   "forms": [
+    "swimming"
+   ],
+   "phonetic": "'swimiŋ",
+   "order": 94,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "basket",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "篮"
+    },
+    {
+     "pos": "v",
+     "zh": "装入篮"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 3828,
+    "frq": 3255
+   },
+   "forms": [
+    "baskets"
+   ],
+   "phonetic": "'bɑ:skit",
+   "order": 95,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "ours",
+   "pos": [
+    "pron"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "pron",
+     "zh": "我们的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 3947,
+    "frq": 4099
+   },
+   "forms": [],
+   "phonetic": "'auәz",
+   "order": 96,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "geography",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "地理学"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 3967,
+    "frq": 5163
+   },
+   "forms": [
+    "geographies"
+   ],
+   "phonetic": "dʒi'ɒgrәfi",
+   "order": 97,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "handsome",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "英俊的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4033,
+    "frq": 3838
+   },
+   "forms": [
+    "handsomest",
+    "handsomer"
+   ],
+   "phonetic": "'hænsәm",
+   "order": 98,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "downstairs",
+   "pos": [
+    "n",
+    "adj",
+    "adv"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "楼下"
+    },
+    {
+     "pos": "adj",
+     "zh": "楼下的"
+    },
+    {
+     "pos": "adv",
+     "zh": "在楼下"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4046,
+    "frq": 5467
+   },
+   "forms": [],
+   "phonetic": "'daun'stєәz",
+   "order": 99,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "pardon",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "原谅"
+    },
+    {
+     "pos": "v",
+     "zh": "宽恕"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 4052,
+    "frq": 7831
+   },
+   "forms": [
+    "pardoned",
+    "pardons",
+    "pardoning"
+   ],
+   "phonetic": "'pɑ:dn",
+   "order": 100,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "supermarket",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "超级市场"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4087,
+    "frq": 4682
+   },
+   "forms": [
+    "supermarkets"
+   ],
+   "phonetic": "'sju:pәmɑ:kit",
+   "order": 101,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "boring",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "烦人的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 4124,
+    "frq": 4915
+   },
+   "forms": [
+    "boring",
+    "borings"
+   ],
+   "phonetic": "'bɒ:riŋ",
+   "order": 102,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "lively",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "活泼的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 4135,
+    "frq": 5775
+   },
+   "forms": [
+    "livelier",
+    "liveliest"
+   ],
+   "phonetic": "'laivli",
+   "order": 103,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "ruler",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "统治者"
+    },
+    {
+     "pos": "n",
+     "zh": "划线板"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4145,
+    "frq": 5552
+   },
+   "forms": [
+    "rulers"
+   ],
+   "phonetic": "'ru:lә",
+   "order": 104,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "supper",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "晚餐"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 4153,
+    "frq": 5514
+   },
+   "forms": [
+    "suppers"
+   ],
+   "phonetic": "'sʌpә",
+   "order": 105,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "tent",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "帐篷"
+    },
+    {
+     "pos": "v",
+     "zh": "住帐蓬"
+    },
+    {
+     "pos": "v",
+     "zh": "用帐篷遮盖"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4158,
+    "frq": 3071
+   },
+   "forms": [
+    "tents",
+    "tented",
+    "tenting"
+   ],
+   "phonetic": "tent",
+   "order": 106,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "lamb",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "小羊"
+    },
+    {
+     "pos": "v",
+     "zh": "产羊羔"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4170,
+    "frq": 5590
+   },
+   "forms": [
+    "lambs",
+    "lambing",
+    "lambed"
+   ],
+   "phonetic": "læm",
+   "order": 107,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "candle",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "蜡烛"
+    },
+    {
+     "pos": "v",
+     "zh": "对着光检查"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4173,
+    "frq": 3928
+   },
+   "forms": [
+    "candles",
+    "candling",
+    "candled"
+   ],
+   "phonetic": "'kændl",
+   "order": 108,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "exam",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "考试"
+    }
+   ],
+   "exams": [
+    "zk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4174,
+    "frq": 4224
+   },
+   "forms": [
+    "exams"
+   ],
+   "phonetic": "ig'zæm",
+   "order": 109,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "drawer",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "抽屉"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4175,
+    "frq": 4212
+   },
+   "forms": [
+    "drawers"
+   ],
+   "phonetic": "'drɒ:ә",
+   "order": 110,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "grandfather",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "祖父"
+    }
+   ],
+   "exams": [
+    "zk",
+    "cet4",
+    "cet6"
+   ],
+   "freq": {
+    "bnc": 4184,
+    "frq": 2950
+   },
+   "forms": [
+    "grandfathers"
+   ],
+   "phonetic": "'grændfɑ:ðә",
+   "order": 111,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "pie",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "馅饼"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4186,
+    "frq": 3323
+   },
+   "forms": [
+    "pies"
+   ],
+   "phonetic": "pai",
+   "order": 112,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "biscuit",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "饼干"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4203,
+    "frq": 8068
+   },
+   "forms": [
+    "biscuits"
+   ],
+   "phonetic": "'biskit",
+   "order": 113,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "soap",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "肥皂"
+    },
+    {
+     "pos": "v",
+     "zh": "以肥皂洗"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 4288,
+    "frq": 4344
+   },
+   "forms": [
+    "soaps",
+    "soaping",
+    "soaped"
+   ],
+   "phonetic": "sәup",
+   "order": 114,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "beef",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "牛肉"
+    },
+    {
+     "pos": "v",
+     "zh": "养"
+    },
+    {
+     "pos": "v",
+     "zh": "抱怨"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 4295,
+    "frq": 3505
+   },
+   "forms": [
+    "beefed",
+    "beefing",
+    "beefs"
+   ],
+   "phonetic": "bi:f",
+   "order": 115,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "zero",
+   "pos": [
+    "n",
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "零"
+    },
+    {
+     "pos": "adj",
+     "zh": "零的"
+    },
+    {
+     "pos": "v",
+     "zh": "调零"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4296,
+    "frq": 4886
+   },
+   "forms": [
+    "zeros",
+    "zeroing",
+    "zeroed",
+    "zeroes"
+   ],
+   "phonetic": "'ziәrәu",
+   "order": 116,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "absent",
+   "pos": [
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "缺席的"
+    },
+    {
+     "pos": "v",
+     "zh": "使缺席"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 4300,
+    "frq": 5516
+   },
+   "forms": [
+    "absented",
+    "absenting",
+    "absents"
+   ],
+   "phonetic": "'æbsәnt",
+   "order": 117,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "elephant",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "象"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4323,
+    "frq": 4355
+   },
+   "forms": [
+    "elephants"
+   ],
+   "phonetic": "'elifәnt",
+   "order": 118,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "seldom",
+   "pos": [
+    "adj",
+    "adv"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "不常的"
+    },
+    {
+     "pos": "adv",
+     "zh": "很少"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 4326,
+    "frq": 4878
+   },
+   "forms": [],
+   "phonetic": "'seldәm",
+   "order": 119,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "grandmother",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "祖母"
+    }
+   ],
+   "exams": [
+    "zk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4338,
+    "frq": 2495
+   },
+   "forms": [
+    "grandmothers"
+   ],
+   "phonetic": "'grændmʌðә",
+   "order": 120,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "soup",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "汤"
+    },
+    {
+     "pos": "v",
+     "zh": "加速"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 4360,
+    "frq": 2997
+   },
+   "forms": [
+    "soups",
+    "souped",
+    "souping"
+   ],
+   "phonetic": "su:p",
+   "order": 121,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "tomato",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "番茄"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 4402,
+    "frq": 2400
+   },
+   "forms": [
+    "tomatoes"
+   ],
+   "phonetic": "tә'mɑ:tәu",
+   "order": 122,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "cruel",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "残酷的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 4471,
+    "frq": 4762
+   },
+   "forms": [
+    "cruellest",
+    "crueller"
+   ],
+   "phonetic": "'kru:әl",
+   "order": 123,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "ugly",
+   "pos": [
+    "adj",
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "丑陋的"
+    },
+    {
+     "pos": "n",
+     "zh": "丑陋的人"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 4485,
+    "frq": 3262
+   },
+   "forms": [
+    "ugliest",
+    "uglier",
+    "uglies"
+   ],
+   "phonetic": "'ʌgli",
+   "order": 124,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "pencil",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "铅笔"
+    },
+    {
+     "pos": "v",
+     "zh": "用铅笔写或涂"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 4530,
+    "frq": 4410
+   },
+   "forms": [
+    "pencils",
+    "pencilled",
+    "pencilling"
+   ],
+   "phonetic": "'pensl",
+   "order": 125,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "glove",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "手套"
+    },
+    {
+     "pos": "v",
+     "zh": "给...戴手套"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4535,
+    "frq": 3095
+   },
+   "forms": [
+    "gloves",
+    "gloving"
+   ],
+   "phonetic": "glʌv",
+   "order": 126,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "treasure",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "宝物"
+    },
+    {
+     "pos": "v",
+     "zh": "珍爱"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 4538,
+    "frq": 4074
+   },
+   "forms": [
+    "treasures",
+    "treasured",
+    "treasuring"
+   ],
+   "phonetic": "'treʒә",
+   "order": 127,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "fox",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "狐狸"
+    },
+    {
+     "pos": "v",
+     "zh": "奸狡地行动"
+    },
+    {
+     "pos": "v",
+     "zh": "欺骗"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4616,
+    "frq": 6537
+   },
+   "forms": [
+    "foxes",
+    "foxed",
+    "foxing"
+   ],
+   "phonetic": "fɒks",
+   "order": 128,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "salad",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "色拉"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4643,
+    "frq": 2773
+   },
+   "forms": [
+    "salads"
+   ],
+   "phonetic": "'sælәd",
+   "order": 129,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "punish",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "处罚"
+    },
+    {
+     "pos": "v",
+     "zh": "惩罚"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4686,
+    "frq": 3862
+   },
+   "forms": [
+    "punished",
+    "punishing",
+    "punishes"
+   ],
+   "phonetic": "'pʌniʃ",
+   "order": 130,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "toward",
+   "pos": [
+    "prep",
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "prep",
+     "zh": "向"
+    },
+    {
+     "pos": "adj",
+     "zh": "即将来临的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4712,
+    "frq": 384
+   },
+   "forms": [],
+   "phonetic": "tә'wɒ:d",
+   "order": 131,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "invention",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "发明"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4752,
+    "frq": 4773
+   },
+   "forms": [
+    "inventions"
+   ],
+   "phonetic": "in'venʃәn",
+   "order": 132,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "bee",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "蜜蜂"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4770,
+    "frq": 4247
+   },
+   "forms": [
+    "bees"
+   ],
+   "phonetic": "bi:",
+   "order": 133,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "tiger",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "老虎"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4773,
+    "frq": 5908
+   },
+   "forms": [
+    "tigers"
+   ],
+   "phonetic": "'taigә",
+   "order": 134,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "awake",
+   "pos": [
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "醒着的"
+    },
+    {
+     "pos": "v",
+     "zh": "唤醒"
+    },
+    {
+     "pos": "v",
+     "zh": "醒来"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4786,
+    "frq": 4647
+   },
+   "forms": [
+    "awoke",
+    "awoken",
+    "awakes",
+    "awaking"
+   ],
+   "phonetic": "ә'weik",
+   "order": 135,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "whale",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "鲸"
+    },
+    {
+     "pos": "v",
+     "zh": "捕鲸"
+    },
+    {
+     "pos": "v",
+     "zh": "使惨败"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 4811,
+    "frq": 4232
+   },
+   "forms": [
+    "whales",
+    "whaling",
+    "whaled"
+   ],
+   "phonetic": "hweil",
+   "order": 136,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "towel",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "手巾"
+    },
+    {
+     "pos": "v",
+     "zh": "擦干身子"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4814,
+    "frq": 3682
+   },
+   "forms": [
+    "towels",
+    "towelled",
+    "towelling"
+   ],
+   "phonetic": "'tauәl",
+   "order": 137,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "jeans",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "工装裤"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4826,
+    "frq": 3421
+   },
+   "forms": [
+    "jeans"
+   ],
+   "phonetic": "dʒi:nz",
+   "order": 138,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "lab",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "实验室"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4848,
+    "frq": 2089
+   },
+   "forms": [
+    "labs"
+   ],
+   "phonetic": "læb",
+   "order": 139,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "fantastic",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "奇妙的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4942,
+    "frq": 4747
+   },
+   "forms": [],
+   "phonetic": "fæn'tæstik",
+   "order": 140,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "pronounce",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "发音"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 4948,
+    "frq": 5332
+   },
+   "forms": [
+    "pronounced",
+    "pronouncing",
+    "pronounces"
+   ],
+   "phonetic": "prә'nauns",
+   "order": 141,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "recorder",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "记录员"
+    },
+    {
+     "pos": "n",
+     "zh": "记录器"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 4975,
+    "frq": 6015
+   },
+   "forms": [
+    "recorders"
+   ],
+   "phonetic": "ri'kɒ:dә",
+   "order": 142,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "polite",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "有礼貌的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 4976,
+    "frq": 5492
+   },
+   "forms": [
+    "politest",
+    "politer"
+   ],
+   "phonetic": "pә'lait",
+   "order": 143,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "headache",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "头痛"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 5005,
+    "frq": 4745
+   },
+   "forms": [
+    "headaches"
+   ],
+   "phonetic": "'hedeik",
+   "order": 144,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "thread",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "线"
+    },
+    {
+     "pos": "v",
+     "zh": "穿线于"
+    },
+    {
+     "pos": "v",
+     "zh": "穿过"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 5022,
+    "frq": 4714
+   },
+   "forms": [
+    "threads",
+    "threaded",
+    "threading"
+   ],
+   "phonetic": "θred",
+   "order": 145,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "wolf",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "狼"
+    },
+    {
+     "pos": "v",
+     "zh": "狼吞虎咽"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5062,
+    "frq": 4150
+   },
+   "forms": [
+    "wolves",
+    "wolfed",
+    "wolfing",
+    "wolfs"
+   ],
+   "phonetic": "wulf",
+   "order": 146,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "snake",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "蛇"
+    },
+    {
+     "pos": "v",
+     "zh": "曲折行进"
+    },
+    {
+     "pos": "v",
+     "zh": "迂回"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 5064,
+    "frq": 3481
+   },
+   "forms": [
+    "snakes",
+    "snaked",
+    "snaking"
+   ],
+   "phonetic": "sneik",
+   "order": 147,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "doll",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "洋娃娃"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 5101,
+    "frq": 3823
+   },
+   "forms": [
+    "dolls",
+    "dolled",
+    "dolling"
+   ],
+   "phonetic": "dɒl",
+   "order": 148,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "goat",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "山羊"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5117,
+    "frq": 4674
+   },
+   "forms": [
+    "goats",
+    "goat"
+   ],
+   "phonetic": "gәut",
+   "order": 149,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "sofa",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "沙发"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5140,
+    "frq": 4782
+   },
+   "forms": [
+    "sofas"
+   ],
+   "phonetic": "'sәufә",
+   "order": 150,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "rubber",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "橡皮"
+    },
+    {
+     "pos": "v",
+     "zh": "用橡胶制造"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 5262,
+    "frq": 4791
+   },
+   "forms": [
+    "rubbers",
+    "rubbering",
+    "rubbered"
+   ],
+   "phonetic": "'rʌbә",
+   "order": 151,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "passport",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "护照"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 5283,
+    "frq": 6239
+   },
+   "forms": [
+    "passports"
+   ],
+   "phonetic": "'pæspɒ:t",
+   "order": 152,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "fisherman",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "渔夫"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5287,
+    "frq": 4272
+   },
+   "forms": [
+    "fishermen"
+   ],
+   "phonetic": "'fiʃәmәn",
+   "order": 153,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "shy",
+   "pos": [
+    "n",
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "惊跳"
+    },
+    {
+     "pos": "adj",
+     "zh": "胆怯的"
+    },
+    {
+     "pos": "v",
+     "zh": "惊退"
+    },
+    {
+     "pos": "v",
+     "zh": "乱投"
+    }
+   ],
+   "exams": [
+    "zk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 5301,
+    "frq": 4407
+   },
+   "forms": [
+    "shied",
+    "shying",
+    "shies",
+    "shyer",
+    "shyest"
+   ],
+   "phonetic": "ʃai",
+   "order": 154,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "bicycle",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "自行车"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 5312,
+    "frq": 4366
+   },
+   "forms": [
+    "bicycles",
+    "bicycled",
+    "bicycling"
+   ],
+   "phonetic": "'baisikl",
+   "order": 155,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "butterfly",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "蝴蝶"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 5314,
+    "frq": 4923
+   },
+   "forms": [
+    "butterflies",
+    "butterflying",
+    "butterflied"
+   ],
+   "phonetic": "'bʌtәflai",
+   "order": 156,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "purple",
+   "pos": [
+    "n",
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "紫色"
+    },
+    {
+     "pos": "adj",
+     "zh": "紫色的"
+    },
+    {
+     "pos": "v",
+     "zh": "成紫色"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 5326,
+    "frq": 3894
+   },
+   "forms": [
+    "purples",
+    "purpled",
+    "purpling",
+    "purpler",
+    "purplest"
+   ],
+   "phonetic": "'pә:pl",
+   "order": 157,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "fever",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "发烧"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 5338,
+    "frq": 4372
+   },
+   "forms": [
+    "fevers",
+    "fevered"
+   ],
+   "phonetic": "'fi:vә",
+   "order": 158,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "keyboard",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "键盘"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 5374,
+    "frq": 5541
+   },
+   "forms": [
+    "keyboards",
+    "keyboarding",
+    "keyboarded"
+   ],
+   "phonetic": "'ki:bɒ:d",
+   "order": 159,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "monkey",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "猴子"
+    },
+    {
+     "pos": "v",
+     "zh": "淘气"
+    },
+    {
+     "pos": "v",
+     "zh": "嘲弄"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5405,
+    "frq": 4558
+   },
+   "forms": [
+    "monkeys",
+    "monkeying",
+    "monkeyed"
+   ],
+   "phonetic": "'mʌŋki",
+   "order": 160,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "notebook",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "笔记本"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 5410,
+    "frq": 4427
+   },
+   "forms": [
+    "notebooks"
+   ],
+   "phonetic": "'nәutbuk",
+   "order": 161,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "delicious",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "美味的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 5437,
+    "frq": 4985
+   },
+   "forms": [],
+   "phonetic": "di'liʃәs",
+   "order": 162,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "fridge",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "电冰箱"
+    }
+   ],
+   "exams": [
+    "zk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 5453,
+    "frq": 9318
+   },
+   "forms": [
+    "fridges"
+   ],
+   "phonetic": "fridʒ",
+   "order": 163,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "madame",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "夫人"
+    }
+   ],
+   "exams": [
+    "zk",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5484,
+    "frq": 7424
+   },
+   "forms": [
+    "madames"
+   ],
+   "phonetic": "'mædәm",
+   "order": 164,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "theirs",
+   "pos": [
+    "pron"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "pron",
+     "zh": "他们的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 5531,
+    "frq": 5421
+   },
+   "forms": [],
+   "phonetic": "ðєәz",
+   "order": 165,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "umbrella",
+   "pos": [
+    "n",
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "伞"
+    },
+    {
+     "pos": "adj",
+     "zh": "伞的"
+    },
+    {
+     "pos": "v",
+     "zh": "用伞遮掩"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 5549,
+    "frq": 5664
+   },
+   "forms": [
+    "umbrellas"
+   ],
+   "phonetic": "ʌm'brelә",
+   "order": 166,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "sunny",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "阳光充足的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 5585,
+    "frq": 4866
+   },
+   "forms": [
+    "sunnier",
+    "sunniest",
+    "sunnies"
+   ],
+   "phonetic": "'sʌni",
+   "order": 167,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "fork",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "叉子"
+    },
+    {
+     "pos": "v",
+     "zh": "分支"
+    },
+    {
+     "pos": "v",
+     "zh": "做成叉形"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5592,
+    "frq": 3758
+   },
+   "forms": [
+    "forks",
+    "forked",
+    "forking"
+   ],
+   "phonetic": "fɒ:k",
+   "order": 168,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "elder",
+   "pos": [
+    "n",
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "年长者"
+    },
+    {
+     "pos": "adj",
+     "zh": "年长的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 5602,
+    "frq": 4056
+   },
+   "forms": [
+    "elder",
+    "elders"
+   ],
+   "phonetic": "'eldә",
+   "order": 169,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "wheat",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "小麦"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 5619,
+    "frq": 4479
+   },
+   "forms": [
+    "wheats"
+   ],
+   "phonetic": "hwi:t",
+   "order": 170,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "balloon",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "气球"
+    },
+    {
+     "pos": "v",
+     "zh": "使成气球状"
+    },
+    {
+     "pos": "v",
+     "zh": "膨胀如气球"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky",
+    "toefl",
+    "ielts",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 5623,
+    "frq": 4774
+   },
+   "forms": [
+    "balloons",
+    "ballooned",
+    "ballooning"
+   ],
+   "phonetic": "bә'lu:n",
+   "order": 171,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "pioneer",
+   "pos": [
+    "n",
+    "v",
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "先锋"
+    },
+    {
+     "pos": "v",
+     "zh": "提倡"
+    },
+    {
+     "pos": "v",
+     "zh": "作先驱"
+    },
+    {
+     "pos": "adj",
+     "zh": "最早的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 5645,
+    "frq": 4472
+   },
+   "forms": [
+    "pioneers",
+    "pioneered",
+    "pioneering"
+   ],
+   "phonetic": ".paiә'niә",
+   "order": 172,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "banana",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "香蕉"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 5663,
+    "frq": 4677
+   },
+   "forms": [
+    "bananas"
+   ],
+   "phonetic": "bә'nɑ:nә",
+   "order": 173,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "sausage",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "香肠"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5664,
+    "frq": 6199
+   },
+   "forms": [
+    "sausages"
+   ],
+   "phonetic": "'sɒsidʒ",
+   "order": 174,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "frog",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "青蛙"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5747,
+    "frq": 5370
+   },
+   "forms": [
+    "frogs",
+    "frogged",
+    "frogging"
+   ],
+   "phonetic": "frɒg",
+   "order": 175,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "goodbye",
+   "pos": [
+    "int"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": null,
+     "zh": "再见"
+    }
+   ],
+   "exams": [
+    "zk"
+   ],
+   "freq": {
+    "bnc": 5756,
+    "frq": 5578
+   },
+   "forms": [
+    "goodbyes"
+   ],
+   "phonetic": "gud'bai",
+   "order": 176,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "ant",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "蚂蚁"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5833,
+    "frq": 5811
+   },
+   "forms": [
+    "ants",
+    "anted",
+    "anting"
+   ],
+   "phonetic": "ænt",
+   "order": 177,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "aloud",
+   "pos": [
+    "adv"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adv",
+     "zh": "出声地"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5849,
+    "frq": 5694
+   },
+   "forms": [],
+   "phonetic": "ә'laud",
+   "order": 178,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "kite",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "风筝"
+    },
+    {
+     "pos": "v",
+     "zh": "象风筝一样飞"
+    },
+    {
+     "pos": "v",
+     "zh": "使上升"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5870,
+    "frq": 9509
+   },
+   "forms": [
+    "kites",
+    "kiting",
+    "kited"
+   ],
+   "phonetic": "kait",
+   "order": 179,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "cheat",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "欺骗"
+    },
+    {
+     "pos": "v",
+     "zh": "欺骗"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 5936,
+    "frq": 4369
+   },
+   "forms": [
+    "cheating",
+    "cheated",
+    "cheats"
+   ],
+   "phonetic": "tʃi:t",
+   "order": 180,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "postcard",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "明信片"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 5965,
+    "frq": 6924
+   },
+   "forms": [
+    "postcards"
+   ],
+   "phonetic": "'pәustkɑ:d",
+   "order": 181,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "chalk",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "粉笔"
+    },
+    {
+     "pos": "v",
+     "zh": "用粉笔写"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 5988,
+    "frq": 9095
+   },
+   "forms": [
+    "chalked",
+    "chalks",
+    "chalking"
+   ],
+   "phonetic": "tʃɒ:k",
+   "order": 182,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "hobby",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "嗜好"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 6000,
+    "frq": 6554
+   },
+   "forms": [
+    "hobbies"
+   ],
+   "phonetic": "'hɒbi",
+   "order": 183,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "ink",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "墨水"
+    },
+    {
+     "pos": "v",
+     "zh": "涂墨水于"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 6004,
+    "frq": 5193
+   },
+   "forms": [
+    "inks",
+    "inked",
+    "inking"
+   ],
+   "phonetic": "iŋk",
+   "order": 184,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "dentist",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "牙科医生"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 6054,
+    "frq": 6301
+   },
+   "forms": [
+    "dentists"
+   ],
+   "phonetic": "'dentist",
+   "order": 185,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "goose",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "鹅"
+    },
+    {
+     "pos": "v",
+     "zh": "与...性交"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 6076,
+    "frq": 5529
+   },
+   "forms": [
+    "geese",
+    "goosed",
+    "goosing",
+    "gooses"
+   ],
+   "phonetic": "gu:s",
+   "order": 186,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "hen",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "母鸡"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 6080,
+    "frq": 7934
+   },
+   "forms": [
+    "hens"
+   ],
+   "phonetic": "hen",
+   "order": 187,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "spoon",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "匙"
+    },
+    {
+     "pos": "v",
+     "zh": "以匙舀起"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 6114,
+    "frq": 4339
+   },
+   "forms": [
+    "spoons",
+    "spooned",
+    "spooning"
+   ],
+   "phonetic": "spu:n",
+   "order": 188,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "zoo",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "动物园"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 6119,
+    "frq": 6286
+   },
+   "forms": [
+    "zoos"
+   ],
+   "phonetic": "zu:",
+   "order": 189,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "ham",
+   "pos": [
+    "n",
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "火腿"
+    },
+    {
+     "pos": "adj",
+     "zh": "过火的"
+    },
+    {
+     "pos": "v",
+     "zh": "演得过火"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 6147,
+    "frq": 6170
+   },
+   "forms": [
+    "hams",
+    "hamming",
+    "hammed"
+   ],
+   "phonetic": "hæm",
+   "order": 190,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "tidy",
+   "pos": [
+    "n",
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "椅子的背罩"
+    },
+    {
+     "pos": "adj",
+     "zh": "整齐的"
+    },
+    {
+     "pos": "v",
+     "zh": "弄整齐"
+    },
+    {
+     "pos": "v",
+     "zh": "整理"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 6376,
+    "frq": 9867
+   },
+   "forms": [
+    "tidying",
+    "tidied",
+    "tidier",
+    "tidies",
+    "tidiest"
+   ],
+   "phonetic": "'taidi",
+   "order": 191,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "purse",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "钱包"
+    },
+    {
+     "pos": "v",
+     "zh": "缩拢"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 6387,
+    "frq": 4358
+   },
+   "forms": [
+    "pursed",
+    "purses",
+    "pursing"
+   ],
+   "phonetic": "pә:s",
+   "order": 192,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "homework",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "家庭作业"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 6447,
+    "frq": 4778
+   },
+   "forms": [
+    "homeworks",
+    "homeworking"
+   ],
+   "phonetic": "'hәumwә:k",
+   "order": 193,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "lazy",
+   "pos": [
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "懒惰的"
+    },
+    {
+     "pos": "v",
+     "zh": "懒散"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 6453,
+    "frq": 6238
+   },
+   "forms": [
+    "laziest",
+    "lazier"
+   ],
+   "phonetic": "'leizi",
+   "order": 194,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "playground",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "运动场"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 6458,
+    "frq": 5793
+   },
+   "forms": [
+    "playgrounds"
+   ],
+   "phonetic": "'pleigraund",
+   "order": 195,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "greeting",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "祝贺"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 6498,
+    "frq": 6324
+   },
+   "forms": [
+    "greetings",
+    "greeting"
+   ],
+   "phonetic": "'gri:tiŋ",
+   "order": 196,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "litter",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "垃圾"
+    },
+    {
+     "pos": "v",
+     "zh": "乱丢"
+    },
+    {
+     "pos": "v",
+     "zh": "产仔"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 6500,
+    "frq": 8093
+   },
+   "forms": [
+    "littered",
+    "litters",
+    "littering"
+   ],
+   "phonetic": "'litә",
+   "order": 197,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "picnic",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "野餐"
+    },
+    {
+     "pos": "v",
+     "zh": "去野餐"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 6512,
+    "frq": 5619
+   },
+   "forms": [
+    "picnicked",
+    "picnicking",
+    "picnic",
+    "picnics"
+   ],
+   "phonetic": "'piknik",
+   "order": 198,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "grape",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "葡萄"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 6533,
+    "frq": 4764
+   },
+   "forms": [
+    "grapes"
+   ],
+   "phonetic": "greip",
+   "order": 199,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "shorts",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "短裤"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 6534,
+    "frq": 4868
+   },
+   "forms": [
+    "shorts"
+   ],
+   "phonetic": "ʃɔ:ts",
+   "order": 200,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "scarf",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "围巾"
+    },
+    {
+     "pos": "v",
+     "zh": "用围巾围"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 6554,
+    "frq": 6140
+   },
+   "forms": [
+    "scarves",
+    "scarfed",
+    "scarfing",
+    "scarfs"
+   ],
+   "phonetic": "skɑ:f",
+   "order": 201,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "license",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "执照"
+    },
+    {
+     "pos": "v",
+     "zh": "许可"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 6660,
+    "frq": 2872
+   },
+   "forms": [
+    "licensed",
+    "licensing",
+    "licenses"
+   ],
+   "phonetic": "'laisns",
+   "order": 202,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "robot",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "机械人"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 6669,
+    "frq": 4523
+   },
+   "forms": [
+    "robots"
+   ],
+   "phonetic": "'rәubәt",
+   "order": 203,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "sweater",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "毛衣"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 6680,
+    "frq": 4789
+   },
+   "forms": [
+    "sweaters"
+   ],
+   "phonetic": "'swetә",
+   "order": 204,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "madam",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "女士"
+    }
+   ],
+   "exams": [
+    "zk",
+    "cet4"
+   ],
+   "freq": {
+    "bnc": 6683,
+    "frq": 16977
+   },
+   "forms": [
+    "madams"
+   ],
+   "phonetic": "'mædәm",
+   "order": 205,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "noon",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "正午"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 6907,
+    "frq": 3820
+   },
+   "forms": [
+    "noons"
+   ],
+   "phonetic": "nu:n",
+   "order": 206,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "grandson",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "孙子"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6"
+   ],
+   "freq": {
+    "bnc": 6942,
+    "frq": 6641
+   },
+   "forms": [
+    "grandsons"
+   ],
+   "phonetic": "'grændsʌn",
+   "order": 207,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "chess",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "国际象棋"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 7065,
+    "frq": 6948
+   },
+   "forms": [],
+   "phonetic": "tʃes",
+   "order": 208,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "violin",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "小提琴"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 7097,
+    "frq": 6665
+   },
+   "forms": [
+    "violins"
+   ],
+   "phonetic": ".vaiә'lin",
+   "order": 209,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "oneself",
+   "pos": [
+    "pron"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "pron",
+     "zh": "自己"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 7141,
+    "frq": 7598
+   },
+   "forms": [],
+   "phonetic": "wʌn'self",
+   "order": 210,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "granny",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "奶奶"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 7205,
+    "frq": 18824
+   },
+   "forms": [
+    "grannies"
+   ],
+   "phonetic": "'^ræni",
+   "order": 211,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "handbag",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "手提包"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 7266,
+    "frq": 11790
+   },
+   "forms": [
+    "handbags",
+    "handbagged"
+   ],
+   "phonetic": "'hændbæg",
+   "order": 212,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "cooker",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "炊事用具"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 7276,
+    "frq": 13730
+   },
+   "forms": [
+    "cookers"
+   ],
+   "phonetic": "'kukә",
+   "order": 213,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "housework",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "家事"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 7299,
+    "frq": 15787
+   },
+   "forms": [],
+   "phonetic": "'hauswә:k",
+   "order": 214,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "clone",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "无性系"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 7440,
+    "frq": 9023
+   },
+   "forms": [
+    "clones",
+    "cloning",
+    "cloned"
+   ],
+   "phonetic": "klәun",
+   "order": 215,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "mend",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "改进"
+    },
+    {
+     "pos": "v",
+     "zh": "修改"
+    },
+    {
+     "pos": "v",
+     "zh": "好转"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 7566,
+    "frq": 10849
+   },
+   "forms": [
+    "mending",
+    "mended",
+    "mends"
+   ],
+   "phonetic": "mend",
+   "order": 216,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "excite",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "刺激"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 7567,
+    "frq": 5328
+   },
+   "forms": [
+    "excited",
+    "excites",
+    "exciting"
+   ],
+   "phonetic": "ik'sait",
+   "order": 217,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "grandparent",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "祖父母"
+    }
+   ],
+   "exams": [
+    "zk"
+   ],
+   "freq": {
+    "bnc": 7634,
+    "frq": 4679
+   },
+   "forms": [
+    "grandparents"
+   ],
+   "phonetic": "'grændperәnt",
+   "order": 218,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "careless",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "粗心的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 7681,
+    "frq": 9928
+   },
+   "forms": [],
+   "phonetic": "'kєәlis",
+   "order": 219,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "pork",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "猪肉"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 7722,
+    "frq": 4267
+   },
+   "forms": [
+    "porking"
+   ],
+   "phonetic": "pɒ:k",
+   "order": 220,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "sour",
+   "pos": [
+    "adj",
+    "v",
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "酸的"
+    },
+    {
+     "pos": "v",
+     "zh": "变酸"
+    },
+    {
+     "pos": "v",
+     "zh": "使变酸"
+    },
+    {
+     "pos": "n",
+     "zh": "酸味"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 7745,
+    "frq": 5281
+   },
+   "forms": [
+    "soured",
+    "sours",
+    "souring",
+    "sourer",
+    "sourest"
+   ],
+   "phonetic": "'sauә",
+   "order": 221,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "coke",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "可口可乐"
+    },
+    {
+     "pos": "v",
+     "zh": "成焦炭"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 7803,
+    "frq": 12273
+   },
+   "forms": [
+    "cokes",
+    "coking",
+    "coked"
+   ],
+   "phonetic": "kәuk",
+   "order": 222,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "handwriting",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "笔迹"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 7825,
+    "frq": 9204
+   },
+   "forms": [
+    "handwritings"
+   ],
+   "phonetic": "'hændraitiŋ",
+   "order": 223,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "strawberry",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "草莓"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 7842,
+    "frq": 5437
+   },
+   "forms": [
+    "strawberries"
+   ],
+   "phonetic": "'strɒ:bәri",
+   "order": 224,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "camel",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "骆驼"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 7869,
+    "frq": 6953
+   },
+   "forms": [
+    "camels"
+   ],
+   "phonetic": "'kæml",
+   "order": 225,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "yourselves",
+   "pos": [
+    "pron"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "pron",
+     "zh": "你们自己"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 7931,
+    "frq": 0
+   },
+   "forms": [],
+   "phonetic": "jɔ:'selvz,jjә-,jә-",
+   "order": 226,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "clap",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "拍手"
+    },
+    {
+     "pos": "v",
+     "zh": "鼓掌"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 8015,
+    "frq": 6723
+   },
+   "forms": [
+    "clapped",
+    "clapping",
+    "claps"
+   ],
+   "phonetic": "klæp",
+   "order": 227,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "flu",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "流感"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 8041,
+    "frq": 5662
+   },
+   "forms": [],
+   "phonetic": "flu:",
+   "order": 228,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "pronunciation",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "发音"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 8187,
+    "frq": 15375
+   },
+   "forms": [
+    "pronunciations"
+   ],
+   "phonetic": "prәu.nʌnsi'eiʃәn",
+   "order": 229,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "ache",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "疼痛"
+    },
+    {
+     "pos": "v",
+     "zh": "痛"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 8267,
+    "frq": 7717
+   },
+   "forms": [
+    "ached",
+    "aching",
+    "aches"
+   ],
+   "phonetic": "eik",
+   "order": 230,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "recite",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "背诵"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 8563,
+    "frq": 6397
+   },
+   "forms": [
+    "reciting",
+    "recited",
+    "recites"
+   ],
+   "phonetic": "ri'sait",
+   "order": 231,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "chant",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "圣歌"
+    },
+    {
+     "pos": "v",
+     "zh": "吟唱"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 8567,
+    "frq": 6880
+   },
+   "forms": [
+    "chanting",
+    "chanted",
+    "chants"
+   ],
+   "phonetic": "tʃænt. tʃɑ:nt",
+   "order": 232,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "cabbage",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "卷心菜"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 8667,
+    "frq": 6982
+   },
+   "forms": [
+    "cabbages",
+    "cabbaging",
+    "cabbaged"
+   ],
+   "phonetic": "'kæbidʒ",
+   "order": 233,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "pear",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "梨子"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 8976,
+    "frq": 6857
+   },
+   "forms": [
+    "pears"
+   ],
+   "phonetic": "pєә",
+   "order": 234,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "grandma",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "奶奶"
+    }
+   ],
+   "exams": [
+    "zk"
+   ],
+   "freq": {
+    "bnc": 9295,
+    "frq": 9804
+   },
+   "forms": [
+    "grandmas"
+   ],
+   "phonetic": "'grændmɑ:",
+   "order": 235,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "humorous",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "富幽默感的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 9475,
+    "frq": 9877
+   },
+   "forms": [],
+   "phonetic": "'hju:mәrәs",
+   "order": 236,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "vacation",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "假期"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 9542,
+    "frq": 2622
+   },
+   "forms": [
+    "vacations",
+    "vacationing",
+    "vacationed"
+   ],
+   "phonetic": "vei'keiʃәn",
+   "order": 237,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "sleepy",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "困乏的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 9704,
+    "frq": 7429
+   },
+   "forms": [
+    "sleepier",
+    "sleepies"
+   ],
+   "phonetic": "'sli:pi",
+   "order": 238,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "windy",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "多风的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet6",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 9747,
+    "frq": 8867
+   },
+   "forms": [
+    "windies",
+    "windiest",
+    "windier"
+   ],
+   "phonetic": "'windi",
+   "order": 239,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "motorcycle",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "摩托车"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 9757,
+    "frq": 6059
+   },
+   "forms": [
+    "motorcycles",
+    "motorcycling",
+    "motorcycled"
+   ],
+   "phonetic": "'mәutәsaikl",
+   "order": 240,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "gym",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "+体育馆"
+    }
+   ],
+   "exams": [
+    "zk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 9878,
+    "frq": 3876
+   },
+   "forms": [
+    "gyms"
+   ],
+   "phonetic": "dʒim",
+   "order": 241,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "cent",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "分"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 10111,
+    "frq": 0
+   },
+   "forms": [
+    "cents"
+   ],
+   "phonetic": "sent",
+   "order": 242,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "overcoat",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "外套大衣"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 10596,
+    "frq": 12679
+   },
+   "forms": [
+    "overcoats",
+    "overcoated"
+   ],
+   "phonetic": "'әuvәkәut",
+   "order": 243,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "candy",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "糖果"
+    },
+    {
+     "pos": "v",
+     "zh": "用糖煮"
+    },
+    {
+     "pos": "v",
+     "zh": "结晶为砂糖"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 10657,
+    "frq": 3446
+   },
+   "forms": [
+    "candied",
+    "candies",
+    "candying"
+   ],
+   "phonetic": "'kændi",
+   "order": 244,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "weekday",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "周日"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 11361,
+    "frq": 8312
+   },
+   "forms": [
+    "weekdays"
+   ],
+   "phonetic": "'wi:kdei",
+   "order": 245,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "kilo",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "千"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 11522,
+    "frq": 0
+   },
+   "forms": [
+    "kilos"
+   ],
+   "phonetic": "'kilәu",
+   "order": 246,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "postman",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "邮递员"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 11573,
+    "frq": 20141
+   },
+   "forms": [
+    "postmen"
+   ],
+   "phonetic": "'pәustmәn",
+   "order": 247,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "cloudy",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "多云的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 11760,
+    "frq": 10229
+   },
+   "forms": [
+    "cloudier"
+   ],
+   "phonetic": "'klaudi",
+   "order": 248,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "granddaughter",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "孙女"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6"
+   ],
+   "freq": {
+    "bnc": 11766,
+    "frq": 8528
+   },
+   "forms": [
+    "granddaughters"
+   ],
+   "phonetic": "'^rændɔ:tә(r)",
+   "order": 249,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "thirsty",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "口渴的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 11904,
+    "frq": 10308
+   },
+   "forms": [
+    "thirstier",
+    "thirstiest"
+   ],
+   "phonetic": "'θә:sti",
+   "order": 250,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "blackboard",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "黑板"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 11944,
+    "frq": 13322
+   },
+   "forms": [
+    "blackboards"
+   ],
+   "phonetic": "'blækbɒ:d",
+   "order": 251,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "skate",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "溜冰"
+    },
+    {
+     "pos": "v",
+     "zh": "滑冰"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 12027,
+    "frq": 5756
+   },
+   "forms": [
+    "skating",
+    "skates",
+    "skated"
+   ],
+   "phonetic": "skeit",
+   "order": 252,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "bamboo",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "竹子"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet6",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 12165,
+    "frq": 8248
+   },
+   "forms": [
+    "bamboos"
+   ],
+   "phonetic": "bæm'bu:",
+   "order": 253,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "raincoat",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "雨衣"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 12667,
+    "frq": 15201
+   },
+   "forms": [
+    "raincoats",
+    "raincoated"
+   ],
+   "phonetic": "'reinkәut",
+   "order": 254,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "mom",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "妈妈"
+    }
+   ],
+   "exams": [
+    "zk"
+   ],
+   "freq": {
+    "bnc": 13335,
+    "frq": 1609
+   },
+   "forms": [
+    "moms"
+   ],
+   "phonetic": "mʌm",
+   "order": 255,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "rainy",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "下雨的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6"
+   ],
+   "freq": {
+    "bnc": 13732,
+    "frq": 7477
+   },
+   "forms": [
+    "rainiest"
+   ],
+   "phonetic": "'reini",
+   "order": 256,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "riddle",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "谜"
+    },
+    {
+     "pos": "v",
+     "zh": "解谜"
+    },
+    {
+     "pos": "v",
+     "zh": "出谜"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 13883,
+    "frq": 11712
+   },
+   "forms": [
+    "riddled",
+    "riddles",
+    "riddling"
+   ],
+   "phonetic": "'ridl",
+   "order": 257,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "hamburger",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "汉堡"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky",
+    "toefl"
+   ],
+   "freq": {
+    "bnc": 14356,
+    "frq": 7483
+   },
+   "forms": [
+    "hamburgers"
+   ],
+   "phonetic": "'hæmbә:gә",
+   "order": 258,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "snowy",
+   "pos": [
+    "adj"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "多雪的"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6"
+   ],
+   "freq": {
+    "bnc": 14429,
+    "frq": 9600
+   },
+   "forms": [
+    "snowys",
+    "snowiest"
+   ],
+   "phonetic": "'snәui",
+   "order": 259,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "pancake",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "薄烤饼"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 15188,
+    "frq": 7331
+   },
+   "forms": [
+    "pancakes",
+    "pancaked"
+   ],
+   "phonetic": "'pænkeik",
+   "order": 260,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "toothbrush",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "牙刷"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 15334,
+    "frq": 13896
+   },
+   "forms": [
+    "toothbrushes",
+    "toothbrushing"
+   ],
+   "phonetic": "'tu:θbrʌʃ",
+   "order": 261,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "gymnasium",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "健身房"
+    }
+   ],
+   "exams": [
+    "zk",
+    "cet4",
+    "cet6",
+    "ky",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 15478,
+    "frq": 13057
+   },
+   "forms": [
+    "gymnasiums"
+   ],
+   "phonetic": "dʒim'neiziәm",
+   "order": 262,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "panda",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "大熊猫"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 15519,
+    "frq": 14691
+   },
+   "forms": [
+    "pandas"
+   ],
+   "phonetic": "'pændә",
+   "order": 263,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "lemonade",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "柠檬水"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 15571,
+    "frq": 11562
+   },
+   "forms": [
+    "lemonades"
+   ],
+   "phonetic": ".lemә'neid",
+   "order": 264,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "crayon",
+   "pos": [
+    "n",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "蜡笔"
+    },
+    {
+     "pos": "v",
+     "zh": "以蜡笔作画"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "toefl",
+    "gre"
+   ],
+   "freq": {
+    "bnc": 15597,
+    "frq": 12296
+   },
+   "forms": [
+    "crayons",
+    "crayoning",
+    "crayoned"
+   ],
+   "phonetic": "'kreiәn",
+   "order": 265,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "toothpaste",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "牙膏"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 15700,
+    "frq": 14165
+   },
+   "forms": [
+    "toothpastes"
+   ],
+   "phonetic": "'tu:θpeist",
+   "order": 266,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "kilogram",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "千克"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4"
+   ],
+   "freq": {
+    "bnc": 15873,
+    "frq": 0
+   },
+   "forms": [
+    "kilograms"
+   ],
+   "phonetic": "'kilәgræm",
+   "order": 267,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "zebra",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "斑马"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 15998,
+    "frq": 13912
+   },
+   "forms": [
+    "zebras"
+   ],
+   "phonetic": "'zi:brә",
+   "order": 268,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "basketball",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "篮球"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 16051,
+    "frq": 1799
+   },
+   "forms": [
+    "basketballs"
+   ],
+   "phonetic": "'bɑ:skitbɒ:l",
+   "order": 269,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "grandpa",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": null,
+     "zh": "爷爷"
+    }
+   ],
+   "exams": [
+    "zk"
+   ],
+   "freq": {
+    "bnc": 17273,
+    "frq": 14478
+   },
+   "forms": [
+    "grandpas"
+   ],
+   "phonetic": "'^rænpɑ:, '^rændpɑ:",
+   "order": 270,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "classmate",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "同班同学"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 18807,
+    "frq": 5247
+   },
+   "forms": [
+    "classmates"
+   ],
+   "phonetic": "'klɑ:smeit",
+   "order": 271,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "grandchild",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "孙"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 19714,
+    "frq": 4393
+   },
+   "forms": [],
+   "phonetic": "'^rændtʃaild",
+   "order": 272,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "giraffe",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "长颈鹿"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 20489,
+    "frq": 15421
+   },
+   "forms": [
+    "giraffes"
+   ],
+   "phonetic": "dʒi'rɑ:f",
+   "order": 273,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "toothache",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "牙痛"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 21284,
+    "frq": 24353
+   },
+   "forms": [],
+   "phonetic": "'tu:θeik",
+   "order": 274,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "noodle",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "面条"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 21573,
+    "frq": 7939
+   },
+   "forms": [
+    "noodles",
+    "noodling",
+    "noodled"
+   ],
+   "phonetic": "'nu:dl",
+   "order": 275,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "airplane",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "飞机"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4"
+   ],
+   "freq": {
+    "bnc": 21702,
+    "frq": 3519
+   },
+   "forms": [
+    "airplanes"
+   ],
+   "phonetic": "'єәplein",
+   "order": 276,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "dumpling",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "面团布丁"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 22551,
+    "frq": 14302
+   },
+   "forms": [
+    "dumplings"
+   ],
+   "phonetic": "'dʌmpliŋ",
+   "order": 277,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "volleyball",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "排球"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6",
+    "ky"
+   ],
+   "freq": {
+    "bnc": 24975,
+    "frq": 7896
+   },
+   "forms": [],
+   "phonetic": "'vɒlibɒ:l",
+   "order": 278,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "hometown",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "故乡"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 33112,
+    "frq": 5471
+   },
+   "forms": [],
+   "phonetic": "hәum'taun",
+   "order": 279,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "retell",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "再讲"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "cet4",
+    "cet6"
+   ],
+   "freq": {
+    "bnc": 34354,
+    "frq": 19549
+   },
+   "forms": [
+    "retelling",
+    "retells",
+    "retold"
+   ],
+   "phonetic": "ri:'tel",
+   "order": 280,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "eraser",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "擦子"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 35588,
+    "frq": 16590
+   },
+   "forms": [
+    "erasers"
+   ],
+   "phonetic": "i'reisә",
+   "order": 281,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "watermelon",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "西瓜"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 36234,
+    "frq": 10944
+   },
+   "forms": [
+    "watermelons"
+   ],
+   "phonetic": "'wɒtә.melәn",
+   "order": 282,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "math",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "数学"
+    }
+   ],
+   "exams": [
+    "zk"
+   ],
+   "freq": {
+    "bnc": 36820,
+    "frq": 2983
+   },
+   "forms": [],
+   "phonetic": "mæθ",
+   "order": 283,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "website",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "网站"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 0,
+    "frq": 4950
+   },
+   "forms": [],
+   "phonetic": "",
+   "order": 284,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  },
+  {
+   "lemma": "hotdog",
+   "pos": [
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "v",
+     "zh": "卖弄"
+    }
+   ],
+   "exams": [
+    "zk"
+   ],
+   "freq": {
+    "bnc": 0,
+    "frq": 26201
+   },
+   "forms": [
+    "hotdogs",
+    "hotdogging"
+   ],
+   "phonetic": "",
+   "order": 285,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b01"
+  },
+  {
+   "lemma": "dvd",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": null,
+     "zh": "数字化视频光盘"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 0,
+    "frq": 0
+   },
+   "forms": [],
+   "phonetic": "",
+   "order": 286,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b02"
+  },
+  {
+   "lemma": "email",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "电子信函"
+    }
+   ],
+   "exams": [
+    "zk",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 0,
+    "frq": 0
+   },
+   "forms": [],
+   "phonetic": "'i:'meil",
+   "order": 287,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b03"
+  },
+  {
+   "lemma": "schoolbag",
+   "pos": [
+    "n"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "n",
+     "zh": "书包"
+    }
+   ],
+   "exams": [
+    "zk",
+    "gk"
+   ],
+   "freq": {
+    "bnc": 0,
+    "frq": 0
+   },
+   "forms": [
+    "schoolbags"
+   ],
+   "phonetic": "'sku:lbæ^",
+   "order": 288,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b04"
+  },
+  {
+   "lemma": "x-ray",
+   "pos": [
+    "adj",
+    "v"
+   ],
+   "stars": 0,
+   "star_source": "zhongkao",
+   "senses": [
+    {
+     "pos": "adj",
+     "zh": "X射线的"
+    },
+    {
+     "pos": "v",
+     "zh": "用X光检查"
+    },
+    {
+     "pos": "v",
+     "zh": "使用X光"
+    }
+   ],
+   "exams": [
+    "zk",
+    "cet4",
+    "ielts"
+   ],
+   "freq": {
+    "bnc": 0,
+    "frq": 0
+   },
+   "forms": [
+    "x-rays",
+    "x-raying",
+    "x-rayed"
+   ],
+   "phonetic": "'eks'rei",
+   "order": 289,
+   "status": "assigned",
+   "route": "zhongkao",
+   "set": "zk-supplement",
+   "passage": "s3000-b05"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { url } from '../lib/paths';
+---
+
+<BaseLayout title="页面不存在" description="没有找到这个页面；返回课程或首页继续学习。">
+  <div class="container container-narrow">
+    <div class="empty-state" style="margin-top: 48px;">
+      <span class="eyebrow" style="justify-content: center;">404</span>
+      <h3 style="margin-top: 12px;">这一页不在书里</h3>
+      <p>链接可能写错了，或者篇目还没有发布。可以回到课程目录，从任意一篇继续。</p>
+      <div class="btn-row">
+        <a class="btn btn-primary btn-sm" href={url('/course/')}>浏览 55 篇</a>
+        <a class="btn btn-sm" href={url('/')}>回到首页</a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

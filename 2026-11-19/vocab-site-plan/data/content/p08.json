@@ -1,0 +1,831 @@
+{
+  "id": "p08",
+  "title": "The Old Tower",
+  "titleZh": "老塔保卫战",
+  "topic": "乡村与守护",
+  "paragraphs": [
+    [
+      {
+        "en": "This small country changed a great deal in the last century.",
+        "zh": "这个小小的国家在上个世纪发生了很大变化。"
+      },
+      {
+        "en": "The old stone tower sits quietly on a soft green hill.",
+        "zh": "那座古老的石塔静静地立在柔和的绿丘上。"
+      },
+      {
+        "en": "The quiet countryside is far from the busy capital.",
+        "zh": "安静的乡间离繁忙的首都很远。"
+      },
+      {
+        "en": "Coal and oil made the little company very rich indeed.",
+        "zh": "煤和石油让这家小公司变得非常富有。"
+      },
+      {
+        "en": "My village leader is also a very busy doctor.",
+        "zh": "我们村的领头人也是一位非常忙碌的医生。"
+      },
+      {
+        "en": "The company does not allow us to raise much money at all.",
+        "zh": "公司完全不允许我们筹集太多钱。"
+      },
+      {
+        "en": "The company wants control and a new, strict, unfair rule.",
+        "zh": "公司想要控制权，还想立一条严苛而不公平的新规矩。"
+      },
+      {
+        "en": "We act against the plan with one clear, calm, steady voice.",
+        "zh": "我们用同一个清晰、平静、沉稳的声音反对这个计划。"
+      },
+      {
+        "en": "That single kind word gave the whole village new hope.",
+        "zh": "那一个善意的词给了整个村子新的希望。"
+      },
+      {
+        "en": "Then ten free seats wait in the front row today.",
+        "zh": "于是，今天前排还空着十个免费座位。"
+      }
+    ],
+    [
+      {
+        "en": "A weekend walk is good exercise for all of us together.",
+        "zh": "周末散步对我们所有人一起来说都是很好的锻炼。"
+      },
+      {
+        "en": "During the day, we fill the old hall well before dark.",
+        "zh": "白天，我们早早把旧礼堂装满，赶在天黑前完成。"
+      },
+      {
+        "en": "A traditional flag hangs above the old wooden door.",
+        "zh": "一面传统的旗子挂在旧木门上方。"
+      },
+      {
+        "en": "Trust builds a strong relation between two quiet neighbours.",
+        "zh": "信任在两位安静的邻居之间建立起牢固的关系。"
+      },
+      {
+        "en": "My first task is hard to achieve this busy year.",
+        "zh": "我的第一项任务在这个忙碌的年份里很难完成。"
+      },
+      {
+        "en": "Anyway, we will not waste this rare, precious chance.",
+        "zh": "不管怎样，我们不会浪费这次难得而宝贵的机会。"
+      },
+      {
+        "en": "A loud fan blows smoke away from the crowd.",
+        "zh": "一台响亮的扇子把烟从人群那边吹开。"
+      },
+      {
+        "en": "A sad joke can still make us all smile together.",
+        "zh": "一个悲伤的笑话仍能让我们大家一起笑起来。"
+      },
+      {
+        "en": "Then we pick up old tools and repair the stone wall.",
+        "zh": "然后我们拿起旧工具，修补石墙。"
+      },
+      {
+        "en": "A cotton bag holds together every old stamp we found last week.",
+        "zh": "一个棉布袋把我们上周找到的每一枚旧邮票收在一起。"
+      }
+    ],
+    [
+      {
+        "en": "She gives the pink flower a quick, gentle kiss.",
+        "zh": "她给那朵粉色的花一个轻快温柔的吻。"
+      },
+      {
+        "en": "The cold morning temperature barely rises before warm, bright noon.",
+        "zh": "寒冷的清晨气温在温暖明亮的正午前几乎没有上升。"
+      },
+      {
+        "en": "The killing cold tries to steal their last, fragile hope.",
+        "zh": "刺骨的严寒试图夺走他们最后、最脆弱的希望。"
+      },
+      {
+        "en": "We get only one chance to save it here and now today.",
+        "zh": "我们现在在这里只得到一次救它的机会。"
+      },
+      {
+        "en": "My own two hands can rebuild our old wall.",
+        "zh": "我自己的双手就能重建我们那堵旧墙。"
+      },
+      {
+        "en": "We ask them to sign the order this warm afternoon.",
+        "zh": "我们请他们今天下午签这份命令。"
+      },
+      {
+        "en": "An international group helps us feed the hungry winter birds.",
+        "zh": "一个国际团体帮我们喂养饥饿的冬鸟。"
+      },
+      {
+        "en": "Later, somewhere, a small victory helps us succeed.",
+        "zh": "后来，在某个地方，一场小小的胜利帮我们最终成功。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "that",
+      "pos": "adj./conj./pron./adv.",
+      "zh": "那",
+      "stars": 5,
+      "collocation": "That single kind"
+    },
+    {
+      "lemma": "get",
+      "pos": "v./n.",
+      "zh": "得到",
+      "stars": 5,
+      "collocation": "We get only one"
+    },
+    {
+      "lemma": "only",
+      "pos": "adj./adv./conj.",
+      "zh": "唯一的",
+      "stars": 5,
+      "collocation": "get only one chance"
+    },
+    {
+      "lemma": "our",
+      "pos": "pron.",
+      "zh": "我们的",
+      "stars": 5,
+      "collocation": "rebuild our old wall."
+    },
+    {
+      "lemma": "own",
+      "pos": "n./adj./v.",
+      "zh": "自己的",
+      "stars": 5,
+      "collocation": "My own two hands"
+    },
+    {
+      "lemma": "against",
+      "pos": "prep.",
+      "zh": "反对",
+      "stars": 5,
+      "collocation": "act against the plan"
+    },
+    {
+      "lemma": "country",
+      "pos": "n./adj.",
+      "zh": "国家",
+      "stars": 5,
+      "collocation": "small country changed a"
+    },
+    {
+      "lemma": "word",
+      "pos": "n./v.",
+      "zh": "话",
+      "stars": 5,
+      "collocation": "kind word gave the"
+    },
+    {
+      "lemma": "money",
+      "pos": "n.",
+      "zh": "金钱",
+      "stars": 5,
+      "collocation": "much money at all."
+    },
+    {
+      "lemma": "allow",
+      "pos": "v.",
+      "zh": "允许",
+      "stars": 5,
+      "collocation": "not allow us to"
+    },
+    {
+      "lemma": "far",
+      "pos": "adj./adv.",
+      "zh": "远的",
+      "stars": 5,
+      "collocation": "is far from the"
+    },
+    {
+      "lemma": "sit",
+      "pos": "v./n.",
+      "zh": "坐",
+      "stars": 5,
+      "collocation": "tower sits quietly on"
+    },
+    {
+      "lemma": "control",
+      "pos": "n./v.",
+      "zh": "控制",
+      "stars": 5,
+      "collocation": "wants control and a"
+    },
+    {
+      "lemma": "act",
+      "pos": "n./v.",
+      "zh": "行动",
+      "stars": 5,
+      "collocation": "We act against the"
+    },
+    {
+      "lemma": "century",
+      "pos": "n.",
+      "zh": "世纪",
+      "stars": 5,
+      "collocation": "last century."
+    },
+    {
+      "lemma": "international",
+      "pos": "adj./n.",
+      "zh": "国际的",
+      "stars": 5,
+      "collocation": "An international group helps"
+    },
+    {
+      "lemma": "ten",
+      "pos": "num.",
+      "zh": "十",
+      "stars": 5,
+      "collocation": "Then ten free seats"
+    },
+    {
+      "lemma": "free",
+      "pos": "adj./v./adv.",
+      "zh": "自由的",
+      "stars": 5,
+      "collocation": "ten free seats wait"
+    },
+    {
+      "lemma": "rule",
+      "pos": "n./v.",
+      "zh": "规则",
+      "stars": 5,
+      "collocation": "unfair rule."
+    },
+    {
+      "lemma": "leader",
+      "pos": "n.",
+      "zh": "领导者",
+      "stars": 5,
+      "collocation": "village leader is also"
+    },
+    {
+      "lemma": "capital",
+      "pos": "n./adj.",
+      "zh": "首都",
+      "stars": 5,
+      "collocation": "busy capital."
+    },
+    {
+      "lemma": "oil",
+      "pos": "n./v.",
+      "zh": "油",
+      "stars": 5,
+      "collocation": "and oil made the"
+    },
+    {
+      "lemma": "quick",
+      "pos": "adj./adv./n.",
+      "zh": "快的",
+      "stars": 5,
+      "collocation": "a quick, gentle kiss."
+    },
+    {
+      "lemma": "them",
+      "pos": "pron.",
+      "zh": "他们",
+      "stars": 5,
+      "collocation": "ask them to sign"
+    },
+    {
+      "lemma": "order",
+      "pos": "n./v.",
+      "zh": "次序",
+      "stars": 4,
+      "collocation": "the order this warm"
+    },
+    {
+      "lemma": "achieve",
+      "pos": "v.",
+      "zh": "完成",
+      "stars": 4,
+      "collocation": "to achieve this busy"
+    },
+    {
+      "lemma": "doctor",
+      "pos": "n./v.",
+      "zh": "医生",
+      "stars": 4,
+      "collocation": "busy doctor."
+    },
+    {
+      "lemma": "relation",
+      "pos": "n.",
+      "zh": "关系",
+      "stars": 4,
+      "collocation": "strong relation between two"
+    },
+    {
+      "lemma": "task",
+      "pos": "n./v.",
+      "zh": "工作",
+      "stars": 4,
+      "collocation": "first task is hard"
+    },
+    {
+      "lemma": "anyway",
+      "pos": "adv.",
+      "zh": "无论如何",
+      "stars": 4,
+      "collocation": "Anyway, we will"
+    },
+    {
+      "lemma": "fill",
+      "pos": "v./n.",
+      "zh": "装满",
+      "stars": 4,
+      "collocation": "we fill the old"
+    },
+    {
+      "lemma": "dark",
+      "pos": "n./adj.",
+      "zh": "黑暗",
+      "stars": 4,
+      "collocation": "before dark."
+    },
+    {
+      "lemma": "traditional",
+      "pos": "adj.",
+      "zh": "传统的",
+      "stars": 4,
+      "collocation": "A traditional flag hangs"
+    },
+    {
+      "lemma": "hang",
+      "pos": "n./v.",
+      "zh": "悬挂",
+      "stars": 4,
+      "collocation": "flag hangs above the"
+    },
+    {
+      "lemma": "trust",
+      "pos": "n./adj./v.",
+      "zh": "信任",
+      "stars": 4,
+      "collocation": "Trust builds a"
+    },
+    {
+      "lemma": "exercise",
+      "pos": "n./v.",
+      "zh": "行使",
+      "stars": 4,
+      "collocation": "good exercise for all"
+    },
+    {
+      "lemma": "weekend",
+      "pos": "n.",
+      "zh": "周末",
+      "stars": 4,
+      "collocation": "A weekend walk is"
+    },
+    {
+      "lemma": "feed",
+      "pos": "n./v.",
+      "zh": "饲料",
+      "stars": 4,
+      "collocation": "us feed the hungry"
+    },
+    {
+      "lemma": "victory",
+      "pos": "n.",
+      "zh": "胜利",
+      "stars": 4,
+      "collocation": "small victory helps us"
+    },
+    {
+      "lemma": "waste",
+      "pos": "n./adj./v.",
+      "zh": "浪费",
+      "stars": 4,
+      "collocation": "not waste this rare,"
+    },
+    {
+      "lemma": "succeed",
+      "pos": "v.",
+      "zh": "成功",
+      "stars": 4,
+      "collocation": "us succeed."
+    },
+    {
+      "lemma": "fan",
+      "pos": "n./v.",
+      "zh": "风扇",
+      "stars": 4,
+      "collocation": "loud fan blows smoke"
+    },
+    {
+      "lemma": "sad",
+      "pos": "adj.",
+      "zh": "忧愁的",
+      "stars": 4,
+      "collocation": "A sad joke can"
+    },
+    {
+      "lemma": "smoke",
+      "pos": "n./v.",
+      "zh": "烟",
+      "stars": 4,
+      "collocation": "blows smoke away from"
+    },
+    {
+      "lemma": "pick",
+      "pos": "n./v.",
+      "zh": "精选",
+      "stars": 3,
+      "collocation": "we pick up old"
+    },
+    {
+      "lemma": "somewhere",
+      "pos": "adv.",
+      "zh": "到某处",
+      "stars": 3,
+      "collocation": "Later, somewhere, a small"
+    },
+    {
+      "lemma": "temperature",
+      "pos": "n.",
+      "zh": "温度",
+      "stars": 3,
+      "collocation": "morning temperature barely rises"
+    },
+    {
+      "lemma": "coal",
+      "pos": "n./v.",
+      "zh": "煤",
+      "stars": 3,
+      "collocation": "Coal and oil"
+    },
+    {
+      "lemma": "steal",
+      "pos": "v.",
+      "zh": "剽窃",
+      "stars": 3,
+      "collocation": "to steal their last,"
+    },
+    {
+      "lemma": "tower",
+      "pos": "n./v.",
+      "zh": "塔",
+      "stars": 3,
+      "collocation": "stone tower sits quietly"
+    },
+    {
+      "lemma": "countryside",
+      "pos": "n.",
+      "zh": "乡下地方",
+      "stars": 3,
+      "collocation": "quiet countryside is far"
+    },
+    {
+      "lemma": "kiss",
+      "pos": "n./v.",
+      "zh": "吻",
+      "stars": 3,
+      "collocation": "gentle kiss."
+    },
+    {
+      "lemma": "joke",
+      "pos": "n./v.",
+      "zh": "笑话",
+      "stars": 3,
+      "collocation": "sad joke can still"
+    },
+    {
+      "lemma": "pink",
+      "pos": "n./adj./v.",
+      "zh": "粉红色",
+      "stars": 3,
+      "collocation": "the pink flower a"
+    },
+    {
+      "lemma": "repair",
+      "pos": "n./v.",
+      "zh": "修理",
+      "stars": 3,
+      "collocation": "and repair the stone"
+    },
+    {
+      "lemma": "cotton",
+      "pos": "n./v.",
+      "zh": "棉花",
+      "stars": 3,
+      "collocation": "A cotton bag holds"
+    },
+    {
+      "lemma": "stamp",
+      "pos": "n./v.",
+      "zh": "印",
+      "stars": 3,
+      "collocation": "old stamp we found"
+    },
+    {
+      "lemma": "barely",
+      "pos": "adv.",
+      "zh": "几乎不",
+      "stars": 3,
+      "collocation": "temperature barely rises before"
+    },
+    {
+      "lemma": "killing",
+      "pos": "n./adj.",
+      "zh": "谋杀",
+      "stars": 3,
+      "collocation": "The killing cold tries"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“century” 的意思是：",
+      "options": [
+        "世纪",
+        "首都",
+        "国家",
+        "规则"
+      ],
+      "answer": 0,
+      "speak": "century"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The quiet countryside is ___ from the busy capital.",
+      "options": [
+        "far",
+        "free",
+        "only",
+        "sad"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“victory” 的意思是：",
+      "options": [
+        "胜利",
+        "任务",
+        "温度",
+        "笑话"
+      ],
+      "answer": 0,
+      "speak": "victory"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A cotton bag holds together every old ___ we found last week.",
+      "options": [
+        "stamp",
+        "fan",
+        "tower",
+        "kiss"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "The company does not ___ us to raise much money at all.",
+      "options": [
+        "allow",
+        "achieve",
+        "waste",
+        "repair"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“countryside” 的意思是：",
+      "options": [
+        "乡下地方",
+        "首都",
+        "塔",
+        "煤"
+      ],
+      "answer": 0,
+      "speak": "countryside"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "That single kind ___ gave the whole village new hope.",
+      "options": [
+        "word",
+        "kiss",
+        "stamp",
+        "rule"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“traditional” 的意思是：",
+      "options": [
+        "传统的",
+        "国际的",
+        "快速的",
+        "黑暗的"
+      ],
+      "answer": 0,
+      "speak": "traditional"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "This small country changed a great deal in the last ",
+        "hint": "ce",
+        "after": ".",
+        "answer": "century"
+      },
+      {
+        "before": "The old stone ",
+        "hint": "to",
+        "after": " sits quietly on a soft green hill.",
+        "answer": "tower"
+      },
+      {
+        "before": "The quiet ",
+        "hint": "co",
+        "after": " is far from the busy capital.",
+        "answer": "countryside"
+      },
+      {
+        "before": "",
+        "hint": "Co",
+        "after": " and oil made the little company very rich indeed.",
+        "answer": "Coal"
+      },
+      {
+        "before": "My village leader is also a very busy ",
+        "hint": "do",
+        "after": ".",
+        "answer": "doctor"
+      },
+      {
+        "before": "The company does not allow us to raise much ",
+        "hint": "mo",
+        "after": " at all.",
+        "answer": "money"
+      },
+      {
+        "before": "The company wants control and a new, strict, unfair ",
+        "hint": "ru",
+        "after": ".",
+        "answer": "rule"
+      },
+      {
+        "before": "We act ",
+        "hint": "ag",
+        "after": " the plan with one clear, calm, steady voice.",
+        "answer": "against"
+      },
+      {
+        "before": "That single kind ",
+        "hint": "wo",
+        "after": " gave the whole village new hope.",
+        "answer": "word"
+      },
+      {
+        "before": "Then ",
+        "hint": "te",
+        "after": " free seats wait in the front row today.",
+        "answer": "ten"
+      }
+    ],
+    "b3": [
+      {
+        "before": "A weekend walk is good ",
+        "hint": "ex",
+        "after": " for all of us together.",
+        "answer": "exercise"
+      },
+      {
+        "before": "During the day, we fill the old hall well before ",
+        "hint": "da",
+        "after": ".",
+        "answer": "dark"
+      },
+      {
+        "before": "A ",
+        "hint": "tr",
+        "after": " flag hangs above the old wooden door.",
+        "answer": "traditional"
+      },
+      {
+        "before": "",
+        "hint": "Tr",
+        "after": " builds a strong relation between two quiet neighbours.",
+        "answer": "Trust"
+      },
+      {
+        "before": "My first ",
+        "hint": "ta",
+        "after": " is hard to achieve this busy year.",
+        "answer": "task"
+      },
+      {
+        "before": "Anyway, we will not ",
+        "hint": "wa",
+        "after": " this rare, precious chance.",
+        "answer": "waste"
+      },
+      {
+        "before": "A loud fan blows ",
+        "hint": "sm",
+        "after": " away from the crowd.",
+        "answer": "smoke"
+      },
+      {
+        "before": "A ",
+        "hint": "sa",
+        "after": " joke can still make us all smile together.",
+        "answer": "sad"
+      },
+      {
+        "before": "Then we pick up old tools and ",
+        "hint": "re",
+        "after": " the stone wall.",
+        "answer": "repair"
+      },
+      {
+        "before": "A ",
+        "hint": "co",
+        "after": " bag holds together every old stamp we found last week.",
+        "answer": "cotton"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "这个小小的国家在上个世纪发生了很大变化。",
+        "keywords": [
+          "country",
+          "century",
+          "change"
+        ]
+      },
+      {
+        "zh": "公司完全不允许我们筹集太多钱。",
+        "keywords": [
+          "company",
+          "allow",
+          "money"
+        ]
+      },
+      {
+        "zh": "那一个善意的词给了整个村子新的希望。",
+        "keywords": [
+          "word",
+          "village",
+          "hope"
+        ]
+      },
+      {
+        "zh": "她给那朵粉色的花一个轻快温柔的吻。",
+        "keywords": [
+          "pink",
+          "flower",
+          "kiss"
+        ]
+      },
+      {
+        "zh": "我们现在在这里只得到一次救它的机会。",
+        "keywords": [
+          "chance",
+          "save",
+          "now"
+        ]
+      },
+      {
+        "zh": "后来，在某个地方，一场小小的胜利帮我们最终成功。",
+        "keywords": [
+          "somewhere",
+          "victory",
+          "succeed"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 282,
+    "sentences": 28,
+    "newDensity": 0.209,
+    "targetTokenDensity": 0.209,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "以乡间村民守护一座百年石塔为主线，写他们反对煤油公司、筹集资金、修补石墙并最终守住老塔的故事。"
+}

@@ -1,0 +1,290 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { url } from '../lib/paths';
+---
+
+<BaseLayout title="复习" description="按 1 / 3 / 7 / 16 / 35 天间隔复习到期卡片，每日上限 120 张；主线与考纲补漏卡片按篇生成。">
+  <div class="container">
+    <header>
+      <span class="eyebrow">复习 · 间隔重复</span>
+      <h1 class="page-title" style="margin-top: 14px;">先清到期，再学新篇</h1>
+      <p class="page-lede">
+        首读后按本篇目标词自动生成卡片：主线每篇 59–60 个目标词，考纲补漏 57–58 个。
+        四档评分决定下次出现时间；每日上限 120 张，避免堆积。
+      </p>
+    </header>
+
+    <section class="review-hero" style="margin-top: 28px;" aria-label="今日复习概览">
+      <div>
+        <div class="review-count"><span id="due-count">0</span><small>张到期</small></div>
+        <div class="review-meta">
+          <span>今日已复习 <b id="reviewed-today">0</b> / 120</span>
+          <span>卡片总数 <b id="card-total">0</b></span>
+          <span>连续 <b id="streak-days">0</b> 天</span>
+        </div>
+      </div>
+      <div class="btn-row">
+        <a class="btn btn-sm" href={url('/course/')}>去学新篇</a>
+        <a class="btn btn-sm btn-ghost" href={url('/me/')}>进度看板</a>
+      </div>
+    </section>
+
+    <div class="srs-session" id="srs-session">
+      <div class="empty-state" id="srs-empty">
+        <h3>今天没有到期卡片</h3>
+        <p>
+          完成任意一篇的首次精读后，系统会按本篇目标词自动生成卡片并安排复习。
+          你也可以先去读一篇短文，或查看即将到期的卡片。
+        </p>
+        <div class="btn-row">
+          <a class="btn btn-primary btn-sm" href={url('/p/01/')}>读第 1 篇</a>
+          <a class="btn btn-sm" href={url('/course/')}>浏览课程</a>
+        </div>
+      </div>
+
+      <article class="srs-card" id="srs-card" hidden>
+        <div class="srs-context">
+          <span id="srs-source">第 1 篇</span>
+          <span id="srs-progress">1 / 1</span>
+        </div>
+        <div class="srs-word" id="srs-word">—</div>
+        <p class="srs-sentence" id="srs-sentence"></p>
+        <button class="btn btn-sm" type="button" id="srs-reveal" style="align-self: flex-start;">显示答案</button>
+        <div class="srs-answer" id="srs-answer" hidden></div>
+        <div class="srs-actions" id="srs-actions">
+          <button class="rating-btn" type="button" data-rating="0">忘记<small>1 天后</small></button>
+          <button class="rating-btn" type="button" data-rating="1">模糊<small>保持档位</small></button>
+          <button class="rating-btn" type="button" data-rating="2">记得<small>升一档</small></button>
+          <button class="rating-btn" type="button" data-rating="3">很熟<small>升两档</small></button>
+        </div>
+      </article>
+
+      <div class="empty-state" id="srs-done" hidden>
+        <h3>队列已清空</h3>
+        <p>今天到期的卡片都复习完了。剩下的时间可以复读旧篇，或学下一篇。</p>
+        <div class="btn-row">
+          <a class="btn btn-primary btn-sm" href={url('/course/')}>学下一篇</a>
+          <a class="btn btn-sm btn-ghost" href={url('/review/')}>刷新队列</a>
+        </div>
+      </div>
+    </div>
+
+    <section class="section" aria-labelledby="upcoming-heading">
+      <div class="section-head">
+        <h2 id="upcoming-heading">即将到期</h2>
+        <p>按日期升序，最多显示 12 张；主线与补漏卡片都会列出。</p>
+      </div>
+      <div class="card">
+        <div class="upcoming-list" id="upcoming-list">
+          <p class="text-muted text-small">暂无卡片。先完成一篇首读。</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="reread-heading">
+      <div class="section-head">
+        <h2 id="reread-heading">复读提醒</h2>
+        <p>55 篇旧文在 D1 / D3 / D7 / D16 / D35 重读，不占内容成本。</p>
+      </div>
+      <div class="card">
+        <div class="upcoming-list" id="reread-list">
+          <p class="text-muted text-small">暂无复读安排。</p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    import { findPassage, readCatalog } from '../lib/catalog.client';
+    import {
+      DAILY_REVIEW_LIMIT,
+      dateKey,
+      dueCards,
+      loadProgress,
+      rateCard,
+      reviewsToday,
+      upcomingCards,
+    } from '../lib/progress';
+    import { url } from '../lib/paths';
+
+    const catalog = readCatalog();
+
+    const passageTitle = (passageId: string) => {
+      const passage = findPassage(catalog, passageId);
+      if (!passage) return passageId;
+      const suffix = passage.track === 'supplement' ? '（补漏）' : '';
+      return `第 ${passage.slug} 篇 · ${passage.title}${suffix}`;
+    };
+
+    const setText = (id: string, text: string) => {
+      const node = document.getElementById(id);
+      if (node) node.textContent = text;
+    };
+
+    const cardNode = document.getElementById('srs-card') as HTMLElement | null;
+    const emptyNode = document.getElementById('srs-empty') as HTMLElement | null;
+    const doneNode = document.getElementById('srs-done') as HTMLElement | null;
+
+    const renderStats = () => {
+      const state = loadProgress();
+      const queue = dueCards(state);
+      const upcoming = upcomingCards(state);
+      const reviewed = reviewsToday(state);
+      setText('due-count', String(queue.length));
+      setText('reviewed-today', String(reviewed));
+      setText('card-total', String(state.cards.length));
+      setText('streak-days', String(state.streak.current));
+
+      const upcomingList = document.getElementById('upcoming-list');
+      if (upcomingList) {
+        if (!upcoming.length) {
+          upcomingList.innerHTML = '<p class="text-muted text-small">暂无卡片。先完成一篇首读。</p>';
+        } else {
+          upcomingList.innerHTML = '';
+          for (const card of upcoming.slice(0, 12)) {
+            const row = document.createElement('div');
+            row.className = 'upcoming-row';
+            const lemma = document.createElement('span');
+            lemma.className = 'lemma';
+            lemma.textContent = card.lemma;
+            const source = document.createElement('span');
+            source.className = 'text-muted text-small';
+            source.textContent = passageTitle(card.passageId);
+            const due = document.createElement('span');
+            due.className = 'due';
+            due.textContent = card.due;
+            row.append(lemma, source, due);
+            upcomingList.append(row);
+          }
+        }
+      }
+
+      // 复读提醒：首读后 D1/D3/D7/D16/D35
+      const rereadList = document.getElementById('reread-list');
+      if (rereadList) {
+        const today = dateKey();
+        const todayMs = new Date(today).getTime();
+        const reminders: Array<{ label: string; passageId: string }> = [];
+        for (const passage of catalog.passages) {
+          const progress = state.passages[passage.id];
+          if (!progress?.read || !progress.readAt) continue;
+          const readKey = dateKey(new Date(progress.readAt));
+          const diff = Math.round((todayMs - new Date(readKey).getTime()) / 86_400_000);
+          if ([1, 3, 7, 16, 35].includes(diff)) {
+            reminders.push({ label: `D${diff} 复读`, passageId: passage.id });
+          }
+        }
+        if (!reminders.length) {
+          rereadList.innerHTML = '<p class="text-muted text-small">暂无复读安排。完成首读后，D1 / D3 / D7 / D16 / D35 会自动出现在这里。</p>';
+        } else {
+          rereadList.innerHTML = '';
+          for (const reminder of reminders) {
+            const passage = findPassage(catalog, reminder.passageId);
+            const row = document.createElement('div');
+            row.className = 'upcoming-row';
+            const label = document.createElement('span');
+            label.className = 'lemma';
+            label.textContent = reminder.label;
+            const source = document.createElement('span');
+            source.className = 'text-muted text-small';
+            source.textContent = passage
+              ? `第 ${passage.slug} 篇 · ${passage.title}${passage.track === 'supplement' ? '（补漏）' : ''}`
+              : reminder.passageId;
+            const link = document.createElement('a');
+            link.className = 'due';
+            link.href = passage ? url(`/p/${passage.slug}/`) : url('/course/');
+            link.textContent = '去复读 →';
+            row.append(label, source, link);
+            rereadList.append(row);
+          }
+        }
+      }
+    };
+
+    const escapeRegExp = (text: string) => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+    let queue = dueCards();
+    let currentIndex = 0;
+    let currentCard = queue[0];
+
+    const renderCard = () => {
+      if (!currentCard) {
+        cardNode?.setAttribute('hidden', '');
+        if (currentIndex > 0 || reviewsToday() > 0) {
+          doneNode?.removeAttribute('hidden');
+          emptyNode?.setAttribute('hidden', '');
+        } else {
+          emptyNode?.removeAttribute('hidden');
+          doneNode?.setAttribute('hidden', '');
+        }
+        renderStats();
+        return;
+      }
+      emptyNode?.setAttribute('hidden', '');
+      doneNode?.setAttribute('hidden', '');
+      cardNode?.removeAttribute('hidden');
+
+      setText('srs-source', passageTitle(currentCard.passageId));
+      setText('srs-progress', `${currentIndex + 1} / ${queue.length}`);
+      setText('srs-word', currentCard.lemma);
+      const sentenceNode = document.getElementById('srs-sentence');
+      if (sentenceNode) {
+        sentenceNode.textContent = currentCard.sentence
+          ? currentCard.sentence.replace(
+              new RegExp(escapeRegExp(currentCard.lemma), 'ig'),
+              '______',
+            )
+          : '原句待接入：该卡片生成时本篇尚未成稿。';
+      }
+      const answer = document.getElementById('srs-answer');
+      if (answer) {
+        answer.hidden = true;
+        answer.textContent = '';
+      }
+      const reveal = document.getElementById('srs-reveal');
+      if (reveal) reveal.textContent = '显示答案';
+
+      const limitReached = reviewsToday() >= DAILY_REVIEW_LIMIT;
+      for (const button of document.querySelectorAll<HTMLButtonElement>('.rating-btn')) {
+        button.disabled = limitReached;
+      }
+      if (limitReached) {
+        const sentenceEl = document.getElementById('srs-sentence');
+        if (sentenceEl) sentenceEl.textContent = '今天已达到 120 张上限。明天继续，避免一次塞太多。';
+      }
+    };
+
+    document.getElementById('srs-reveal')?.addEventListener('click', () => {
+      const answer = document.getElementById('srs-answer');
+      const reveal = document.getElementById('srs-reveal');
+      if (!answer || !currentCard) return;
+      const showing = !answer.hidden;
+      if (!showing) {
+        answer.innerHTML = `
+          <div><span class="text-muted text-small">释义</span><div>${currentCard.lemma} · ${currentCard.zh || '释义待接入'}</div></div>
+          <div><span class="text-muted text-small">来源</span><div>${passageTitle(currentCard.passageId)}</div></div>
+          <div><span class="text-muted text-small">复习次数</span><div>${currentCard.reviews} 次 · 当前档位 ${currentCard.step + 1}/5</div></div>`;
+        answer.hidden = false;
+        if (reveal) reveal.textContent = '收起答案';
+      } else {
+        answer.hidden = true;
+        if (reveal) reveal.textContent = '显示答案';
+      }
+    });
+
+    for (const button of document.querySelectorAll<HTMLButtonElement>('.rating-btn')) {
+      button.addEventListener('click', () => {
+        if (!currentCard) return;
+        if (reviewsToday() >= DAILY_REVIEW_LIMIT) return;
+        rateCard(currentCard.id, Number(button.dataset.rating) as 0 | 1 | 2 | 3);
+        currentIndex += 1;
+        currentCard = queue[currentIndex];
+        renderCard();
+        renderStats();
+      });
+    }
+
+    renderCard();
+    renderStats();
+  </script>
+</BaseLayout>

@@ -1,0 +1,826 @@
+{
+  "id": "p19",
+  "title": "The Night Garden by the Railway",
+  "titleZh": "铁路边的夜花园",
+  "topic": "邻里与社区园艺",
+  "paragraphs": [
+    [
+      {
+        "en": "My neighbour and I began a quiet project beside the railway.",
+        "zh": "我和邻居在铁路旁开始了一个安静的项目。"
+      },
+      {
+        "en": "Some neighbours laughed, but many others came to help.",
+        "zh": "有些邻居笑了，但更多人跑来帮忙。"
+      },
+      {
+        "en": "We had twenty pounds and a bag of sand.",
+        "zh": "我们有二十英镑和一袋沙子。"
+      },
+      {
+        "en": "A foreigner from the next street brought his own spade.",
+        "zh": "隔壁街的一位外国人带了自己的铁锹。"
+      },
+      {
+        "en": "The plan was simple: lay plants on bare ground at night.",
+        "zh": "计划很简单：趁夜把花苗铺在光秃秃的地上。"
+      },
+      {
+        "en": "Then everybody painted a small sign and set to work.",
+        "zh": "然后每个人画了个小牌子，动手干起来。"
+      }
+    ],
+    [
+      {
+        "en": "My mother doubted us, and her doubt was serious.",
+        "zh": "母亲怀疑我们，她的怀疑是认真的。"
+      },
+      {
+        "en": "She said the company would never allow it, and she was right.",
+        "zh": "她说铁路公司绝不会允许，她说得对。"
+      },
+      {
+        "en": "A church group read about us and sent old tools.",
+        "zh": "一个教会小组读到我们的事，送来了旧工具。"
+      },
+      {
+        "en": "Their parent group gave us tea and hot soup at night.",
+        "zh": "他们的家长团在夜里给我们送来茶和热汤。"
+      },
+      {
+        "en": "The news spread among the poor streets near the tracks.",
+        "zh": "消息在铁路边的穷街上传开了。"
+      },
+      {
+        "en": "People said the same thing: the strip looked sad.",
+        "zh": "人们说着同样的话：那条空地看起来真可怜。"
+      }
+    ],
+    [
+      {
+        "en": "My class chose the site, and a student led the research.",
+        "zh": "我们班选定了这块地，一名学生负责研究。"
+      },
+      {
+        "en": "Her study showed the soil was basic, and we were able to test it.",
+        "zh": "她的研究表明土壤偏碱，而我们有能力去检测。"
+      },
+      {
+        "en": "The report hit a nerve, and the national paper ran it.",
+        "zh": "报告触动了人心，国家级报纸也刊登了。"
+      },
+      {
+        "en": "The response was strange, and the surprise was a crowd.",
+        "zh": "反应很奇怪，而惊喜的是来了一群人。"
+      },
+      {
+        "en": "Later the weather turned, and rain filled a shallow pool.",
+        "zh": "后来天气变了，雨水积成一个浅水潭。"
+      },
+      {
+        "en": "We were glad of it, and so was every nervous neighbour.",
+        "zh": "我们为此高兴，每个紧张的邻居也一样。"
+      }
+    ],
+    [
+      {
+        "en": "A white wing flashed above our guerrilla garden at dawn.",
+        "zh": "黎明时，一只白翅膀掠过我们的游击花园。"
+      },
+      {
+        "en": "Anybody could follow the path, and the sight was odd.",
+        "zh": "任何人都能顺着小路找来，那景象有点怪。"
+      },
+      {
+        "en": "I told myself the fun was worth it, but words could not express it.",
+        "zh": "我告诉自己这份乐趣值得，但言语表达不出来。"
+      },
+      {
+        "en": "Then shareholders sent free soil and a supply of seeds.",
+        "zh": "后来股东们送来了免费土壤和一批种子。"
+      },
+      {
+        "en": "It arrived by truck, and we laid it down with care.",
+        "zh": "东西用卡车运到，我们小心地铺开。"
+      }
+    ],
+    [
+      {
+        "en": "Our intention was simple, and our success made us very proud.",
+        "zh": "我们的意图很简单，成功让我们非常自豪。"
+      },
+      {
+        "en": "The till at the market stall gave us our last pound that night.",
+        "zh": "那天晚上，市场摊位的收银盒给了我们最后一英镑。"
+      },
+      {
+        "en": "A wise neighbour said the wealth of a street is a green heart.",
+        "zh": "一位睿智的邻居说，一条街的财富是一颗绿色的心。"
+      },
+      {
+        "en": "Whatever grows there now, we ourselves still weed it every month.",
+        "zh": "如今无论那里长出什么，我们自己仍每月去除草。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "his",
+      "pos": "pron.",
+      "zh": "他的",
+      "stars": 5,
+      "collocation": "brought his own"
+    },
+    {
+      "lemma": "some",
+      "pos": "pron/adv/adj.",
+      "zh": "一些；大约",
+      "stars": 5,
+      "collocation": "Some neighbours"
+    },
+    {
+      "lemma": "people",
+      "pos": "n/v.",
+      "zh": "人；使住满人",
+      "stars": 5,
+      "collocation": "People said"
+    },
+    {
+      "lemma": "many",
+      "pos": "n/adj/pron.",
+      "zh": "多数；许多的",
+      "stars": 5,
+      "collocation": "but many others"
+    },
+    {
+      "lemma": "same",
+      "pos": "adj/pron/adv.",
+      "zh": "相同的；相同的人",
+      "stars": 5,
+      "collocation": "the same thing"
+    },
+    {
+      "lemma": "company",
+      "pos": "n/v.",
+      "zh": "公司；陪伴",
+      "stars": 5,
+      "collocation": "the company would"
+    },
+    {
+      "lemma": "follow",
+      "pos": "v/n.",
+      "zh": "跟随",
+      "stars": 5,
+      "collocation": "could follow the"
+    },
+    {
+      "lemma": "night",
+      "pos": "n.",
+      "zh": "夜",
+      "stars": 5,
+      "collocation": "at night"
+    },
+    {
+      "lemma": "national",
+      "pos": "adj.",
+      "zh": "国家的",
+      "stars": 5,
+      "collocation": "the national paper"
+    },
+    {
+      "lemma": "study",
+      "pos": "n/v.",
+      "zh": "学习",
+      "stars": 5,
+      "collocation": "Her study showed"
+    },
+    {
+      "lemma": "able",
+      "pos": "adj.",
+      "zh": "能干的",
+      "stars": 5,
+      "collocation": "were able to"
+    },
+    {
+      "lemma": "read",
+      "pos": "v/adj/n.",
+      "zh": "读；有学问的",
+      "stars": 5,
+      "collocation": "group read about"
+    },
+    {
+      "lemma": "research",
+      "pos": "n/v.",
+      "zh": "研究",
+      "stars": 5,
+      "collocation": "the research"
+    },
+    {
+      "lemma": "class",
+      "pos": "n/v.",
+      "zh": "班级；分类",
+      "stars": 5,
+      "collocation": "My class chose"
+    },
+    {
+      "lemma": "among",
+      "pos": "prep.",
+      "zh": "在...之中",
+      "stars": 5,
+      "collocation": "spread among the"
+    },
+    {
+      "lemma": "ground",
+      "pos": "n/adj/v.",
+      "zh": "土地；土地的",
+      "stars": 5,
+      "collocation": "bare ground at"
+    },
+    {
+      "lemma": "parent",
+      "pos": "n.",
+      "zh": "父母",
+      "stars": 5,
+      "collocation": "Their parent group"
+    },
+    {
+      "lemma": "pound",
+      "pos": "n/v.",
+      "zh": "磅；强烈打击",
+      "stars": 5,
+      "collocation": "twenty pounds and"
+    },
+    {
+      "lemma": "twenty",
+      "pos": "num.",
+      "zh": "二十",
+      "stars": 5,
+      "collocation": "had twenty pounds"
+    },
+    {
+      "lemma": "news",
+      "pos": "n.",
+      "zh": "新闻",
+      "stars": 5,
+      "collocation": "The news spread"
+    },
+    {
+      "lemma": "serious",
+      "pos": "adj.",
+      "zh": "严肃的",
+      "stars": 5,
+      "collocation": "was serious"
+    },
+    {
+      "lemma": "hit",
+      "pos": "n/v.",
+      "zh": "打击；打",
+      "stars": 5,
+      "collocation": "report hit a"
+    },
+    {
+      "lemma": "surprise",
+      "pos": "n/v.",
+      "zh": "惊奇；使惊奇",
+      "stars": 5,
+      "collocation": "the surprise was"
+    },
+    {
+      "lemma": "church",
+      "pos": "n/v/adj.",
+      "zh": "教堂；使人接受宗教仪式",
+      "stars": 4,
+      "collocation": "A church group"
+    },
+    {
+      "lemma": "poor",
+      "pos": "adj.",
+      "zh": "贫穷的",
+      "stars": 4,
+      "collocation": "the poor streets"
+    },
+    {
+      "lemma": "heart",
+      "pos": "n/v.",
+      "zh": "心；鼓励",
+      "stars": 4,
+      "collocation": "green heart"
+    },
+    {
+      "lemma": "success",
+      "pos": "n.",
+      "zh": "成功",
+      "stars": 4,
+      "collocation": "our success made"
+    },
+    {
+      "lemma": "whatever",
+      "pos": "pron.",
+      "zh": "无论什么",
+      "stars": 4,
+      "collocation": "Whatever grows"
+    },
+    {
+      "lemma": "myself",
+      "pos": "pron.",
+      "zh": "我自己",
+      "stars": 4,
+      "collocation": "told myself the"
+    },
+    {
+      "lemma": "express",
+      "pos": "n/adj/v.",
+      "zh": "快车；明确的",
+      "stars": 4,
+      "collocation": "not express it"
+    },
+    {
+      "lemma": "basic",
+      "pos": "n/adj.",
+      "zh": "基本原理；基本的",
+      "stars": 4,
+      "collocation": "was basic, and"
+    },
+    {
+      "lemma": "lay",
+      "pos": "v/n/adj.",
+      "zh": "放置；下蛋",
+      "stars": 4,
+      "collocation": "simple: lay plants"
+    },
+    {
+      "lemma": "supply",
+      "pos": "n/v.",
+      "zh": "补给",
+      "stars": 4,
+      "collocation": "a supply of"
+    },
+    {
+      "lemma": "tea",
+      "pos": "n.",
+      "zh": "茶",
+      "stars": 4,
+      "collocation": "us tea and"
+    },
+    {
+      "lemma": "doubt",
+      "pos": "n/v.",
+      "zh": "怀疑",
+      "stars": 4,
+      "collocation": "mother doubted us"
+    },
+    {
+      "lemma": "sight",
+      "pos": "n/v/adj.",
+      "zh": "景观；看见",
+      "stars": 4,
+      "collocation": "the sight was"
+    },
+    {
+      "lemma": "strange",
+      "pos": "adj.",
+      "zh": "奇怪的",
+      "stars": 4,
+      "collocation": "was strange, and"
+    },
+    {
+      "lemma": "quiet",
+      "pos": "n/adj/v.",
+      "zh": "安静；安静的",
+      "stars": 4,
+      "collocation": "a quiet project"
+    },
+    {
+      "lemma": "everybody",
+      "pos": "pron.",
+      "zh": "每个人",
+      "stars": 4,
+      "collocation": "Then everybody painted"
+    },
+    {
+      "lemma": "weather",
+      "pos": "n/adj/v.",
+      "zh": "天气；迎风的",
+      "stars": 4,
+      "collocation": "the weather turned"
+    },
+    {
+      "lemma": "wing",
+      "pos": "n/v.",
+      "zh": "翅膀；给...装上翼",
+      "stars": 4,
+      "collocation": "white wing flashed"
+    },
+    {
+      "lemma": "paint",
+      "pos": "n/v.",
+      "zh": "油漆",
+      "stars": 4,
+      "collocation": "everybody painted a"
+    },
+    {
+      "lemma": "fun",
+      "pos": "n/v/adj.",
+      "zh": "乐趣；开玩笑",
+      "stars": 4,
+      "collocation": "the fun was"
+    },
+    {
+      "lemma": "right",
+      "pos": "n/adj/adv/v.",
+      "zh": "权利；正确的",
+      "stars": 3,
+      "collocation": "was right"
+    },
+    {
+      "lemma": "railway",
+      "pos": "n.",
+      "zh": "铁路",
+      "stars": 3,
+      "collocation": "the railway"
+    },
+    {
+      "lemma": "intention",
+      "pos": "n.",
+      "zh": "意图",
+      "stars": 3,
+      "collocation": "Our intention was"
+    },
+    {
+      "lemma": "pool",
+      "pos": "n/v.",
+      "zh": "池；合伙经营",
+      "stars": 3,
+      "collocation": "shallow pool"
+    },
+    {
+      "lemma": "anybody",
+      "pos": "pron/n.",
+      "zh": "任何人；重要人物",
+      "stars": 3,
+      "collocation": "Anybody could"
+    },
+    {
+      "lemma": "ourselves",
+      "pos": "pron.",
+      "zh": "我们自己",
+      "stars": 3,
+      "collocation": "we ourselves still"
+    },
+    {
+      "lemma": "glad",
+      "pos": "adj.",
+      "zh": "高兴的",
+      "stars": 3,
+      "collocation": "were glad of"
+    },
+    {
+      "lemma": "wealth",
+      "pos": "n.",
+      "zh": "财富",
+      "stars": 3,
+      "collocation": "the wealth of"
+    },
+    {
+      "lemma": "sand",
+      "pos": "n/v.",
+      "zh": "沙；撒沙",
+      "stars": 3,
+      "collocation": "of sand"
+    },
+    {
+      "lemma": "nervous",
+      "pos": "adj.",
+      "zh": "神经紧张的",
+      "stars": 3,
+      "collocation": "every nervous neighbour"
+    },
+    {
+      "lemma": "till",
+      "pos": "prep/conj/v/n.",
+      "zh": "直到；直到...为止",
+      "stars": 3,
+      "collocation": "The till at"
+    },
+    {
+      "lemma": "wise",
+      "pos": "adj/v/n.",
+      "zh": "明智的；知道",
+      "stars": 3,
+      "collocation": "A wise neighbour"
+    },
+    {
+      "lemma": "truck",
+      "pos": "n/v.",
+      "zh": "卡车；对...进行交易",
+      "stars": 3,
+      "collocation": "by truck, and"
+    },
+    {
+      "lemma": "foreigner",
+      "pos": "n.",
+      "zh": "外国人",
+      "stars": 3,
+      "collocation": "A foreigner from"
+    },
+    {
+      "lemma": "shareholder",
+      "pos": "n.",
+      "zh": "股东",
+      "stars": 3,
+      "collocation": "Then shareholders sent"
+    },
+    {
+      "lemma": "guerrilla",
+      "pos": "n.",
+      "zh": "游击队",
+      "stars": 3,
+      "collocation": "our guerrilla garden"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“guerrilla” 在本篇里指：",
+      "options": [
+        "股东",
+        "卡车",
+        "茶摊",
+        "游击队员（引申为自发行动）"
+      ],
+      "answer": 3,
+      "speak": "guerrilla"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "My neighbour and I began a ___ project beside the railway.",
+      "options": [
+        "quiet",
+        "basic",
+        "wise",
+        "poor"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“nervous” 的意思是：",
+      "options": [
+        "富有的",
+        "紧张的",
+        "奇怪的",
+        "有用的"
+      ],
+      "answer": 1,
+      "speak": "nervous"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "The till at the market stall gave us our last ___ that night.",
+      "options": [
+        "sand",
+        "wing",
+        "pool",
+        "pound"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "The news spread ___ the poor streets near the tracks.",
+      "options": [
+        "among",
+        "above",
+        "beside",
+        "below"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“supply” 的意思是：",
+      "options": [
+        "意图",
+        "成功",
+        "供应",
+        "财富"
+      ],
+      "answer": 2,
+      "speak": "supply"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Anybody could ___ the path, and the sight was odd.",
+      "options": [
+        "paint",
+        "follow",
+        "weed",
+        "wave"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "A church group ___ about us and sent old tools.",
+      "options": [
+        "read",
+        "laid",
+        "hit",
+        "doubted"
+      ],
+      "answer": 0
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My neighbour and I began a quiet project beside the ",
+        "hint": "ra",
+        "after": ".",
+        "answer": "railway"
+      },
+      {
+        "before": "A ",
+        "hint": "fo",
+        "after": " from the next street brought his own spade.",
+        "answer": "foreigner"
+      },
+      {
+        "before": "The plan was simple: lay plants on bare ",
+        "hint": "gr",
+        "after": " at night.",
+        "answer": "ground"
+      },
+      {
+        "before": "My mother doubted us, and her doubt was ",
+        "hint": "se",
+        "after": ".",
+        "answer": "serious"
+      },
+      {
+        "before": "The report hit a nerve, and the ",
+        "hint": "na",
+        "after": " paper ran it.",
+        "answer": "national"
+      },
+      {
+        "before": "The response was ",
+        "hint": "st",
+        "after": ", and the surprise was a crowd.",
+        "answer": "strange"
+      },
+      {
+        "before": "Later the ",
+        "hint": "we",
+        "after": " turned, and rain filled a shallow pool.",
+        "answer": "weather"
+      },
+      {
+        "before": "Our ",
+        "hint": "in",
+        "after": " was simple, and our success made us very proud.",
+        "answer": "intention"
+      },
+      {
+        "before": "Then ",
+        "hint": "sh",
+        "after": " sent free soil and a supply of seeds.",
+        "answer": "shareholders"
+      },
+      {
+        "before": "A white wing flashed above our ",
+        "hint": "gu",
+        "after": " garden at dawn.",
+        "answer": "guerrilla"
+      }
+    ],
+    "b3": [
+      {
+        "before": "",
+        "hint": "p",
+        "after": " said the same thing: the strip looked sad.",
+        "answer": "People"
+      },
+      {
+        "before": "She said the ",
+        "hint": "c",
+        "after": " would never allow it, and she was right.",
+        "answer": "company"
+      },
+      {
+        "before": "A ",
+        "hint": "c",
+        "after": " group read about us and sent old tools.",
+        "answer": "church"
+      },
+      {
+        "before": "The news spread among the ",
+        "hint": "p",
+        "after": " streets near the tracks.",
+        "answer": "poor"
+      },
+      {
+        "before": "The ",
+        "hint": "n",
+        "after": " spread among the poor streets near the tracks.",
+        "answer": "news"
+      },
+      {
+        "before": "A white ",
+        "hint": "w",
+        "after": " flashed above our guerrilla garden at dawn.",
+        "answer": "wing"
+      },
+      {
+        "before": "Then everybody ",
+        "hint": "p",
+        "after": " a small sign and set to work.",
+        "answer": "painted"
+      },
+      {
+        "before": "The ",
+        "hint": "t",
+        "after": " at the market stall gave us our last pound that night.",
+        "answer": "till"
+      },
+      {
+        "before": "A ",
+        "hint": "w",
+        "after": " neighbour said the wealth of a street is a green heart.",
+        "answer": "wise"
+      },
+      {
+        "before": "A wise neighbour said the ",
+        "hint": "w",
+        "after": " of a street is a green heart.",
+        "answer": "wealth"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我和邻居在铁路旁开始了一个安静的项目。",
+        "keywords": [
+          "quiet",
+          "railway"
+        ]
+      },
+      {
+        "zh": "我们有二十英镑、一辆卡车和一袋沙子。",
+        "keywords": [
+          "twenty",
+          "truck",
+          "sand"
+        ]
+      },
+      {
+        "zh": "母亲怀疑我们，她的怀疑是认真的。",
+        "keywords": [
+          "doubt",
+          "serious"
+        ]
+      },
+      {
+        "zh": "消息在铁路边那些穷街上传开了。",
+        "keywords": [
+          "news",
+          "poor",
+          "among"
+        ]
+      },
+      {
+        "zh": "黎明时，一只白翅膀掠过我们的游击花园。",
+        "keywords": [
+          "wing",
+          "guerrilla"
+        ]
+      },
+      {
+        "zh": "如今无论那里长出什么，我们自己仍每月去除草。",
+        "keywords": [
+          "Whatever",
+          "ourselves"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 291,
+    "sentences": 27,
+    "newDensity": 0.203,
+    "targetTokenDensity": 0.22,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（4 次）",
+      "During / Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p19：291 词 / 27 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

@@ -1,0 +1,831 @@
+{
+  "id": "p05",
+  "title": "The Boat Race",
+  "titleZh": "划船比赛",
+  "topic": "竞技",
+  "paragraphs": [
+    [
+      {
+        "en": "My father says he would row for our village every winter.",
+        "zh": "我父亲说，他每年冬天都愿意为我们村划船。"
+      },
+      {
+        "en": "A tale about our race travels around the whole village.",
+        "zh": "一个关于我们这场比赛的故事传遍了整个村子。"
+      },
+      {
+        "en": "The lake has become a famous area for this cold race.",
+        "zh": "这片湖已经成了这项寒冷赛事的名胜之地。"
+      },
+      {
+        "en": "Each team must state its name before the first start.",
+        "zh": "每支队伍必须在第一次出发前报出自己的名字。"
+      },
+      {
+        "en": "Interest is already high, and the cold winds have come.",
+        "zh": "大家的兴趣本已很高，而寒风也来了。"
+      },
+      {
+        "en": "We carry anything heavy down to the old stone shore.",
+        "zh": "我们把所有沉重的东西搬到古老的石头岸边。"
+      },
+      {
+        "en": "The price of a good oar shows its true value.",
+        "zh": "一支好桨的价格显出它真正的价值。"
+      },
+      {
+        "en": "My coach has many years of experience in this game.",
+        "zh": "我的教练在这项运动里有很多年的经验。"
+      },
+      {
+        "en": "A bad situation sends one young rower to the hospital.",
+        "zh": "一个糟糕的状况把一名年轻划手送进了医院。"
+      }
+    ],
+    [
+      {
+        "en": "Then our future looks bright with nine strong, happy rowers.",
+        "zh": "于是，我们的未来在九名强壮、快乐的划手身上显得光明。"
+      },
+      {
+        "en": "Forty friends visit us at the early morning practice.",
+        "zh": "四十位朋友在清早的训练时来看我们。"
+      },
+      {
+        "en": "Ten percent of them hold a place on the long bank.",
+        "zh": "他们中有百分之十的人在长岸边占了一个位置。"
+      },
+      {
+        "en": "The old cook will serve hot soup, especially after the race.",
+        "zh": "老厨子会端上热汤，尤其是在比赛之后。"
+      },
+      {
+        "en": "A small machine helps us arrive at the start on time.",
+        "zh": "一台小机器帮我们准时到达起点。"
+      },
+      {
+        "en": "A strange feeling rises near the old stone wall.",
+        "zh": "一种奇怪的感觉在古老的石墙边升起。"
+      },
+      {
+        "en": "Our rowing ability grows with each hard competition.",
+        "zh": "我们的划船能力随着每一场艰苦的比赛增长。"
+      },
+      {
+        "en": "The beautiful hulls shake as the cold wind hits them.",
+        "zh": "美丽的船身在冷风袭来时摇晃。"
+      },
+      {
+        "en": "Each boat has a long shape and a bright blue flag.",
+        "zh": "每条船都有长长的外形和一面鲜亮的蓝旗。"
+      },
+      {
+        "en": "During the break, we invite the crowd to sing a song.",
+        "zh": "休息期间，我们邀请人群一起唱一首歌。"
+      }
+    ],
+    [
+      {
+        "en": "We learn how to pull the oars in the correct way.",
+        "zh": "我们学习如何以正确的方式拉桨。"
+      },
+      {
+        "en": "My daily plan sits on the old wooden desk.",
+        "zh": "我的每日计划放在那张旧木桌上。"
+      },
+      {
+        "en": "Our secretary marks the tenth year of this fine race.",
+        "zh": "我们的秘书记录着这项美好赛事的第十个年头。"
+      },
+      {
+        "en": "A loud shout and a bell ring across the cold water.",
+        "zh": "一声大喊和一阵铃声在冷水上响起。"
+      },
+      {
+        "en": "Later one rower loses a shoe, and another breaks a tooth.",
+        "zh": "后来，一名划手丢了鞋，另一名断了牙。"
+      },
+      {
+        "en": "A friendly pilot guides us past the sharp grey rocks.",
+        "zh": "一位友好的领航员带我们绕过尖利的灰石。"
+      },
+      {
+        "en": "It is an honour to race in the falling snow.",
+        "zh": "在飘落的雪中比赛是一种荣誉。"
+      },
+      {
+        "en": "The judge makes a gesture, and they cancel the start.",
+        "zh": "裁判做了个手势，他们取消了出发。"
+      },
+      {
+        "en": "It sounds crazy, but a united team keeps cutting through.",
+        "zh": "听起来很疯狂，但一支团结的队伍一直在破浪前行。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "he",
+      "pos": "pron./n.",
+      "zh": "他",
+      "stars": 5,
+      "collocation": "says he would row"
+    },
+    {
+      "lemma": "would",
+      "pos": "v.",
+      "zh": "将",
+      "stars": 5,
+      "collocation": "he would row for"
+    },
+    {
+      "lemma": "about",
+      "pos": "prep./adv.",
+      "zh": "在...周围",
+      "stars": 5,
+      "collocation": "tale about our race"
+    },
+    {
+      "lemma": "how",
+      "pos": "adv./n.",
+      "zh": "如何",
+      "stars": 5,
+      "collocation": "learn how to pull"
+    },
+    {
+      "lemma": "become",
+      "pos": "v.",
+      "zh": "变成",
+      "stars": 5,
+      "collocation": "has become a famous"
+    },
+    {
+      "lemma": "area",
+      "pos": "n.",
+      "zh": "区域",
+      "stars": 5,
+      "collocation": "famous area for this"
+    },
+    {
+      "lemma": "each",
+      "pos": "adj./adv./pron.",
+      "zh": "每个",
+      "stars": 5,
+      "collocation": "Each team must state"
+    },
+    {
+      "lemma": "state",
+      "pos": "n./adj./v.",
+      "zh": "州",
+      "stars": 5,
+      "collocation": "must state its name"
+    },
+    {
+      "lemma": "interest",
+      "pos": "n./v.",
+      "zh": "兴趣",
+      "stars": 5,
+      "collocation": "Interest is already high"
+    },
+    {
+      "lemma": "already",
+      "pos": "adv.",
+      "zh": "已经",
+      "stars": 5,
+      "collocation": "is already high"
+    },
+    {
+      "lemma": "carry",
+      "pos": "n./v.",
+      "zh": "进位",
+      "stars": 5,
+      "collocation": "We carry anything heavy"
+    },
+    {
+      "lemma": "anything",
+      "pos": "pron.",
+      "zh": "任何事",
+      "stars": 5,
+      "collocation": "carry anything heavy"
+    },
+    {
+      "lemma": "price",
+      "pos": "n./v.",
+      "zh": "价格",
+      "stars": 5,
+      "collocation": "The price of a good"
+    },
+    {
+      "lemma": "value",
+      "pos": "n./v.",
+      "zh": "价值",
+      "stars": 5,
+      "collocation": "its true value"
+    },
+    {
+      "lemma": "around",
+      "pos": "prep./adv.",
+      "zh": "包围",
+      "stars": 5,
+      "collocation": "travels around the whole"
+    },
+    {
+      "lemma": "experience",
+      "pos": "n./v.",
+      "zh": "经历",
+      "stars": 5,
+      "collocation": "years of experience"
+    },
+    {
+      "lemma": "game",
+      "pos": "n./v./adj.",
+      "zh": "比赛",
+      "stars": 5,
+      "collocation": "experience in this game"
+    },
+    {
+      "lemma": "situation",
+      "pos": "n.",
+      "zh": "情形",
+      "stars": 5,
+      "collocation": "A bad situation sends"
+    },
+    {
+      "lemma": "hospital",
+      "pos": "n.",
+      "zh": "医院",
+      "stars": 5,
+      "collocation": "to the hospital"
+    },
+    {
+      "lemma": "future",
+      "pos": "n./adj.",
+      "zh": "未来",
+      "stars": 5,
+      "collocation": "our future looks bright"
+    },
+    {
+      "lemma": "nine",
+      "pos": "num.",
+      "zh": "九",
+      "stars": 5,
+      "collocation": "with nine strong"
+    },
+    {
+      "lemma": "visit",
+      "pos": "n./v.",
+      "zh": "拜访",
+      "stars": 5,
+      "collocation": "friends visit us"
+    },
+    {
+      "lemma": "forty",
+      "pos": "num.",
+      "zh": "四十",
+      "stars": 5,
+      "collocation": "Forty friends visit"
+    },
+    {
+      "lemma": "percent",
+      "pos": "n.",
+      "zh": "百分比",
+      "stars": 5,
+      "collocation": "Ten percent of them"
+    },
+    {
+      "lemma": "hold",
+      "pos": "n./v.",
+      "zh": "把握",
+      "stars": 4,
+      "collocation": "them hold a place"
+    },
+    {
+      "lemma": "especially",
+      "pos": "adv.",
+      "zh": "尤其",
+      "stars": 4,
+      "collocation": "soup, especially after"
+    },
+    {
+      "lemma": "serve",
+      "pos": "v./n.",
+      "zh": "可作...用",
+      "stars": 4,
+      "collocation": "will serve hot soup"
+    },
+    {
+      "lemma": "arrive",
+      "pos": "v.",
+      "zh": "到达",
+      "stars": 4,
+      "collocation": "us arrive at the start"
+    },
+    {
+      "lemma": "machine",
+      "pos": "n./v.",
+      "zh": "机器",
+      "stars": 4,
+      "collocation": "A small machine helps"
+    },
+    {
+      "lemma": "feeling",
+      "pos": "n./adj.",
+      "zh": "摸",
+      "stars": 4,
+      "collocation": "A strange feeling rises"
+    },
+    {
+      "lemma": "stone",
+      "pos": "n./v./adj.",
+      "zh": "石头",
+      "stars": 4,
+      "collocation": "old stone shore"
+    },
+    {
+      "lemma": "ability",
+      "pos": "n.",
+      "zh": "能力",
+      "stars": 4,
+      "collocation": "rowing ability grows"
+    },
+    {
+      "lemma": "competition",
+      "pos": "n.",
+      "zh": "竞争",
+      "stars": 4,
+      "collocation": "hard competition"
+    },
+    {
+      "lemma": "shake",
+      "pos": "n./v.",
+      "zh": "摇动",
+      "stars": 4,
+      "collocation": "hulls shake as the"
+    },
+    {
+      "lemma": "beautiful",
+      "pos": "adj.",
+      "zh": "美丽的",
+      "stars": 4,
+      "collocation": "The beautiful hulls shake"
+    },
+    {
+      "lemma": "shape",
+      "pos": "n./v.",
+      "zh": "形状",
+      "stars": 4,
+      "collocation": "a long shape and"
+    },
+    {
+      "lemma": "boat",
+      "pos": "n./v.",
+      "zh": "船",
+      "stars": 4,
+      "collocation": "Each boat has a long"
+    },
+    {
+      "lemma": "song",
+      "pos": "n.",
+      "zh": "歌",
+      "stars": 4,
+      "collocation": "sing a song"
+    },
+    {
+      "lemma": "invite",
+      "pos": "v./n.",
+      "zh": "邀请",
+      "stars": 4,
+      "collocation": "we invite the crowd"
+    },
+    {
+      "lemma": "correct",
+      "pos": "adj./v.",
+      "zh": "正确的",
+      "stars": 4,
+      "collocation": "in the correct way"
+    },
+    {
+      "lemma": "daily",
+      "pos": "adj./adv./n.",
+      "zh": "每日的",
+      "stars": 4,
+      "collocation": "My daily plan sits"
+    },
+    {
+      "lemma": "desk",
+      "pos": "n.",
+      "zh": "书桌",
+      "stars": 4,
+      "collocation": "old wooden desk"
+    },
+    {
+      "lemma": "coach",
+      "pos": "n./v.",
+      "zh": "四轮大马车",
+      "stars": 4,
+      "collocation": "My coach has many years"
+    },
+    {
+      "lemma": "tenth",
+      "pos": "num.",
+      "zh": "第十",
+      "stars": 4,
+      "collocation": "marks the tenth year"
+    },
+    {
+      "lemma": "secretary",
+      "pos": "n.",
+      "zh": "秘书",
+      "stars": 3,
+      "collocation": "Our secretary marks"
+    },
+    {
+      "lemma": "ring",
+      "pos": "n./v.",
+      "zh": "环",
+      "stars": 3,
+      "collocation": "a bell ring across"
+    },
+    {
+      "lemma": "shout",
+      "pos": "n./v.",
+      "zh": "呼喊",
+      "stars": 3,
+      "collocation": "A loud shout and"
+    },
+    {
+      "lemma": "tooth",
+      "pos": "n./v.",
+      "zh": "牙齿",
+      "stars": 3,
+      "collocation": "breaks a tooth"
+    },
+    {
+      "lemma": "shoe",
+      "pos": "n./v.",
+      "zh": "鞋",
+      "stars": 3,
+      "collocation": "loses a shoe"
+    },
+    {
+      "lemma": "pilot",
+      "pos": "n./v./adj.",
+      "zh": "飞行员",
+      "stars": 3,
+      "collocation": "A friendly pilot guides"
+    },
+    {
+      "lemma": "friendly",
+      "pos": "adj./adv.",
+      "zh": "友好的",
+      "stars": 3,
+      "collocation": "friendly pilot guides"
+    },
+    {
+      "lemma": "honour",
+      "pos": "n./v.",
+      "zh": "荣誉",
+      "stars": 3,
+      "collocation": "an honour to race"
+    },
+    {
+      "lemma": "tale",
+      "pos": "n.",
+      "zh": "故事",
+      "stars": 3,
+      "collocation": "A tale about our race"
+    },
+    {
+      "lemma": "snow",
+      "pos": "n./v.",
+      "zh": "雪",
+      "stars": 3,
+      "collocation": "the falling snow"
+    },
+    {
+      "lemma": "gesture",
+      "pos": "n./v.",
+      "zh": "手势",
+      "stars": 3,
+      "collocation": "makes a gesture"
+    },
+    {
+      "lemma": "cancel",
+      "pos": "n./v.",
+      "zh": "取消",
+      "stars": 3,
+      "collocation": "they cancel the start"
+    },
+    {
+      "lemma": "crazy",
+      "pos": "adj.",
+      "zh": "发狂的",
+      "stars": 3,
+      "collocation": "sounds crazy, but"
+    },
+    {
+      "lemma": "united",
+      "pos": "adj.",
+      "zh": "联合的",
+      "stars": 3,
+      "collocation": "a united team keeps"
+    },
+    {
+      "lemma": "cutting",
+      "pos": "n.",
+      "zh": "切断",
+      "stars": 3,
+      "collocation": "keeps cutting through"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“honour” 在短文里最接近的意思是：",
+      "options": [
+        "荣誉",
+        "价格",
+        "秘书",
+        "手势"
+      ],
+      "answer": 0,
+      "speak": "honour"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "Our rowing ___ grows with each hard competition.",
+      "options": [
+        "ability",
+        "value",
+        "interest",
+        "price"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“secretary” 的意思是：",
+      "options": [
+        "秘书",
+        "飞行员",
+        "教练",
+        "裁判"
+      ],
+      "answer": 0,
+      "speak": "secretary"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A friendly ___ guides us past the sharp grey rocks.",
+      "options": [
+        "pilot",
+        "secretary",
+        "coach",
+        "guest"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "The judge makes a ___, and they cancel the start.",
+      "options": [
+        "gesture",
+        "shape",
+        "feeling",
+        "song"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“crazy” 的意思是：",
+      "options": [
+        "疯狂的",
+        "友好的",
+        "美丽的",
+        "每日的"
+      ],
+      "answer": 0,
+      "speak": "crazy"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Ten ___ of them hold a place on the long bank.",
+      "options": [
+        "percent",
+        "price",
+        "value",
+        "interest"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“competition” 的意思是：",
+      "options": [
+        "比赛",
+        "能力",
+        "未来",
+        "荣誉"
+      ],
+      "answer": 0,
+      "speak": "competition"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My father says he ",
+        "hint": "wo",
+        "after": " row for our village every winter.",
+        "answer": "would"
+      },
+      {
+        "before": "The lake has ",
+        "hint": "be",
+        "after": " a famous area for this cold race.",
+        "answer": "become"
+      },
+      {
+        "before": "Each team must ",
+        "hint": "st",
+        "after": " its name before the first start.",
+        "answer": "state"
+      },
+      {
+        "before": "The ",
+        "hint": "pr",
+        "after": " of a good oar shows its true value.",
+        "answer": "price"
+      },
+      {
+        "before": "Forty friends ",
+        "hint": "vi",
+        "after": " us at the early morning practice.",
+        "answer": "visit"
+      },
+      {
+        "before": "The old cook will ",
+        "hint": "se",
+        "after": " hot soup, especially after the race.",
+        "answer": "serve"
+      },
+      {
+        "before": "The ",
+        "hint": "be",
+        "after": " hulls shake as the cold wind hits them.",
+        "answer": "beautiful"
+      },
+      {
+        "before": "Each boat has a long ",
+        "hint": "sh",
+        "after": " and a bright blue flag.",
+        "answer": "shape"
+      },
+      {
+        "before": "During the break, we ",
+        "hint": "in",
+        "after": " the crowd to sing a song.",
+        "answer": "invite"
+      },
+      {
+        "before": "My ",
+        "hint": "da",
+        "after": " plan sits on the old wooden desk.",
+        "answer": "daily"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Then our ",
+        "hint": "f",
+        "after": " looks bright with nine strong, happy rowers.",
+        "answer": "future"
+      },
+      {
+        "before": "Ten percent of them ",
+        "hint": "h",
+        "after": " a place on the long bank.",
+        "answer": "hold"
+      },
+      {
+        "before": "We learn how to pull the oars in the ",
+        "hint": "c",
+        "after": " way.",
+        "answer": "correct"
+      },
+      {
+        "before": "A loud shout and a bell ",
+        "hint": "r",
+        "after": " across the cold water.",
+        "answer": "ring"
+      },
+      {
+        "before": "Later one rower loses a shoe, and another breaks a ",
+        "hint": "t",
+        "after": ".",
+        "answer": "tooth"
+      },
+      {
+        "before": "It is an ",
+        "hint": "h",
+        "after": " to race in the falling snow.",
+        "answer": "honour"
+      },
+      {
+        "before": "The judge makes a ",
+        "hint": "g",
+        "after": ", and they cancel the start.",
+        "answer": "gesture"
+      },
+      {
+        "before": "It sounds ",
+        "hint": "c",
+        "after": ", but a united team keeps cutting through.",
+        "answer": "crazy"
+      },
+      {
+        "before": "Our rowing ",
+        "hint": "a",
+        "after": " grows with each hard competition.",
+        "answer": "ability"
+      },
+      {
+        "before": "It is an honour to race in the falling ",
+        "hint": "s",
+        "after": ".",
+        "answer": "snow"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我父亲说，他每年冬天都愿意为我们村划船。",
+        "keywords": [
+          "father",
+          "he",
+          "would",
+          "winter"
+        ]
+      },
+      {
+        "zh": "这片湖已经成了这项寒冷赛事的名胜之地。",
+        "keywords": [
+          "lake",
+          "become",
+          "area"
+        ]
+      },
+      {
+        "zh": "一支好桨的价格显出它真正的价值。",
+        "keywords": [
+          "price",
+          "oar",
+          "value"
+        ]
+      },
+      {
+        "zh": "一个糟糕的状况把一名年轻划手送进了医院。",
+        "keywords": [
+          "situation",
+          "hospital"
+        ]
+      },
+      {
+        "zh": "一位友好的领航员带我们绕过尖利的灰石。",
+        "keywords": [
+          "pilot",
+          "friendly",
+          "stone"
+        ]
+      },
+      {
+        "zh": "听起来很疯狂，但一支团结的队伍一直在破浪前行。",
+        "keywords": [
+          "crazy",
+          "united",
+          "cutting"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 285,
+    "sentences": 28,
+    "newDensity": 0.207,
+    "targetTokenDensity": 0.218,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（6 次）",
+      "During / Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p05 稿：285 词 / 28 句；59 个目标词各出现 ≥1 次，目标词次 62（21.8%）；每句 8–11 词、2–3 个目标词。写作与自查规则见 work/p01-写作规则与自查清单.md。"
+}

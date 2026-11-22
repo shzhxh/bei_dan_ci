@@ -1,0 +1,830 @@
+{
+  "id": "p30",
+  "title": "The Night at the Grain Port",
+  "titleZh": "粮食港之夜",
+  "topic": "港口事故与调查",
+  "paragraphs": [
+    [
+      {
+        "en": "A sudden incident begins with an explosion and a helicopter call.",
+        "zh": "一场突发事件始于一次爆炸和一通直升机呼叫。"
+      },
+      {
+        "en": "My father says tall piles of grain wait along the quiet shore.",
+        "zh": "我父亲说，高高的金色粮堆在安静的海岸边等待。"
+      },
+      {
+        "en": "A fierce wind may sink the damaged ship before dawn.",
+        "zh": "一阵狂风可能会在天亮前让受损的船沉没。"
+      },
+      {
+        "en": "My uncle saw a hot engine and a broken wire first.",
+        "zh": "我叔叔最先看到发烫的发动机和断裂的电线。"
+      },
+      {
+        "en": "For a decade, port construction has grown along this quiet coast.",
+        "zh": "十年来，港口建设在这片安静的海岸上不断发展。"
+      },
+      {
+        "en": "Then the reserve tank holds the exact amount of fuel.",
+        "zh": "然后备用油箱里装着恰好那么多的燃料。"
+      },
+      {
+        "en": "The concept is simple, but the hidden danger is apparent.",
+        "zh": "这个概念很简单，但隐藏的危险很明显。"
+      },
+      {
+        "en": "An academic team offers assistance with the long report.",
+        "zh": "一个学术团队为这份长篇报告提供协助。"
+      },
+      {
+        "en": "A retired farmer now teaches agriculture at the school.",
+        "zh": "一位退休农民现在在学校教农业。"
+      },
+      {
+        "en": "A literary prize sits beside an antique wooden writing desk.",
+        "zh": "一座文学奖杯放在一张古董木写字桌旁。"
+      }
+    ],
+    [
+      {
+        "en": "There is nowhere to hide and no easy bargain to make.",
+        "zh": "无处可藏，也没有什么便宜可捡。"
+      },
+      {
+        "en": "The accident is a significant opportunity for real change.",
+        "zh": "这场事故是一次真正改变的绝佳机会。"
+      },
+      {
+        "en": "The busy port handles a highly valuable volume of trade.",
+        "zh": "繁忙的港口处理着数量极大、价值很高的贸易。"
+      },
+      {
+        "en": "A liberal policy, for instance, may help the small boats.",
+        "zh": "例如，一项宽松的政策可能会帮助那些小船。"
+      },
+      {
+        "en": "My editor will retain the name and the weekly publication.",
+        "zh": "我的编辑将保留这个名字和每周的出版物。"
+      },
+      {
+        "en": "A gap in the gene map explains the weak new seed.",
+        "zh": "基因图谱中的一个缺口解释了这种弱小的新种子。"
+      },
+      {
+        "en": "Later their competitive spirit and enthusiasm impress the town.",
+        "zh": "后来，他们的竞争精神和热情让全镇印象深刻。"
+      },
+      {
+        "en": "A psychological portrait of the captain fills the front page.",
+        "zh": "一幅关于船长的心理画像占据了头版。"
+      },
+      {
+        "en": "The rescue is a triumph, not a dump of old tired excuses.",
+        "zh": "这次救援是一次胜利，而不是一堆老掉牙的借口。"
+      },
+      {
+        "en": "A prior plan for new housing now looks too slow.",
+        "zh": "先前的新住房计划现在看起来太慢了。"
+      }
+    ],
+    [
+      {
+        "en": "One broken chip may undermine the whole control system.",
+        "zh": "一块坏掉的芯片可能破坏整个控制系统。"
+      },
+      {
+        "en": "Later, given the cost, they peg the ticket price at ten pounds.",
+        "zh": "后来，考虑到成本，他们把票价定在十英镑。"
+      },
+      {
+        "en": "They exchange old paper notes for cash at the port office.",
+        "zh": "他们在港务办公室用旧纸币兑换现金。"
+      },
+      {
+        "en": "A public institution will benefit from the clear new rules.",
+        "zh": "一家公共机构将从这些明确的新规则中受益。"
+      },
+      {
+        "en": "Dark smoke surrounds the ship, and one small boat disappears.",
+        "zh": "浓烟包围着船，一只小船消失了。"
+      },
+      {
+        "en": "A powerful diplomat visits the port before the weekend.",
+        "zh": "一位有权势的外交官在周末前来港口。"
+      },
+      {
+        "en": "A political crisis brings an interim team and a young democrat.",
+        "zh": "一场政治危机带来了一个临时团队和一位年轻的民主人士。"
+      },
+      {
+        "en": "A detective, port security, and the press meet at noon.",
+        "zh": "一位侦探、港口安保和媒体在中午会面。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "political",
+      "pos": "adj.",
+      "zh": "政治的",
+      "stars": 5,
+      "collocation": "A political crisis brings"
+    },
+    {
+      "lemma": "security",
+      "pos": "n.",
+      "zh": "安全",
+      "stars": 5,
+      "collocation": "port security, and the"
+    },
+    {
+      "lemma": "press",
+      "pos": "n./v.",
+      "zh": "压",
+      "stars": 5,
+      "collocation": "the press meet at"
+    },
+    {
+      "lemma": "benefit",
+      "pos": "n./v.",
+      "zh": "利益",
+      "stars": 4,
+      "collocation": "will benefit from the"
+    },
+    {
+      "lemma": "institution",
+      "pos": "n.",
+      "zh": "机构",
+      "stars": 4,
+      "collocation": "public institution will benefit"
+    },
+    {
+      "lemma": "exchange",
+      "pos": "n./v.",
+      "zh": "交换",
+      "stars": 4,
+      "collocation": "They exchange old paper"
+    },
+    {
+      "lemma": "cash",
+      "pos": "n./v.",
+      "zh": "现金",
+      "stars": 4,
+      "collocation": "for cash at the"
+    },
+    {
+      "lemma": "powerful",
+      "pos": "adj.",
+      "zh": "有力的",
+      "stars": 4,
+      "collocation": "A powerful diplomat visits"
+    },
+    {
+      "lemma": "engine",
+      "pos": "n./v.",
+      "zh": "引擎",
+      "stars": 4,
+      "collocation": "hot engine and a"
+    },
+    {
+      "lemma": "decade",
+      "pos": "n.",
+      "zh": "十年",
+      "stars": 4,
+      "collocation": "a decade, port construction"
+    },
+    {
+      "lemma": "incident",
+      "pos": "n./adj.",
+      "zh": "事件",
+      "stars": 4,
+      "collocation": "sudden incident begins with"
+    },
+    {
+      "lemma": "surround",
+      "pos": "v./n.",
+      "zh": "包围",
+      "stars": 4,
+      "collocation": "smoke surrounds the ship,"
+    },
+    {
+      "lemma": "reserve",
+      "pos": "n./v.",
+      "zh": "储备品",
+      "stars": 4,
+      "collocation": "the reserve tank holds"
+    },
+    {
+      "lemma": "exact",
+      "pos": "adj./v.",
+      "zh": "精确的",
+      "stars": 4,
+      "collocation": "the exact amount of"
+    },
+    {
+      "lemma": "concept",
+      "pos": "n.",
+      "zh": "观念",
+      "stars": 3,
+      "collocation": "The concept is simple,"
+    },
+    {
+      "lemma": "construction",
+      "pos": "n.",
+      "zh": "建筑",
+      "stars": 3,
+      "collocation": "port construction has grown"
+    },
+    {
+      "lemma": "disappear",
+      "pos": "v.",
+      "zh": "消失",
+      "stars": 3,
+      "collocation": "boat disappears."
+    },
+    {
+      "lemma": "apparent",
+      "pos": "adj.",
+      "zh": "清晰可见的",
+      "stars": 3,
+      "collocation": "is apparent."
+    },
+    {
+      "lemma": "academic",
+      "pos": "adj./n.",
+      "zh": "学院的",
+      "stars": 3,
+      "collocation": "An academic team offers"
+    },
+    {
+      "lemma": "assistance",
+      "pos": "n.",
+      "zh": "协助",
+      "stars": 3,
+      "collocation": "offers assistance with the"
+    },
+    {
+      "lemma": "agriculture",
+      "pos": "n.",
+      "zh": "农业",
+      "stars": 3,
+      "collocation": "teaches agriculture at the"
+    },
+    {
+      "lemma": "retire",
+      "pos": "n./v.",
+      "zh": "隐居",
+      "stars": 3,
+      "collocation": "A retired farmer now"
+    },
+    {
+      "lemma": "literary",
+      "pos": "adj.",
+      "zh": "文学的",
+      "stars": 3,
+      "collocation": "A literary prize sits"
+    },
+    {
+      "lemma": "sink",
+      "pos": "n./v.",
+      "zh": "藏垢的场所",
+      "stars": 3,
+      "collocation": "may sink the damaged"
+    },
+    {
+      "lemma": "wire",
+      "pos": "n./v.",
+      "zh": "电线",
+      "stars": 3,
+      "collocation": "broken wire first."
+    },
+    {
+      "lemma": "detective",
+      "pos": "n./adj.",
+      "zh": "侦探",
+      "stars": 3,
+      "collocation": "A detective, port security,"
+    },
+    {
+      "lemma": "nowhere",
+      "pos": "adv.",
+      "zh": "无处",
+      "stars": 3,
+      "collocation": "is nowhere to hide"
+    },
+    {
+      "lemma": "grain",
+      "pos": "n./v.",
+      "zh": "谷粒",
+      "stars": 3,
+      "collocation": "of grain wait along"
+    },
+    {
+      "lemma": "shore",
+      "pos": "n./v.",
+      "zh": "海岸",
+      "stars": 3,
+      "collocation": "quiet shore."
+    },
+    {
+      "lemma": "fierce",
+      "pos": "adj.",
+      "zh": "凶猛的",
+      "stars": 3,
+      "collocation": "A fierce wind may"
+    },
+    {
+      "lemma": "helicopter",
+      "pos": "n./v.",
+      "zh": "直升机",
+      "stars": 3,
+      "collocation": "a helicopter call."
+    },
+    {
+      "lemma": "bargain",
+      "pos": "n./v.",
+      "zh": "交易",
+      "stars": 3,
+      "collocation": "easy bargain to make."
+    },
+    {
+      "lemma": "antique",
+      "pos": "n./adj.",
+      "zh": "古董",
+      "stars": 3,
+      "collocation": "an antique wooden writing"
+    },
+    {
+      "lemma": "opportunity",
+      "pos": "n.",
+      "zh": "机会",
+      "stars": 4,
+      "collocation": "significant opportunity for real"
+    },
+    {
+      "lemma": "significant",
+      "pos": "adj.",
+      "zh": "重要的",
+      "stars": 4,
+      "collocation": "a significant opportunity for"
+    },
+    {
+      "lemma": "highly",
+      "pos": "adv.",
+      "zh": "非常",
+      "stars": 4,
+      "collocation": "a highly valuable volume"
+    },
+    {
+      "lemma": "volume",
+      "pos": "n./v./adj.",
+      "zh": "册",
+      "stars": 4,
+      "collocation": "valuable volume of trade."
+    },
+    {
+      "lemma": "liberal",
+      "pos": "n./adj.",
+      "zh": "自由主义者",
+      "stars": 4,
+      "collocation": "A liberal policy, for"
+    },
+    {
+      "lemma": "instance",
+      "pos": "n./v.",
+      "zh": "建议",
+      "stars": 4,
+      "collocation": "for instance, may help"
+    },
+    {
+      "lemma": "retain",
+      "pos": "v.",
+      "zh": "保持",
+      "stars": 3,
+      "collocation": "will retain the name"
+    },
+    {
+      "lemma": "publication",
+      "pos": "n.",
+      "zh": "出版物",
+      "stars": 3,
+      "collocation": "weekly publication."
+    },
+    {
+      "lemma": "gap",
+      "pos": "n./v.",
+      "zh": "缝隙",
+      "stars": 3,
+      "collocation": "A gap in the"
+    },
+    {
+      "lemma": "gene",
+      "pos": "n.",
+      "zh": "基因",
+      "stars": 3,
+      "collocation": "the gene map explains"
+    },
+    {
+      "lemma": "competitive",
+      "pos": "adj.",
+      "zh": "竞争的",
+      "stars": 3,
+      "collocation": "their competitive spirit and"
+    },
+    {
+      "lemma": "enthusiasm",
+      "pos": "n.",
+      "zh": "巨大的热情",
+      "stars": 3,
+      "collocation": "and enthusiasm impress the"
+    },
+    {
+      "lemma": "psychological",
+      "pos": "adj.",
+      "zh": "心理学的",
+      "stars": 3,
+      "collocation": "A psychological portrait of"
+    },
+    {
+      "lemma": "portrait",
+      "pos": "n.",
+      "zh": "肖像",
+      "stars": 3,
+      "collocation": "psychological portrait of the"
+    },
+    {
+      "lemma": "explosion",
+      "pos": "n.",
+      "zh": "爆发",
+      "stars": 3,
+      "collocation": "an explosion and a"
+    },
+    {
+      "lemma": "triumph",
+      "pos": "n./v.",
+      "zh": "凯旋",
+      "stars": 3,
+      "collocation": "a triumph, not a"
+    },
+    {
+      "lemma": "dump",
+      "pos": "n./v.",
+      "zh": "垃圾场",
+      "stars": 3,
+      "collocation": "a dump of old"
+    },
+    {
+      "lemma": "prior",
+      "pos": "adj./n.",
+      "zh": "更重要的",
+      "stars": 3,
+      "collocation": "A prior plan for"
+    },
+    {
+      "lemma": "housing",
+      "pos": "n.",
+      "zh": "遮盖",
+      "stars": 4,
+      "collocation": "new housing now looks"
+    },
+    {
+      "lemma": "chip",
+      "pos": "n./v.",
+      "zh": "屑片",
+      "stars": 3,
+      "collocation": "broken chip may undermine"
+    },
+    {
+      "lemma": "undermine",
+      "pos": "v.",
+      "zh": "在...下面挖",
+      "stars": 3,
+      "collocation": "may undermine the whole"
+    },
+    {
+      "lemma": "interim",
+      "pos": "adj./n.",
+      "zh": "暂时的",
+      "stars": 3,
+      "collocation": "an interim team and"
+    },
+    {
+      "lemma": "diplomat",
+      "pos": "n.",
+      "zh": "外交官",
+      "stars": 3,
+      "collocation": "powerful diplomat visits the"
+    },
+    {
+      "lemma": "democrat",
+      "pos": "n.",
+      "zh": "民主人士",
+      "stars": 4,
+      "collocation": "young democrat."
+    },
+    {
+      "lemma": "given",
+      "pos": "adj.",
+      "zh": "赠予的",
+      "stars": 3,
+      "collocation": "Later, given the cost,"
+    },
+    {
+      "lemma": "peg",
+      "pos": "n./v.",
+      "zh": "钉",
+      "stars": 3,
+      "collocation": "they peg the ticket"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“incident” 的意思是：",
+      "options": [
+        "事件",
+        "爆炸",
+        "燃料",
+        "协助"
+      ],
+      "answer": 0,
+      "speak": "incident"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A fierce wind may ___ the damaged ship before dawn.",
+      "options": [
+        "sink",
+        "peg",
+        "dump",
+        "retain"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“significant” 的意思是：",
+      "options": [
+        "重大的",
+        "学术的",
+        "古董的",
+        "自由派的"
+      ],
+      "answer": 0,
+      "speak": "significant"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A gap in the gene map explains the weak new ___.",
+      "options": [
+        "seed",
+        "chip",
+        "peg",
+        "cash"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A public institution will benefit from the clear new ___.",
+      "options": [
+        "rules",
+        "portraits",
+        "bargains",
+        "volumes"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“interim” 的意思是：",
+      "options": [
+        "临时的",
+        "文学的",
+        "心理的",
+        "竞争的"
+      ],
+      "answer": 0,
+      "speak": "interim"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "One broken ___ may undermine the whole control system.",
+      "options": [
+        "chip",
+        "wire",
+        "engine",
+        "peg"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“enthusiasm” 的意思是：",
+      "options": [
+        "热情",
+        "协助",
+        "胜利",
+        "住房"
+      ],
+      "answer": 0,
+      "speak": "enthusiasm"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "A sudden ",
+        "hint": "in",
+        "after": " begins with an explosion and a helicopter call.",
+        "answer": "incident"
+      },
+      {
+        "before": "My father says tall piles of ",
+        "hint": "gr",
+        "after": " wait along the quiet shore.",
+        "answer": "grain"
+      },
+      {
+        "before": "A ",
+        "hint": "fi",
+        "after": " wind may sink the damaged ship before dawn.",
+        "answer": "fierce"
+      },
+      {
+        "before": "My uncle saw a hot ",
+        "hint": "en",
+        "after": " and a broken wire first.",
+        "answer": "engine"
+      },
+      {
+        "before": "For a ",
+        "hint": "de",
+        "after": ", port construction has grown along this quiet coast.",
+        "answer": "decade"
+      },
+      {
+        "before": "Then the ",
+        "hint": "re",
+        "after": " tank holds the exact amount of fuel.",
+        "answer": "reserve"
+      },
+      {
+        "before": "The ",
+        "hint": "co",
+        "after": " is simple, but the hidden danger is apparent.",
+        "answer": "concept"
+      },
+      {
+        "before": "An ",
+        "hint": "ac",
+        "after": " team offers assistance with the long report.",
+        "answer": "academic"
+      },
+      {
+        "before": "A retired farmer now teaches ",
+        "hint": "ag",
+        "after": " at the school.",
+        "answer": "agriculture"
+      },
+      {
+        "before": "A literary prize sits beside an ",
+        "hint": "an",
+        "after": " wooden writing desk.",
+        "answer": "antique"
+      }
+    ],
+    "b3": [
+      {
+        "before": "The rescue is a ",
+        "hint": "tr",
+        "after": ", not a dump of old tired excuses.",
+        "answer": "triumph"
+      },
+      {
+        "before": "A ",
+        "hint": "pr",
+        "after": " plan for new housing now looks too slow.",
+        "answer": "prior"
+      },
+      {
+        "before": "One broken ",
+        "hint": "ch",
+        "after": " may undermine the whole control system.",
+        "answer": "chip"
+      },
+      {
+        "before": "Later, ",
+        "hint": "gi",
+        "after": " the cost, they peg the ticket price at ten pounds.",
+        "answer": "given"
+      },
+      {
+        "before": "They exchange old paper notes for ",
+        "hint": "ca",
+        "after": " at the port office.",
+        "answer": "cash"
+      },
+      {
+        "before": "A public ",
+        "hint": "in",
+        "after": " will benefit from the clear new rules.",
+        "answer": "institution"
+      },
+      {
+        "before": "Dark smoke ",
+        "hint": "su",
+        "after": " the ship, and one small boat disappears.",
+        "answer": "surrounds"
+      },
+      {
+        "before": "A powerful ",
+        "hint": "di",
+        "after": " visits the port before the weekend.",
+        "answer": "diplomat"
+      },
+      {
+        "before": "A ",
+        "hint": "po",
+        "after": " crisis brings an interim team and a young democrat.",
+        "answer": "political"
+      },
+      {
+        "before": "A detective, port ",
+        "hint": "se",
+        "after": ", and the press meet at noon.",
+        "answer": "security"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "一场突发事件始于一次爆炸和一通直升机呼叫。",
+        "keywords": [
+          "incident",
+          "explosion",
+          "helicopter"
+        ]
+      },
+      {
+        "zh": "这个概念很简单，但隐藏的危险很明显。",
+        "keywords": [
+          "concept",
+          "apparent",
+          "danger"
+        ]
+      },
+      {
+        "zh": "这场事故是一次真正改变的绝佳机会。",
+        "keywords": [
+          "significant",
+          "opportunity"
+        ]
+      },
+      {
+        "zh": "一幅关于船长的心理画像占据了头版。",
+        "keywords": [
+          "psychological",
+          "portrait",
+          "captain"
+        ]
+      },
+      {
+        "zh": "浓烟包围着船，一只小船消失了。",
+        "keywords": [
+          "smoke",
+          "surrounds",
+          "disappears"
+        ]
+      },
+      {
+        "zh": "一位侦探、港口安保和媒体在中午会面。",
+        "keywords": [
+          "detective",
+          "security",
+          "press"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 287,
+    "sentences": 28,
+    "newDensity": 0.206,
+    "targetTokenDensity": 0.206,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写粮食港的一夜事故：爆炸与直升机呼叫、狂风与沉船、发动机与电线、十年建设、备用燃料、学术协助，随后是机会、贸易、政策、肖像、救援与调查，结尾是政治危机与记者会面。"
+}

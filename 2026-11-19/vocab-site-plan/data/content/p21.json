@@ -1,0 +1,830 @@
+{
+  "id": "p21",
+  "title": "The Night at the Mountain Laboratory",
+  "titleZh": "山间实验室的一夜",
+  "topic": "山间救助",
+  "paragraphs": [
+    [
+      {
+        "en": "My cousin and neighbour work in a small laboratory on the mountain.",
+        "zh": "我的表亲和邻居在山上一间小实验室里工作。"
+      },
+      {
+        "en": "My cousin studies natural medicine and knows every wild plant nearby.",
+        "zh": "我的表亲研究天然药物，认识附近每一种野生植物。"
+      },
+      {
+        "en": "Then a strict storm sweeps through the valley late at night.",
+        "zh": "然后一场猛烈的暴风雨在深夜横扫山谷。"
+      },
+      {
+        "en": "An airline passenger knocks on the door and calls for help.",
+        "zh": "一位航空公司乘客敲门并呼救。"
+      },
+      {
+        "en": "He reached the gate at eleven with a wet coat.",
+        "zh": "他在十一点到达大门，身上穿着湿外套。"
+      },
+      {
+        "en": "My cousin gives the lost man a warm seat by the fire.",
+        "zh": "我的表亲让这个迷路的男人在火边坐下。"
+      },
+      {
+        "en": "She tries to find a clean room and dry clothes for him.",
+        "zh": "她设法找一间干净的房间和干衣服给他。"
+      },
+      {
+        "en": "He walked from the old bus stop into the heavy evening rain.",
+        "zh": "他从旧公交站走进傍晚的大雨中。"
+      },
+      {
+        "en": "I think he hides the truth about his long walk up here.",
+        "zh": "我认为他隐瞒了关于长途跋涉的真相。"
+      },
+      {
+        "en": "She asks where he slept outside on such cold and windy nights.",
+        "zh": "她问他在这么寒冷多风的夜里睡在哪儿。"
+      }
+    ],
+    [
+      {
+        "en": "At the end of the long line, a small lamp shines.",
+        "zh": "在长队的尽头，一盏小灯亮着。"
+      },
+      {
+        "en": "It is important that he accepts a warm drink and sits down.",
+        "zh": "重要的是他先接受一杯热饮并坐下。"
+      },
+      {
+        "en": "Her simple treatment will keep him healthy for the whole night.",
+        "zh": "她简单的治疗会让他整夜保持健康。"
+      },
+      {
+        "en": "Real care must prove stronger than any quick and easy words.",
+        "zh": "真正的关怀必须证明比任何轻巧的话更有力。"
+      },
+      {
+        "en": "He does not cry, but the cold feels close to death tonight.",
+        "zh": "他没有哭，但寒冷让他觉得接近死亡。"
+      },
+      {
+        "en": "She keeps in mind that he is homeless and still very proud.",
+        "zh": "她记得他无家可归，但依然非常自尊。"
+      },
+      {
+        "en": "She will not forget to say sorry for her sharp tone earlier.",
+        "zh": "她不会忘记为之前尖锐的语气道歉。"
+      },
+      {
+        "en": "Her small camera shows the whole scene on a cracked screen.",
+        "zh": "她的小相机在破裂的屏幕上显示整个场景。"
+      },
+      {
+        "en": "Judges score each photo, and her best picture may win.",
+        "zh": "评委给每张照片打分，她最好的照片可能获胜。"
+      },
+      {
+        "en": "The club president calls her a true master of soft light.",
+        "zh": "俱乐部主席称她为柔光的大师。"
+      }
+    ],
+    [
+      {
+        "en": "A group of active members walks up the hill before sunrise.",
+        "zh": "一群活跃的成员在日出前爬上山丘。"
+      },
+      {
+        "en": "A fixed underground cellar lies beneath the old stone church.",
+        "zh": "一间固定的地下酒窖位于老石教堂下面。"
+      },
+      {
+        "en": "A rock and a long stick block the narrow wooden door.",
+        "zh": "一块石头和一根长棍挡住那扇窄木门。"
+      },
+      {
+        "en": "Cold air flies above the wide door and the empty yard.",
+        "zh": "冷空气从那扇宽门和空院子上方飞过。"
+      },
+      {
+        "en": "Then their usual dialogue fills the dark and empty space.",
+        "zh": "然后他们平常的对话填满黑暗空荡的空间。"
+      },
+      {
+        "en": "In general, she wishes more people would help on such nights.",
+        "zh": "总的来说，她希望有更多人在这样的夜里帮忙。"
+      },
+      {
+        "en": "Later, for a moment, the place feels rather like a warm home.",
+        "zh": "后来，有一刻，这地方感觉更像一个温暖的家。"
+      },
+      {
+        "en": "She writes his name on the list, ready for more hard work.",
+        "zh": "她把他的名字写在名单上，准备做更多艰苦的工作。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "from",
+      "pos": "prep.",
+      "zh": "从",
+      "stars": 5,
+      "collocation": "walked from the old"
+    },
+    {
+      "lemma": "into",
+      "pos": "prep.",
+      "zh": "进入...之内",
+      "stars": 5,
+      "collocation": "stop into the heavy"
+    },
+    {
+      "lemma": "think",
+      "pos": "v./n./adj.",
+      "zh": "想",
+      "stars": 5,
+      "collocation": "I think he hides"
+    },
+    {
+      "lemma": "through",
+      "pos": "adv./prep./adj.",
+      "zh": "穿越",
+      "stars": 5,
+      "collocation": "sweeps through the valley"
+    },
+    {
+      "lemma": "where",
+      "pos": "adv./pron./n.",
+      "zh": "在哪里",
+      "stars": 5,
+      "collocation": "asks where he slept"
+    },
+    {
+      "lemma": "try",
+      "pos": "n./v.",
+      "zh": "尝试",
+      "stars": 5,
+      "collocation": "She tries to find"
+    },
+    {
+      "lemma": "end",
+      "pos": "n./v.",
+      "zh": "结束",
+      "stars": 5,
+      "collocation": "the end of the"
+    },
+    {
+      "lemma": "important",
+      "pos": "adj.",
+      "zh": "重要的",
+      "stars": 5,
+      "collocation": "is important that he"
+    },
+    {
+      "lemma": "room",
+      "pos": "n./v.",
+      "zh": "房间",
+      "stars": 5,
+      "collocation": "clean room and dry"
+    },
+    {
+      "lemma": "line",
+      "pos": "n./v.",
+      "zh": "列",
+      "stars": 5,
+      "collocation": "long line, a small"
+    },
+    {
+      "lemma": "general",
+      "pos": "n./adj.",
+      "zh": "一般",
+      "stars": 5,
+      "collocation": "In general, she wishes"
+    },
+    {
+      "lemma": "lose",
+      "pos": "v.",
+      "zh": "遗失",
+      "stars": 5,
+      "collocation": "the lost man a"
+    },
+    {
+      "lemma": "moment",
+      "pos": "n.",
+      "zh": "片刻",
+      "stars": 5,
+      "collocation": "a moment, the place"
+    },
+    {
+      "lemma": "win",
+      "pos": "v./n.",
+      "zh": "赢得",
+      "stars": 5,
+      "collocation": "may win."
+    },
+    {
+      "lemma": "real",
+      "pos": "adj./n./adv.",
+      "zh": "真的",
+      "stars": 5,
+      "collocation": "Real care must"
+    },
+    {
+      "lemma": "rather",
+      "pos": "adv.",
+      "zh": "宁可",
+      "stars": 5,
+      "collocation": "feels rather like a"
+    },
+    {
+      "lemma": "accept",
+      "pos": "v.",
+      "zh": "接受",
+      "stars": 5,
+      "collocation": "he accepts a warm"
+    },
+    {
+      "lemma": "air",
+      "pos": "n./v.",
+      "zh": "空气",
+      "stars": 5,
+      "collocation": "Cold air flies above"
+    },
+    {
+      "lemma": "president",
+      "pos": "n.",
+      "zh": "总统",
+      "stars": 5,
+      "collocation": "club president calls her"
+    },
+    {
+      "lemma": "list",
+      "pos": "n./v.",
+      "zh": "目录",
+      "stars": 5,
+      "collocation": "the list, ready for"
+    },
+    {
+      "lemma": "outside",
+      "pos": "n./adj./adv.",
+      "zh": "外面",
+      "stars": 5,
+      "collocation": "slept outside on such"
+    },
+    {
+      "lemma": "fly",
+      "pos": "n./v./adj.",
+      "zh": "苍蝇",
+      "stars": 5,
+      "collocation": "air flies above the"
+    },
+    {
+      "lemma": "eleven",
+      "pos": "num.",
+      "zh": "十一",
+      "stars": 5,
+      "collocation": "at eleven with a"
+    },
+    {
+      "lemma": "death",
+      "pos": "n.",
+      "zh": "死亡",
+      "stars": 4,
+      "collocation": "to death tonight."
+    },
+    {
+      "lemma": "wish",
+      "pos": "n./v.",
+      "zh": "希望",
+      "stars": 4,
+      "collocation": "she wishes more people"
+    },
+    {
+      "lemma": "prove",
+      "pos": "v.",
+      "zh": "证明",
+      "stars": 4,
+      "collocation": "must prove stronger than"
+    },
+    {
+      "lemma": "natural",
+      "pos": "n./adj.",
+      "zh": "白痴",
+      "stars": 4,
+      "collocation": "studies natural medicine and"
+    },
+    {
+      "lemma": "treatment",
+      "pos": "n.",
+      "zh": "治疗",
+      "stars": 4,
+      "collocation": "simple treatment will keep"
+    },
+    {
+      "lemma": "forget",
+      "pos": "v.",
+      "zh": "忘记",
+      "stars": 4,
+      "collocation": "not forget to say"
+    },
+    {
+      "lemma": "sorry",
+      "pos": "adj.",
+      "zh": "难过的",
+      "stars": 4,
+      "collocation": "say sorry for her"
+    },
+    {
+      "lemma": "seat",
+      "pos": "n./v.",
+      "zh": "座",
+      "stars": 4,
+      "collocation": "warm seat by the"
+    },
+    {
+      "lemma": "ready",
+      "pos": "n./adj./adv./v.",
+      "zh": "预备好的状态",
+      "stars": 4,
+      "collocation": "list, ready for more"
+    },
+    {
+      "lemma": "rock",
+      "pos": "n./v.",
+      "zh": "岩石",
+      "stars": 4,
+      "collocation": "A rock and a"
+    },
+    {
+      "lemma": "truth",
+      "pos": "n.",
+      "zh": "事实",
+      "stars": 4,
+      "collocation": "the truth about his"
+    },
+    {
+      "lemma": "master",
+      "pos": "n./adj./v.",
+      "zh": "主人",
+      "stars": 4,
+      "collocation": "true master of soft"
+    },
+    {
+      "lemma": "active",
+      "pos": "adj./n.",
+      "zh": "活跃的",
+      "stars": 4,
+      "collocation": "of active members walks"
+    },
+    {
+      "lemma": "mountain",
+      "pos": "n.",
+      "zh": "山",
+      "stars": 4,
+      "collocation": "the mountain."
+    },
+    {
+      "lemma": "usual",
+      "pos": "adj.",
+      "zh": "平常的",
+      "stars": 4,
+      "collocation": "their usual dialogue fills"
+    },
+    {
+      "lemma": "cry",
+      "pos": "n./v.",
+      "zh": "叫声",
+      "stars": 4,
+      "collocation": "not cry, but the"
+    },
+    {
+      "lemma": "screen",
+      "pos": "n./v.",
+      "zh": "幕",
+      "stars": 4,
+      "collocation": "cracked screen."
+    },
+    {
+      "lemma": "score",
+      "pos": "n./v.",
+      "zh": "得分",
+      "stars": 4,
+      "collocation": "Judges score each photo,"
+    },
+    {
+      "lemma": "camera",
+      "pos": "n.",
+      "zh": "照相机",
+      "stars": 4,
+      "collocation": "small camera shows the"
+    },
+    {
+      "lemma": "airline",
+      "pos": "n.",
+      "zh": "航线",
+      "stars": 4,
+      "collocation": "An airline passenger knocks"
+    },
+    {
+      "lemma": "mind",
+      "pos": "n./v.",
+      "zh": "思想",
+      "stars": 3,
+      "collocation": "in mind that he"
+    },
+    {
+      "lemma": "hill",
+      "pos": "n./v.",
+      "zh": "小山",
+      "stars": 3,
+      "collocation": "the hill before sunrise."
+    },
+    {
+      "lemma": "stick",
+      "pos": "n./v.",
+      "zh": "棍",
+      "stars": 3,
+      "collocation": "long stick block the"
+    },
+    {
+      "lemma": "gate",
+      "pos": "n./v.",
+      "zh": "门",
+      "stars": 3,
+      "collocation": "the gate at eleven"
+    },
+    {
+      "lemma": "neighbour",
+      "pos": "n./adj./v.",
+      "zh": "邻居",
+      "stars": 3,
+      "collocation": "and neighbour work in"
+    },
+    {
+      "lemma": "passenger",
+      "pos": "n.",
+      "zh": "乘客",
+      "stars": 3,
+      "collocation": "airline passenger knocks on"
+    },
+    {
+      "lemma": "healthy",
+      "pos": "adj.",
+      "zh": "健康的",
+      "stars": 3,
+      "collocation": "him healthy for the"
+    },
+    {
+      "lemma": "laboratory",
+      "pos": "n.",
+      "zh": "实验室",
+      "stars": 3,
+      "collocation": "small laboratory on the"
+    },
+    {
+      "lemma": "medicine",
+      "pos": "n./v.",
+      "zh": "药",
+      "stars": 3,
+      "collocation": "natural medicine and knows"
+    },
+    {
+      "lemma": "sweep",
+      "pos": "n./v.",
+      "zh": "扫除",
+      "stars": 3,
+      "collocation": "storm sweeps through the"
+    },
+    {
+      "lemma": "storm",
+      "pos": "n./v.",
+      "zh": "暴风雨",
+      "stars": 3,
+      "collocation": "strict storm sweeps through"
+    },
+    {
+      "lemma": "strict",
+      "pos": "adj.",
+      "zh": "严厉的",
+      "stars": 3,
+      "collocation": "a strict storm sweeps"
+    },
+    {
+      "lemma": "dialogue",
+      "pos": "n./v.",
+      "zh": "对话",
+      "stars": 3,
+      "collocation": "usual dialogue fills the"
+    },
+    {
+      "lemma": "underground",
+      "pos": "n./adj./adv.",
+      "zh": "地下",
+      "stars": 3,
+      "collocation": "fixed underground cellar lies"
+    },
+    {
+      "lemma": "fixed",
+      "pos": "adj.",
+      "zh": "固定的",
+      "stars": 3,
+      "collocation": "A fixed underground cellar"
+    },
+    {
+      "lemma": "homeless",
+      "pos": "adj.",
+      "zh": "无家的",
+      "stars": 3,
+      "collocation": "is homeless and still"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“laboratory” 的意思是：",
+      "options": [
+        "实验室",
+        "酒窖",
+        "山谷",
+        "车站"
+      ],
+      "answer": 0,
+      "speak": "laboratory"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A strict storm ___ through the valley late at night.",
+      "options": [
+        "sweeps",
+        "knocks",
+        "hides",
+        "scores"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“treatment” 的意思是：",
+      "options": [
+        "治疗",
+        "真相",
+        "对话",
+        "名单"
+      ],
+      "answer": 0,
+      "speak": "treatment"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "My cousin gives the lost man a warm ___ by the fire.",
+      "options": [
+        "seat",
+        "screen",
+        "stick",
+        "list"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "She will not forget to say ___ for her sharp tone earlier.",
+      "options": [
+        "sorry",
+        "ready",
+        "outside",
+        "rather"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“underground” 的意思是：",
+      "options": [
+        "地下的",
+        "严格的",
+        "活跃的",
+        "无家可归的"
+      ],
+      "answer": 0,
+      "speak": "underground"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Her small camera shows the whole scene on a cracked ___.",
+      "options": [
+        "screen",
+        "cellar",
+        "score",
+        "gate"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“homeless” 的意思是：",
+      "options": [
+        "无家可归的",
+        "健康的",
+        "重要的",
+        "真实的"
+      ],
+      "answer": 0,
+      "speak": "homeless"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My cousin and neighbour work in a small ",
+        "hint": "la",
+        "after": " on the mountain.",
+        "answer": "laboratory"
+      },
+      {
+        "before": "My cousin studies natural ",
+        "hint": "me",
+        "after": " and knows every wild plant nearby.",
+        "answer": "medicine"
+      },
+      {
+        "before": "Then a strict ",
+        "hint": "st",
+        "after": " sweeps through the valley late at night.",
+        "answer": "storm"
+      },
+      {
+        "before": "An airline ",
+        "hint": "pa",
+        "after": " knocks on the door and calls for help.",
+        "answer": "passenger"
+      },
+      {
+        "before": "He reached the gate at ",
+        "hint": "el",
+        "after": " with a wet coat.",
+        "answer": "eleven"
+      },
+      {
+        "before": "My cousin gives the lost man a warm ",
+        "hint": "se",
+        "after": " by the fire.",
+        "answer": "seat"
+      },
+      {
+        "before": "She tries to find a clean ",
+        "hint": "ro",
+        "after": " and dry clothes for him.",
+        "answer": "room"
+      },
+      {
+        "before": "He walked from the old bus stop ",
+        "hint": "in",
+        "after": " the heavy evening rain.",
+        "answer": "into"
+      },
+      {
+        "before": "I think he hides the ",
+        "hint": "tr",
+        "after": " about his long walk up here.",
+        "answer": "truth"
+      },
+      {
+        "before": "She asks where he slept ",
+        "hint": "ou",
+        "after": " on such cold and windy nights.",
+        "answer": "outside"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Judges ",
+        "hint": "sc",
+        "after": " each photo, and her best picture may win.",
+        "answer": "score"
+      },
+      {
+        "before": "The club ",
+        "hint": "pr",
+        "after": " calls her a true master of soft light.",
+        "answer": "president"
+      },
+      {
+        "before": "A group of active members walks up the ",
+        "hint": "hi",
+        "after": " before sunrise.",
+        "answer": "hill"
+      },
+      {
+        "before": "A fixed ",
+        "hint": "un",
+        "after": " cellar lies beneath the old stone church.",
+        "answer": "underground"
+      },
+      {
+        "before": "A rock and a long ",
+        "hint": "st",
+        "after": " block the narrow wooden door.",
+        "answer": "stick"
+      },
+      {
+        "before": "Cold air ",
+        "hint": "fl",
+        "after": " above the wide door and the empty yard.",
+        "answer": "flies"
+      },
+      {
+        "before": "Then their usual ",
+        "hint": "di",
+        "after": " fills the dark and empty space.",
+        "answer": "dialogue"
+      },
+      {
+        "before": "In ",
+        "hint": "ge",
+        "after": ", she wishes more people would help on such nights.",
+        "answer": "general"
+      },
+      {
+        "before": "Later, for a moment, the place feels ",
+        "hint": "ra",
+        "after": " like a warm home.",
+        "answer": "rather"
+      },
+      {
+        "before": "She writes his name on the ",
+        "hint": "li",
+        "after": ", ready for more hard work.",
+        "answer": "list"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我的表亲和邻居在山上一间小实验室里工作。",
+        "keywords": [
+          "cousin",
+          "neighbour",
+          "laboratory"
+        ]
+      },
+      {
+        "zh": "然后一场猛烈的暴风雨在深夜横扫山谷。",
+        "keywords": [
+          "strict",
+          "storm",
+          "sweeps"
+        ]
+      },
+      {
+        "zh": "我的表亲让这个迷路的男人在火边坐下。",
+        "keywords": [
+          "lost",
+          "warm",
+          "seat"
+        ]
+      },
+      {
+        "zh": "她简单的治疗会让他整夜保持健康。",
+        "keywords": [
+          "treatment",
+          "healthy"
+        ]
+      },
+      {
+        "zh": "评委给每张照片打分，她最好的照片可能获胜。",
+        "keywords": [
+          "score",
+          "picture",
+          "win"
+        ]
+      },
+      {
+        "zh": "后来，有一刻，这地方感觉更像一个温暖的家。",
+        "keywords": [
+          "moment",
+          "rather",
+          "home"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 316,
+    "sentences": 28,
+    "newDensity": 0.187,
+    "targetTokenDensity": 0.187,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写山上小实验室的一夜：暴风雨中一位航空公司乘客迷路求助，表亲用天然药物照顾他，之后照片在俱乐部评比中获胜，结尾是名单与更多帮助。"
+}

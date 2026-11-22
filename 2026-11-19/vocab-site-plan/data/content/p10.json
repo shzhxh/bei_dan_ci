@@ -1,0 +1,831 @@
+{
+  "id": "p10",
+  "title": "The Autumn Tour",
+  "titleZh": "秋日旅行团",
+  "topic": "旅行",
+  "paragraphs": [
+    [
+      {
+        "en": "In early autumn, a small tourist bus waits quietly outside.",
+        "zh": "初秋时，一辆小小的旅游巴士静静地停在外面。"
+      },
+      {
+        "en": "My tour manager knows her duty very well.",
+        "zh": "我的旅游经理非常清楚自己的职责。"
+      },
+      {
+        "en": "Thirty people fill every single soft front seat today.",
+        "zh": "今天三十个人坐满了每一个柔软的前排座位。"
+      },
+      {
+        "en": "We choose a new route and a clear, firm, fair choice.",
+        "zh": "我们选了一条新路线，做了一个明确、坚定又公平的选择。"
+      },
+      {
+        "en": "Then one careful step lowers the risk again today.",
+        "zh": "于是，一个谨慎的步子今天再次降低了风险。"
+      },
+      {
+        "en": "The plain fact gives us a good and very simple reason.",
+        "zh": "这个简单的事实给了我们一个很好也很简单的理由。"
+      },
+      {
+        "en": "A hard question waits quietly for a calm answer.",
+        "zh": "一个难题静静地等着一个平静的答案。"
+      },
+      {
+        "en": "The road is difficult and the cold, wet weather bad.",
+        "zh": "路很难走，天气又冷又湿，情况很糟。"
+      },
+      {
+        "en": "We receive a helpful suggestion from a kind local farmer today.",
+        "zh": "今天一位好心的当地农民给了我们一个有用的建议。"
+      },
+      {
+        "en": "The rough road condition improves before warm, bright noon each day.",
+        "zh": "这条崎岖的路况每天在温暖明亮的正午前都有改善。"
+      }
+    ],
+    [
+      {
+        "en": "A safe vehicle waits near the old stone front gate.",
+        "zh": "一辆安全的车停在古老的石砌前门附近。"
+      },
+      {
+        "en": "Later, at this height, the long climb feels easy and short.",
+        "zh": "后来，在这个高度，这段长长的攀爬显得轻松又短暂。"
+      },
+      {
+        "en": "A deep green valley touches the low grey cloud.",
+        "zh": "一道深绿色的山谷碰着低低的灰云。"
+      },
+      {
+        "en": "A brown cow licks a block of white kitchen salt.",
+        "zh": "一头棕色的奶牛舔着一块白色的食盐。"
+      },
+      {
+        "en": "A lucky guest tastes the local fish dish first.",
+        "zh": "一位幸运的客人第一个尝到了当地的鱼菜。"
+      },
+      {
+        "en": "My soft music helps the young girl sing again so well.",
+        "zh": "我轻柔的音乐让那个年轻女孩又能唱得那么好。"
+      },
+      {
+        "en": "Her magic show marks a fine, proud, happy debut today.",
+        "zh": "今天她的魔术表演标志着一个出色而自豪的初次登台。"
+      },
+      {
+        "en": "The cultural event gives her a new, happy, useful role.",
+        "zh": "这场文化活动给了她一个新的、快乐又有用的角色。"
+      },
+      {
+        "en": "A young calf is born beside a small red rubber ball.",
+        "zh": "一头小牛犊出生在一个小小的红色橡皮球旁边。"
+      },
+      {
+        "en": "My friend and I compare the two routes for one clear advantage.",
+        "zh": "我和朋友比较了两条路线，为了一个明显的优势。"
+      }
+    ],
+    [
+      {
+        "en": "A big wooden sign stands beside the narrow road.",
+        "zh": "一块大木牌立在狭窄的路边。"
+      },
+      {
+        "en": "The old engine never turns off on this steep, muddy hill.",
+        "zh": "在这座陡峭泥泞的山上，旧发动机从不熄火。"
+      },
+      {
+        "en": "All of these front seats face the wide, green valley.",
+        "zh": "所有这些前排座位都朝着宽阔的绿色山谷。"
+      },
+      {
+        "en": "During the break, we find a small cafe with warm, fresh soup.",
+        "zh": "休息时，我们找到一家小咖啡馆，里面有热腾腾的新鲜汤。"
+      },
+      {
+        "en": "A great will keeps the whole happy group together.",
+        "zh": "一种强大的意志让整个快乐的团队团结在一起。"
+      },
+      {
+        "en": "We stop twice before the twelfth long green mile.",
+        "zh": "在第十二个长长的绿色英里之前，我们停了两次。"
+      },
+      {
+        "en": "Take care, or the bike may hurt someone today.",
+        "zh": "小心点，否则自行车今天可能会伤到人。"
+      },
+      {
+        "en": "They wear warm winter coats and keep a double, happy secret together.",
+        "zh": "他们穿着暖和的冬衣，一起守着一个双重的秘密。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "with",
+      "pos": "prep.",
+      "zh": "和...在一起",
+      "stars": 5,
+      "collocation": "cafe with warm, fresh"
+    },
+    {
+      "lemma": "all",
+      "pos": "adj./adv./pron./n.",
+      "zh": "所有的",
+      "stars": 5,
+      "collocation": "All of these"
+    },
+    {
+      "lemma": "these",
+      "pos": "pron.",
+      "zh": "这些",
+      "stars": 5,
+      "collocation": "of these front seats"
+    },
+    {
+      "lemma": "find",
+      "pos": "v./n.",
+      "zh": "发现",
+      "stars": 5,
+      "collocation": "we find a small"
+    },
+    {
+      "lemma": "great",
+      "pos": "adj./adv./n.",
+      "zh": "大的",
+      "stars": 5,
+      "collocation": "A great will keeps"
+    },
+    {
+      "lemma": "never",
+      "pos": "adv.",
+      "zh": "从不",
+      "stars": 5,
+      "collocation": "engine never turns off"
+    },
+    {
+      "lemma": "off",
+      "pos": "adj./adv./prep./v.",
+      "zh": "关着的",
+      "stars": 5,
+      "collocation": "turns off on this"
+    },
+    {
+      "lemma": "fact",
+      "pos": "n.",
+      "zh": "事实",
+      "stars": 5,
+      "collocation": "plain fact gives us"
+    },
+    {
+      "lemma": "question",
+      "pos": "n./v.",
+      "zh": "问题",
+      "stars": 5,
+      "collocation": "hard question waits quietly"
+    },
+    {
+      "lemma": "big",
+      "pos": "adj./adv.",
+      "zh": "大的",
+      "stars": 5,
+      "collocation": "A big wooden sign"
+    },
+    {
+      "lemma": "stand",
+      "pos": "n./v.",
+      "zh": "站立",
+      "stars": 5,
+      "collocation": "sign stands beside the"
+    },
+    {
+      "lemma": "reason",
+      "pos": "n./v.",
+      "zh": "理由",
+      "stars": 5,
+      "collocation": "simple reason."
+    },
+    {
+      "lemma": "bad",
+      "pos": "adj./n./adv.",
+      "zh": "坏的",
+      "stars": 5,
+      "collocation": "weather bad."
+    },
+    {
+      "lemma": "receive",
+      "pos": "v.",
+      "zh": "收到",
+      "stars": 5,
+      "collocation": "We receive a helpful"
+    },
+    {
+      "lemma": "condition",
+      "pos": "n./v.",
+      "zh": "情况",
+      "stars": 5,
+      "collocation": "road condition improves before"
+    },
+    {
+      "lemma": "difficult",
+      "pos": "adj.",
+      "zh": "困难的",
+      "stars": 5,
+      "collocation": "is difficult and the"
+    },
+    {
+      "lemma": "role",
+      "pos": "n.",
+      "zh": "角色",
+      "stars": 5,
+      "collocation": "useful role."
+    },
+    {
+      "lemma": "care",
+      "pos": "n./v.",
+      "zh": "小心",
+      "stars": 5,
+      "collocation": "Take care, or the"
+    },
+    {
+      "lemma": "single",
+      "pos": "adj./n./v.",
+      "zh": "单身的",
+      "stars": 5,
+      "collocation": "every single soft front"
+    },
+    {
+      "lemma": "music",
+      "pos": "n.",
+      "zh": "音乐",
+      "stars": 5,
+      "collocation": "soft music helps the"
+    },
+    {
+      "lemma": "answer",
+      "pos": "n./v.",
+      "zh": "答案",
+      "stars": 5,
+      "collocation": "calm answer."
+    },
+    {
+      "lemma": "thirty",
+      "pos": "num.",
+      "zh": "三十",
+      "stars": 5,
+      "collocation": "Thirty people fill"
+    },
+    {
+      "lemma": "twice",
+      "pos": "adv.",
+      "zh": "两次",
+      "stars": 5,
+      "collocation": "stop twice before the"
+    },
+    {
+      "lemma": "will",
+      "pos": "n./v.",
+      "zh": "意志",
+      "stars": 4,
+      "collocation": "great will keeps the"
+    },
+    {
+      "lemma": "manager",
+      "pos": "n.",
+      "zh": "经理",
+      "stars": 4,
+      "collocation": "tour manager knows her"
+    },
+    {
+      "lemma": "choose",
+      "pos": "v.",
+      "zh": "选择",
+      "stars": 4,
+      "collocation": "We choose a new"
+    },
+    {
+      "lemma": "wear",
+      "pos": "n./v.",
+      "zh": "穿着",
+      "stars": 4,
+      "collocation": "They wear warm winter"
+    },
+    {
+      "lemma": "choice",
+      "pos": "n./adj.",
+      "zh": "选择",
+      "stars": 4,
+      "collocation": "fair choice."
+    },
+    {
+      "lemma": "risk",
+      "pos": "n./v.",
+      "zh": "冒险",
+      "stars": 4,
+      "collocation": "the risk again today."
+    },
+    {
+      "lemma": "duty",
+      "pos": "n.",
+      "zh": "责任",
+      "stars": 4,
+      "collocation": "her duty very well."
+    },
+    {
+      "lemma": "improve",
+      "pos": "v.",
+      "zh": "改良",
+      "stars": 4,
+      "collocation": "condition improves before warm,"
+    },
+    {
+      "lemma": "advantage",
+      "pos": "n./v.",
+      "zh": "优点",
+      "stars": 4,
+      "collocation": "clear advantage."
+    },
+    {
+      "lemma": "deep",
+      "pos": "adj./adv./n.",
+      "zh": "深的",
+      "stars": 4,
+      "collocation": "A deep green valley"
+    },
+    {
+      "lemma": "ball",
+      "pos": "n./v.",
+      "zh": "球",
+      "stars": 4,
+      "collocation": "rubber ball."
+    },
+    {
+      "lemma": "born",
+      "pos": "adj.",
+      "zh": "天生的",
+      "stars": 4,
+      "collocation": "is born beside a"
+    },
+    {
+      "lemma": "safe",
+      "pos": "n./adj.",
+      "zh": "保险箱",
+      "stars": 4,
+      "collocation": "A safe vehicle waits"
+    },
+    {
+      "lemma": "vehicle",
+      "pos": "n.",
+      "zh": "交通工具",
+      "stars": 4,
+      "collocation": "safe vehicle waits near"
+    },
+    {
+      "lemma": "touch",
+      "pos": "n./v.",
+      "zh": "触觉",
+      "stars": 4,
+      "collocation": "valley touches the low"
+    },
+    {
+      "lemma": "sing",
+      "pos": "v./n.",
+      "zh": "唱",
+      "stars": 4,
+      "collocation": "girl sing again so"
+    },
+    {
+      "lemma": "double",
+      "pos": "n./adj./v.",
+      "zh": "两倍",
+      "stars": 4,
+      "collocation": "a double, happy secret"
+    },
+    {
+      "lemma": "careful",
+      "pos": "adj.",
+      "zh": "小心的",
+      "stars": 4,
+      "collocation": "one careful step lowers"
+    },
+    {
+      "lemma": "hurt",
+      "pos": "n./v.",
+      "zh": "伤害",
+      "stars": 4,
+      "collocation": "may hurt someone today."
+    },
+    {
+      "lemma": "secret",
+      "pos": "n./adj.",
+      "zh": "秘密",
+      "stars": 4,
+      "collocation": "happy secret together."
+    },
+    {
+      "lemma": "twelfth",
+      "pos": "num.",
+      "zh": "第十二",
+      "stars": 4,
+      "collocation": "the twelfth long green"
+    },
+    {
+      "lemma": "compare",
+      "pos": "v./n.",
+      "zh": "比较",
+      "stars": 3,
+      "collocation": "I compare the two"
+    },
+    {
+      "lemma": "bus",
+      "pos": "n.",
+      "zh": "公共汽车",
+      "stars": 3,
+      "collocation": "tourist bus waits quietly"
+    },
+    {
+      "lemma": "climb",
+      "pos": "v./n.",
+      "zh": "攀登",
+      "stars": 3,
+      "collocation": "long climb feels easy"
+    },
+    {
+      "lemma": "suggestion",
+      "pos": "n.",
+      "zh": "提议",
+      "stars": 3,
+      "collocation": "helpful suggestion from a"
+    },
+    {
+      "lemma": "height",
+      "pos": "n.",
+      "zh": "高度",
+      "stars": 3,
+      "collocation": "this height, the long"
+    },
+    {
+      "lemma": "lucky",
+      "pos": "adj.",
+      "zh": "幸运的",
+      "stars": 3,
+      "collocation": "A lucky guest tastes"
+    },
+    {
+      "lemma": "autumn",
+      "pos": "n.",
+      "zh": "秋天",
+      "stars": 3,
+      "collocation": "early autumn, a small"
+    },
+    {
+      "lemma": "tourist",
+      "pos": "n./adj.",
+      "zh": "观光客",
+      "stars": 3,
+      "collocation": "small tourist bus waits"
+    },
+    {
+      "lemma": "salt",
+      "pos": "n./adj./v.",
+      "zh": "盐",
+      "stars": 3,
+      "collocation": "kitchen salt."
+    },
+    {
+      "lemma": "dish",
+      "pos": "n.",
+      "zh": "盘子",
+      "stars": 3,
+      "collocation": "fish dish first."
+    },
+    {
+      "lemma": "cow",
+      "pos": "n./v.",
+      "zh": "母牛",
+      "stars": 3,
+      "collocation": "brown cow licks a"
+    },
+    {
+      "lemma": "bike",
+      "pos": "n.",
+      "zh": "自行车",
+      "stars": 3,
+      "collocation": "the bike may hurt"
+    },
+    {
+      "lemma": "magic",
+      "pos": "n./adj.",
+      "zh": "魔术",
+      "stars": 3,
+      "collocation": "Her magic show marks"
+    },
+    {
+      "lemma": "cultural",
+      "pos": "adj.",
+      "zh": "文化的",
+      "stars": 3,
+      "collocation": "The cultural event gives"
+    },
+    {
+      "lemma": "debut",
+      "pos": "n./v.",
+      "zh": "初次登台",
+      "stars": 3,
+      "collocation": "happy debut today."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“tourist” 的意思是：",
+      "options": [
+        "游客",
+        "经理",
+        "农民",
+        "客人"
+      ],
+      "answer": 0,
+      "speak": "tourist"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The road is difficult and the cold, wet weather ___.",
+      "options": [
+        "bad",
+        "great",
+        "lucky",
+        "safe"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“vehicle” 的意思是：",
+      "options": [
+        "车辆",
+        "山谷",
+        "发动机",
+        "高度"
+      ],
+      "answer": 0,
+      "speak": "vehicle"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A big wooden sign stands beside the narrow ___.",
+      "options": [
+        "road",
+        "ball",
+        "dish",
+        "bike"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "The old engine never turns ___ on this steep, muddy hill.",
+      "options": [
+        "off",
+        "with",
+        "all",
+        "these"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“debut” 的意思是：",
+      "options": [
+        "初次登台",
+        "文化",
+        "魔术",
+        "秘密"
+      ],
+      "answer": 0,
+      "speak": "debut"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "We stop ___ before the twelfth long green mile.",
+      "options": [
+        "twice",
+        "thirty",
+        "single",
+        "these"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“suggestion” 的意思是：",
+      "options": [
+        "建议",
+        "问题",
+        "答案",
+        "事实"
+      ],
+      "answer": 0,
+      "speak": "suggestion"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "In early ",
+        "hint": "au",
+        "after": ", a small tourist bus waits quietly outside.",
+        "answer": "autumn"
+      },
+      {
+        "before": "My tour ",
+        "hint": "ma",
+        "after": " knows her duty very well.",
+        "answer": "manager"
+      },
+      {
+        "before": "Thirty people fill every ",
+        "hint": "si",
+        "after": " soft front seat today.",
+        "answer": "single"
+      },
+      {
+        "before": "We ",
+        "hint": "ch",
+        "after": " a new route and a clear, firm, fair choice.",
+        "answer": "choose"
+      },
+      {
+        "before": "Then one ",
+        "hint": "ca",
+        "after": " step lowers the risk again today.",
+        "answer": "careful"
+      },
+      {
+        "before": "The plain ",
+        "hint": "fa",
+        "after": " gives us a good and very simple reason.",
+        "answer": "fact"
+      },
+      {
+        "before": "A hard question waits quietly for a calm ",
+        "hint": "an",
+        "after": ".",
+        "answer": "answer"
+      },
+      {
+        "before": "The road is ",
+        "hint": "di",
+        "after": " and the cold, wet weather bad.",
+        "answer": "difficult"
+      },
+      {
+        "before": "We ",
+        "hint": "re",
+        "after": " a helpful suggestion from a kind local farmer today.",
+        "answer": "receive"
+      },
+      {
+        "before": "The rough road ",
+        "hint": "co",
+        "after": " improves before warm, bright noon each day.",
+        "answer": "condition"
+      }
+    ],
+    "b3": [
+      {
+        "before": "A safe ",
+        "hint": "ve",
+        "after": " waits near the old stone front gate.",
+        "answer": "vehicle"
+      },
+      {
+        "before": "Later, at this height, the long ",
+        "hint": "cl",
+        "after": " feels easy and short.",
+        "answer": "climb"
+      },
+      {
+        "before": "A ",
+        "hint": "de",
+        "after": " green valley touches the low grey cloud.",
+        "answer": "deep"
+      },
+      {
+        "before": "A brown cow licks a block of white kitchen ",
+        "hint": "sa",
+        "after": ".",
+        "answer": "salt"
+      },
+      {
+        "before": "A lucky guest tastes the local fish ",
+        "hint": "di",
+        "after": " first.",
+        "answer": "dish"
+      },
+      {
+        "before": "My soft ",
+        "hint": "mu",
+        "after": " helps the young girl sing again so well.",
+        "answer": "music"
+      },
+      {
+        "before": "Her ",
+        "hint": "ma",
+        "after": " show marks a fine, proud, happy debut today.",
+        "answer": "magic"
+      },
+      {
+        "before": "The ",
+        "hint": "cu",
+        "after": " event gives her a new, happy, useful role.",
+        "answer": "cultural"
+      },
+      {
+        "before": "A young calf is ",
+        "hint": "bo",
+        "after": " beside a small red rubber ball.",
+        "answer": "born"
+      },
+      {
+        "before": "My friend and I compare the two routes for one clear ",
+        "hint": "ad",
+        "after": ".",
+        "answer": "advantage"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "初秋时，一辆小小的旅游巴士静静地停在外面。",
+        "keywords": [
+          "autumn",
+          "tourist",
+          "bus"
+        ]
+      },
+      {
+        "zh": "今天一位好心的当地农民给了我们一个有用的建议。",
+        "keywords": [
+          "receive",
+          "suggestion",
+          "farmer"
+        ]
+      },
+      {
+        "zh": "后来，在这个高度，这段长长的攀爬显得轻松又短暂。",
+        "keywords": [
+          "height",
+          "climb",
+          "easy"
+        ]
+      },
+      {
+        "zh": "这场文化活动给了她一个新的、快乐又有用的角色。",
+        "keywords": [
+          "cultural",
+          "event",
+          "role"
+        ]
+      },
+      {
+        "zh": "一头小牛犊出生在一个小小的红色橡皮球旁边。",
+        "keywords": [
+          "calf",
+          "born",
+          "ball"
+        ]
+      },
+      {
+        "zh": "小心点，否则自行车今天可能会伤到人。",
+        "keywords": [
+          "care",
+          "bike",
+          "hurt"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 283,
+    "sentences": 28,
+    "newDensity": 0.208,
+    "targetTokenDensity": 0.208,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "以一辆秋日旅游巴士为主线，写经理带团上山、路况变差、向当地农民问路、看魔术与音乐表演并住进小咖啡馆的经历。"
+}

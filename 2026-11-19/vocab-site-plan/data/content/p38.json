@@ -1,0 +1,831 @@
+{
+  "id": "p38",
+  "title": "The Comedy Night at the Bay",
+  "titleZh": "海湾边的喜剧之夜",
+  "topic": "海湾军事基地关闭与募款喜剧夜",
+  "paragraphs": [
+    [
+      {
+        "en": "The small bay town relies on one military base.",
+        "zh": "这座小小的海湾小镇依赖着一处军事基地。"
+      },
+      {
+        "en": "A congressional report says the base will cease all work.",
+        "zh": "一份国会报告说，基地将停止一切工作。"
+      },
+      {
+        "en": "Local employees demand a clear plan from the town council soon.",
+        "zh": "本地员工要求镇议会尽快拿出一份明确的计划。"
+      },
+      {
+        "en": "My uncle's small firm may reduce its investment in the busy port.",
+        "zh": "我叔叔的小公司可能会减少它在繁忙港口的投资。"
+      },
+      {
+        "en": "A quiet volunteer group urges the town to stay hopeful.",
+        "zh": "一个安静的志愿者团体敦促小镇保持希望。"
+      },
+      {
+        "en": "A conventional solution seems less likely, yet quiet hope remains.",
+        "zh": "一个常规的解决方案似乎不太可能，但希望仍在。"
+      },
+      {
+        "en": "A local agent explains the new safety measure to the crowd.",
+        "zh": "一位本地代理人向人群解释了新的安全措施。"
+      },
+      {
+        "en": "The town needs equipment and a firm principle before winter.",
+        "zh": "小镇在冬天之前需要装备和一条坚定的原则。"
+      },
+      {
+        "en": "A minor official grants a small sum to our old school.",
+        "zh": "一位小官员给我们这所老学校拨了一小笔款。"
+      },
+      {
+        "en": "They compose a short tune for the school show.",
+        "zh": "他们为学校演出谱了一首短曲。"
+      }
+    ],
+    [
+      {
+        "en": "My cousin writes a short excerpt about a tired traveller from the north.",
+        "zh": "我表姐写了一小段摘录，讲一个来自北方的疲惫旅行者。"
+      },
+      {
+        "en": "A nationalist group disputes the plan at a public meeting.",
+        "zh": "一个民族主义团体在公开会议上对这项计划提出异议。"
+      },
+      {
+        "en": "Their anger grips the council, but the mood stays quiet.",
+        "zh": "他们的愤怒抓住了议会，但气氛仍然安静。"
+      },
+      {
+        "en": "A confident guide helps the new learners every cold morning.",
+        "zh": "一位自信的向导在每个寒冷的早晨帮助新学员。"
+      },
+      {
+        "en": "Then their appearance at the meeting ends in loud laughter.",
+        "zh": "然后他们出现在会上，最终引来大声的笑。"
+      },
+      {
+        "en": "During the meeting they respond with an unhappy voice.",
+        "zh": "会议期间，他们用不快乐的声音回应。"
+      },
+      {
+        "en": "A vital outcome depends on a clear and simple rule.",
+        "zh": "一个至关重要的结果取决于一条清楚而简单的规则。"
+      },
+      {
+        "en": "The burden on rural families grows with each long new week.",
+        "zh": "乡下家庭的负担每周都在加重。"
+      },
+      {
+        "en": "A belt of light comedy keeps the crowd awake.",
+        "zh": "一点点轻松的喜剧让观众保持清醒。"
+      },
+      {
+        "en": "Later a diplomatic team advances the plan and meets every allied group.",
+        "zh": "后来一个外交团队推进了计划，并会见了每一个盟方团体。"
+      }
+    ],
+    [
+      {
+        "en": "An intelligent report notes a growing deficit in the fund.",
+        "zh": "一份明智的报告指出基金中不断扩大的赤字。"
+      },
+      {
+        "en": "A dominant firm may slowly weaken the small local market.",
+        "zh": "一家占优势的公司可能会慢慢削弱这个小小的本地市场。"
+      },
+      {
+        "en": "A sudden crash ends the quiet calm of a warm evening.",
+        "zh": "一声突然的撞击结束了温暖夜晚的安静平静。"
+      },
+      {
+        "en": "Nevertheless the first offence occurs near the old wall.",
+        "zh": "然而，第一起违法行为发生在旧墙附近。"
+      },
+      {
+        "en": "A bold venture and a local initiative offer every worker a fair chance.",
+        "zh": "一项大胆的冒险和一项本地倡议给每个工人一个公平的机会。"
+      },
+      {
+        "en": "An efficient team makes a comprehensive review of all the files.",
+        "zh": "一个高效的团队对所有文件做了一次全面的审查。"
+      },
+      {
+        "en": "A blast of cold wind may violate the old constitution.",
+        "zh": "一阵冷风可能违反那部旧宪法。"
+      },
+      {
+        "en": "My grandfather says their beginning was hard but the town moves ahead.",
+        "zh": "我祖父说他们的开始很艰难，但小镇现在向前走。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "less",
+      "pos": "n./adj./adv.",
+      "zh": "较少",
+      "stars": 5,
+      "collocation": "seems less likely, yet"
+    },
+    {
+      "lemma": "demand",
+      "pos": "n./v.",
+      "zh": "要求",
+      "stars": 5,
+      "collocation": "employees demand a clear"
+    },
+    {
+      "lemma": "reduce",
+      "pos": "v.",
+      "zh": "减少",
+      "stars": 4,
+      "collocation": "may reduce its investment"
+    },
+    {
+      "lemma": "principle",
+      "pos": "n.",
+      "zh": "原则",
+      "stars": 4,
+      "collocation": "firm principle before winter."
+    },
+    {
+      "lemma": "measure",
+      "pos": "n./v.",
+      "zh": "尺寸",
+      "stars": 4,
+      "collocation": "safety measure to the"
+    },
+    {
+      "lemma": "equipment",
+      "pos": "n.",
+      "zh": "装备",
+      "stars": 4,
+      "collocation": "needs equipment and a"
+    },
+    {
+      "lemma": "agent",
+      "pos": "n.",
+      "zh": "代理商",
+      "stars": 4,
+      "collocation": "local agent explains the"
+    },
+    {
+      "lemma": "respond",
+      "pos": "v.",
+      "zh": "以...回答",
+      "stars": 4,
+      "collocation": "they respond with an"
+    },
+    {
+      "lemma": "appearance",
+      "pos": "n.",
+      "zh": "出现",
+      "stars": 4,
+      "collocation": "their appearance at the"
+    },
+    {
+      "lemma": "ahead",
+      "pos": "adj./adv.",
+      "zh": "领先的",
+      "stars": 4,
+      "collocation": "moves ahead."
+    },
+    {
+      "lemma": "guide",
+      "pos": "n./v.",
+      "zh": "引导者",
+      "stars": 4,
+      "collocation": "confident guide helps the"
+    },
+    {
+      "lemma": "advance",
+      "pos": "n./v./adj.",
+      "zh": "前进",
+      "stars": 4,
+      "collocation": "team advances the plan"
+    },
+    {
+      "lemma": "urge",
+      "pos": "n./v.",
+      "zh": "冲动",
+      "stars": 4,
+      "collocation": "group urges the town"
+    },
+    {
+      "lemma": "crash",
+      "pos": "n./v./adj.",
+      "zh": "哗啦声",
+      "stars": 4,
+      "collocation": "sudden crash ends the"
+    },
+    {
+      "lemma": "beginning",
+      "pos": "n.",
+      "zh": "开始",
+      "stars": 3,
+      "collocation": "their beginning was hard"
+    },
+    {
+      "lemma": "offence",
+      "pos": "n.",
+      "zh": "犯罪",
+      "stars": 3,
+      "collocation": "first offence occurs near"
+    },
+    {
+      "lemma": "rely",
+      "pos": "v.",
+      "zh": "信赖",
+      "stars": 3,
+      "collocation": "town relies on one"
+    },
+    {
+      "lemma": "vital",
+      "pos": "adj.",
+      "zh": "生命的",
+      "stars": 3,
+      "collocation": "A vital outcome depends"
+    },
+    {
+      "lemma": "outcome",
+      "pos": "n.",
+      "zh": "结果",
+      "stars": 3,
+      "collocation": "vital outcome depends on"
+    },
+    {
+      "lemma": "constitution",
+      "pos": "n.",
+      "zh": "构成",
+      "stars": 3,
+      "collocation": "old constitution."
+    },
+    {
+      "lemma": "conventional",
+      "pos": "adj.",
+      "zh": "传统的",
+      "stars": 3,
+      "collocation": "A conventional solution seems"
+    },
+    {
+      "lemma": "bay",
+      "pos": "n./v.",
+      "zh": "海湾",
+      "stars": 3,
+      "collocation": "small bay town relies"
+    },
+    {
+      "lemma": "anger",
+      "pos": "n./v.",
+      "zh": "忿怒",
+      "stars": 3,
+      "collocation": "Their anger grips the"
+    },
+    {
+      "lemma": "confident",
+      "pos": "adj.",
+      "zh": "有信心的",
+      "stars": 3,
+      "collocation": "A confident guide helps"
+    },
+    {
+      "lemma": "burden",
+      "pos": "n./v.",
+      "zh": "负担",
+      "stars": 3,
+      "collocation": "The burden on rural"
+    },
+    {
+      "lemma": "belt",
+      "pos": "n.",
+      "zh": "带子",
+      "stars": 3,
+      "collocation": "A belt of light"
+    },
+    {
+      "lemma": "volunteer",
+      "pos": "n./adj./v.",
+      "zh": "志愿者",
+      "stars": 3,
+      "collocation": "quiet volunteer group urges"
+    },
+    {
+      "lemma": "laughter",
+      "pos": "n.",
+      "zh": "笑",
+      "stars": 3,
+      "collocation": "loud laughter."
+    },
+    {
+      "lemma": "unhappy",
+      "pos": "adj.",
+      "zh": "不快乐的",
+      "stars": 3,
+      "collocation": "an unhappy voice."
+    },
+    {
+      "lemma": "tune",
+      "pos": "n./v.",
+      "zh": "歌曲",
+      "stars": 3,
+      "collocation": "short tune for the"
+    },
+    {
+      "lemma": "comedy",
+      "pos": "n.",
+      "zh": "喜剧",
+      "stars": 3,
+      "collocation": "light comedy keeps the"
+    },
+    {
+      "lemma": "calm",
+      "pos": "n./adj./v.",
+      "zh": "平稳",
+      "stars": 3,
+      "collocation": "quiet calm of a"
+    },
+    {
+      "lemma": "violate",
+      "pos": "v.",
+      "zh": "违犯",
+      "stars": 3,
+      "collocation": "may violate the old"
+    },
+    {
+      "lemma": "military",
+      "pos": "n./adj.",
+      "zh": "军队",
+      "stars": 5,
+      "collocation": "one military base."
+    },
+    {
+      "lemma": "investment",
+      "pos": "n.",
+      "zh": "投资",
+      "stars": 4,
+      "collocation": "its investment in the"
+    },
+    {
+      "lemma": "employee",
+      "pos": "n.",
+      "zh": "职员",
+      "stars": 4,
+      "collocation": "Local employees demand a"
+    },
+    {
+      "lemma": "grant",
+      "pos": "n./v.",
+      "zh": "授予",
+      "stars": 4,
+      "collocation": "official grants a small"
+    },
+    {
+      "lemma": "dispute",
+      "pos": "n./v.",
+      "zh": "争论",
+      "stars": 4,
+      "collocation": "group disputes the plan"
+    },
+    {
+      "lemma": "nevertheless",
+      "pos": "adv./conj.",
+      "zh": "然而",
+      "stars": 3,
+      "collocation": "Nevertheless the first"
+    },
+    {
+      "lemma": "rural",
+      "pos": "adj.",
+      "zh": "乡下的",
+      "stars": 3,
+      "collocation": "on rural families grows"
+    },
+    {
+      "lemma": "initiative",
+      "pos": "n./adj.",
+      "zh": "主动行动",
+      "stars": 3,
+      "collocation": "local initiative offer every"
+    },
+    {
+      "lemma": "minor",
+      "pos": "n./adj./v.",
+      "zh": "未成年人",
+      "stars": 3,
+      "collocation": "A minor official grants"
+    },
+    {
+      "lemma": "efficient",
+      "pos": "adj.",
+      "zh": "有效率的",
+      "stars": 3,
+      "collocation": "An efficient team makes"
+    },
+    {
+      "lemma": "comprehensive",
+      "pos": "adj.",
+      "zh": "广泛的",
+      "stars": 3,
+      "collocation": "a comprehensive review of"
+    },
+    {
+      "lemma": "cease",
+      "pos": "n./v.",
+      "zh": "停止",
+      "stars": 3,
+      "collocation": "will cease all work."
+    },
+    {
+      "lemma": "venture",
+      "pos": "n./v.",
+      "zh": "冒险",
+      "stars": 3,
+      "collocation": "bold venture and a"
+    },
+    {
+      "lemma": "compose",
+      "pos": "v.",
+      "zh": "组成",
+      "stars": 3,
+      "collocation": "They compose a short"
+    },
+    {
+      "lemma": "grip",
+      "pos": "n./v.",
+      "zh": "紧握",
+      "stars": 3,
+      "collocation": "anger grips the council,"
+    },
+    {
+      "lemma": "intelligent",
+      "pos": "adj.",
+      "zh": "聪明的",
+      "stars": 3,
+      "collocation": "An intelligent report notes"
+    },
+    {
+      "lemma": "weaken",
+      "pos": "v.",
+      "zh": "削弱",
+      "stars": 3,
+      "collocation": "slowly weaken the small"
+    },
+    {
+      "lemma": "blast",
+      "pos": "n./v.",
+      "zh": "一阵风",
+      "stars": 3,
+      "collocation": "A blast of cold"
+    },
+    {
+      "lemma": "deficit",
+      "pos": "n.",
+      "zh": "赤字",
+      "stars": 4,
+      "collocation": "growing deficit in the"
+    },
+    {
+      "lemma": "dominant",
+      "pos": "adj.",
+      "zh": "占优势的",
+      "stars": 3,
+      "collocation": "A dominant firm may"
+    },
+    {
+      "lemma": "diplomatic",
+      "pos": "adj.",
+      "zh": "外交的",
+      "stars": 3,
+      "collocation": "a diplomatic team advances"
+    },
+    {
+      "lemma": "allied",
+      "pos": "adj.",
+      "zh": "联盟的",
+      "stars": 3,
+      "collocation": "every allied group."
+    },
+    {
+      "lemma": "excerpt",
+      "pos": "n./v.",
+      "zh": "摘录",
+      "stars": 3,
+      "collocation": "short excerpt about a"
+    },
+    {
+      "lemma": "nationalist",
+      "pos": "n.",
+      "zh": "国家主义者",
+      "stars": 4,
+      "collocation": "A nationalist group disputes"
+    },
+    {
+      "lemma": "traveller",
+      "pos": "n.",
+      "zh": "旅行者",
+      "stars": 3,
+      "collocation": "tired traveller from the"
+    },
+    {
+      "lemma": "congressional",
+      "pos": "adj.",
+      "zh": "会议的",
+      "stars": 3,
+      "collocation": "A congressional report says"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“bay” 的意思是：",
+      "options": [
+        "海湾",
+        "港口",
+        "基地",
+        "山谷"
+      ],
+      "answer": 0,
+      "speak": "bay"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A congressional report says the base will ___ all work.",
+      "options": [
+        "cease",
+        "compose",
+        "respond",
+        "advance"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“vital” 的意思是：",
+      "options": [
+        "至关重要的",
+        "常规的",
+        "不快乐的",
+        "高效的"
+      ],
+      "answer": 0,
+      "speak": "vital"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "Their anger ___ the council, but the mood stays quiet.",
+      "options": [
+        "grips",
+        "grants",
+        "weakens",
+        "violates"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "An intelligent report notes a growing ___ in the fund.",
+      "options": [
+        "deficit",
+        "appearance",
+        "initiative",
+        "laughter"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“rural” 的意思是：",
+      "options": [
+        "乡下的",
+        "军事的",
+        "外交的",
+        "占优势的"
+      ],
+      "answer": 0,
+      "speak": "rural"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A blast of cold wind may ___ the old constitution.",
+      "options": [
+        "violate",
+        "reduce",
+        "urge",
+        "guide"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“traveller” 的意思是：",
+      "options": [
+        "旅行者",
+        "志愿者",
+        "代理人",
+        "员工"
+      ],
+      "answer": 0,
+      "speak": "traveller"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "The small bay town ",
+        "hint": "re",
+        "after": " on one military base.",
+        "answer": "relies"
+      },
+      {
+        "before": "A ",
+        "hint": "co",
+        "after": " report says the base will cease all work.",
+        "answer": "congressional"
+      },
+      {
+        "before": "Local ",
+        "hint": "em",
+        "after": " demand a clear plan from the town council soon.",
+        "answer": "employees"
+      },
+      {
+        "before": "My uncle's small firm may ",
+        "hint": "re",
+        "after": " its investment in the busy port.",
+        "answer": "reduce"
+      },
+      {
+        "before": "A quiet ",
+        "hint": "vo",
+        "after": " group urges the town to stay hopeful.",
+        "answer": "volunteer"
+      },
+      {
+        "before": "A ",
+        "hint": "co",
+        "after": " solution seems less likely, yet quiet hope remains.",
+        "answer": "conventional"
+      },
+      {
+        "before": "A local agent explains the new safety ",
+        "hint": "me",
+        "after": " to the crowd.",
+        "answer": "measure"
+      },
+      {
+        "before": "The town needs ",
+        "hint": "eq",
+        "after": " and a firm principle before winter.",
+        "answer": "equipment"
+      },
+      {
+        "before": "A minor official ",
+        "hint": "gr",
+        "after": " a small sum to our old school.",
+        "answer": "grants"
+      },
+      {
+        "before": "They ",
+        "hint": "co",
+        "after": " a short tune for the school show.",
+        "answer": "compose"
+      }
+    ],
+    "b3": [
+      {
+        "before": "A ",
+        "hint": "be",
+        "after": " of light comedy keeps the crowd awake.",
+        "answer": "belt"
+      },
+      {
+        "before": "Later a ",
+        "hint": "di",
+        "after": " team advances the plan and meets every allied group.",
+        "answer": "diplomatic"
+      },
+      {
+        "before": "An intelligent report notes a growing ",
+        "hint": "de",
+        "after": " in the fund.",
+        "answer": "deficit"
+      },
+      {
+        "before": "A dominant firm may slowly ",
+        "hint": "we",
+        "after": " the small local market.",
+        "answer": "weaken"
+      },
+      {
+        "before": "A sudden ",
+        "hint": "cr",
+        "after": " ends the quiet calm of a warm evening.",
+        "answer": "crash"
+      },
+      {
+        "before": "Nevertheless the first ",
+        "hint": "of",
+        "after": " occurs near the old wall.",
+        "answer": "offence"
+      },
+      {
+        "before": "A bold venture and a local ",
+        "hint": "in",
+        "after": " offer every worker a fair chance.",
+        "answer": "initiative"
+      },
+      {
+        "before": "An efficient team makes a ",
+        "hint": "co",
+        "after": " review of all the files.",
+        "answer": "comprehensive"
+      },
+      {
+        "before": "A blast of cold wind may ",
+        "hint": "vi",
+        "after": " the old constitution.",
+        "answer": "violate"
+      },
+      {
+        "before": "My grandfather says their ",
+        "hint": "be",
+        "after": " was hard but the town moves ahead.",
+        "answer": "beginning"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "这座小小的海湾小镇依赖着一处军事基地。",
+        "keywords": [
+          "bay",
+          "relies",
+          "military"
+        ]
+      },
+      {
+        "zh": "我叔叔的小公司可能会减少它在繁忙港口的投资。",
+        "keywords": [
+          "reduce",
+          "investment",
+          "port"
+        ]
+      },
+      {
+        "zh": "我表姐写了一小段摘录，讲一个来自北方的疲惫旅行者。",
+        "keywords": [
+          "excerpt",
+          "traveller",
+          "north"
+        ]
+      },
+      {
+        "zh": "乡下家庭的负担每周都在加重。",
+        "keywords": [
+          "burden",
+          "rural",
+          "families"
+        ]
+      },
+      {
+        "zh": "一项大胆的冒险和一项本地倡议给每个工人一个公平的机会。",
+        "keywords": [
+          "venture",
+          "initiative",
+          "chance"
+        ]
+      },
+      {
+        "zh": "一阵冷风可能违反那部旧宪法。",
+        "keywords": [
+          "blast",
+          "violate",
+          "constitution"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 293,
+    "sentences": 28,
+    "newDensity": 0.201,
+    "targetTokenDensity": 0.201,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写海湾小镇的军事基地关闭：国会报告、员工的诉求、志愿者与常规方案、代理人解释新措施、小笔拨款、为募款举办的喜剧之夜，结尾是赤字、争议与旧宪法。"
+}

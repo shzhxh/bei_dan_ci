@@ -1,0 +1,830 @@
+{
+  "id": "p27",
+  "title": "Deadline at the Weekly Paper",
+  "titleZh": "周报的截稿日",
+  "topic": "周报编辑部",
+  "paragraphs": [
+    [
+      {
+        "en": "Our weekly paper fills one entire floor of the old headquarters.",
+        "zh": "我们周报占了旧总部整整一层楼。"
+      },
+      {
+        "en": "My section needs a strong performance before the morning print.",
+        "zh": "我的版面需要一次出色的表现，赶在早晨付印之前。"
+      },
+      {
+        "en": "An adult pays no entry fee for our simple online news.",
+        "zh": "成年人阅读我们简单的在线新闻无需入场费。"
+      },
+      {
+        "en": "A variety of stories exists on my crowded wooden desk.",
+        "zh": "我拥挤的木桌上有各种各样的报道。"
+      },
+      {
+        "en": "The editor approves each story that meets the requirement.",
+        "zh": "编辑批准每一篇符合要求的报道。"
+      },
+      {
+        "en": "My first challenge is a storm report, and I am eager.",
+        "zh": "我的第一个挑战是一篇暴风雨报道，我跃跃欲试。"
+      },
+      {
+        "en": "The flood covered the football pitch and the small car park.",
+        "zh": "洪水淹没了足球场和小停车场。"
+      },
+      {
+        "en": "A broken cable and a metal tube lie in the wet mud.",
+        "zh": "一根断掉的电缆和一根金属管躺在湿泥里。"
+      },
+      {
+        "en": "Then no casualty is reported, but one witness saw the water rise.",
+        "zh": "然后没有人员伤亡的报告，但一位目击者看到水位上涨。"
+      },
+      {
+        "en": "Police suspect two men and write a description of an armed stranger.",
+        "zh": "警方怀疑两名男子，并写下一名持械陌生人的描述。"
+      }
+    ],
+    [
+      {
+        "en": "The paper bans offensive words in every crime report.",
+        "zh": "本报禁止在每一篇犯罪报道中使用冒犯性的词。"
+      },
+      {
+        "en": "A health survey covers ethnic background, age, and sexual health.",
+        "zh": "一项健康调查涵盖族裔背景、年龄和性健康。"
+      },
+      {
+        "en": "Doctors link each symptom to stress and simple psychology.",
+        "zh": "医生把每个症状都与压力和简单的心理联系起来。"
+      },
+      {
+        "en": "Later most patients recover and feel better within a single week.",
+        "zh": "后来大多数病人在一周内康复，感觉好多了。"
+      },
+      {
+        "en": "A caring adviser answers every call at the small local clinic.",
+        "zh": "一位有爱心的顾问在小诊所接听每一通电话。"
+      },
+      {
+        "en": "Initially, few people join, and some remain reluctant.",
+        "zh": "起初很少有人加入，有些人仍然不情愿。"
+      },
+      {
+        "en": "A simple solution may help the local economy grow.",
+        "zh": "一个简单的方案可能帮助当地经济增长。"
+      },
+      {
+        "en": "A young band plays at noon, just before the hard deadline.",
+        "zh": "一支年轻乐队在中午演出，正好赶在截止时间之前。"
+      },
+      {
+        "en": "One guy brings real discipline to our busy team.",
+        "zh": "一个家伙为我们忙碌的团队带来了真正的纪律。"
+      },
+      {
+        "en": "The story meets every expectation, and a historical note fits.",
+        "zh": "这篇报道符合所有期待，一段历史注解也很合适。"
+      }
+    ],
+    [
+      {
+        "en": "My page looks truly good, and I feel pleased.",
+        "zh": "我的版面看起来真的不错，我感到满意。"
+      },
+      {
+        "en": "Personally, I have a good command of simple words.",
+        "zh": "就我个人而言，我简单用词的能力还不错。"
+      },
+      {
+        "en": "Then we squeeze the last story in, but compromise on length.",
+        "zh": "然后我们硬塞进最后一篇报道，但在篇幅上做了妥协。"
+      },
+      {
+        "en": "The effect is partly clear, and readers notice it.",
+        "zh": "效果部分清楚，读者也能注意到。"
+      },
+      {
+        "en": "An enormous photo looks somewhat strange on this page.",
+        "zh": "一张巨大的照片在这一页上显得有些奇怪。"
+      },
+      {
+        "en": "I bet the long night will exhaust the whole tired team.",
+        "zh": "我敢打赌，这漫长的一夜会让整个疲惫的团队精疲力尽。"
+      },
+      {
+        "en": "A joint scheme may boost the town and its shops.",
+        "zh": "一个联合方案可能会促进小镇及其商铺。"
+      },
+      {
+        "en": "In spite of the cold wind, the killer stays calm.",
+        "zh": "尽管有冷风，凶手依然保持平静。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "effect",
+      "pos": "n./v.",
+      "zh": "结果",
+      "stars": 5,
+      "collocation": "The effect is partly"
+    },
+    {
+      "lemma": "better",
+      "pos": "adj./adv.",
+      "zh": "较好的",
+      "stars": 5,
+      "collocation": "feel better within a"
+    },
+    {
+      "lemma": "section",
+      "pos": "n./v.",
+      "zh": "区段",
+      "stars": 4,
+      "collocation": "My section needs a"
+    },
+    {
+      "lemma": "performance",
+      "pos": "n.",
+      "zh": "施行",
+      "stars": 4,
+      "collocation": "strong performance before the"
+    },
+    {
+      "lemma": "exist",
+      "pos": "v.",
+      "zh": "存在",
+      "stars": 4,
+      "collocation": "stories exists on my"
+    },
+    {
+      "lemma": "variety",
+      "pos": "n.",
+      "zh": "多样",
+      "stars": 4,
+      "collocation": "A variety of stories"
+    },
+    {
+      "lemma": "band",
+      "pos": "n./v.",
+      "zh": "带子",
+      "stars": 4,
+      "collocation": "young band plays at"
+    },
+    {
+      "lemma": "adult",
+      "pos": "n./adj.",
+      "zh": "成人",
+      "stars": 4,
+      "collocation": "An adult pays no"
+    },
+    {
+      "lemma": "entry",
+      "pos": "n.",
+      "zh": "登录",
+      "stars": 4,
+      "collocation": "no entry fee for"
+    },
+    {
+      "lemma": "challenge",
+      "pos": "n./v.",
+      "zh": "挑战",
+      "stars": 4,
+      "collocation": "first challenge is a"
+    },
+    {
+      "lemma": "approve",
+      "pos": "v.",
+      "zh": "赞同",
+      "stars": 4,
+      "collocation": "editor approves each story"
+    },
+    {
+      "lemma": "entire",
+      "pos": "n./adj.",
+      "zh": "整个",
+      "stars": 4,
+      "collocation": "one entire floor of"
+    },
+    {
+      "lemma": "suspect",
+      "pos": "n./adj./v.",
+      "zh": "被怀疑者",
+      "stars": 4,
+      "collocation": "Police suspect two men"
+    },
+    {
+      "lemma": "ban",
+      "pos": "n./v.",
+      "zh": "禁令",
+      "stars": 4,
+      "collocation": "paper bans offensive words"
+    },
+    {
+      "lemma": "requirement",
+      "pos": "n.",
+      "zh": "需求",
+      "stars": 3,
+      "collocation": "the requirement."
+    },
+    {
+      "lemma": "description",
+      "pos": "n.",
+      "zh": "描述",
+      "stars": 3,
+      "collocation": "a description of an"
+    },
+    {
+      "lemma": "partly",
+      "pos": "adv.",
+      "zh": "部分地",
+      "stars": 3,
+      "collocation": "is partly clear, and"
+    },
+    {
+      "lemma": "recover",
+      "pos": "v.",
+      "zh": "重新获得",
+      "stars": 3,
+      "collocation": "patients recover and feel"
+    },
+    {
+      "lemma": "pleased",
+      "pos": "adj.",
+      "zh": "高兴的",
+      "stars": 3,
+      "collocation": "feel pleased."
+    },
+    {
+      "lemma": "expectation",
+      "pos": "n.",
+      "zh": "期待",
+      "stars": 3,
+      "collocation": "every expectation, and a"
+    },
+    {
+      "lemma": "command",
+      "pos": "n./v.",
+      "zh": "命令",
+      "stars": 3,
+      "collocation": "good command of simple"
+    },
+    {
+      "lemma": "symptom",
+      "pos": "n.",
+      "zh": "症状",
+      "stars": 3,
+      "collocation": "each symptom to stress"
+    },
+    {
+      "lemma": "witness",
+      "pos": "n./v.",
+      "zh": "证人",
+      "stars": 3,
+      "collocation": "one witness saw the"
+    },
+    {
+      "lemma": "truly",
+      "pos": "adv.",
+      "zh": "真实地",
+      "stars": 3,
+      "collocation": "looks truly good, and"
+    },
+    {
+      "lemma": "tube",
+      "pos": "n./v.",
+      "zh": "管",
+      "stars": 3,
+      "collocation": "metal tube lie in"
+    },
+    {
+      "lemma": "personally",
+      "pos": "adv.",
+      "zh": "亲自地",
+      "stars": 3,
+      "collocation": "Personally, I have"
+    },
+    {
+      "lemma": "psychology",
+      "pos": "n.",
+      "zh": "心理学",
+      "stars": 3,
+      "collocation": "simple psychology."
+    },
+    {
+      "lemma": "weekly",
+      "pos": "n./adj./adv.",
+      "zh": "周刊",
+      "stars": 3,
+      "collocation": "Our weekly paper fills"
+    },
+    {
+      "lemma": "squeeze",
+      "pos": "n./v.",
+      "zh": "紧握",
+      "stars": 3,
+      "collocation": "we squeeze the last"
+    },
+    {
+      "lemma": "compromise",
+      "pos": "n./v.",
+      "zh": "妥协",
+      "stars": 3,
+      "collocation": "but compromise on length."
+    },
+    {
+      "lemma": "flood",
+      "pos": "n./v.",
+      "zh": "洪水",
+      "stars": 3,
+      "collocation": "The flood covered the"
+    },
+    {
+      "lemma": "eager",
+      "pos": "adj.",
+      "zh": "热心的",
+      "stars": 3,
+      "collocation": "am eager."
+    },
+    {
+      "lemma": "deadline",
+      "pos": "n.",
+      "zh": "最后期限",
+      "stars": 3,
+      "collocation": "hard deadline."
+    },
+    {
+      "lemma": "economy",
+      "pos": "n.",
+      "zh": "经济",
+      "stars": 5,
+      "collocation": "local economy grow."
+    },
+    {
+      "lemma": "scheme",
+      "pos": "n./v.",
+      "zh": "方案",
+      "stars": 4,
+      "collocation": "joint scheme may boost"
+    },
+    {
+      "lemma": "solution",
+      "pos": "n.",
+      "zh": "解决",
+      "stars": 4,
+      "collocation": "simple solution may help"
+    },
+    {
+      "lemma": "sexual",
+      "pos": "adj.",
+      "zh": "性的",
+      "stars": 4,
+      "collocation": "and sexual health."
+    },
+    {
+      "lemma": "joint",
+      "pos": "n./adj./v.",
+      "zh": "连接处",
+      "stars": 4,
+      "collocation": "A joint scheme may"
+    },
+    {
+      "lemma": "guy",
+      "pos": "n./v.",
+      "zh": "家伙",
+      "stars": 4,
+      "collocation": "One guy brings real"
+    },
+    {
+      "lemma": "discipline",
+      "pos": "n./v.",
+      "zh": "训练",
+      "stars": 3,
+      "collocation": "real discipline to our"
+    },
+    {
+      "lemma": "historical",
+      "pos": "adj.",
+      "zh": "历史的",
+      "stars": 3,
+      "collocation": "a historical note fits."
+    },
+    {
+      "lemma": "somewhat",
+      "pos": "n./adv.",
+      "zh": "某物",
+      "stars": 3,
+      "collocation": "looks somewhat strange on"
+    },
+    {
+      "lemma": "enormous",
+      "pos": "adj.",
+      "zh": "巨大的",
+      "stars": 3,
+      "collocation": "An enormous photo looks"
+    },
+    {
+      "lemma": "pitch",
+      "pos": "n./v.",
+      "zh": "程度",
+      "stars": 3,
+      "collocation": "football pitch and the"
+    },
+    {
+      "lemma": "headquarters",
+      "pos": "n.",
+      "zh": "总部",
+      "stars": 3,
+      "collocation": "old headquarters."
+    },
+    {
+      "lemma": "cable",
+      "pos": "n./v.",
+      "zh": "电缆",
+      "stars": 3,
+      "collocation": "broken cable and a"
+    },
+    {
+      "lemma": "bet",
+      "pos": "n./v.",
+      "zh": "打赌",
+      "stars": 3,
+      "collocation": "I bet the long"
+    },
+    {
+      "lemma": "reluctant",
+      "pos": "adj.",
+      "zh": "不情愿的",
+      "stars": 3,
+      "collocation": "remain reluctant."
+    },
+    {
+      "lemma": "boost",
+      "pos": "n./v.",
+      "zh": "推进",
+      "stars": 3,
+      "collocation": "may boost the town"
+    },
+    {
+      "lemma": "exhaust",
+      "pos": "n./v.",
+      "zh": "排气",
+      "stars": 3,
+      "collocation": "will exhaust the whole"
+    },
+    {
+      "lemma": "spite",
+      "pos": "n./v.",
+      "zh": "恶意",
+      "stars": 3,
+      "collocation": "In spite of the"
+    },
+    {
+      "lemma": "initially",
+      "pos": "adv.",
+      "zh": "最初",
+      "stars": 3,
+      "collocation": "Initially, few people"
+    },
+    {
+      "lemma": "ethnic",
+      "pos": "adj.",
+      "zh": "人种的",
+      "stars": 3,
+      "collocation": "covers ethnic background, age,"
+    },
+    {
+      "lemma": "casualty",
+      "pos": "n.",
+      "zh": "意外事故",
+      "stars": 3,
+      "collocation": "no casualty is reported,"
+    },
+    {
+      "lemma": "offensive",
+      "pos": "adj.",
+      "zh": "令人不快的",
+      "stars": 3,
+      "collocation": "bans offensive words in"
+    },
+    {
+      "lemma": "armed",
+      "pos": "adj.",
+      "zh": "有扶手的",
+      "stars": 4,
+      "collocation": "an armed stranger."
+    },
+    {
+      "lemma": "adviser",
+      "pos": "n.",
+      "zh": "顾问",
+      "stars": 3,
+      "collocation": "caring adviser answers every"
+    },
+    {
+      "lemma": "killer",
+      "pos": "n.",
+      "zh": "杀人者",
+      "stars": 3,
+      "collocation": "the killer stays calm."
+    },
+    {
+      "lemma": "caring",
+      "pos": "adj.",
+      "zh": "有同情心的",
+      "stars": 3,
+      "collocation": "A caring adviser answers"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“deadline” 的意思是：",
+      "options": [
+        "截止时间",
+        "入场费",
+        "总部",
+        "调查"
+      ],
+      "answer": 0,
+      "speak": "deadline"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The flood covered the football ___ and the small car park.",
+      "options": [
+        "pitch",
+        "tube",
+        "section",
+        "command"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“casualty” 的意思是：",
+      "options": [
+        "伤亡人员",
+        "目击者",
+        "嫌疑人",
+        "凶手"
+      ],
+      "answer": 0,
+      "speak": "casualty"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A caring ___ answers every call at the small local clinic.",
+      "options": [
+        "adviser",
+        "killer",
+        "stranger",
+        "guy"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "Doctors link each ___ to stress and simple psychology.",
+      "options": [
+        "symptom",
+        "scheme",
+        "compromise",
+        "solution"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“reluctant” 的意思是：",
+      "options": [
+        "不情愿的",
+        "急切的",
+        "满意的",
+        "有爱心的"
+      ],
+      "answer": 0,
+      "speak": "reluctant"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A joint scheme may ___ the town and its shops.",
+      "options": [
+        "boost",
+        "ban",
+        "exhaust",
+        "squeeze"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“discipline” 的意思是：",
+      "options": [
+        "纪律",
+        "期望",
+        "效果",
+        "借口"
+      ],
+      "answer": 0,
+      "speak": "discipline"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "Our ",
+        "hint": "we",
+        "after": " paper fills one entire floor of the old headquarters.",
+        "answer": "weekly"
+      },
+      {
+        "before": "My ",
+        "hint": "se",
+        "after": " needs a strong performance before the morning print.",
+        "answer": "section"
+      },
+      {
+        "before": "An ",
+        "hint": "ad",
+        "after": " pays no entry fee for our simple online news.",
+        "answer": "adult"
+      },
+      {
+        "before": "A ",
+        "hint": "va",
+        "after": " of stories exists on my crowded wooden desk.",
+        "answer": "variety"
+      },
+      {
+        "before": "The editor ",
+        "hint": "ap",
+        "after": " each story that meets the requirement.",
+        "answer": "approves"
+      },
+      {
+        "before": "My first challenge is a storm report, and I am ",
+        "hint": "ea",
+        "after": ".",
+        "answer": "eager"
+      },
+      {
+        "before": "The flood covered the football ",
+        "hint": "pi",
+        "after": " and the small car park.",
+        "answer": "pitch"
+      },
+      {
+        "before": "A broken ",
+        "hint": "ca",
+        "after": " and a metal tube lie in the wet mud.",
+        "answer": "cable"
+      },
+      {
+        "before": "Then no ",
+        "hint": "ca",
+        "after": " is reported, but one witness saw the water rise.",
+        "answer": "casualty"
+      },
+      {
+        "before": "Police suspect two men and write a description of an ",
+        "hint": "ar",
+        "after": " stranger.",
+        "answer": "armed"
+      }
+    ],
+    "b3": [
+      {
+        "before": "One guy brings real ",
+        "hint": "di",
+        "after": " to our busy team.",
+        "answer": "discipline"
+      },
+      {
+        "before": "The story meets every ",
+        "hint": "ex",
+        "after": ", and a historical note fits.",
+        "answer": "expectation"
+      },
+      {
+        "before": "My page looks truly good, and I feel ",
+        "hint": "pl",
+        "after": ".",
+        "answer": "pleased"
+      },
+      {
+        "before": "Personally, I have a good ",
+        "hint": "co",
+        "after": " of simple words.",
+        "answer": "command"
+      },
+      {
+        "before": "Then we squeeze the last story in, but ",
+        "hint": "co",
+        "after": " on length.",
+        "answer": "compromise"
+      },
+      {
+        "before": "The ",
+        "hint": "ef",
+        "after": " is partly clear, and readers notice it.",
+        "answer": "effect"
+      },
+      {
+        "before": "An enormous photo looks ",
+        "hint": "so",
+        "after": " strange on this page.",
+        "answer": "somewhat"
+      },
+      {
+        "before": "I bet the long night will ",
+        "hint": "ex",
+        "after": " the whole tired team.",
+        "answer": "exhaust"
+      },
+      {
+        "before": "A joint scheme may ",
+        "hint": "bo",
+        "after": " the town and its shops.",
+        "answer": "boost"
+      },
+      {
+        "before": "In ",
+        "hint": "sp",
+        "after": " of the cold wind, the killer stays calm.",
+        "answer": "spite"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我们周报占了旧总部整整一层楼。",
+        "keywords": [
+          "weekly",
+          "entire",
+          "headquarters"
+        ]
+      },
+      {
+        "zh": "洪水淹没了足球场和小停车场。",
+        "keywords": [
+          "flood",
+          "pitch",
+          "car park"
+        ]
+      },
+      {
+        "zh": "警方怀疑两名男子，并写下一名持械陌生人的描述。",
+        "keywords": [
+          "suspect",
+          "description",
+          "armed"
+        ]
+      },
+      {
+        "zh": "一项健康调查涵盖族裔背景、年龄和性健康。",
+        "keywords": [
+          "survey",
+          "ethnic",
+          "sexual"
+        ]
+      },
+      {
+        "zh": "一个简单的方案可能帮助当地经济增长。",
+        "keywords": [
+          "solution",
+          "economy"
+        ]
+      },
+      {
+        "zh": "我敢打赌，这漫长的一夜会让整个疲惫的团队精疲力尽。",
+        "keywords": [
+          "bet",
+          "exhaust",
+          "team"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 284,
+    "sentences": 28,
+    "newDensity": 0.208,
+    "targetTokenDensity": 0.208,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写周报截稿日的一天：版面表现、洪水与断裂电缆、伤亡与目击者、犯罪描述与禁令、健康调查与心理症状，最后是乐队、联合方案与编辑部的疲惫。"
+}

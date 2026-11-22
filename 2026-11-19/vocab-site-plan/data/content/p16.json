@@ -1,0 +1,831 @@
+{
+  "id": "p16",
+  "title": "The Repair Shop on the Square",
+  "titleZh": "广场边的修理铺",
+  "topic": "手艺与街区",
+  "paragraphs": [
+    [
+      {
+        "en": "My father is ninety, and he still keeps a repair shop.",
+        "zh": "我父亲九十岁了，还守着一间修理铺。"
+      },
+      {
+        "en": "His office sits in the town centre, beside the square.",
+        "zh": "他的办公室在镇中心，就在广场旁边。"
+      },
+      {
+        "en": "He has worked at that bench a very long time.",
+        "zh": "他在那张工作台前干了很久很久。"
+      },
+      {
+        "en": "My dad builds clocks, creates lamps, and fixes every wheel.",
+        "zh": "我爸修钟、做台灯，什么轮子都能修。"
+      },
+      {
+        "en": "He really likes old brass parts more than cheap plastic ones.",
+        "zh": "比起廉价的塑料件，他真的很喜欢旧黄铜零件。"
+      },
+      {
+        "en": "People notice he is never silent while he works.",
+        "zh": "人们发现他干活时从不沉默。"
+      }
+    ],
+    [
+      {
+        "en": "A mad little box arrives with a hole in its side.",
+        "zh": "一只古怪的小盒子被送来，侧面破了个洞。"
+      },
+      {
+        "en": "He found it travelling in a field west of the old house.",
+        "zh": "那是他旅行时在老房子西边的一块地里捡到的。"
+      },
+      {
+        "en": "The old man knocks it twice, and a warm blow escapes.",
+        "zh": "老人敲了两下，一股热气冒了出来。"
+      },
+      {
+        "en": "Something white hides inside, a small human figure.",
+        "zh": "里面藏着个白色的东西，是个小小的人形。"
+      },
+      {
+        "en": "His printed numbers show the degree of an interesting discovery.",
+        "zh": "上面印着的数字显示出一个有趣发现的程度。"
+      }
+    ],
+    [
+      {
+        "en": "An arm turns the wheel in a steady direction and starts three lines.",
+        "zh": "一条手臂带着轮子朝稳定方向转，起手画三条线。"
+      },
+      {
+        "en": "He will build a second machine and introduce it to school.",
+        "zh": "他要再做一台机器，把它介绍给学校。"
+      },
+      {
+        "en": "The boy laughs and says the wooden wicket will work.",
+        "zh": "男孩笑了，说那根木球门柱还能用。"
+      },
+      {
+        "en": "Everyone stops to watch the metal arm move.",
+        "zh": "所有人都停下来看那条金属手臂动。"
+      },
+      {
+        "en": "Then he explains each step and praises the boy's clever hands.",
+        "zh": "接着他讲解每一步，还夸男孩的手很巧。"
+      },
+      {
+        "en": "\"You have a true gift,\" he says, \"and a very steady hand.\"",
+        "zh": "“你有真天赋，”他说，“还有一双非常稳的手。”"
+      }
+    ],
+    [
+      {
+        "en": "Later, the shop smells of fried fish and evening tea.",
+        "zh": "后来，铺子里飘着炸鱼和晚茶的味道。"
+      },
+      {
+        "en": "A young woman brings an old dress back to a new life.",
+        "zh": "一位年轻女子把一条旧裙子带回新的生活。"
+      },
+      {
+        "en": "The cost does not bother her, and the bill is small.",
+        "zh": "费用并不让她为难，账单也很小。"
+      },
+      {
+        "en": "He often says a good repair is possible, so do not worry.",
+        "zh": "他常说好好修一修总有办法，所以别担心。"
+      },
+      {
+        "en": "He says the hole is no danger and the stain will go.",
+        "zh": "他说那个洞不危险，污渍也会去掉。"
+      },
+      {
+        "en": "Some children play football outside, and a flag waves nearby.",
+        "zh": "外面有几个孩子在踢足球，旁边一面旗子在飘。"
+      }
+    ],
+    [
+      {
+        "en": "Then the shop closes at nine, except on cold winter match nights.",
+        "zh": "然后铺子九点关门，只有寒冷的冬夜比赛除外。"
+      },
+      {
+        "en": "Hard years can kill even a small shop, and danger is always near.",
+        "zh": "艰难的年份能杀死一间小店，危险总在不远处。"
+      },
+      {
+        "en": "My mother did not want me to marry a quiet man from the west.",
+        "zh": "我母亲不想让我嫁给一个从西边来的安静男人。"
+      },
+      {
+        "en": "That is how a small shop can happen, and how it grows.",
+        "zh": "一间小店就是这样发生的，也是这样长大的。"
+      },
+      {
+        "en": "A tiny bathroom sits behind the office, full of spare boxes.",
+        "zh": "办公室后面有个小浴室，塞满了备用箱子。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "at",
+      "pos": "prep.",
+      "zh": "在",
+      "stars": 5,
+      "collocation": "worked at that"
+    },
+    {
+      "lemma": "time",
+      "pos": "n/v/adj.",
+      "zh": "时间；测定...的时间",
+      "stars": 5,
+      "collocation": "long time"
+    },
+    {
+      "lemma": "very",
+      "pos": "adj/adv.",
+      "zh": "真正的；非常",
+      "stars": 5,
+      "collocation": "a very long"
+    },
+    {
+      "lemma": "three",
+      "pos": "num.",
+      "zh": "三",
+      "stars": 5,
+      "collocation": "starts three lines"
+    },
+    {
+      "lemma": "life",
+      "pos": "n.",
+      "zh": "生活",
+      "stars": 5,
+      "collocation": "new life"
+    },
+    {
+      "lemma": "house",
+      "pos": "n/v.",
+      "zh": "房子；给...房子住",
+      "stars": 5,
+      "collocation": "old house"
+    },
+    {
+      "lemma": "really",
+      "pos": "adv.",
+      "zh": "实际上",
+      "stars": 5,
+      "collocation": "He really likes"
+    },
+    {
+      "lemma": "start",
+      "pos": "n/v.",
+      "zh": "惊起；开始",
+      "stars": 5,
+      "collocation": "and starts three"
+    },
+    {
+      "lemma": "often",
+      "pos": "adv.",
+      "zh": "时常",
+      "stars": 5,
+      "collocation": "He often says"
+    },
+    {
+      "lemma": "possible",
+      "pos": "adj/n.",
+      "zh": "可能的；可能性",
+      "stars": 5,
+      "collocation": "is possible, so"
+    },
+    {
+      "lemma": "happen",
+      "pos": "v.",
+      "zh": "发生",
+      "stars": 5,
+      "collocation": "can happen, and"
+    },
+    {
+      "lemma": "office",
+      "pos": "n.",
+      "zh": "办公室",
+      "stars": 5,
+      "collocation": "His office sits"
+    },
+    {
+      "lemma": "centre",
+      "pos": "n/adj/v.",
+      "zh": "中心；中央的",
+      "stars": 5,
+      "collocation": "town centre, beside"
+    },
+    {
+      "lemma": "father",
+      "pos": "n/v.",
+      "zh": "父亲；当...的父亲",
+      "stars": 5,
+      "collocation": "My father is"
+    },
+    {
+      "lemma": "build",
+      "pos": "v/n.",
+      "zh": "建立；构造",
+      "stars": 5,
+      "collocation": "dad builds clocks"
+    },
+    {
+      "lemma": "create",
+      "pos": "v.",
+      "zh": "创造",
+      "stars": 5,
+      "collocation": "clocks, creates lamps"
+    },
+    {
+      "lemma": "white",
+      "pos": "n/adj.",
+      "zh": "白色；白色的",
+      "stars": 5,
+      "collocation": "Something white hides"
+    },
+    {
+      "lemma": "grow",
+      "pos": "v.",
+      "zh": "种植；生长",
+      "stars": 5,
+      "collocation": "it grows"
+    },
+    {
+      "lemma": "human",
+      "pos": "n/adj.",
+      "zh": "人；人类的",
+      "stars": 5,
+      "collocation": "small human figure"
+    },
+    {
+      "lemma": "kill",
+      "pos": "n/v.",
+      "zh": "杀",
+      "stars": 5,
+      "collocation": "can kill even"
+    },
+    {
+      "lemma": "west",
+      "pos": "n/adj/adv.",
+      "zh": "西方；西方的",
+      "stars": 5,
+      "collocation": "field west of"
+    },
+    {
+      "lemma": "laugh",
+      "pos": "n/v.",
+      "zh": "笑",
+      "stars": 5,
+      "collocation": "boy laughs and"
+    },
+    {
+      "lemma": "ninety",
+      "pos": "num.",
+      "zh": "九十",
+      "stars": 5,
+      "collocation": "is ninety, and"
+    },
+    {
+      "lemma": "while",
+      "pos": "n/conj/v.",
+      "zh": "一会儿；当...的时候",
+      "stars": 4,
+      "collocation": "silent while he"
+    },
+    {
+      "lemma": "true",
+      "pos": "adj/n/adv.",
+      "zh": "真实的；真实",
+      "stars": 4,
+      "collocation": "a true gift"
+    },
+    {
+      "lemma": "evening",
+      "pos": "n.",
+      "zh": "傍晚",
+      "stars": 4,
+      "collocation": "and evening tea"
+    },
+    {
+      "lemma": "introduce",
+      "pos": "v.",
+      "zh": "介绍",
+      "stars": 4,
+      "collocation": "and introduce it"
+    },
+    {
+      "lemma": "everyone",
+      "pos": "pron.",
+      "zh": "每个人",
+      "stars": 4,
+      "collocation": "Everyone stops"
+    },
+    {
+      "lemma": "degree",
+      "pos": "n.",
+      "zh": "程度",
+      "stars": 4,
+      "collocation": "the degree of"
+    },
+    {
+      "lemma": "bill",
+      "pos": "n/v.",
+      "zh": "帐单；开帐单",
+      "stars": 4,
+      "collocation": "the bill is"
+    },
+    {
+      "lemma": "direction",
+      "pos": "n.",
+      "zh": "方向",
+      "stars": 4,
+      "collocation": "steady direction and"
+    },
+    {
+      "lemma": "fish",
+      "pos": "n/v.",
+      "zh": "鱼；钓",
+      "stars": 4,
+      "collocation": "fried fish and"
+    },
+    {
+      "lemma": "notice",
+      "pos": "n/v.",
+      "zh": "注意",
+      "stars": 4,
+      "collocation": "People notice he"
+    },
+    {
+      "lemma": "travel",
+      "pos": "n/v.",
+      "zh": "旅行",
+      "stars": 4,
+      "collocation": "it travelling in"
+    },
+    {
+      "lemma": "marry",
+      "pos": "v.",
+      "zh": "与...结婚；结婚",
+      "stars": 4,
+      "collocation": "to marry a"
+    },
+    {
+      "lemma": "danger",
+      "pos": "n.",
+      "zh": "危险",
+      "stars": 4,
+      "collocation": "no danger and"
+    },
+    {
+      "lemma": "hole",
+      "pos": "n/v.",
+      "zh": "孔；挖洞",
+      "stars": 4,
+      "collocation": "a hole in"
+    },
+    {
+      "lemma": "football",
+      "pos": "n.",
+      "zh": "足球",
+      "stars": 4,
+      "collocation": "play football outside"
+    },
+    {
+      "lemma": "worry",
+      "pos": "n/v.",
+      "zh": "担心；使烦恼",
+      "stars": 4,
+      "collocation": "not worry"
+    },
+    {
+      "lemma": "dress",
+      "pos": "n/v.",
+      "zh": "服装；穿着",
+      "stars": 4,
+      "collocation": "old dress back"
+    },
+    {
+      "lemma": "square",
+      "pos": "n/adj/adv/v.",
+      "zh": "正方形；正方形的",
+      "stars": 4,
+      "collocation": "the square"
+    },
+    {
+      "lemma": "except",
+      "pos": "v/prep/conj.",
+      "zh": "除；反对",
+      "stars": 4,
+      "collocation": "nine, except on"
+    },
+    {
+      "lemma": "print",
+      "pos": "n/v.",
+      "zh": "打印",
+      "stars": 4,
+      "collocation": "His printed numbers"
+    },
+    {
+      "lemma": "part",
+      "pos": "n/v/adj.",
+      "zh": "部分；分开",
+      "stars": 3,
+      "collocation": "brass parts more"
+    },
+    {
+      "lemma": "interesting",
+      "pos": "adj.",
+      "zh": "有趣的",
+      "stars": 3,
+      "collocation": "an interesting discovery"
+    },
+    {
+      "lemma": "hide",
+      "pos": "n/v.",
+      "zh": "兽皮；藏",
+      "stars": 3,
+      "collocation": "white hides inside"
+    },
+    {
+      "lemma": "metal",
+      "pos": "n/adj/v.",
+      "zh": "金属；金属制的",
+      "stars": 3,
+      "collocation": "the metal arm"
+    },
+    {
+      "lemma": "blow",
+      "pos": "n/v.",
+      "zh": "吹",
+      "stars": 3,
+      "collocation": "warm blow escapes"
+    },
+    {
+      "lemma": "knock",
+      "pos": "n/v.",
+      "zh": "敲；敲击",
+      "stars": 3,
+      "collocation": "man knocks it"
+    },
+    {
+      "lemma": "wheel",
+      "pos": "n/v.",
+      "zh": "轮子；使旋转",
+      "stars": 3,
+      "collocation": "every wheel"
+    },
+    {
+      "lemma": "silent",
+      "pos": "adj.",
+      "zh": "沉默的",
+      "stars": 3,
+      "collocation": "never silent while"
+    },
+    {
+      "lemma": "discovery",
+      "pos": "n.",
+      "zh": "发现",
+      "stars": 3,
+      "collocation": "interesting discovery"
+    },
+    {
+      "lemma": "mad",
+      "pos": "adj/n.",
+      "zh": "疯狂的；狂怒",
+      "stars": 3,
+      "collocation": "A mad little"
+    },
+    {
+      "lemma": "bathroom",
+      "pos": "n.",
+      "zh": "浴室",
+      "stars": 3,
+      "collocation": "tiny bathroom sits"
+    },
+    {
+      "lemma": "clever",
+      "pos": "adj.",
+      "zh": "聪明的",
+      "stars": 3,
+      "collocation": "boy's clever hands"
+    },
+    {
+      "lemma": "flag",
+      "pos": "n/v.",
+      "zh": "标志；悬旗",
+      "stars": 3,
+      "collocation": "a flag waves"
+    },
+    {
+      "lemma": "praise",
+      "pos": "n/v.",
+      "zh": "赞美；称赞",
+      "stars": 3,
+      "collocation": "and praises the"
+    },
+    {
+      "lemma": "bother",
+      "pos": "v/n.",
+      "zh": "烦扰；烦恼",
+      "stars": 3,
+      "collocation": "not bother her"
+    },
+    {
+      "lemma": "wicket",
+      "pos": "n.",
+      "zh": "小门",
+      "stars": 3,
+      "collocation": "wooden wicket will"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“wicket” 在短文里指的是：",
+      "options": [
+        "轮子",
+        "球门柱",
+        "账单",
+        "浴室"
+      ],
+      "answer": 1,
+      "speak": "wicket"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "My father is ___, and he still keeps a repair shop.",
+      "options": [
+        "three",
+        "west",
+        "evening",
+        "ninety"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“bother” 的意思是：",
+      "options": [
+        "赞美",
+        "藏起",
+        "烦扰",
+        "敲"
+      ],
+      "answer": 2,
+      "speak": "bother"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "His printed numbers show the ___ of an interesting discovery.",
+      "options": [
+        "degree",
+        "direction",
+        "bill",
+        "hole"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "Something white ___ inside, a small human figure.",
+      "options": [
+        "knocks",
+        "hides",
+        "grows",
+        "travels"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“silent” 的意思是：",
+      "options": [
+        "疯狂的",
+        "聪明的",
+        "有趣的",
+        "沉默的"
+      ],
+      "answer": 3,
+      "speak": "silent"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Hard years can kill even a small shop, and ___ is always near.",
+      "options": [
+        "praise",
+        "danger",
+        "luck",
+        "courage"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "He explains each step and ___ the boy's clever hands.",
+      "options": [
+        "praises",
+        "bothers",
+        "escapes",
+        "hides"
+      ],
+      "answer": 0
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My father is ",
+        "hint": "ni",
+        "after": ", and he still keeps a repair shop.",
+        "answer": "ninety"
+      },
+      {
+        "before": "His office sits in the town ",
+        "hint": "ce",
+        "after": ", beside the square.",
+        "answer": "centre"
+      },
+      {
+        "before": "My dad builds clocks, creates lamps, and fixes every ",
+        "hint": "wh",
+        "after": ".",
+        "answer": "wheel"
+      },
+      {
+        "before": "People notice he is never ",
+        "hint": "si",
+        "after": " while he works.",
+        "answer": "silent"
+      },
+      {
+        "before": "Everyone stops to watch the ",
+        "hint": "me",
+        "after": " arm move.",
+        "answer": "metal"
+      },
+      {
+        "before": "His printed numbers show the degree of an interesting ",
+        "hint": "di",
+        "after": ".",
+        "answer": "discovery"
+      },
+      {
+        "before": "His printed numbers show the ",
+        "hint": "de",
+        "after": " of an interesting discovery.",
+        "answer": "degree"
+      },
+      {
+        "before": "An arm turns the wheel in a steady ",
+        "hint": "di",
+        "after": " and starts three lines.",
+        "answer": "direction"
+      },
+      {
+        "before": "The boy laughs and says the wooden ",
+        "hint": "wi",
+        "after": " will work.",
+        "answer": "wicket"
+      },
+      {
+        "before": "Later, the shop smells of fried fish and ",
+        "hint": "ev",
+        "after": " tea.",
+        "answer": "evening"
+      }
+    ],
+    "b3": [
+      {
+        "before": "My ",
+        "hint": "f",
+        "after": " is ninety, and he still keeps a repair shop.",
+        "answer": "father"
+      },
+      {
+        "before": "His ",
+        "hint": "o",
+        "after": " sits in the town centre, beside the square.",
+        "answer": "office"
+      },
+      {
+        "before": "He ",
+        "hint": "r",
+        "after": " likes old brass parts more than cheap plastic ones.",
+        "answer": "really"
+      },
+      {
+        "before": "Something white hides inside, a small ",
+        "hint": "h",
+        "after": " figure.",
+        "answer": "human"
+      },
+      {
+        "before": "His ",
+        "hint": "p",
+        "after": " numbers show the degree of an interesting discovery.",
+        "answer": "printed"
+      },
+      {
+        "before": "The boy ",
+        "hint": "l",
+        "after": " and says the wooden wicket will work.",
+        "answer": "laughs"
+      },
+      {
+        "before": "A young woman brings an old ",
+        "hint": "d",
+        "after": " back to a new life.",
+        "answer": "dress"
+      },
+      {
+        "before": "The cost does not ",
+        "hint": "b",
+        "after": " her, and the bill is small.",
+        "answer": "bother"
+      },
+      {
+        "before": "Some children play ",
+        "hint": "f",
+        "after": " outside, and a flag waves nearby.",
+        "answer": "football"
+      },
+      {
+        "before": "A tiny ",
+        "hint": "b",
+        "after": " sits behind the office, full of spare boxes.",
+        "answer": "bathroom"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我父亲九十岁了，还守着一间修理铺。",
+        "keywords": [
+          "father",
+          "ninety"
+        ]
+      },
+      {
+        "zh": "他的办公室在镇中心，就在广场旁边。",
+        "keywords": [
+          "office",
+          "centre",
+          "square"
+        ]
+      },
+      {
+        "zh": "上面印着的数字显示出一个有趣发现的程度。",
+        "keywords": [
+          "printed",
+          "degree",
+          "discovery"
+        ]
+      },
+      {
+        "zh": "男孩笑了，说那根木球门柱还能用。",
+        "keywords": [
+          "laughs",
+          "wicket"
+        ]
+      },
+      {
+        "zh": "他常说好好修一修总有办法，所以别担心。",
+        "keywords": [
+          "often",
+          "possible",
+          "worry"
+        ]
+      },
+      {
+        "zh": "艰难的年份能杀死一间小店，危险总在不远处。",
+        "keywords": [
+          "kill",
+          "danger"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 307,
+    "sentences": 28,
+    "newDensity": 0.192,
+    "targetTokenDensity": 0.218,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（3 次）",
+      "During / Later / Then 开头（3 次）"
+    ]
+  },
+  "note": "p16：306 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

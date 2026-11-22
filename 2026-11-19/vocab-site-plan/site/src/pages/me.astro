@@ -1,0 +1,401 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { STAGES } from '../data/course';
+import { getCatalog } from '../lib/catalog.server';
+import { url } from '../lib/paths';
+
+const catalog = getCatalog();
+const { totals } = catalog;
+const fmt = (value: number) => value.toLocaleString('en-US');
+
+const stageSummaries = STAGES.map((stage) => ({
+  ...stage,
+  total: catalog.main.filter((passage) => passage.stage === stage.stage).length,
+}));
+const mainCount = catalog.main.length;
+const supplementCount = catalog.supplement.length;
+---
+
+<BaseLayout
+  title="进度看板"
+  description="主线与中考路线分别统计完成度：主线 50 篇 / 2,953 词，中考路线 27 篇 / 1,590 词位，考纲补漏 5 篇 / 289 词；导出或导入本地进度。"
+>
+  <div class="container">
+    <header>
+      <span class="eyebrow">进度 · 只存本地</span>
+      <h1 class="page-title" style="margin-top: 14px;">你的学习看板</h1>
+      <p class="page-lede">
+        主线 50 篇（{fmt(totals.mainWords)} 词）、中考路线 {totals.zhongkaoPassages} 篇（{fmt(totals.zhongkaoWords)} 词位）、
+        考纲补漏 5 篇（{fmt(totals.supplementWords)} 词）分别计算；补漏不混进主线分母。
+        数据保存在当前浏览器的 localStorage（键 <code>vocab.progress.v1</code>），换设备请先导出 JSON。
+      </p>
+    </header>
+
+    <section class="dashboard-grid section" style="margin-top: 30px;">
+      <div class="card card-lg">
+        <div class="track-progress-row">
+          <div class="ring" id="me-main-ring" style="--value: 0; --size: 132px;" role="img" aria-label="主线完成进度">
+            <div class="ring-inner">
+              <div class="ring-value" id="me-main-ring-value">0%</div>
+              <div class="ring-label">主线 {mainCount} 篇</div>
+            </div>
+          </div>
+          <div style="flex: 1 1 220px;">
+            <h2 style="font-family: var(--font-serif); font-size: 22px; font-weight: 600;">主线路线</h2>
+            <p class="text-muted text-small" style="margin-top: 6px;">
+              <span id="me-main-passages">0 / {mainCount}</span> 篇 ·
+              <span id="me-main-words">0 / {fmt(totals.mainWords)}</span> 词
+            </p>
+            <p class="text-muted text-small" style="margin-top: 4px;" id="me-main-note">
+              只统计 50 篇主线，补漏篇不计入这里。
+            </p>
+          </div>
+        </div>
+
+        <hr style="margin: 22px 0;" />
+
+        <div class="track-progress-row">
+          <div class="ring" id="me-zk-ring" style="--value: 0; --size: 132px;" role="img" aria-label="中考路线完成进度">
+            <div class="ring-inner">
+              <div class="ring-value" id="me-zk-ring-value">0%</div>
+              <div class="ring-label">中考 {totals.zhongkaoPassages} 篇</div>
+            </div>
+          </div>
+          <div style="flex: 1 1 220px;">
+            <h2 style="font-family: var(--font-serif); font-size: 22px; font-weight: 600;">中考路线</h2>
+            <p class="text-muted text-small" style="margin-top: 6px;">
+              <span id="me-zk-passages">0 / {totals.zhongkaoPassages}</span> 篇 ·
+              <span id="me-zk-words">0 / {fmt(totals.zhongkaoWords)}</span> 词位
+            </p>
+            <p class="text-muted text-small" style="margin-top: 4px;" id="me-zk-note">
+              前 {totals.mainZhongkaoPassages} 篇主线 + 5 篇考纲补漏；不含主线 23–50。
+            </p>
+          </div>
+        </div>
+
+        <p class="text-muted text-small" id="me-summary" style="margin-top: 18px;">
+          还没有开始。读第一篇后会在这里看到进度。
+        </p>
+        <div class="overview-actions">
+          <a class="btn btn-sm btn-primary" href={url('/p/01/')}>开始第 1 篇</a>
+          <a class="btn btn-sm btn-ghost" href={url('/review/')}>去复习</a>
+        </div>
+
+        <div class="stat-grid" style="margin-top: 26px;">
+          <div class="stat-card">
+            <div class="stat-label">主线已学词数</div>
+            <div class="stat-value" id="me-main-words-card">0</div>
+            <div class="stat-sub">目标 {fmt(totals.mainWords)} 词</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-label">中考路线已学词数</div>
+            <div class="stat-value" id="me-zk-words-card">0</div>
+            <div class="stat-sub">目标 {fmt(totals.zhongkaoWords)} 词位</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-label">考纲补漏</div>
+            <div class="stat-value" id="me-supp-card">0 / {supplementCount}</div>
+            <div class="stat-sub">补漏 {fmt(totals.supplementWords)} 词 · 不计入主线</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-label">连续天数</div>
+            <div class="stat-value" id="me-streak">0</div>
+            <div class="stat-sub" id="me-streak-sub">只记录，不做断签惩罚</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="section-head" style="margin-bottom: 14px;">
+          <h2 style="font-size: 20px;">阶段完成度</h2>
+          <span class="text-muted text-small">已首读 / 篇数</span>
+        </div>
+        <div class="bar-list">
+          {
+            stageSummaries.map((stage) => (
+              <div class="bar-row" data-stage-row={stage.stage}>
+                <div class="bar-head">
+                  <span>{stage.label} · 第 {stage.range} 篇</span>
+                  <span data-stage-label>{`0 / ${stage.total}`}</span>
+                </div>
+                <div class="bar-track">
+                  <div class="bar-fill" data-stage-bar style="width: 0%"></div>
+                </div>
+              </div>
+            ))
+          }
+          <div class="bar-row" data-stage-row="supplement">
+            <div class="bar-head">
+              <span>考纲补漏 · 第 51–55 篇</span>
+              <span data-stage-label>{`0 / ${supplementCount}`}</span>
+            </div>
+            <div class="bar-track">
+              <div class="bar-fill" data-stage-bar style="width: 0%"></div>
+            </div>
+          </div>
+        </div>
+        <p class="text-muted text-small" style="margin-top: 12px;">
+          前 5 组是主线；最后一组是补漏，单独统计，不计入主线 50 篇的分母。
+        </p>
+        <div class="danger-zone" style="border-top: 0; padding-top: 8px;">
+          <span class="text-muted text-small">
+            复习队列：<b id="me-due">0</b> 张到期 ·
+            测验均分 <b id="me-quiz">—</b>
+          </span>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="records-heading">
+      <div class="section-head">
+        <h2 id="records-heading">学习记录</h2>
+        <p>只列出打开过的篇目，并标注所属轨道。</p>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th scope="col">篇目</th>
+              <th scope="col">轨道</th>
+              <th scope="col">首读</th>
+              <th scope="col">背诵</th>
+              <th scope="col">检测</th>
+              <th scope="col">最近打开</th>
+              <th scope="col"></th>
+            </tr>
+          </thead>
+          <tbody id="records-body">
+            <tr>
+              <td colspan="7" class="text-muted text-small" style="padding: 22px;">暂无记录。打开任意一篇就会写入本地进度。</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="settings-heading">
+      <div class="section-head">
+        <h2 id="settings-heading">阅读设置与备份</h2>
+        <p>设置与进度一起存在本地。</p>
+      </div>
+      <div class="card">
+        <div class="settings-grid">
+          <div class="form-row">
+            <label class="field" for="font-size">
+              正文字号 <span id="font-size-value" class="mono">18px</span>
+              <input type="range" id="font-size" min="15" max="26" step="1" value="18" />
+            </label>
+            <label class="field" for="leading">
+              行距
+              <select id="leading">
+                <option value="1.7">标准 1.7</option>
+                <option value="1.9">舒适 1.9</option>
+                <option value="2.1">宽松 2.1</option>
+              </select>
+            </label>
+            <label class="field" for="rate">
+              朗读语速
+              <select id="rate">
+                <option value="0.8">0.8×</option>
+                <option value="1">1.0×</option>
+              </select>
+            </label>
+          </div>
+          <div class="form-row">
+            <button class="btn btn-sm" type="button" id="export-btn">导出进度 JSON</button>
+            <label class="btn btn-sm" for="import-file" style="cursor: pointer;">导入进度</label>
+            <input type="file" id="import-file" accept="application/json,.json" class="is-hidden" />
+            <span class="text-muted text-small" id="backup-hint">建议每完成几篇导出一次。</span>
+          </div>
+        </div>
+        <div class="danger-zone">
+          <p>清空后不可恢复。若已导出过 JSON，可随时导入还原。</p>
+          <button class="btn btn-sm" type="button" id="reset-btn" style="color: var(--danger); border-color: var(--danger);">
+            清空本地进度
+          </button>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    import {
+      mainPassages,
+      readCatalog,
+      supplementPassages,
+      weightsOf,
+      zhongkaoPassages,
+    } from '../lib/catalog.client';
+    import {
+      exportProgress,
+      importProgress,
+      loadProgress,
+      resetProgress,
+      saveSettings,
+      statsOf,
+    } from '../lib/progress';
+    import { url } from '../lib/paths';
+
+    const toast = (message: string) =>
+      window.dispatchEvent(new CustomEvent('vocab:toast', { detail: message }));
+
+    const setText = (id: string, text: string) => {
+      const node = document.getElementById(id);
+      if (node) node.textContent = text;
+    };
+    const fmt = (value: number) => value.toLocaleString('en-US');
+
+    const catalog = readCatalog();
+    const main = mainPassages(catalog);
+    const supplement = supplementPassages(catalog);
+    const zhongkao = zhongkaoPassages(catalog);
+
+    const state = loadProgress();
+    const mainStats = statsOf(state, weightsOf(main));
+    const zkStats = statsOf(state, weightsOf(zhongkao));
+    const suppStats = statsOf(state, weightsOf(supplement));
+    const allStats = statsOf(state);
+
+    const setRing = (id: string, valueId: string, done: number, total: number) => {
+      const percent = total ? Math.round((done / total) * 100) : 0;
+      const ring = document.getElementById(id);
+      ring?.style.setProperty('--value', String(percent));
+      ring?.setAttribute('aria-label', `完成进度 ${percent}%`);
+      setText(valueId, `${percent}%`);
+    };
+
+    setRing('me-main-ring', 'me-main-ring-value', mainStats.learnedPassages, main.length);
+    setText('me-main-passages', `${mainStats.learnedPassages} / ${main.length}`);
+    setText('me-main-words', `${fmt(mainStats.learnedWords)} / ${fmt(catalog.totals.mainWords)}`);
+    setText('me-main-words-card', fmt(mainStats.learnedWords));
+
+    setRing('me-zk-ring', 'me-zk-ring-value', zkStats.learnedPassages, zhongkao.length);
+    setText('me-zk-passages', `${zkStats.learnedPassages} / ${zhongkao.length}`);
+    setText('me-zk-words', `${fmt(zkStats.learnedWords)} / ${fmt(catalog.totals.zhongkaoWords)}`);
+    setText('me-zk-words-card', fmt(zkStats.learnedWords));
+
+    setText('me-supp-card', `${suppStats.learnedPassages} / ${supplement.length}`);
+    setText('me-streak', String(state.streak.current));
+    setText('me-due', String(mainStats.dueCount + zkStats.dueCount));
+
+    if (allStats.quizAvg !== null) {
+      setText('me-quiz', `${allStats.quizAvg}%`);
+    }
+    if (state.streak.longest > 0) {
+      setText('me-streak-sub', `最长连续 ${state.streak.longest} 天`);
+    }
+
+    if (mainStats.learnedPassages > 0 || zkStats.learnedPassages > 0) {
+      setText(
+        'me-summary',
+        `主线已首读 ${mainStats.learnedPassages} 篇（约 ${fmt(mainStats.learnedWords)} 词）；` +
+          `中考路线已首读 ${zkStats.learnedPassages} 篇，其中补漏 ${suppStats.learnedPassages} 篇。` +
+          `${mainStats.recitePassages + suppStats.recitePassages} 篇进入过背诵阶段。`,
+      );
+    }
+
+    const setBar = (key: string, done: number, total: number) => {
+      const row = document.querySelector<HTMLElement>(`[data-stage-row="${key}"]`);
+      if (!row) return;
+      const label = row.querySelector('[data-stage-label]');
+      const bar = row.querySelector<HTMLElement>('[data-stage-bar]');
+      if (label) label.textContent = `${done} / ${total}`;
+      if (bar) bar.style.width = `${total ? Math.round((done / total) * 100) : 0}%`;
+    };
+
+    for (let stage = 1; stage <= 5; stage += 1) {
+      const inStage = main.filter((passage) => passage.stage === stage);
+      const done = inStage.filter((passage) => state.passages[passage.id]?.read).length;
+      setBar(String(stage), done, inStage.length);
+    }
+    setBar('supplement', suppStats.learnedPassages, supplement.length);
+
+    // 学习记录
+    const body = document.getElementById('records-body');
+    const records = catalog.passages
+      .map((passage) => ({ passage, progress: state.passages[passage.id] }))
+      .filter((item) => item.progress && (item.progress.visits > 0 || item.progress.read))
+      .sort((a, b) => (b.progress?.lastVisit ?? '').localeCompare(a.progress?.lastVisit ?? ''));
+
+    if (body && records.length) {
+      body.innerHTML = '';
+      for (const { passage, progress } of records) {
+        const row = document.createElement('tr');
+        const recite = progress?.recite;
+        const reciteText = recite
+          ? [recite.b1 && 'B1', recite.b2 && 'B2', recite.b3 && 'B3', recite.b4 && 'B4']
+              .filter(Boolean)
+              .join(' ') || '—'
+          : '—';
+        const quiz = progress?.quizScore !== null && progress?.quizScore !== undefined
+          ? `${progress.quizScore} / ${progress.quizTotal ?? 8}`
+          : '—';
+        const lastVisit = progress?.lastVisit
+          ? new Date(progress.lastVisit).toLocaleDateString('zh-CN')
+          : '—';
+        const track = passage.track === 'supplement' ? '补漏' : '主线';
+        row.innerHTML = `
+          <td><a href="${url(`/p/${passage.slug}/`)}" style="font-weight: 600;">第 ${passage.slug} 篇 · ${passage.title}</a></td>
+          <td>${track}</td>
+          <td>${progress?.read ? '✓' : '—'}</td>
+          <td>${reciteText}</td>
+          <td class="num">${quiz}</td>
+          <td class="num">${lastVisit}</td>
+          <td><a class="text-small" href="${url(`/p/${passage.slug}/`)}">打开 →</a></td>`;
+        body.append(row);
+      }
+    }
+
+    // 设置
+    const fontSize = document.getElementById('font-size') as HTMLInputElement | null;
+    const fontSizeValue = document.getElementById('font-size-value');
+    const leading = document.getElementById('leading') as HTMLSelectElement | null;
+    const rate = document.getElementById('rate') as HTMLSelectElement | null;
+
+    if (fontSize) fontSize.value = String(state.settings.fontSize);
+    if (fontSizeValue) fontSizeValue.textContent = `${state.settings.fontSize}px`;
+    if (leading) leading.value = String(state.settings.lineHeight);
+    if (rate) rate.value = String(state.settings.rate);
+
+    fontSize?.addEventListener('input', () => {
+      if (fontSizeValue) fontSizeValue.textContent = `${fontSize.value}px`;
+      saveSettings({ fontSize: Number(fontSize.value) });
+    });
+    leading?.addEventListener('change', () => saveSettings({ lineHeight: Number(leading.value) }));
+    rate?.addEventListener('change', () => saveSettings({ rate: Number(rate.value) }));
+
+    // 导出 / 导入 / 清空
+    document.getElementById('export-btn')?.addEventListener('click', () => {
+      const blob = new Blob([exportProgress()], { type: 'application/json' });
+      const link = document.createElement('a');
+      link.href = URL.createObjectURL(blob);
+      link.download = `vocab-progress-${new Date().toISOString().slice(0, 10)}.json`;
+      link.click();
+      URL.revokeObjectURL(link.href);
+      toast('进度已导出');
+    });
+
+    const importFile = document.getElementById('import-file') as HTMLInputElement | null;
+    importFile?.addEventListener('change', async () => {
+      const file = importFile.files?.[0];
+      if (!file) return;
+      const text = await file.text();
+      const result = importProgress(text);
+      if (result.ok) {
+        toast('进度已导入，正在刷新');
+        window.setTimeout(() => window.location.reload(), 600);
+      } else {
+        toast(result.error ?? '导入失败');
+      }
+      importFile.value = '';
+    });
+
+    document.getElementById('reset-btn')?.addEventListener('click', () => {
+      const confirmed = window.confirm('确定清空本地的全部学习进度？该操作不可恢复。');
+      if (!confirmed) return;
+      resetProgress();
+      toast('本地进度已清空');
+      window.setTimeout(() => window.location.reload(), 500);
+    });
+  </script>
+</BaseLayout>

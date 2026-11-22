@@ -1,0 +1,831 @@
+{
+  "id": "p20",
+  "title": "The Pavilion Cafe",
+  "titleZh": "球场边的咖啡馆",
+  "topic": "公园咖啡馆的一天",
+  "paragraphs": [
+    [
+      {
+        "en": "My boss runs a small restaurant near the gate of the park.",
+        "zh": "我老板在公园大门附近开了一家小餐馆。"
+      },
+      {
+        "en": "We open at seven, when the first players arrive.",
+        "zh": "我们七点开门，那时第一批球手就到了。"
+      },
+      {
+        "en": "Our service is quick, and the chairs are soft and very comfortable.",
+        "zh": "我们的服务很快，椅子柔软又非常舒服。"
+      },
+      {
+        "en": "A famous scientist eats here and studies the forest.",
+        "zh": "一位著名的科学家在这里吃饭，研究这片森林。"
+      },
+      {
+        "en": "He carries a map of every tree and a small plastic case.",
+        "zh": "他带着每棵树的地图，还有一个小塑料箱。"
+      },
+      {
+        "en": "Then he orders tea and looks at the pale morning sky.",
+        "zh": "然后他点了茶，望着苍白的晨空。"
+      }
+    ],
+    [
+      {
+        "en": "The card includes a short report on the local wildlife and birds.",
+        "zh": "卡片上附着一份关于本地野生动物和鸟类的简短报告。"
+      },
+      {
+        "en": "Such news repeats, and our trade grows all summer.",
+        "zh": "这样的消息反复传来，我们的生意整个夏天都在增长。"
+      },
+      {
+        "en": "Our guests depend on summer, and the tennis courts are full.",
+        "zh": "我们的客人靠夏天吃饭，那时网球场总是满的。"
+      },
+      {
+        "en": "The scientist has a simple plan, and his decision is a good one.",
+        "zh": "科学家有个简单的计划，他的决定很明智。"
+      },
+      {
+        "en": "He wants to weigh the honey and note its size.",
+        "zh": "他想称一称蜂蜜，记下它的分量。"
+      },
+      {
+        "en": "A queen bee is a symbol of a living place.",
+        "zh": "一只蜂后，就是这片生机勃勃之地的象征。"
+      }
+    ],
+    [
+      {
+        "en": "Early one morning a cook in a brown apron cuts her hand.",
+        "zh": "一个清早，一位穿棕围裙的厨师切到了手。"
+      },
+      {
+        "en": "The wound is small, but the sight of blood makes her pale.",
+        "zh": "伤口很小，但看到血让她脸色发白。"
+      },
+      {
+        "en": "The medical student has a drug and a clean knife.",
+        "zh": "那位医学生有药，也有一把干净的小刀。"
+      },
+      {
+        "en": "We tell the police about the old building.",
+        "zh": "我们把那栋老建筑的事告诉警察。"
+      },
+      {
+        "en": "Later the examination is short, and they leave without any fuss.",
+        "zh": "后来检查很短，他们没多折腾就走了。"
+      },
+      {
+        "en": "Our information is old, and the date on it is wrong.",
+        "zh": "我们的资料很旧，上面的日期也错了。"
+      }
+    ],
+    [
+      {
+        "en": "My thoughts were slow, but the energy was high.",
+        "zh": "我脑子转得慢，可现场精力十足。"
+      },
+      {
+        "en": "A young tennis player falls and hurts her right shoulder.",
+        "zh": "一位年轻的网球手摔倒，伤了右肩。"
+      },
+      {
+        "en": "She shows real courage, and the whole crowd cheers for her.",
+        "zh": "她表现出真正的勇气，全场都为她欢呼。"
+      },
+      {
+        "en": "The judge's judgment is fair, and her backing is strong and loud.",
+        "zh": "裁判的判断公正，给她的支持也响亮有力。"
+      },
+      {
+        "en": "Then the crowd asks for one more game and cheers again.",
+        "zh": "然后人群要求再打一局，又一次欢呼起来。"
+      }
+    ],
+    [
+      {
+        "en": "Rain soaks our clothes and the old chairs, but we stay and laugh.",
+        "zh": "雨水浸透我们的衣服和旧椅子，但我们留下大笑。"
+      },
+      {
+        "en": "Anyone can see the ancient woods from the bottom of the hill.",
+        "zh": "任何人都能从山脚望见那片古老的树林。"
+      },
+      {
+        "en": "My favourite tree may die, and it is the saddest thing ever.",
+        "zh": "我最喜欢的那棵树可能要死了，这是最令人难过的事。"
+      },
+      {
+        "en": "We refuse to close, and people sing along in the cold rain.",
+        "zh": "我们拒绝关门，人们在冷雨里跟着唱。"
+      },
+      {
+        "en": "Nor does the rain stop us or our small activity.",
+        "zh": "雨也没有拦住我们，或我们这点小小的活动。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "we",
+      "pos": "pron.",
+      "zh": "我们",
+      "stars": 5,
+      "collocation": "We open"
+    },
+    {
+      "lemma": "when",
+      "pos": "conj/adv/pron/n.",
+      "zh": "当...的时候；何时",
+      "stars": 5,
+      "collocation": "seven, when the"
+    },
+    {
+      "lemma": "look",
+      "pos": "n/v.",
+      "zh": "一看；看",
+      "stars": 5,
+      "collocation": "and looks at"
+    },
+    {
+      "lemma": "such",
+      "pos": "adj.",
+      "zh": "如此的",
+      "stars": 5,
+      "collocation": "Such news"
+    },
+    {
+      "lemma": "ask",
+      "pos": "v.",
+      "zh": "问",
+      "stars": 5,
+      "collocation": "crowd asks for"
+    },
+    {
+      "lemma": "service",
+      "pos": "n/v/adj.",
+      "zh": "服务；保养",
+      "stars": 5,
+      "collocation": "Our service is"
+    },
+    {
+      "lemma": "without",
+      "pos": "prep/adv/n.",
+      "zh": "没有；在外面",
+      "stars": 5,
+      "collocation": "leave without any"
+    },
+    {
+      "lemma": "information",
+      "pos": "n.",
+      "zh": "消息",
+      "stars": 5,
+      "collocation": "Our information is"
+    },
+    {
+      "lemma": "include",
+      "pos": "v.",
+      "zh": "包括",
+      "stars": 5,
+      "collocation": "card includes a"
+    },
+    {
+      "lemma": "report",
+      "pos": "n/v.",
+      "zh": "报告",
+      "stars": 5,
+      "collocation": "short report on"
+    },
+    {
+      "lemma": "late",
+      "pos": "adj/adv.",
+      "zh": "迟的；很晚",
+      "stars": 5,
+      "collocation": "Later the"
+    },
+    {
+      "lemma": "police",
+      "pos": "n/v.",
+      "zh": "警察；维持治安",
+      "stars": 5,
+      "collocation": "the police about"
+    },
+    {
+      "lemma": "ever",
+      "pos": "adv.",
+      "zh": "曾经",
+      "stars": 5,
+      "collocation": "thing ever"
+    },
+    {
+      "lemma": "decision",
+      "pos": "n.",
+      "zh": "决定",
+      "stars": 5,
+      "collocation": "his decision is"
+    },
+    {
+      "lemma": "building",
+      "pos": "n.",
+      "zh": "建筑物",
+      "stars": 5,
+      "collocation": "old building"
+    },
+    {
+      "lemma": "die",
+      "pos": "v/n.",
+      "zh": "死亡；死",
+      "stars": 5,
+      "collocation": "may die, and"
+    },
+    {
+      "lemma": "trade",
+      "pos": "n/v.",
+      "zh": "贸易；进行交易",
+      "stars": 5,
+      "collocation": "our trade grows"
+    },
+    {
+      "lemma": "cut",
+      "pos": "n/adj/v.",
+      "zh": "切口；经切割的",
+      "stars": 5,
+      "collocation": "apron cuts her"
+    },
+    {
+      "lemma": "us",
+      "pos": "pron.",
+      "zh": "我们",
+      "stars": 5,
+      "collocation": "stop us or"
+    },
+    {
+      "lemma": "thought",
+      "pos": "n.",
+      "zh": "想法；think的过去式和过去",
+      "stars": 5,
+      "collocation": "My thoughts were"
+    },
+    {
+      "lemma": "along",
+      "pos": "adv/prep.",
+      "zh": "平行地；沿着",
+      "stars": 5,
+      "collocation": "sing along in"
+    },
+    {
+      "lemma": "drug",
+      "pos": "n/v.",
+      "zh": "药；吸毒",
+      "stars": 5,
+      "collocation": "a drug and"
+    },
+    {
+      "lemma": "brown",
+      "pos": "n/adj/v.",
+      "zh": "褐色；褐色的",
+      "stars": 5,
+      "collocation": "a brown apron"
+    },
+    {
+      "lemma": "activity",
+      "pos": "n.",
+      "zh": "活动",
+      "stars": 4,
+      "collocation": "small activity"
+    },
+    {
+      "lemma": "date",
+      "pos": "n/v.",
+      "zh": "日期；约会",
+      "stars": 4,
+      "collocation": "the date on"
+    },
+    {
+      "lemma": "anyone",
+      "pos": "pron.",
+      "zh": "任何人",
+      "stars": 4,
+      "collocation": "Anyone can"
+    },
+    {
+      "lemma": "size",
+      "pos": "n/v/adj.",
+      "zh": "大小；上浆",
+      "stars": 4,
+      "collocation": "its size"
+    },
+    {
+      "lemma": "energy",
+      "pos": "n.",
+      "zh": "精力",
+      "stars": 4,
+      "collocation": "the energy was"
+    },
+    {
+      "lemma": "nor",
+      "pos": "conj.",
+      "zh": "也不",
+      "stars": 4,
+      "collocation": "Nor does"
+    },
+    {
+      "lemma": "park",
+      "pos": "n/v.",
+      "zh": "公园；停车",
+      "stars": 4,
+      "collocation": "the park"
+    },
+    {
+      "lemma": "refuse",
+      "pos": "v/n/adj.",
+      "zh": "拒绝",
+      "stars": 4,
+      "collocation": "We refuse to"
+    },
+    {
+      "lemma": "depend",
+      "pos": "v.",
+      "zh": "靠",
+      "stars": 4,
+      "collocation": "guests depend on"
+    },
+    {
+      "lemma": "medical",
+      "pos": "n/adj.",
+      "zh": "医生；医学的",
+      "stars": 4,
+      "collocation": "The medical student"
+    },
+    {
+      "lemma": "shoulder",
+      "pos": "n/v.",
+      "zh": "肩；肩负",
+      "stars": 4,
+      "collocation": "right shoulder"
+    },
+    {
+      "lemma": "queen",
+      "pos": "n/v.",
+      "zh": "王后；立为女王",
+      "stars": 4,
+      "collocation": "A queen bee"
+    },
+    {
+      "lemma": "clothes",
+      "pos": "n.",
+      "zh": "衣服",
+      "stars": 4,
+      "collocation": "our clothes and"
+    },
+    {
+      "lemma": "repeat",
+      "pos": "n/v.",
+      "zh": "重复；重做",
+      "stars": 4,
+      "collocation": "news repeats, and"
+    },
+    {
+      "lemma": "famous",
+      "pos": "adj.",
+      "zh": "出名的",
+      "stars": 4,
+      "collocation": "A famous scientist"
+    },
+    {
+      "lemma": "bottom",
+      "pos": "n/adj/v.",
+      "zh": "底部；底部的",
+      "stars": 4,
+      "collocation": "the bottom of"
+    },
+    {
+      "lemma": "scientist",
+      "pos": "n.",
+      "zh": "科学家",
+      "stars": 4,
+      "collocation": "famous scientist eats"
+    },
+    {
+      "lemma": "restaurant",
+      "pos": "n.",
+      "zh": "餐馆",
+      "stars": 4,
+      "collocation": "small restaurant near"
+    },
+    {
+      "lemma": "boss",
+      "pos": "n/v.",
+      "zh": "老板；指挥",
+      "stars": 4,
+      "collocation": "My boss runs"
+    },
+    {
+      "lemma": "wound",
+      "pos": "n/v.",
+      "zh": "创伤；伤害",
+      "stars": 4,
+      "collocation": "The wound is"
+    },
+    {
+      "lemma": "live",
+      "pos": "adj/v/adv.",
+      "zh": "活的；活",
+      "stars": 3,
+      "collocation": "a living place"
+    },
+    {
+      "lemma": "forest",
+      "pos": "n/v.",
+      "zh": "森林；植树于",
+      "stars": 3,
+      "collocation": "the forest"
+    },
+    {
+      "lemma": "examination",
+      "pos": "n.",
+      "zh": "考试",
+      "stars": 3,
+      "collocation": "the examination is"
+    },
+    {
+      "lemma": "map",
+      "pos": "n/v.",
+      "zh": "地图；映射",
+      "stars": 3,
+      "collocation": "a map of"
+    },
+    {
+      "lemma": "ancient",
+      "pos": "adj.",
+      "zh": "古代的",
+      "stars": 3,
+      "collocation": "the ancient woods"
+    },
+    {
+      "lemma": "plastic",
+      "pos": "n/adj.",
+      "zh": "塑料；塑料的",
+      "stars": 3,
+      "collocation": "small plastic case"
+    },
+    {
+      "lemma": "comfortable",
+      "pos": "adj/n.",
+      "zh": "舒服的；盖被",
+      "stars": 3,
+      "collocation": "very comfortable"
+    },
+    {
+      "lemma": "pale",
+      "pos": "n/adj/v.",
+      "zh": "栅栏；苍白的",
+      "stars": 3,
+      "collocation": "the pale morning"
+    },
+    {
+      "lemma": "knife",
+      "pos": "n/v.",
+      "zh": "小刀；切割",
+      "stars": 3,
+      "collocation": "clean knife"
+    },
+    {
+      "lemma": "symbol",
+      "pos": "n.",
+      "zh": "符号",
+      "stars": 3,
+      "collocation": "a symbol of"
+    },
+    {
+      "lemma": "tennis",
+      "pos": "n.",
+      "zh": "网球",
+      "stars": 3,
+      "collocation": "the tennis courts"
+    },
+    {
+      "lemma": "weigh",
+      "pos": "v/n.",
+      "zh": "称...重量；称分量",
+      "stars": 3,
+      "collocation": "to weigh the"
+    },
+    {
+      "lemma": "courage",
+      "pos": "n.",
+      "zh": "勇气",
+      "stars": 3,
+      "collocation": "real courage, and"
+    },
+    {
+      "lemma": "cheer",
+      "pos": "n/v.",
+      "zh": "愉快；欢呼",
+      "stars": 3,
+      "collocation": "crowd cheers for"
+    },
+    {
+      "lemma": "judgment",
+      "pos": "n.",
+      "zh": "裁判",
+      "stars": 3,
+      "collocation": "judge's judgment is"
+    },
+    {
+      "lemma": "backing",
+      "pos": "n.",
+      "zh": "后退",
+      "stars": 3,
+      "collocation": "her backing is"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“judgment” 的意思是：",
+      "options": [
+        "勇气",
+        "后盾",
+        "判断",
+        "肩"
+      ],
+      "answer": 2,
+      "speak": "judgment"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "He carries a map of every tree and a small ___ case.",
+      "options": [
+        "plastic",
+        "symbol",
+        "size",
+        "date"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“ancient” 的意思是：",
+      "options": [
+        "舒适的",
+        "著名的",
+        "苍白的",
+        "古老的"
+      ],
+      "answer": 3,
+      "speak": "ancient"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A queen bee is a ___ of a living place.",
+      "options": [
+        "shoulder",
+        "symbol",
+        "service",
+        "trade"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "The wound is small, but the sight of blood makes her ___.",
+      "options": [
+        "pale",
+        "famous",
+        "comfortable",
+        "brown"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“refuse” 的意思是：",
+      "options": [
+        "依赖",
+        "重复",
+        "拒绝",
+        "包括"
+      ],
+      "answer": 2,
+      "speak": "refuse"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Our guests ___ on summer, and the tennis courts are full.",
+      "options": [
+        "refuse",
+        "depend",
+        "weigh",
+        "cheer"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "q8",
+      "type": "搭配",
+      "prompt": "The medical student has a drug and a clean ___.",
+      "options": [
+        "map",
+        "clothes",
+        "wound",
+        "knife"
+      ],
+      "answer": 3
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My ",
+        "hint": "bo",
+        "after": " runs a small restaurant near the gate of the park.",
+        "answer": "boss"
+      },
+      {
+        "before": "My boss runs a small ",
+        "hint": "re",
+        "after": " near the gate of the park.",
+        "answer": "restaurant"
+      },
+      {
+        "before": "A ",
+        "hint": "fa",
+        "after": " scientist eats here and studies the forest.",
+        "answer": "famous"
+      },
+      {
+        "before": "A famous ",
+        "hint": "sc",
+        "after": " eats here and studies the forest.",
+        "answer": "scientist"
+      },
+      {
+        "before": "A queen bee is a ",
+        "hint": "sy",
+        "after": " of a living place.",
+        "answer": "symbol"
+      },
+      {
+        "before": "The ",
+        "hint": "me",
+        "after": " student has a drug and a clean knife.",
+        "answer": "medical"
+      },
+      {
+        "before": "Later the ",
+        "hint": "ex",
+        "after": " is short, and they leave without any fuss.",
+        "answer": "examination"
+      },
+      {
+        "before": "She shows real ",
+        "hint": "co",
+        "after": ", and the whole crowd cheers for her.",
+        "answer": "courage"
+      },
+      {
+        "before": "The judge's ",
+        "hint": "ju",
+        "after": " is fair, and her backing is strong and loud.",
+        "answer": "judgment"
+      },
+      {
+        "before": "Anyone can see the ",
+        "hint": "an",
+        "after": " woods from the bottom of the hill.",
+        "answer": "ancient"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Our ",
+        "hint": "s",
+        "after": " is quick, and the chairs are soft and very comfortable.",
+        "answer": "service"
+      },
+      {
+        "before": "Our service is quick, and the chairs are soft and very ",
+        "hint": "c",
+        "after": ".",
+        "answer": "comfortable"
+      },
+      {
+        "before": "He carries a map of every tree and a small ",
+        "hint": "p",
+        "after": " case.",
+        "answer": "plastic"
+      },
+      {
+        "before": "Early one morning a cook in a ",
+        "hint": "b",
+        "after": " apron cuts her hand.",
+        "answer": "brown"
+      },
+      {
+        "before": "The ",
+        "hint": "w",
+        "after": " is small, but the sight of blood makes her pale.",
+        "answer": "wound"
+      },
+      {
+        "before": "The medical student has a drug and a clean ",
+        "hint": "k",
+        "after": ".",
+        "answer": "knife"
+      },
+      {
+        "before": "A young tennis player falls and hurts her right ",
+        "hint": "s",
+        "after": ".",
+        "answer": "shoulder"
+      },
+      {
+        "before": "Rain soaks our ",
+        "hint": "c",
+        "after": " and the old chairs, but we stay and laugh.",
+        "answer": "clothes"
+      },
+      {
+        "before": "A famous scientist eats here and studies the ",
+        "hint": "f",
+        "after": ".",
+        "answer": "forest"
+      },
+      {
+        "before": "Such news repeats, and our ",
+        "hint": "t",
+        "after": " grows all summer.",
+        "answer": "trade"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我老板在公园大门附近开了一家小餐馆。",
+        "keywords": [
+          "boss",
+          "restaurant",
+          "park"
+        ]
+      },
+      {
+        "zh": "一位著名的科学家在这里吃饭，研究这片森林。",
+        "keywords": [
+          "famous",
+          "scientist",
+          "forest"
+        ]
+      },
+      {
+        "zh": "一只蜂后，就是这片生机勃勃之地的象征。",
+        "keywords": [
+          "queen",
+          "symbol"
+        ]
+      },
+      {
+        "zh": "伤口很小，但看到血让她脸色发白。",
+        "keywords": [
+          "wound",
+          "pale"
+        ]
+      },
+      {
+        "zh": "她表现出真正的勇气，全场都为她欢呼。",
+        "keywords": [
+          "courage",
+          "cheers"
+        ]
+      },
+      {
+        "zh": "任何人都能从山脚望见那片古老的树林。",
+        "keywords": [
+          "Anyone",
+          "ancient",
+          "woods"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 306,
+    "sentences": 28,
+    "newDensity": 0.193,
+    "targetTokenDensity": 0.216,
+    "patterns": [
+      "My + N + V（3 次）",
+      "A + 形容词 + N + V（3 次）",
+      "Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p20：约 306 词 / 28 句；59 个目标词各出现 ≥1 次；每句 8–14 词、2–4 个目标词；连贯叙事。"
+}

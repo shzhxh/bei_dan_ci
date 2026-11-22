@@ -1,0 +1,829 @@
+{
+  "id": "p29",
+  "title": "The Club Anniversary Match",
+  "titleZh": "俱乐部周年赛",
+  "topic": "足球俱乐部周年",
+  "paragraphs": [
+    [
+      {
+        "en": "Our soccer club celebrates its anniversary at the old stadium.",
+        "zh": "我们的足球俱乐部在老体育场庆祝周年。"
+      },
+      {
+        "en": "The city authority and a local firm will share the whole cost.",
+        "zh": "市政府和一家本地公司将分担全部费用。"
+      },
+      {
+        "en": "My uncle says the vast hall can contain a thousand fans.",
+        "zh": "我叔叔说这个巨大的大厅能容纳一千名球迷。"
+      },
+      {
+        "en": "My cousin knows ticket sales are the basis of every customer promise.",
+        "zh": "我表亲知道门票销售是每位顾客承诺的基础。"
+      },
+      {
+        "en": "A few extra helpers perform small tasks before the noon whistle.",
+        "zh": "几个额外帮手在中午哨响前做些小任务。"
+      },
+      {
+        "en": "From this distance, the judge can still see the white line.",
+        "zh": "从这个距离，裁判仍能看见白线。"
+      },
+      {
+        "en": "A noisy crowd may destroy the calm mood of the match.",
+        "zh": "吵闹的人群可能会破坏比赛的平静气氛。"
+      },
+      {
+        "en": "Meanwhile, a tough and sudden decision waits for the club board.",
+        "zh": "与此同时，一个艰难而突然的决定等着俱乐部董事会。"
+      },
+      {
+        "en": "Later the busy schedule leaves little room for a costly arrangement.",
+        "zh": "后来，繁忙的日程让一个昂贵的安排几乎没有空间。"
+      },
+      {
+        "en": "They hope to acquire a young star and select a coach.",
+        "zh": "他们希望签下一名年轻球星，并挑选一位教练。"
+      }
+    ],
+    [
+      {
+        "en": "After the match, the small pub fills with quiet tension.",
+        "zh": "比赛结束后，小酒馆里充满了安静的紧张。"
+      },
+      {
+        "en": "My mother's voluntary work brings a mixture of joy and worry.",
+        "zh": "我母亲的志愿工作带来了欢乐与担忧的混合。"
+      },
+      {
+        "en": "A whisper about free ice cream makes the children smile.",
+        "zh": "一句关于免费冰淇淋的低语让孩子们笑了。"
+      },
+      {
+        "en": "Then an extraordinary goal makes the whole bench react.",
+        "zh": "然后一个精彩的进球让整条替补席都激动起来。"
+      },
+      {
+        "en": "A strange plot makes a curious young reporter ask questions.",
+        "zh": "一个奇怪的阴谋让一位好奇的年轻记者发问。"
+      },
+      {
+        "en": "A recent graduate will sponsor the youth team this year.",
+        "zh": "一位应届毕业生今年将赞助青年队。"
+      },
+      {
+        "en": "The plan will involve every resource the small club owns.",
+        "zh": "这个计划将动用俱乐部拥有的每一份资源。"
+      },
+      {
+        "en": "This happy occasion brings an old rival to the main gate.",
+        "zh": "这个欢乐的场合把一位老对手带到了大门前。"
+      },
+      {
+        "en": "A map will illustrate the distribution of free tickets online.",
+        "zh": "一张地图将展示免费门票的在线分发情况。"
+      },
+      {
+        "en": "The notion that money solves all problems rarely holds true.",
+        "zh": "认为钱能解决一切问题的观念很少成立。"
+      }
+    ],
+    [
+      {
+        "en": "A new surgery is increasingly seen as a bright prospect.",
+        "zh": "一家新诊所越来越被视为光明的前景。"
+      },
+      {
+        "en": "Later they invest in a program that fights local poverty.",
+        "zh": "后来他们投资于一个抗击当地贫困的项目。"
+      },
+      {
+        "en": "The tide of support may drift toward the away side.",
+        "zh": "支持的风潮可能漂向客队一方。"
+      },
+      {
+        "en": "We will never surrender to the old evil of cheating.",
+        "zh": "我们永远不会向作弊这种古老的邪恶投降。"
+      },
+      {
+        "en": "Media coverage of the short cruise grows every day.",
+        "zh": "媒体对这趟短途游轮的报道每天都在增加。"
+      },
+      {
+        "en": "The nineteenth match feels equivalent to a small final.",
+        "zh": "第十九场比赛感觉相当于一场小型决赛。"
+      },
+      {
+        "en": "An environmental alliance meets its foreign counterpart in town.",
+        "zh": "一个环保联盟在镇上会见了它的外国同行。"
+      },
+      {
+        "en": "Every satisfied fan wears a bright new jersey.",
+        "zh": "每位满意的球迷都穿着崭新的球衣。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "authority",
+      "pos": "n.",
+      "zh": "权力",
+      "stars": 5,
+      "collocation": "city authority and a"
+    },
+    {
+      "lemma": "firm",
+      "pos": "n./adj./v.",
+      "zh": "公司",
+      "stars": 5,
+      "collocation": "local firm will share"
+    },
+    {
+      "lemma": "contain",
+      "pos": "v.",
+      "zh": "包含",
+      "stars": 4,
+      "collocation": "can contain a thousand"
+    },
+    {
+      "lemma": "basis",
+      "pos": "n.",
+      "zh": "基础",
+      "stars": 4,
+      "collocation": "the basis of every"
+    },
+    {
+      "lemma": "customer",
+      "pos": "n.",
+      "zh": "消费者",
+      "stars": 4,
+      "collocation": "every customer promise."
+    },
+    {
+      "lemma": "extra",
+      "pos": "n./adj./adv.",
+      "zh": "额外的事物",
+      "stars": 4,
+      "collocation": "few extra helpers perform"
+    },
+    {
+      "lemma": "perform",
+      "pos": "v.",
+      "zh": "进行",
+      "stars": 4,
+      "collocation": "helpers perform small tasks"
+    },
+    {
+      "lemma": "distance",
+      "pos": "n.",
+      "zh": "距离",
+      "stars": 4,
+      "collocation": "this distance, the judge"
+    },
+    {
+      "lemma": "judge",
+      "pos": "n./v.",
+      "zh": "法官",
+      "stars": 4,
+      "collocation": "the judge can still"
+    },
+    {
+      "lemma": "destroy",
+      "pos": "v.",
+      "zh": "破坏",
+      "stars": 4,
+      "collocation": "may destroy the calm"
+    },
+    {
+      "lemma": "crowd",
+      "pos": "n./v.",
+      "zh": "群众",
+      "stars": 4,
+      "collocation": "noisy crowd may destroy"
+    },
+    {
+      "lemma": "meanwhile",
+      "pos": "n./adv.",
+      "zh": "其时",
+      "stars": 4,
+      "collocation": "Meanwhile, a tough"
+    },
+    {
+      "lemma": "tough",
+      "pos": "n./adj.",
+      "zh": "恶棍",
+      "stars": 4,
+      "collocation": "a tough and sudden"
+    },
+    {
+      "lemma": "schedule",
+      "pos": "n./v.",
+      "zh": "时间表",
+      "stars": 4,
+      "collocation": "busy schedule leaves little"
+    },
+    {
+      "lemma": "arrangement",
+      "pos": "n.",
+      "zh": "排列",
+      "stars": 3,
+      "collocation": "costly arrangement."
+    },
+    {
+      "lemma": "acquire",
+      "pos": "v.",
+      "zh": "获得",
+      "stars": 3,
+      "collocation": "to acquire a young"
+    },
+    {
+      "lemma": "select",
+      "pos": "adj./v./n.",
+      "zh": "挑选出来的",
+      "stars": 3,
+      "collocation": "and select a coach."
+    },
+    {
+      "lemma": "pub",
+      "pos": "n.",
+      "zh": "酒馆",
+      "stars": 3,
+      "collocation": "small pub fills with"
+    },
+    {
+      "lemma": "vast",
+      "pos": "adj.",
+      "zh": "巨大的",
+      "stars": 3,
+      "collocation": "the vast hall can"
+    },
+    {
+      "lemma": "tension",
+      "pos": "n./v.",
+      "zh": "紧张",
+      "stars": 3,
+      "collocation": "quiet tension."
+    },
+    {
+      "lemma": "voluntary",
+      "pos": "adj./n.",
+      "zh": "自动的",
+      "stars": 3,
+      "collocation": "mother's voluntary work brings"
+    },
+    {
+      "lemma": "mixture",
+      "pos": "n.",
+      "zh": "混合",
+      "stars": 3,
+      "collocation": "a mixture of joy"
+    },
+    {
+      "lemma": "cream",
+      "pos": "n.",
+      "zh": "乳酪",
+      "stars": 3,
+      "collocation": "ice cream makes the"
+    },
+    {
+      "lemma": "whisper",
+      "pos": "n./v.",
+      "zh": "耳语",
+      "stars": 3,
+      "collocation": "A whisper about free"
+    },
+    {
+      "lemma": "extraordinary",
+      "pos": "adj.",
+      "zh": "非常的",
+      "stars": 3,
+      "collocation": "an extraordinary goal makes"
+    },
+    {
+      "lemma": "react",
+      "pos": "v.",
+      "zh": "起反应",
+      "stars": 3,
+      "collocation": "bench react."
+    },
+    {
+      "lemma": "plot",
+      "pos": "n./v.",
+      "zh": "小块土地",
+      "stars": 3,
+      "collocation": "strange plot makes a"
+    },
+    {
+      "lemma": "curious",
+      "pos": "adj.",
+      "zh": "好奇的",
+      "stars": 3,
+      "collocation": "a curious young reporter"
+    },
+    {
+      "lemma": "anniversary",
+      "pos": "n.",
+      "zh": "周年纪念",
+      "stars": 3,
+      "collocation": "its anniversary at the"
+    },
+    {
+      "lemma": "graduate",
+      "pos": "n./adj./v.",
+      "zh": "毕业生",
+      "stars": 3,
+      "collocation": "recent graduate will sponsor"
+    },
+    {
+      "lemma": "sponsor",
+      "pos": "n./v.",
+      "zh": "保证人",
+      "stars": 3,
+      "collocation": "will sponsor the youth"
+    },
+    {
+      "lemma": "soccer",
+      "pos": "n.",
+      "zh": "英式足球",
+      "stars": 3,
+      "collocation": "Our soccer club celebrates"
+    },
+    {
+      "lemma": "stadium",
+      "pos": "n.",
+      "zh": "露天大型运动场",
+      "stars": 3,
+      "collocation": "old stadium."
+    },
+    {
+      "lemma": "involve",
+      "pos": "v.",
+      "zh": "包括",
+      "stars": 4,
+      "collocation": "will involve every resource"
+    },
+    {
+      "lemma": "resource",
+      "pos": "n.",
+      "zh": "资源",
+      "stars": 4,
+      "collocation": "every resource the small"
+    },
+    {
+      "lemma": "occasion",
+      "pos": "n./v.",
+      "zh": "场合",
+      "stars": 4,
+      "collocation": "happy occasion brings an"
+    },
+    {
+      "lemma": "increasingly",
+      "pos": "adv.",
+      "zh": "逐渐地",
+      "stars": 4,
+      "collocation": "is increasingly seen as"
+    },
+    {
+      "lemma": "prospect",
+      "pos": "n./v.",
+      "zh": "景色",
+      "stars": 4,
+      "collocation": "bright prospect."
+    },
+    {
+      "lemma": "rival",
+      "pos": "n./adj.",
+      "zh": "对手",
+      "stars": 4,
+      "collocation": "old rival to the"
+    },
+    {
+      "lemma": "distribution",
+      "pos": "n.",
+      "zh": "分配",
+      "stars": 3,
+      "collocation": "the distribution of free"
+    },
+    {
+      "lemma": "illustrate",
+      "pos": "v.",
+      "zh": "举例说明",
+      "stars": 3,
+      "collocation": "will illustrate the distribution"
+    },
+    {
+      "lemma": "notion",
+      "pos": "n.",
+      "zh": "概念",
+      "stars": 3,
+      "collocation": "The notion that money"
+    },
+    {
+      "lemma": "rarely",
+      "pos": "adv.",
+      "zh": "很少地",
+      "stars": 3,
+      "collocation": "problems rarely holds true."
+    },
+    {
+      "lemma": "invest",
+      "pos": "v.",
+      "zh": "投资",
+      "stars": 3,
+      "collocation": "they invest in a"
+    },
+    {
+      "lemma": "poverty",
+      "pos": "n.",
+      "zh": "贫穷",
+      "stars": 3,
+      "collocation": "local poverty."
+    },
+    {
+      "lemma": "surgery",
+      "pos": "n.",
+      "zh": "外科",
+      "stars": 3,
+      "collocation": "new surgery is increasingly"
+    },
+    {
+      "lemma": "equivalent",
+      "pos": "n./adj.",
+      "zh": "同等物",
+      "stars": 3,
+      "collocation": "feels equivalent to a"
+    },
+    {
+      "lemma": "tide",
+      "pos": "n./v.",
+      "zh": "潮",
+      "stars": 3,
+      "collocation": "The tide of support"
+    },
+    {
+      "lemma": "drift",
+      "pos": "n./v.",
+      "zh": "漂流物",
+      "stars": 3,
+      "collocation": "may drift toward the"
+    },
+    {
+      "lemma": "evil",
+      "pos": "n./adj.",
+      "zh": "邪恶",
+      "stars": 3,
+      "collocation": "old evil of cheating."
+    },
+    {
+      "lemma": "surrender",
+      "pos": "v./n.",
+      "zh": "交出",
+      "stars": 3,
+      "collocation": "never surrender to the"
+    },
+    {
+      "lemma": "environmental",
+      "pos": "adj.",
+      "zh": "周围的",
+      "stars": 4,
+      "collocation": "An environmental alliance meets"
+    },
+    {
+      "lemma": "alliance",
+      "pos": "n.",
+      "zh": "联盟",
+      "stars": 3,
+      "collocation": "environmental alliance meets its"
+    },
+    {
+      "lemma": "coverage",
+      "pos": "n.",
+      "zh": "覆盖的范围",
+      "stars": 3,
+      "collocation": "Media coverage of the"
+    },
+    {
+      "lemma": "counterpart",
+      "pos": "n.",
+      "zh": "副本",
+      "stars": 3,
+      "collocation": "foreign counterpart in town."
+    },
+    {
+      "lemma": "cruise",
+      "pos": "n./v.",
+      "zh": "巡航",
+      "stars": 3,
+      "collocation": "short cruise grows every"
+    },
+    {
+      "lemma": "nineteenth",
+      "pos": "num.",
+      "zh": "第十九",
+      "stars": 4,
+      "collocation": "The nineteenth match feels"
+    },
+    {
+      "lemma": "satisfied",
+      "pos": "adj.",
+      "zh": "感到满意的",
+      "stars": 3,
+      "collocation": "Every satisfied fan wears"
+    },
+    {
+      "lemma": "jersey",
+      "pos": "n.",
+      "zh": "运动衫",
+      "stars": 3,
+      "collocation": "new jersey."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“authority” 的意思是：",
+      "options": [
+        "当局",
+        "顾客",
+        "资源",
+        "前景"
+      ],
+      "answer": 0,
+      "speak": "authority"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "Ticket sales are the ___ of every customer promise.",
+      "options": [
+        "basis",
+        "tide",
+        "notion",
+        "jersey"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“extraordinary” 的意思是：",
+      "options": [
+        "非凡的",
+        "自愿的",
+        "满意的",
+        "严格的"
+      ],
+      "answer": 0,
+      "speak": "extraordinary"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "After the match, the small pub fills with quiet ___.",
+      "options": [
+        "tension",
+        "cream",
+        "surgery",
+        "coverage"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "They hope to ___ a young star and select a coach.",
+      "options": [
+        "acquire",
+        "destroy",
+        "surrender",
+        "drift"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“notion” 的意思是：",
+      "options": [
+        "观念",
+        "安排",
+        "距离",
+        "资源"
+      ],
+      "answer": 0,
+      "speak": "notion"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "The plan will involve every ___ the small club owns.",
+      "options": [
+        "resource",
+        "prospect",
+        "occasion",
+        "schedule"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“equivalent” 的意思是：",
+      "options": [
+        "相等的",
+        "满意的",
+        "罕见的",
+        "好奇的"
+      ],
+      "answer": 0,
+      "speak": "equivalent"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "Our soccer club celebrates its ",
+        "hint": "an",
+        "after": " at the old stadium.",
+        "answer": "anniversary"
+      },
+      {
+        "before": "The city ",
+        "hint": "au",
+        "after": " and a local firm will share the whole cost.",
+        "answer": "authority"
+      },
+      {
+        "before": "My uncle says the vast hall can ",
+        "hint": "co",
+        "after": " a thousand fans.",
+        "answer": "contain"
+      },
+      {
+        "before": "My cousin knows ticket sales are the ",
+        "hint": "ba",
+        "after": " of every customer promise.",
+        "answer": "basis"
+      },
+      {
+        "before": "A few extra helpers ",
+        "hint": "pe",
+        "after": " small tasks before the noon whistle.",
+        "answer": "perform"
+      },
+      {
+        "before": "From this ",
+        "hint": "di",
+        "after": ", the judge can still see the white line.",
+        "answer": "distance"
+      },
+      {
+        "before": "A noisy crowd may ",
+        "hint": "de",
+        "after": " the calm mood of the match.",
+        "answer": "destroy"
+      },
+      {
+        "before": "Meanwhile, a ",
+        "hint": "to",
+        "after": " and sudden decision waits for the club board.",
+        "answer": "tough"
+      },
+      {
+        "before": "Later the busy ",
+        "hint": "sc",
+        "after": " leaves little room for a costly arrangement.",
+        "answer": "schedule"
+      },
+      {
+        "before": "They hope to ",
+        "hint": "ac",
+        "after": " a young star and select a coach.",
+        "answer": "acquire"
+      }
+    ],
+    "b3": [
+      {
+        "before": "A map will ",
+        "hint": "il",
+        "after": " the distribution of free tickets online.",
+        "answer": "illustrate"
+      },
+      {
+        "before": "The ",
+        "hint": "no",
+        "after": " that money solves all problems rarely holds true.",
+        "answer": "notion"
+      },
+      {
+        "before": "A new ",
+        "hint": "su",
+        "after": " is increasingly seen as a bright prospect.",
+        "answer": "surgery"
+      },
+      {
+        "before": "Later they ",
+        "hint": "in",
+        "after": " in a program that fights local poverty.",
+        "answer": "invest"
+      },
+      {
+        "before": "The tide of support may ",
+        "hint": "dr",
+        "after": " toward the away side.",
+        "answer": "drift"
+      },
+      {
+        "before": "We will never ",
+        "hint": "su",
+        "after": " to the old evil of cheating.",
+        "answer": "surrender"
+      },
+      {
+        "before": "Media ",
+        "hint": "co",
+        "after": " of the short cruise grows every day.",
+        "answer": "coverage"
+      },
+      {
+        "before": "The nineteenth match feels ",
+        "hint": "eq",
+        "after": " to a small final.",
+        "answer": "equivalent"
+      },
+      {
+        "before": "An environmental ",
+        "hint": "al",
+        "after": " meets its foreign counterpart in town.",
+        "answer": "alliance"
+      },
+      {
+        "before": "Every satisfied fan wears a bright new ",
+        "hint": "je",
+        "after": ".",
+        "answer": "jersey"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "我们的足球俱乐部在老体育场庆祝周年。",
+        "keywords": [
+          "soccer",
+          "anniversary",
+          "stadium"
+        ]
+      },
+      {
+        "zh": "吵闹的人群可能会破坏比赛的平静气氛。",
+        "keywords": [
+          "crowd",
+          "destroy",
+          "mood"
+        ]
+      },
+      {
+        "zh": "比赛结束后，小酒馆里充满了安静的紧张。",
+        "keywords": [
+          "pub",
+          "tension"
+        ]
+      },
+      {
+        "zh": "这个欢乐的场合把一位老对手带到了大门前。",
+        "keywords": [
+          "occasion",
+          "rival",
+          "gate"
+        ]
+      },
+      {
+        "zh": "支持的风潮可能漂向客队一方。",
+        "keywords": [
+          "tide",
+          "drift",
+          "away side"
+        ]
+      },
+      {
+        "zh": "第十九场比赛感觉相当于一场小型决赛。",
+        "keywords": [
+          "coverage",
+          "cruise"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 287,
+    "sentences": 28,
+    "newDensity": 0.206,
+    "targetTokenDensity": 0.206,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写足球俱乐部周年赛：市政与公司分担费用、球迷与裁判、艰难决定与日程、签约与酒馆，随后是志愿工作、冰淇淋、进球与阴谋、赞助、资源、对手、门票分发，结尾是投资、风潮、报道、游轮与球衣。"
+}

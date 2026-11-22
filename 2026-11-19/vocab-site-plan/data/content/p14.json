@@ -1,0 +1,831 @@
+{
+  "id": "p14",
+  "title": "The Village Movie Night",
+  "titleZh": "村庄电影夜",
+  "topic": "乡村",
+  "paragraphs": [
+    [
+      {
+        "en": "Those two long wooden tables are carried by the young helpers.",
+        "zh": "那两张长木桌由年轻的帮手抬着。"
+      },
+      {
+        "en": "We also see a small stage under the old brick wall.",
+        "zh": "我们也看到老砖墙下有一个小舞台。"
+      },
+      {
+        "en": "My friends leave the heavy bag near the front gate.",
+        "zh": "我的朋友们把沉重的袋子放在前门附近。"
+      },
+      {
+        "en": "Our social club will book the town hall for one long night.",
+        "zh": "我们的社交俱乐部会订下镇礼堂一整晚。"
+      },
+      {
+        "en": "My parents talk about whether the whole idea is fair.",
+        "zh": "我的父母谈论整个想法是否公平。"
+      },
+      {
+        "en": "Then the low price today brings many more people to us.",
+        "zh": "于是今天低价给我们带来了更多的人。"
+      },
+      {
+        "en": "We wait until everyone agrees about the final choice.",
+        "zh": "我们一直等到大家都同意最后的选项。"
+      },
+      {
+        "en": "Half of the income shows a clear increase this week.",
+        "zh": "收入的一半显示出本周明显的增长。"
+      },
+      {
+        "en": "Eight adults and nineteen children come to the first show.",
+        "zh": "八个大人和十九个孩子来看了第一场演出。"
+      },
+      {
+        "en": "The movie star signs a card and passes a quick test.",
+        "zh": "那位电影明星签了张卡片，还快速通过了测试。"
+      }
+    ],
+    [
+      {
+        "en": "Her steady hand makes a real difference to the whole team.",
+        "zh": "她稳稳的手给整个团队带来了真正的改变。"
+      },
+      {
+        "en": "A personal gift hangs on a branch of the old tree.",
+        "zh": "一件私人礼物挂在那棵老树的一根树枝上。"
+      },
+      {
+        "en": "Our village keeps a short note beside the front door.",
+        "zh": "我们村在前门旁边留了一张短笺。"
+      },
+      {
+        "en": "Do not throw the heavy ball at yourself or others.",
+        "zh": "不要用那个重球砸你自己或别人。"
+      },
+      {
+        "en": "The cold air moves every small object on the shelf.",
+        "zh": "冷空气吹动架子上的每一样小东西。"
+      },
+      {
+        "en": "My main point about this new plan is very clear.",
+        "zh": "我对这个新计划的主要观点非常清楚。"
+      },
+      {
+        "en": "A soft wind blows through the open kitchen door.",
+        "zh": "一阵轻柔的风穿过敞开的厨房门。"
+      },
+      {
+        "en": "A cheap ticket and a short interview bring new guests.",
+        "zh": "一张便宜的票和一次简短的面试带来了新客人。"
+      },
+      {
+        "en": "Then nobody stays alone, and all guests feel welcome.",
+        "zh": "于是没有人独自待着，所有客人都感到受欢迎。"
+      },
+      {
+        "en": "A pretty lamp hides the weak light of the old stage.",
+        "zh": "一盏漂亮的灯遮住了旧舞台微弱的光。"
+      }
+    ],
+    [
+      {
+        "en": "Our guest speaker asks for ice and a clean cup.",
+        "zh": "我们的嘉宾演讲者要了冰块和一个干净的杯子。"
+      },
+      {
+        "en": "A tall gentleman buys a tiny gift for his young son.",
+        "zh": "一位高个子绅士给他年幼的儿子买了一件小礼物。"
+      },
+      {
+        "en": "A thick card holds a short lesson about the deep sea.",
+        "zh": "一张厚卡片上写着关于深海的一堂短课。"
+      },
+      {
+        "en": "Our dear cook brings warm bread to the long table.",
+        "zh": "我们亲爱的厨师把热面包端到长桌上。"
+      },
+      {
+        "en": "Later people celebrate everywhere with music and bright lights.",
+        "zh": "后来人们到处庆祝，伴着音乐和明亮的灯光。"
+      },
+      {
+        "en": "We dig a small pool and call it our own ocean.",
+        "zh": "我们挖了一个小水池，管它叫我们自己的海洋。"
+      },
+      {
+        "en": "A small toy sits beside a warm bowl of rice.",
+        "zh": "一件小玩具放在一碗热米饭旁边。"
+      },
+      {
+        "en": "The referendum originally asked about a very different question.",
+        "zh": "这场公投原本问的是一个完全不同的问题。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "by",
+      "pos": "prep./adv.",
+      "zh": "被",
+      "stars": 5,
+      "collocation": "carried by the young"
+    },
+    {
+      "lemma": "see",
+      "pos": "v./n.",
+      "zh": "看见",
+      "stars": 5,
+      "collocation": "also see a small"
+    },
+    {
+      "lemma": "also",
+      "pos": "adv.",
+      "zh": "也",
+      "stars": 5,
+      "collocation": "We also see a"
+    },
+    {
+      "lemma": "those",
+      "pos": "pron.",
+      "zh": "那些",
+      "stars": 5,
+      "collocation": "Those two long"
+    },
+    {
+      "lemma": "leave",
+      "pos": "n./v.",
+      "zh": "许可",
+      "stars": 5,
+      "collocation": "friends leave the heavy"
+    },
+    {
+      "lemma": "under",
+      "pos": "prep./adj./adv.",
+      "zh": "在...之下",
+      "stars": 5,
+      "collocation": "stage under the old"
+    },
+    {
+      "lemma": "point",
+      "pos": "n./v.",
+      "zh": "点",
+      "stars": 5,
+      "collocation": "main point about this"
+    },
+    {
+      "lemma": "social",
+      "pos": "adj./n.",
+      "zh": "社会的",
+      "stars": 5,
+      "collocation": "Our social club will"
+    },
+    {
+      "lemma": "book",
+      "pos": "n./v.",
+      "zh": "书",
+      "stars": 5,
+      "collocation": "will book the town"
+    },
+    {
+      "lemma": "whether",
+      "pos": "conj./pron.",
+      "zh": "是否",
+      "stars": 5,
+      "collocation": "about whether the whole"
+    },
+    {
+      "lemma": "talk",
+      "pos": "n./v.",
+      "zh": "谈话",
+      "stars": 5,
+      "collocation": "parents talk about whether"
+    },
+    {
+      "lemma": "low",
+      "pos": "n./adj./adv./v.",
+      "zh": "低点",
+      "stars": 5,
+      "collocation": "the low price today"
+    },
+    {
+      "lemma": "today",
+      "pos": "n./adv.",
+      "zh": "今天",
+      "stars": 5,
+      "collocation": "price today brings many"
+    },
+    {
+      "lemma": "until",
+      "pos": "prep./conj.",
+      "zh": "直到",
+      "stars": 5,
+      "collocation": "wait until everyone agrees"
+    },
+    {
+      "lemma": "agree",
+      "pos": "v.",
+      "zh": "同意",
+      "stars": 5,
+      "collocation": "everyone agrees about the"
+    },
+    {
+      "lemma": "plan",
+      "pos": "n./v.",
+      "zh": "计划",
+      "stars": 5,
+      "collocation": "new plan is very"
+    },
+    {
+      "lemma": "half",
+      "pos": "n./adj./adv.",
+      "zh": "一半",
+      "stars": 5,
+      "collocation": "Half of the"
+    },
+    {
+      "lemma": "increase",
+      "pos": "n./v.",
+      "zh": "增加",
+      "stars": 5,
+      "collocation": "clear increase this week."
+    },
+    {
+      "lemma": "eight",
+      "pos": "num.",
+      "zh": "八",
+      "stars": 5,
+      "collocation": "Eight adults and"
+    },
+    {
+      "lemma": "test",
+      "pos": "n./v.",
+      "zh": "测试",
+      "stars": 5,
+      "collocation": "quick test."
+    },
+    {
+      "lemma": "final",
+      "pos": "n./adj.",
+      "zh": "期末考试",
+      "stars": 5,
+      "collocation": "the final choice."
+    },
+    {
+      "lemma": "star",
+      "pos": "n./v.",
+      "zh": "星",
+      "stars": 5,
+      "collocation": "movie star signs a"
+    },
+    {
+      "lemma": "nineteen",
+      "pos": "num.",
+      "zh": "十九",
+      "stars": 5,
+      "collocation": "and nineteen children come"
+    },
+    {
+      "lemma": "hand",
+      "pos": "n./v.",
+      "zh": "手",
+      "stars": 4,
+      "collocation": "steady hand makes a"
+    },
+    {
+      "lemma": "difference",
+      "pos": "n.",
+      "zh": "不同",
+      "stars": 4,
+      "collocation": "real difference to the"
+    },
+    {
+      "lemma": "personal",
+      "pos": "adj.",
+      "zh": "私人的",
+      "stars": 4,
+      "collocation": "A personal gift hangs"
+    },
+    {
+      "lemma": "tree",
+      "pos": "n./v.",
+      "zh": "树",
+      "stars": 4,
+      "collocation": "old tree."
+    },
+    {
+      "lemma": "village",
+      "pos": "n./adj.",
+      "zh": "村庄",
+      "stars": 4,
+      "collocation": "Our village keeps a"
+    },
+    {
+      "lemma": "note",
+      "pos": "n./v.",
+      "zh": "笔记",
+      "stars": 4,
+      "collocation": "short note beside the"
+    },
+    {
+      "lemma": "throw",
+      "pos": "v./n.",
+      "zh": "投",
+      "stars": 4,
+      "collocation": "not throw the heavy"
+    },
+    {
+      "lemma": "yourself",
+      "pos": "pron.",
+      "zh": "你自己",
+      "stars": 4,
+      "collocation": "at yourself or others."
+    },
+    {
+      "lemma": "cold",
+      "pos": "n./adj./adv.",
+      "zh": "感冒",
+      "stars": 4,
+      "collocation": "The cold air moves"
+    },
+    {
+      "lemma": "object",
+      "pos": "n./v.",
+      "zh": "物体",
+      "stars": 4,
+      "collocation": "small object on the"
+    },
+    {
+      "lemma": "kitchen",
+      "pos": "n.",
+      "zh": "厨房",
+      "stars": 4,
+      "collocation": "open kitchen door."
+    },
+    {
+      "lemma": "wind",
+      "pos": "n./v.",
+      "zh": "风",
+      "stars": 4,
+      "collocation": "soft wind blows through"
+    },
+    {
+      "lemma": "bag",
+      "pos": "n./v.",
+      "zh": "袋子",
+      "stars": 4,
+      "collocation": "heavy bag near the"
+    },
+    {
+      "lemma": "cheap",
+      "pos": "adj./adv.",
+      "zh": "便宜的",
+      "stars": 4,
+      "collocation": "A cheap ticket and"
+    },
+    {
+      "lemma": "interview",
+      "pos": "n./v.",
+      "zh": "面谈",
+      "stars": 4,
+      "collocation": "short interview bring new"
+    },
+    {
+      "lemma": "nobody",
+      "pos": "n./pron.",
+      "zh": "小人物",
+      "stars": 4,
+      "collocation": "Then nobody stays alone,"
+    },
+    {
+      "lemma": "welcome",
+      "pos": "n./adj./v.",
+      "zh": "欢迎",
+      "stars": 4,
+      "collocation": "feel welcome."
+    },
+    {
+      "lemma": "pretty",
+      "pos": "adj./adv.",
+      "zh": "漂亮的",
+      "stars": 4,
+      "collocation": "A pretty lamp hides"
+    },
+    {
+      "lemma": "weak",
+      "pos": "adj.",
+      "zh": "不牢固的",
+      "stars": 4,
+      "collocation": "the weak light of"
+    },
+    {
+      "lemma": "ice",
+      "pos": "n./v.",
+      "zh": "冰",
+      "stars": 4,
+      "collocation": "for ice and a"
+    },
+    {
+      "lemma": "movie",
+      "pos": "n.",
+      "zh": "电影",
+      "stars": 4,
+      "collocation": "The movie star signs"
+    },
+    {
+      "lemma": "speaker",
+      "pos": "n.",
+      "zh": "说话人",
+      "stars": 3,
+      "collocation": "guest speaker asks for"
+    },
+    {
+      "lemma": "gentleman",
+      "pos": "n.",
+      "zh": "绅士",
+      "stars": 3,
+      "collocation": "tall gentleman buys a"
+    },
+    {
+      "lemma": "tiny",
+      "pos": "adj.",
+      "zh": "很少的",
+      "stars": 3,
+      "collocation": "a tiny gift for"
+    },
+    {
+      "lemma": "thick",
+      "pos": "adj./adv./n.",
+      "zh": "厚的",
+      "stars": 3,
+      "collocation": "A thick card holds"
+    },
+    {
+      "lemma": "lesson",
+      "pos": "n.",
+      "zh": "课",
+      "stars": 3,
+      "collocation": "short lesson about the"
+    },
+    {
+      "lemma": "dear",
+      "pos": "n./adj./adv.",
+      "zh": "亲爱的人",
+      "stars": 3,
+      "collocation": "Our dear cook brings"
+    },
+    {
+      "lemma": "bread",
+      "pos": "n./v.",
+      "zh": "面包",
+      "stars": 3,
+      "collocation": "warm bread to the"
+    },
+    {
+      "lemma": "celebrate",
+      "pos": "v.",
+      "zh": "庆祝",
+      "stars": 3,
+      "collocation": "people celebrate everywhere with"
+    },
+    {
+      "lemma": "everywhere",
+      "pos": "adv.",
+      "zh": "各处",
+      "stars": 3,
+      "collocation": "celebrate everywhere with music"
+    },
+    {
+      "lemma": "dig",
+      "pos": "v./n.",
+      "zh": "挖",
+      "stars": 3,
+      "collocation": "We dig a small"
+    },
+    {
+      "lemma": "ocean",
+      "pos": "n.",
+      "zh": "海洋",
+      "stars": 3,
+      "collocation": "own ocean."
+    },
+    {
+      "lemma": "toy",
+      "pos": "n./adj./v.",
+      "zh": "玩具",
+      "stars": 3,
+      "collocation": "small toy sits beside"
+    },
+    {
+      "lemma": "rice",
+      "pos": "n./v.",
+      "zh": "米",
+      "stars": 3,
+      "collocation": "of rice."
+    },
+    {
+      "lemma": "originally",
+      "pos": "adv.",
+      "zh": "本来",
+      "stars": 3,
+      "collocation": "referendum originally asked about"
+    },
+    {
+      "lemma": "referendum",
+      "pos": "n.",
+      "zh": "全民公决",
+      "stars": 3,
+      "collocation": "The referendum originally asked"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“referendum” 的意思是：",
+      "options": [
+        "全民公决",
+        "社交俱乐部",
+        "面试",
+        "收入"
+      ],
+      "answer": 0,
+      "speak": "referendum"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "The movie star signs a card and passes a quick ___.",
+      "options": [
+        "test",
+        "note",
+        "lesson",
+        "point"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“gentleman” 的意思是：",
+      "options": [
+        "绅士",
+        "演讲者",
+        "厨师",
+        "帮手"
+      ],
+      "answer": 0,
+      "speak": "gentleman"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "We dig a small pool and call it our own ___.",
+      "options": [
+        "ocean",
+        "tree",
+        "object",
+        "ice"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "A cheap ticket and a short ___ bring new guests.",
+      "options": [
+        "interview",
+        "increase",
+        "difference",
+        "welcome"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“thick” 的意思是：",
+      "options": [
+        "厚的",
+        "便宜的",
+        "微弱的",
+        "漂亮的"
+      ],
+      "answer": 0,
+      "speak": "thick"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "A pretty lamp hides the ___ light of the old stage.",
+      "options": [
+        "weak",
+        "cold",
+        "tiny",
+        "dear"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“celebrate” 的意思是：",
+      "options": [
+        "庆祝",
+        "挖",
+        "投掷",
+        "欢迎"
+      ],
+      "answer": 0,
+      "speak": "celebrate"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "Those two long wooden tables are carried ",
+        "hint": "by",
+        "after": " the young helpers.",
+        "answer": "by"
+      },
+      {
+        "before": "We also ",
+        "hint": "se",
+        "after": " a small stage under the old brick wall.",
+        "answer": "see"
+      },
+      {
+        "before": "My friends leave the heavy ",
+        "hint": "ba",
+        "after": " near the front gate.",
+        "answer": "bag"
+      },
+      {
+        "before": "Our social club will ",
+        "hint": "bo",
+        "after": " the town hall for one long night.",
+        "answer": "book"
+      },
+      {
+        "before": "My parents talk about ",
+        "hint": "wh",
+        "after": " the whole idea is fair.",
+        "answer": "whether"
+      },
+      {
+        "before": "Then the ",
+        "hint": "lo",
+        "after": " price today brings many more people to us.",
+        "answer": "low"
+      },
+      {
+        "before": "We wait ",
+        "hint": "un",
+        "after": " everyone agrees about the final choice.",
+        "answer": "until"
+      },
+      {
+        "before": "Half of the income shows a clear ",
+        "hint": "in",
+        "after": " this week.",
+        "answer": "increase"
+      },
+      {
+        "before": "Eight adults and ",
+        "hint": "ni",
+        "after": " children come to the first show.",
+        "answer": "nineteen"
+      },
+      {
+        "before": "The movie star signs a card and passes a quick ",
+        "hint": "te",
+        "after": ".",
+        "answer": "test"
+      }
+    ],
+    "b3": [
+      {
+        "before": "Her steady hand makes a real ",
+        "hint": "di",
+        "after": " to the whole team.",
+        "answer": "difference"
+      },
+      {
+        "before": "A personal gift hangs on a branch of the old ",
+        "hint": "tr",
+        "after": ".",
+        "answer": "tree"
+      },
+      {
+        "before": "Our village keeps a short ",
+        "hint": "no",
+        "after": " beside the front door.",
+        "answer": "note"
+      },
+      {
+        "before": "Do not ",
+        "hint": "th",
+        "after": " the heavy ball at yourself or others.",
+        "answer": "throw"
+      },
+      {
+        "before": "The cold air moves every small ",
+        "hint": "ob",
+        "after": " on the shelf.",
+        "answer": "object"
+      },
+      {
+        "before": "My main point about this new ",
+        "hint": "pl",
+        "after": " is very clear.",
+        "answer": "plan"
+      },
+      {
+        "before": "A soft wind blows through the open ",
+        "hint": "ki",
+        "after": " door.",
+        "answer": "kitchen"
+      },
+      {
+        "before": "A cheap ticket and a short ",
+        "hint": "in",
+        "after": " bring new guests.",
+        "answer": "interview"
+      },
+      {
+        "before": "Then nobody stays alone, and all guests feel ",
+        "hint": "we",
+        "after": ".",
+        "answer": "welcome"
+      },
+      {
+        "before": "A pretty lamp hides the ",
+        "hint": "we",
+        "after": " light of the old stage.",
+        "answer": "weak"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "那两张长木桌由年轻的帮手抬着。",
+        "keywords": [
+          "tables",
+          "by",
+          "helpers"
+        ]
+      },
+      {
+        "zh": "我们一直等到大家都同意最后的选项。",
+        "keywords": [
+          "until",
+          "agree",
+          "choice"
+        ]
+      },
+      {
+        "zh": "一件私人礼物挂在那棵老树的一根树枝上。",
+        "keywords": [
+          "personal",
+          "gift",
+          "branch"
+        ]
+      },
+      {
+        "zh": "我们的嘉宾演讲者要了冰块和一个干净的杯子。",
+        "keywords": [
+          "speaker",
+          "ice",
+          "cup"
+        ]
+      },
+      {
+        "zh": "我们亲爱的厨师把热面包端到长桌上。",
+        "keywords": [
+          "dear",
+          "bread",
+          "cook"
+        ]
+      },
+      {
+        "zh": "这场公投原本问的是一个完全不同的问题。",
+        "keywords": [
+          "referendum",
+          "originally",
+          "question"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 287,
+    "sentences": 28,
+    "newDensity": 0.206,
+    "targetTokenDensity": 0.206,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写村子办露天电影夜的一天：搬桌子、搭舞台、定低价、请嘉宾、放电影，穿插公投话题与面包米饭的收尾，气氛热闹。"
+}

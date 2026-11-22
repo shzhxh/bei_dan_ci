@@ -1,0 +1,830 @@
+{
+  "id": "p36",
+  "title": "The Emergency Drill",
+  "titleZh": "应急演练",
+  "topic": "城市应急演练",
+  "paragraphs": [
+    [
+      {
+        "en": "A city emergency drill tests the whole busy network today.",
+        "zh": "今天一场城市应急演练检验了整个繁忙的网络。"
+      },
+      {
+        "en": "A false signal tests the intelligence of every quick rescue team.",
+        "zh": "一个虚假信号检验着每支快速救援队的情报能力。"
+      },
+      {
+        "en": "One terrorist may gamble and seize the main control room tonight.",
+        "zh": "一名恐怖分子可能在今晚赌一把，夺取主控制室。"
+      },
+      {
+        "en": "My aunt's aid group shares a simple theory with us.",
+        "zh": "我姑姑的援助小组与我们分享了一个简单的理论。"
+      },
+      {
+        "en": "They publish a short report after a long delay.",
+        "zh": "他们在长时间延误后发布了一份简短报告。"
+      },
+      {
+        "en": "Then the division between two teams starts a lively debate.",
+        "zh": "然后两队之间的分歧引发了一场热烈的辩论。"
+      },
+      {
+        "en": "An expert gives the leading speech before the noon lunch break.",
+        "zh": "一位专家在中午午休前做了开场演讲。"
+      },
+      {
+        "en": "A request for more careful reporting arrives at the front desk.",
+        "zh": "一份要求更细致报道的请求送到前台。"
+      },
+      {
+        "en": "A gay couple and their associate join the volunteer team.",
+        "zh": "一对同性伴侣和他们的同事加入了志愿者队伍。"
+      },
+      {
+        "en": "A suitable plan rests on one clear and simple assumption.",
+        "zh": "一个合适的方案建立在一个清晰简单的假设上。"
+      }
+    ],
+    [
+      {
+        "en": "The first impression hides a deeper inner fear.",
+        "zh": "第一印象掩盖了更深层的内心恐惧。"
+      },
+      {
+        "en": "My brother's long string and metal hook hang by the door.",
+        "zh": "我哥哥的长绳和金属钩挂在门边。"
+      },
+      {
+        "en": "Some neighbours oppose the plan, and a quiet poet agrees at once.",
+        "zh": "一些邻居反对这个方案，一位安静的诗人立刻赞同。"
+      },
+      {
+        "en": "A musical group plays for a native speaker from the north.",
+        "zh": "一支乐队为一位来自北方的母语者演奏。"
+      },
+      {
+        "en": "A fence keeps the virus test away from the crowd.",
+        "zh": "一道围栏把病毒检测挡在人群之外。"
+      },
+      {
+        "en": "Later a jet flies worldwide and returns before dark.",
+        "zh": "后来一架喷气机飞遍全球，天黑前返回。"
+      },
+      {
+        "en": "My mother's bake sale becomes a small but useful factor.",
+        "zh": "我母亲的烘焙义卖成了一个微小但有用的因素。"
+      },
+      {
+        "en": "It is okay if the result is possibly a little slow.",
+        "zh": "如果结果可能有点慢，也没关系。"
+      },
+      {
+        "en": "New rules impose a calm style of leadership.",
+        "zh": "新规则带来一种冷静的领导风格。"
+      },
+      {
+        "en": "The prime choice is a careful selection of local helpers.",
+        "zh": "首要选择是仔细挑选本地帮手。"
+      }
+    ],
+    [
+      {
+        "en": "One small device can capture every word in the room.",
+        "zh": "一个小装置能记录房间里的每一句话。"
+      },
+      {
+        "en": "Later they pit two teams together, suspend the game, and process results.",
+        "zh": "后来他们把两队放在一起，暂停比赛，并处理结果。"
+      },
+      {
+        "en": "The plan will integrate retail news into the report.",
+        "zh": "这个计划将把零售新闻整合进报告。"
+      },
+      {
+        "en": "A naval boat makes a gradual turn toward the bay.",
+        "zh": "一艘海军船只缓缓转向海湾。"
+      },
+      {
+        "en": "The mortgage and earnings figures shock the small bank.",
+        "zh": "房贷和收入数据让这家小银行震惊。"
+      },
+      {
+        "en": "A rape case and a treasury error fill the evening news.",
+        "zh": "一起强奸案和一处财政错误占据了晚间新闻。"
+      },
+      {
+        "en": "Helpers deliver the last heavy box of medical substance.",
+        "zh": "帮手们送来最后一箱沉重的医疗物质。"
+      },
+      {
+        "en": "An extensive report ends with a touch of rouge.",
+        "zh": "一份详尽的报告以一抹胭脂收尾。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "process",
+      "pos": "n./v./adj.",
+      "zh": "程序",
+      "stars": 5,
+      "collocation": "and process results."
+    },
+    {
+      "lemma": "aid",
+      "pos": "n./v.",
+      "zh": "帮助",
+      "stars": 5,
+      "collocation": "aunt's aid group shares"
+    },
+    {
+      "lemma": "theory",
+      "pos": "n.",
+      "zh": "理论",
+      "stars": 4,
+      "collocation": "simple theory with us."
+    },
+    {
+      "lemma": "publish",
+      "pos": "v.",
+      "zh": "出版",
+      "stars": 4,
+      "collocation": "They publish a short"
+    },
+    {
+      "lemma": "division",
+      "pos": "n.",
+      "zh": "分",
+      "stars": 4,
+      "collocation": "the division between two"
+    },
+    {
+      "lemma": "network",
+      "pos": "n.",
+      "zh": "网络",
+      "stars": 4,
+      "collocation": "busy network today."
+    },
+    {
+      "lemma": "debate",
+      "pos": "n./v.",
+      "zh": "辩论",
+      "stars": 4,
+      "collocation": "lively debate."
+    },
+    {
+      "lemma": "expert",
+      "pos": "n./adj.",
+      "zh": "专家",
+      "stars": 4,
+      "collocation": "An expert gives the"
+    },
+    {
+      "lemma": "deliver",
+      "pos": "v.",
+      "zh": "递送",
+      "stars": 4,
+      "collocation": "Helpers deliver the last"
+    },
+    {
+      "lemma": "leading",
+      "pos": "n./adj.",
+      "zh": "领导",
+      "stars": 4,
+      "collocation": "the leading speech before"
+    },
+    {
+      "lemma": "request",
+      "pos": "n./v.",
+      "zh": "请求",
+      "stars": 4,
+      "collocation": "A request for more"
+    },
+    {
+      "lemma": "emergency",
+      "pos": "n.",
+      "zh": "紧急状况",
+      "stars": 4,
+      "collocation": "city emergency drill tests"
+    },
+    {
+      "lemma": "delay",
+      "pos": "n./v.",
+      "zh": "耽搁",
+      "stars": 4,
+      "collocation": "long delay."
+    },
+    {
+      "lemma": "gay",
+      "pos": "adj.",
+      "zh": "欢快的",
+      "stars": 4,
+      "collocation": "A gay couple and"
+    },
+    {
+      "lemma": "associate",
+      "pos": "n./v.",
+      "zh": "同伴",
+      "stars": 3,
+      "collocation": "their associate join the"
+    },
+    {
+      "lemma": "suitable",
+      "pos": "adj.",
+      "zh": "适当的",
+      "stars": 3,
+      "collocation": "A suitable plan rests"
+    },
+    {
+      "lemma": "assumption",
+      "pos": "n.",
+      "zh": "假定",
+      "stars": 3,
+      "collocation": "simple assumption."
+    },
+    {
+      "lemma": "impression",
+      "pos": "n.",
+      "zh": "印象",
+      "stars": 3,
+      "collocation": "first impression hides a"
+    },
+    {
+      "lemma": "signal",
+      "pos": "n./v./adj.",
+      "zh": "信号",
+      "stars": 3,
+      "collocation": "false signal tests the"
+    },
+    {
+      "lemma": "string",
+      "pos": "n./v.",
+      "zh": "线",
+      "stars": 3,
+      "collocation": "long string and metal"
+    },
+    {
+      "lemma": "false",
+      "pos": "adj./adv.",
+      "zh": "错误的",
+      "stars": 3,
+      "collocation": "A false signal tests"
+    },
+    {
+      "lemma": "intelligence",
+      "pos": "n.",
+      "zh": "智力",
+      "stars": 3,
+      "collocation": "the intelligence of every"
+    },
+    {
+      "lemma": "oppose",
+      "pos": "v.",
+      "zh": "反对",
+      "stars": 3,
+      "collocation": "neighbours oppose the plan,"
+    },
+    {
+      "lemma": "poet",
+      "pos": "n.",
+      "zh": "诗人",
+      "stars": 3,
+      "collocation": "quiet poet agrees at"
+    },
+    {
+      "lemma": "musical",
+      "pos": "n./adj.",
+      "zh": "音乐片",
+      "stars": 3,
+      "collocation": "A musical group plays"
+    },
+    {
+      "lemma": "seize",
+      "pos": "v.",
+      "zh": "抓住",
+      "stars": 3,
+      "collocation": "and seize the main"
+    },
+    {
+      "lemma": "native",
+      "pos": "n./adj.",
+      "zh": "本地人",
+      "stars": 3,
+      "collocation": "a native speaker from"
+    },
+    {
+      "lemma": "fence",
+      "pos": "n./v.",
+      "zh": "围墙",
+      "stars": 3,
+      "collocation": "A fence keeps the"
+    },
+    {
+      "lemma": "virus",
+      "pos": "n.",
+      "zh": "病毒",
+      "stars": 3,
+      "collocation": "the virus test away"
+    },
+    {
+      "lemma": "jet",
+      "pos": "n./v./adj.",
+      "zh": "喷射流",
+      "stars": 3,
+      "collocation": "a jet flies worldwide"
+    },
+    {
+      "lemma": "hook",
+      "pos": "n./v.",
+      "zh": "钩",
+      "stars": 3,
+      "collocation": "metal hook hang by"
+    },
+    {
+      "lemma": "worldwide",
+      "pos": "adj.",
+      "zh": "全世界的",
+      "stars": 3,
+      "collocation": "flies worldwide and returns"
+    },
+    {
+      "lemma": "bake",
+      "pos": "v./n.",
+      "zh": "烘焙",
+      "stars": 3,
+      "collocation": "mother's bake sale becomes"
+    },
+    {
+      "lemma": "factor",
+      "pos": "n.",
+      "zh": "因素",
+      "stars": 4,
+      "collocation": "useful factor."
+    },
+    {
+      "lemma": "okay",
+      "pos": "adj./adv./n./v.",
+      "zh": "好",
+      "stars": 4,
+      "collocation": "is okay if the"
+    },
+    {
+      "lemma": "possibly",
+      "pos": "adv.",
+      "zh": "可能",
+      "stars": 4,
+      "collocation": "is possibly a little"
+    },
+    {
+      "lemma": "impose",
+      "pos": "v.",
+      "zh": "征",
+      "stars": 4,
+      "collocation": "rules impose a calm"
+    },
+    {
+      "lemma": "leadership",
+      "pos": "n.",
+      "zh": "领导能力",
+      "stars": 4,
+      "collocation": "of leadership."
+    },
+    {
+      "lemma": "prime",
+      "pos": "n./adj./v.",
+      "zh": "最佳部分",
+      "stars": 3,
+      "collocation": "The prime choice is"
+    },
+    {
+      "lemma": "selection",
+      "pos": "n.",
+      "zh": "选择",
+      "stars": 3,
+      "collocation": "careful selection of local"
+    },
+    {
+      "lemma": "device",
+      "pos": "n.",
+      "zh": "装置",
+      "stars": 3,
+      "collocation": "small device can capture"
+    },
+    {
+      "lemma": "inner",
+      "pos": "adj./n.",
+      "zh": "内部的",
+      "stars": 3,
+      "collocation": "deeper inner fear."
+    },
+    {
+      "lemma": "extensive",
+      "pos": "adj.",
+      "zh": "广的",
+      "stars": 3,
+      "collocation": "An extensive report ends"
+    },
+    {
+      "lemma": "substance",
+      "pos": "n.",
+      "zh": "物质",
+      "stars": 3,
+      "collocation": "medical substance."
+    },
+    {
+      "lemma": "capture",
+      "pos": "n./v.",
+      "zh": "抓取",
+      "stars": 3,
+      "collocation": "can capture every word"
+    },
+    {
+      "lemma": "pit",
+      "pos": "n./v.",
+      "zh": "深坑",
+      "stars": 3,
+      "collocation": "they pit two teams"
+    },
+    {
+      "lemma": "suspend",
+      "pos": "v.",
+      "zh": "悬",
+      "stars": 3,
+      "collocation": "together, suspend the game,"
+    },
+    {
+      "lemma": "integrate",
+      "pos": "v./adj.",
+      "zh": "综合",
+      "stars": 3,
+      "collocation": "will integrate retail news"
+    },
+    {
+      "lemma": "retail",
+      "pos": "n./adj./v.",
+      "zh": "零售",
+      "stars": 3,
+      "collocation": "integrate retail news into"
+    },
+    {
+      "lemma": "naval",
+      "pos": "adj.",
+      "zh": "海军的",
+      "stars": 3,
+      "collocation": "A naval boat makes"
+    },
+    {
+      "lemma": "gradual",
+      "pos": "adj./n.",
+      "zh": "逐渐的",
+      "stars": 3,
+      "collocation": "a gradual turn toward"
+    },
+    {
+      "lemma": "mortgage",
+      "pos": "n./v.",
+      "zh": "抵押",
+      "stars": 4,
+      "collocation": "The mortgage and earnings"
+    },
+    {
+      "lemma": "earnings",
+      "pos": "n.",
+      "zh": "所赚的钱",
+      "stars": 3,
+      "collocation": "and earnings figures shock"
+    },
+    {
+      "lemma": "rape",
+      "pos": "n./v.",
+      "zh": "抢夺",
+      "stars": 3,
+      "collocation": "A rape case and"
+    },
+    {
+      "lemma": "terrorist",
+      "pos": "n.",
+      "zh": "恐怖分子",
+      "stars": 3,
+      "collocation": "One terrorist may gamble"
+    },
+    {
+      "lemma": "gamble",
+      "pos": "n./v.",
+      "zh": "赌博",
+      "stars": 3,
+      "collocation": "may gamble and seize"
+    },
+    {
+      "lemma": "reporting",
+      "pos": "n.",
+      "zh": "报道",
+      "stars": 4,
+      "collocation": "careful reporting arrives at"
+    },
+    {
+      "lemma": "treasury",
+      "pos": "n.",
+      "zh": "国库",
+      "stars": 3,
+      "collocation": "a treasury error fill"
+    },
+    {
+      "lemma": "rouge",
+      "pos": "n./v.",
+      "zh": "口红",
+      "stars": 3,
+      "collocation": "of rouge."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“emergency” 的意思是：",
+      "options": [
+        "紧急情况",
+        "理论",
+        "假设",
+        "领导"
+      ],
+      "answer": 0,
+      "speak": "emergency"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "A false signal tests the ___ of every quick rescue team.",
+      "options": [
+        "intelligence",
+        "mortgage",
+        "rouge",
+        "substance"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“assumption” 的意思是：",
+      "options": [
+        "假设",
+        "印象",
+        "因素",
+        "选择"
+      ],
+      "answer": 0,
+      "speak": "assumption"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "A suitable plan rests on one clear and simple ___.",
+      "options": [
+        "assumption",
+        "string",
+        "hook",
+        "fence"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "The plan will ___ retail news into the report.",
+      "options": [
+        "integrate",
+        "oppose",
+        "suspend",
+        "capture"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“treasury” 的意思是：",
+      "options": [
+        "财政部",
+        "领导层",
+        "假期",
+        "装置"
+      ],
+      "answer": 0,
+      "speak": "treasury"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "One small device can ___ every word in the room.",
+      "options": [
+        "capture",
+        "deliver",
+        "impose",
+        "publish"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“extensive” 的意思是：",
+      "options": [
+        "详尽的",
+        "虚伪的",
+        "渐进的",
+        "首要的"
+      ],
+      "answer": 0,
+      "speak": "extensive"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "A city emergency drill tests the whole busy ",
+        "hint": "ne",
+        "after": " today.",
+        "answer": "network"
+      },
+      {
+        "before": "A false signal tests the ",
+        "hint": "in",
+        "after": " of every quick rescue team.",
+        "answer": "intelligence"
+      },
+      {
+        "before": "One terrorist may gamble and ",
+        "hint": "se",
+        "after": " the main control room tonight.",
+        "answer": "seize"
+      },
+      {
+        "before": "My aunt's aid group shares a simple ",
+        "hint": "th",
+        "after": " with us.",
+        "answer": "theory"
+      },
+      {
+        "before": "They publish a short report after a long ",
+        "hint": "de",
+        "after": ".",
+        "answer": "delay"
+      },
+      {
+        "before": "Then the division between two teams starts a lively ",
+        "hint": "de",
+        "after": ".",
+        "answer": "debate"
+      },
+      {
+        "before": "An expert gives the ",
+        "hint": "le",
+        "after": " speech before the noon lunch break.",
+        "answer": "leading"
+      },
+      {
+        "before": "A request for more careful ",
+        "hint": "re",
+        "after": " arrives at the front desk.",
+        "answer": "reporting"
+      },
+      {
+        "before": "A gay couple and their ",
+        "hint": "as",
+        "after": " join the volunteer team.",
+        "answer": "associate"
+      },
+      {
+        "before": "A suitable plan rests on one clear and simple ",
+        "hint": "as",
+        "after": ".",
+        "answer": "assumption"
+      }
+    ],
+    "b3": [
+      {
+        "before": "New rules impose a calm style of ",
+        "hint": "le",
+        "after": ".",
+        "answer": "leadership"
+      },
+      {
+        "before": "The prime choice is a careful ",
+        "hint": "se",
+        "after": " of local helpers.",
+        "answer": "selection"
+      },
+      {
+        "before": "One small ",
+        "hint": "de",
+        "after": " can capture every word in the room.",
+        "answer": "device"
+      },
+      {
+        "before": "Later they pit two teams together, ",
+        "hint": "su",
+        "after": " the game, and process results.",
+        "answer": "suspend"
+      },
+      {
+        "before": "The plan will ",
+        "hint": "in",
+        "after": " retail news into the report.",
+        "answer": "integrate"
+      },
+      {
+        "before": "A naval boat makes a ",
+        "hint": "gr",
+        "after": " turn toward the bay.",
+        "answer": "gradual"
+      },
+      {
+        "before": "The ",
+        "hint": "mo",
+        "after": " and earnings figures shock the small bank.",
+        "answer": "mortgage"
+      },
+      {
+        "before": "A rape case and a ",
+        "hint": "tr",
+        "after": " error fill the evening news.",
+        "answer": "treasury"
+      },
+      {
+        "before": "Helpers deliver the last heavy box of medical ",
+        "hint": "su",
+        "after": ".",
+        "answer": "substance"
+      },
+      {
+        "before": "An extensive report ends with a touch of ",
+        "hint": "ro",
+        "after": ".",
+        "answer": "rouge"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "今天一场城市应急演练检验了整个繁忙的网络。",
+        "keywords": [
+          "emergency",
+          "drill",
+          "network"
+        ]
+      },
+      {
+        "zh": "然后两队之间的分歧引发了一场热烈的辩论。",
+        "keywords": [
+          "division",
+          "debate"
+        ]
+      },
+      {
+        "zh": "一对同性伴侣和他们的同事加入了志愿者队伍。",
+        "keywords": [
+          "gay",
+          "associate",
+          "volunteer"
+        ]
+      },
+      {
+        "zh": "一支乐队为一位来自北方的母语者演奏。",
+        "keywords": [
+          "musical",
+          "native",
+          "north"
+        ]
+      },
+      {
+        "zh": "后来他们把两队放在一起，暂停比赛，并处理结果。",
+        "keywords": [
+          "suspend",
+          "process",
+          "results"
+        ]
+      },
+      {
+        "zh": "一起强奸案和一处财政错误占据了晚间新闻。",
+        "keywords": [
+          "mortgage",
+          "earnings",
+          "bank"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 282,
+    "sentences": 28,
+    "newDensity": 0.209,
+    "targetTokenDensity": 0.209,
+    "patterns": [
+      "My + N + V",
+      "A + adj + N + V",
+      "During/Then/Later 开头"
+    ]
+  },
+  "note": "写城市应急演练的一天：病毒与虚假信号、恐怖分子与情报、专家辩论、援助与报道，穿插志愿者、乐队与烘焙义卖，结尾是设备、零售、房贷与详尽报告。"
+}
