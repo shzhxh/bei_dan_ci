@@ -1,0 +1,838 @@
+{
+  "id": "p01",
+  "title": "A Saturday by the River",
+  "titleZh": "河边的星期六",
+  "topic": "日常",
+  "paragraphs": [
+    [
+      {
+        "en": "My son talks baseball over a quick Saturday breakfast at home.",
+        "zh": "在家里的周六早餐上，我儿子三句不离棒球。"
+      },
+      {
+        "en": "At fourteen he joins a small club near our quiet street.",
+        "zh": "十四岁时，他加入了我们安静街道附近的一个小俱乐部。"
+      },
+      {
+        "en": "My daughter, still tiny, mimics every swing he makes at home.",
+        "zh": "我女儿还很小，却模仿他每一次挥棒。"
+      },
+      {
+        "en": "Our group meets each Saturday for one full hour by the gate.",
+        "zh": "我们这一组每个周六都在大门边聚满整整一小时。"
+      },
+      {
+        "en": "Then his coach calls to say they practice by our river today.",
+        "zh": "然后他的教练打来电话，说他们今天在我们这条河边练习。"
+      },
+      {
+        "en": "He begs me to come along, and I promise to be there.",
+        "zh": "他求我一起去，我答应他一定到场。"
+      },
+      {
+        "en": "I pour bitter coffee and watch a pale moon slowly fade.",
+        "zh": "我倒上苦咖啡，看着苍白的月亮慢慢褪去。"
+      },
+      {
+        "en": "One early phone call from work spoils our peace at dawn.",
+        "zh": "一早来自工作的一通电话破坏了黎明的安宁。"
+      },
+      {
+        "en": "My boss needs an urgent appointment in a distant office unit.",
+        "zh": "我的老板要我在一个遥远的办公室单位赴一个紧急约见。"
+      },
+      {
+        "en": "The old car will not start, no taxi is cheap.",
+        "zh": "那辆旧车发动不了，而打车也不便宜。"
+      }
+    ],
+    [
+      {
+        "en": "I can almost afford an expensive trip across our town.",
+        "zh": "我几乎付得起横穿我们镇的一趟昂贵行程。"
+      },
+      {
+        "en": "My tired head begins to spin with a familiar heavy weight.",
+        "zh": "我疲惫的脑袋开始发晕，带着一种熟悉的沉重。"
+      },
+      {
+        "en": "I step outside quietly; I lock our rusty front door.",
+        "zh": "我悄悄走到外面，锁上我们生锈的前门。"
+      },
+      {
+        "en": "A lady across our road struggles with a heavy pet.",
+        "zh": "我们路对面，一位女士正费力地牵着一只沉重的宠物。"
+      },
+      {
+        "en": "I help her, then sprint home before my hope dies.",
+        "zh": "我帮了她，然后一路跑回家，赶在我的希望熄灭之前。"
+      },
+      {
+        "en": "My enemy is time, which rarely plays fair with me.",
+        "zh": "我的敌人是时间，它对我很少公平。"
+      },
+      {
+        "en": "I suppose I could cancel, but that feels deeply wrong.",
+        "zh": "我想我可以取消，但那感觉大错特错。"
+      },
+      {
+        "en": "A memory returns of a lie my father once told me.",
+        "zh": "我想起父亲曾对我说过的一个谎言。"
+      },
+      {
+        "en": "I call my boss, or I continue to wait in silence.",
+        "zh": "我给老板打电话，或者继续默默地等。"
+      },
+      {
+        "en": "During my short call, my boss waits there with a guest.",
+        "zh": "在我简短的通话期间，老板带着一位客人在那边等着。"
+      }
+    ],
+    [
+      {
+        "en": "Soon we spend our morning as his game finds its course.",
+        "zh": "很快，我们度过这个上午，他的比赛也慢慢成形。"
+      },
+      {
+        "en": "I watch my son's game develop from a quiet wooden bench.",
+        "zh": "我坐在安静的木凳上，看着儿子的比赛逐渐展开。"
+      },
+      {
+        "en": "Later we rest past our university under a wide old tree.",
+        "zh": "后来我们在我们大学过去一点的一棵大老树下休息。"
+      },
+      {
+        "en": "Nothing can prevent a rich, unhurried morning like this now.",
+        "zh": "现在没有什么能阻止这个富足而从容的早晨。"
+      },
+      {
+        "en": "A quick jump separates us; he grabs a high ball.",
+        "zh": "一个快速的跳跃把我们分开；他扑向一个高球。"
+      },
+      {
+        "en": "My favourite ball flies far; I taste fresh cool morning air.",
+        "zh": "我最喜欢的球飞得很远；我尝到清晨清凉的空气。"
+      },
+      {
+        "en": "An accident sends it far downstream; my neck burns.",
+        "zh": "一场意外把它送往下游很远；我的脖子火辣辣地疼。"
+      },
+      {
+        "en": "Let that ball sail away downriver; my promise still stands.",
+        "zh": "让那个球顺流漂走吧；我的承诺依然立着。"
+      }
+    ]
+  ],
+  "words": [
+    {
+      "lemma": "the",
+      "pos": "art.",
+      "zh": "这；那（定冠词）",
+      "stars": 5,
+      "collocation": "by the gate."
+    },
+    {
+      "lemma": "and",
+      "pos": "conj.",
+      "zh": "和；并且",
+      "stars": 5,
+      "collocation": "along, and I"
+    },
+    {
+      "lemma": "or",
+      "pos": "conj.",
+      "zh": "或者；也不",
+      "stars": 5,
+      "collocation": "boss, or I"
+    },
+    {
+      "lemma": "then",
+      "pos": "adv./conj.",
+      "zh": "然后；那时",
+      "stars": 5,
+      "collocation": "Then his"
+    },
+    {
+      "lemma": "over",
+      "pos": "prep./adv.",
+      "zh": "在…之上；结束",
+      "stars": 5,
+      "collocation": "baseball over a"
+    },
+    {
+      "lemma": "group",
+      "pos": "n./v.",
+      "zh": "小组；团体",
+      "stars": 5,
+      "collocation": "Our group meets"
+    },
+    {
+      "lemma": "small",
+      "pos": "adj.",
+      "zh": "小的",
+      "stars": 5,
+      "collocation": "a small club"
+    },
+    {
+      "lemma": "during",
+      "pos": "prep.",
+      "zh": "在…期间",
+      "stars": 5,
+      "collocation": "During my"
+    },
+    {
+      "lemma": "head",
+      "pos": "n./v.",
+      "zh": "头；朝…走",
+      "stars": 5,
+      "collocation": "tired head begins"
+    },
+    {
+      "lemma": "car",
+      "pos": "n.",
+      "zh": "汽车",
+      "stars": 5,
+      "collocation": "old car will"
+    },
+    {
+      "lemma": "almost",
+      "pos": "adv.",
+      "zh": "几乎",
+      "stars": 5,
+      "collocation": "can almost afford"
+    },
+    {
+      "lemma": "hour",
+      "pos": "n.",
+      "zh": "小时",
+      "stars": 5,
+      "collocation": "full hour by"
+    },
+    {
+      "lemma": "continue",
+      "pos": "v.",
+      "zh": "继续",
+      "stars": 5,
+      "collocation": "I continue to"
+    },
+    {
+      "lemma": "course",
+      "pos": "n.",
+      "zh": "课程；过程",
+      "stars": 5,
+      "collocation": "its course."
+    },
+    {
+      "lemma": "street",
+      "pos": "n.",
+      "zh": "街道",
+      "stars": 5,
+      "collocation": "quiet street."
+    },
+    {
+      "lemma": "develop",
+      "pos": "v.",
+      "zh": "发展；形成",
+      "stars": 5,
+      "collocation": "game develop from"
+    },
+    {
+      "lemma": "spend",
+      "pos": "v.",
+      "zh": "花费；度过",
+      "stars": 5,
+      "collocation": "we spend our"
+    },
+    {
+      "lemma": "hope",
+      "pos": "v./n.",
+      "zh": "希望",
+      "stars": 5,
+      "collocation": "my hope dies."
+    },
+    {
+      "lemma": "club",
+      "pos": "n.",
+      "zh": "俱乐部",
+      "stars": 5,
+      "collocation": "small club near"
+    },
+    {
+      "lemma": "university",
+      "pos": "n.",
+      "zh": "大学",
+      "stars": 5,
+      "collocation": "our university under"
+    },
+    {
+      "lemma": "son",
+      "pos": "n.",
+      "zh": "儿子",
+      "stars": 5,
+      "collocation": "My son talks"
+    },
+    {
+      "lemma": "step",
+      "pos": "v./n.",
+      "zh": "迈步；步骤",
+      "stars": 5,
+      "collocation": "I step outside"
+    },
+    {
+      "lemma": "daughter",
+      "pos": "n.",
+      "zh": "女儿",
+      "stars": 5,
+      "collocation": "My daughter, still"
+    },
+    {
+      "lemma": "peace",
+      "pos": "n.",
+      "zh": "和平；安宁",
+      "stars": 5,
+      "collocation": "our peace at"
+    },
+    {
+      "lemma": "fourteen",
+      "pos": "num.",
+      "zh": "十四",
+      "stars": 5,
+      "collocation": "At fourteen he"
+    },
+    {
+      "lemma": "practice",
+      "pos": "n./v.",
+      "zh": "练习；实践",
+      "stars": 4,
+      "collocation": "they practice by"
+    },
+    {
+      "lemma": "unit",
+      "pos": "n.",
+      "zh": "单元；单位",
+      "stars": 4,
+      "collocation": "office unit."
+    },
+    {
+      "lemma": "wrong",
+      "pos": "adj.",
+      "zh": "错误的",
+      "stars": 4,
+      "collocation": "deeply wrong."
+    },
+    {
+      "lemma": "rest",
+      "pos": "n./v.",
+      "zh": "休息；歇",
+      "stars": 4,
+      "collocation": "we rest past"
+    },
+    {
+      "lemma": "lady",
+      "pos": "n.",
+      "zh": "女士",
+      "stars": 4,
+      "collocation": "A lady across"
+    },
+    {
+      "lemma": "suppose",
+      "pos": "v.",
+      "zh": "推测；猜想",
+      "stars": 4,
+      "collocation": "I suppose I"
+    },
+    {
+      "lemma": "river",
+      "pos": "n.",
+      "zh": "河；河流",
+      "stars": 4,
+      "collocation": "our river today."
+    },
+    {
+      "lemma": "prevent",
+      "pos": "v.",
+      "zh": "阻止；预防",
+      "stars": 4,
+      "collocation": "can prevent a"
+    },
+    {
+      "lemma": "memory",
+      "pos": "n.",
+      "zh": "记忆",
+      "stars": 4,
+      "collocation": "A memory returns"
+    },
+    {
+      "lemma": "weight",
+      "pos": "n.",
+      "zh": "重量；分量",
+      "stars": 4,
+      "collocation": "heavy weight."
+    },
+    {
+      "lemma": "fair",
+      "pos": "adj./n.",
+      "zh": "公平的；集市",
+      "stars": 4,
+      "collocation": "plays fair with"
+    },
+    {
+      "lemma": "rich",
+      "pos": "adj.",
+      "zh": "富有的；浓郁的",
+      "stars": 4,
+      "collocation": "a rich, unhurried"
+    },
+    {
+      "lemma": "separate",
+      "pos": "v./adj.",
+      "zh": "分开；单独的",
+      "stars": 4,
+      "collocation": "jump separates us;"
+    },
+    {
+      "lemma": "phone",
+      "pos": "v./n.",
+      "zh": "打电话；电话",
+      "stars": 4,
+      "collocation": "early phone call"
+    },
+    {
+      "lemma": "promise",
+      "pos": "v./n.",
+      "zh": "承诺；答应",
+      "stars": 4,
+      "collocation": "I promise to"
+    },
+    {
+      "lemma": "expensive",
+      "pos": "adj.",
+      "zh": "昂贵的",
+      "stars": 4,
+      "collocation": "an expensive trip"
+    },
+    {
+      "lemma": "guest",
+      "pos": "n.",
+      "zh": "客人",
+      "stars": 4,
+      "collocation": "a guest."
+    },
+    {
+      "lemma": "jump",
+      "pos": "v./n.",
+      "zh": "跳；跳跃",
+      "stars": 4,
+      "collocation": "quick jump separates"
+    },
+    {
+      "lemma": "taste",
+      "pos": "n./v.",
+      "zh": "味道；品味",
+      "stars": 4,
+      "collocation": "I taste fresh"
+    },
+    {
+      "lemma": "favourite",
+      "pos": "adj./n.",
+      "zh": "最喜爱的",
+      "stars": 4,
+      "collocation": "My favourite ball"
+    },
+    {
+      "lemma": "lie",
+      "pos": "n./v.",
+      "zh": "谎言；躺",
+      "stars": 3,
+      "collocation": "a lie my"
+    },
+    {
+      "lemma": "accident",
+      "pos": "n.",
+      "zh": "事故；意外",
+      "stars": 3,
+      "collocation": "An accident sends"
+    },
+    {
+      "lemma": "neck",
+      "pos": "n.",
+      "zh": "脖子",
+      "stars": 3,
+      "collocation": "my neck burns."
+    },
+    {
+      "lemma": "afford",
+      "pos": "v.",
+      "zh": "买得起；负担得起",
+      "stars": 3,
+      "collocation": "almost afford an"
+    },
+    {
+      "lemma": "enemy",
+      "pos": "n.",
+      "zh": "敌人",
+      "stars": 3,
+      "collocation": "My enemy is"
+    },
+    {
+      "lemma": "breakfast",
+      "pos": "n.",
+      "zh": "早餐",
+      "stars": 3,
+      "collocation": "Saturday breakfast at"
+    },
+    {
+      "lemma": "tired",
+      "pos": "adj.",
+      "zh": "疲倦的",
+      "stars": 3,
+      "collocation": "My tired head"
+    },
+    {
+      "lemma": "lock",
+      "pos": "v./n.",
+      "zh": "锁上；锁",
+      "stars": 3,
+      "collocation": "I lock our"
+    },
+    {
+      "lemma": "swing",
+      "pos": "v./n.",
+      "zh": "挥动；摇摆",
+      "stars": 3,
+      "collocation": "every swing he"
+    },
+    {
+      "lemma": "moon",
+      "pos": "n.",
+      "zh": "月亮",
+      "stars": 3,
+      "collocation": "pale moon slowly"
+    },
+    {
+      "lemma": "sail",
+      "pos": "n./v.",
+      "zh": "帆；航行",
+      "stars": 3,
+      "collocation": "ball sail away"
+    },
+    {
+      "lemma": "bitter",
+      "pos": "adj.",
+      "zh": "苦的；痛苦的",
+      "stars": 3,
+      "collocation": "pour bitter coffee"
+    },
+    {
+      "lemma": "pet",
+      "pos": "n.",
+      "zh": "宠物",
+      "stars": 3,
+      "collocation": "heavy pet."
+    },
+    {
+      "lemma": "baseball",
+      "pos": "n.",
+      "zh": "棒球",
+      "stars": 3,
+      "collocation": "talks baseball over"
+    },
+    {
+      "lemma": "appointment",
+      "pos": "n.",
+      "zh": "约会；预约",
+      "stars": 3,
+      "collocation": "urgent appointment in"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "词义匹配",
+      "prompt": "“bitter” 在短文里最接近的意思是：",
+      "options": [
+        "苦涩的",
+        "昂贵的",
+        "疲惫的",
+        "遥远的"
+      ],
+      "answer": 0,
+      "speak": "bitter"
+    },
+    {
+      "id": "q2",
+      "type": "语境填空",
+      "prompt": "I can almost ___ an expensive trip across our town.",
+      "options": [
+        "afford",
+        "prevent",
+        "develop",
+        "continue"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q3",
+      "type": "词义匹配",
+      "prompt": "“unit” 在短文里最接近的意思是：",
+      "options": [
+        "单位",
+        "小组",
+        "课程",
+        "街道"
+      ],
+      "answer": 0,
+      "speak": "unit"
+    },
+    {
+      "id": "q4",
+      "type": "搭配",
+      "prompt": "One early phone call from work spoils our ___ at dawn.",
+      "options": [
+        "peace",
+        "weight",
+        "memory",
+        "taste"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q5",
+      "type": "语境填空",
+      "prompt": "My daughter, still tiny, mimics every ___ he makes.",
+      "options": [
+        "swing",
+        "step",
+        "jump",
+        "lock"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q6",
+      "type": "词义匹配",
+      "prompt": "“guest” 在短文里最接近的意思是：",
+      "options": [
+        "客人",
+        "邻居",
+        "敌人",
+        "主人"
+      ],
+      "answer": 0,
+      "speak": "guest"
+    },
+    {
+      "id": "q7",
+      "type": "语境填空",
+      "prompt": "Later we ___ past our university under a wide old tree.",
+      "options": [
+        "rest",
+        "spend",
+        "prevent",
+        "separate"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "q8",
+      "type": "词义匹配",
+      "prompt": "“accident” 在短文里最接近的意思是：",
+      "options": [
+        "意外事故",
+        "约会",
+        "记忆",
+        "承诺"
+      ],
+      "answer": 0,
+      "speak": "accident"
+    }
+  ],
+  "recite": {
+    "b2": [
+      {
+        "before": "My son talks ",
+        "hint": "ba",
+        "after": " over a quick Saturday breakfast at home.",
+        "answer": "baseball"
+      },
+      {
+        "before": "At ",
+        "hint": "fo",
+        "after": " he joins a small club near our quiet street.",
+        "answer": "fourteen"
+      },
+      {
+        "before": "My daughter, still tiny, mimics every ",
+        "hint": "sw",
+        "after": " he makes at home.",
+        "answer": "swing"
+      },
+      {
+        "before": "Our group meets each Saturday for one full ",
+        "hint": "ho",
+        "after": " by the gate.",
+        "answer": "hour"
+      },
+      {
+        "before": "Then his coach calls to say they practice by our ",
+        "hint": "ri",
+        "after": " today.",
+        "answer": "river"
+      },
+      {
+        "before": "He begs me to come along, and I ",
+        "hint": "pr",
+        "after": " to be there.",
+        "answer": "promise"
+      },
+      {
+        "before": "I pour ",
+        "hint": "bi",
+        "after": " coffee and watch a pale moon slowly fade.",
+        "answer": "bitter"
+      },
+      {
+        "before": "One early ",
+        "hint": "ph",
+        "after": " call from work spoils our peace at dawn.",
+        "answer": "phone"
+      },
+      {
+        "before": "My boss needs an urgent appointment in a distant office ",
+        "hint": "un",
+        "after": ".",
+        "answer": "unit"
+      },
+      {
+        "before": "The old ",
+        "hint": "ca",
+        "after": " will not start, no taxi is cheap.",
+        "answer": "car"
+      }
+    ],
+    "b3": [
+      {
+        "before": "I call my boss, or I ",
+        "hint": "co",
+        "after": " to wait in silence.",
+        "answer": "continue"
+      },
+      {
+        "before": "During my short call, my boss waits there with a ",
+        "hint": "gu",
+        "after": ".",
+        "answer": "guest"
+      },
+      {
+        "before": "Soon we spend our morning as his game finds its ",
+        "hint": "co",
+        "after": ".",
+        "answer": "course"
+      },
+      {
+        "before": "I watch my son's game ",
+        "hint": "de",
+        "after": " from a quiet wooden bench.",
+        "answer": "develop"
+      },
+      {
+        "before": "Later we rest past our ",
+        "hint": "un",
+        "after": " under a wide old tree.",
+        "answer": "university"
+      },
+      {
+        "before": "Nothing can prevent a ",
+        "hint": "ri",
+        "after": ", unhurried morning like this now.",
+        "answer": "rich"
+      },
+      {
+        "before": "A quick jump ",
+        "hint": "se",
+        "after": " us; he grabs a high ball.",
+        "answer": "separates"
+      },
+      {
+        "before": "My favourite ball flies far; I ",
+        "hint": "ta",
+        "after": " fresh cool morning air.",
+        "answer": "taste"
+      },
+      {
+        "before": "An accident sends it far downstream; my ",
+        "hint": "ne",
+        "after": " burns.",
+        "answer": "neck"
+      },
+      {
+        "before": "Let that ball ",
+        "hint": "sa",
+        "after": " away downriver; my promise still stands.",
+        "answer": "sail"
+      }
+    ],
+    "b4": [
+      {
+        "zh": "在家里的周六早餐上，我儿子三句不离棒球。",
+        "keywords": [
+          "son",
+          "baseball",
+          "breakfast"
+        ]
+      },
+      {
+        "zh": "他求我一起去，我答应他一定到场。",
+        "keywords": [
+          "begs",
+          "promise",
+          "come"
+        ]
+      },
+      {
+        "zh": "我疲惫的脑袋开始发晕，带着一种熟悉的沉重。",
+        "keywords": [
+          "tired",
+          "head",
+          "weight"
+        ]
+      },
+      {
+        "zh": "我想起父亲曾对我说过的一个谎言。",
+        "keywords": [
+          "memory",
+          "lie",
+          "father"
+        ]
+      },
+      {
+        "zh": "一场意外把它送往下游很远；我的脖子火辣辣地疼。",
+        "keywords": [
+          "accident",
+          "neck",
+          "ball"
+        ]
+      },
+      {
+        "zh": "让那个球顺流漂走吧；我的承诺依然立着。",
+        "keywords": [
+          "sail",
+          "promise",
+          "stands"
+        ]
+      }
+    ]
+  },
+  "metrics": {
+    "words": 299,
+    "sentences": 28,
+    "newDensity": 0.201,
+    "targetTokenDensity": 0.217,
+    "patterns": [
+      "My + N + V（6 次）",
+      "A + 形容词 + N + V（3 次）",
+      "During / Then / Later 开头（3 次）"
+    ]
+  },
+  "note": "p01 重写稿：299 词 / 28 句；60 个目标词全部出现，目标词次 65（21.7%）；每句 8–14 词、2–4 个目标词。全篇围绕父亲守约一条主线：早餐许诺—工作来电与坏车—帮邻居后赶回—河边看儿子比赛—球被冲走而承诺仍在。"
+}

@@ -8,14 +8,14 @@
 #
 # 环境变量：
 #   NODE_BIN_DIR   Node 所在目录，默认 $HOME/.local/node/bin
-#   SITE_DIR       站点工程目录，默认仓库下的 2026-11-19/vocab-site-plan/site
+#   SITE_DIR       站点工程目录，默认仓库下的 site/
 
 set -euo pipefail
 
 SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd -- "$SCRIPT_DIR/.." && pwd)"
 NODE_BIN_DIR="${NODE_BIN_DIR:-$HOME/.local/node/bin}"
-SITE_DIR="${SITE_DIR:-$REPO_ROOT/2026-11-19/vocab-site-plan/site}"
+SITE_DIR="${SITE_DIR:-$REPO_ROOT/site}"
 
 PORT=4321
 HOST=localhost

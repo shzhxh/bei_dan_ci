@@ -6,7 +6,7 @@ Output: data/lexicon.json, data/supplement.json, data/zhongkao.json,
         data/assignment.tsv, data/assignment-supplement.tsv,
         data/lexicon-diagnostics.json
 
-Selection policy (v4, see outputs/词表与许可证核验报告.md):
+Selection policy (v4, see docs/plan/词表与许可证核验报告.md):
   1. single lowercase alphabetic/hyphenated headwords only; drop pure inflections
   2. main line = ECDICT collins 3/4/5 headwords (2,953), 50 passages
   3. supplement = 中考 (zk) headwords with blank collins (289), 5 passages

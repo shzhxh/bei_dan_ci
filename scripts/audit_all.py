@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""全局成稿核对（只读 data/，报告写到 work/）。
+"""全局成稿核对（只读 data/，报告写到 scripts/）。
 
 用法：
-    python3 work/audit_all.py            # 核对 data/content/ 下全部篇目
-    python3 work/audit_all.py --no-write # 只打印，不写报告文件
+    python3 scripts/audit_all.py            # 核对 data/content/ 下全部篇目
+    python3 scripts/audit_all.py --no-write # 只打印，不写报告文件
 
 核对项：
   1. 文件与编号：p01–p50、b01–b05 齐全，无多余 json，id 与文件名一致；
@@ -18,7 +18,7 @@
      keywords 出现在正文、quiz 选项与答案合法；
   8. metrics 与实测是否一致。
 
-只读 data/；唯一写入是 work/audit-report.md 与 work/audit-report.json。
+只读 data/；唯一写入是 scripts/audit-report.md 与 scripts/audit-report.json。
 """
 
 import csv
@@ -32,7 +32,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 CONTENT = DATA / "content"
-WORK = ROOT / "work"
+WORK = ROOT / "scripts"
 
 TOKEN_MAIN = re.compile(r"[A-Za-z]+(?:'[a-z]+)?")
 TOKEN_SUP = re.compile(r"[A-Za-z]+(?:['-][A-Za-z]+)*")

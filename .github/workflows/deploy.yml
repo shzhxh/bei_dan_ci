@@ -19,8 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        # 站点不在仓库根目录，所有 run 步骤都在 site/ 下执行。
-        working-directory: 2026-11-19/vocab-site-plan/site
+        # 站点在仓库顶层的 site/ 下。
+        working-directory: site
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,7 +30,7 @@ jobs:
         with:
           node-version: 22
           cache: npm
-          cache-dependency-path: 2026-11-19/vocab-site-plan/site/package-lock.json
+          cache-dependency-path: site/package-lock.json
 
       - name: Compute base path and site URL
         # 用户站点 <user>.github.io 用 "/"，其他仓库用 "/<repo>/"。
@@ -53,7 +53,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # 该路径相对仓库根目录，而不是上面的 working-directory。
-          path: 2026-11-19/vocab-site-plan/site/dist
+          path: site/dist
 
   deploy:
     needs: build

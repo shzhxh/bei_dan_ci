@@ -8,17 +8,15 @@
 ## 仓库结构
 
 ```
-2026-11-19/vocab-site-plan/
+.
 ├── site/       Astro 站点源码（构建入口）
 ├── data/       词表、分篇账簿、校验数据与 55 篇成稿（data/content/）
-├── outputs/    建设计划、阶段任务清单与历史版本（v1–v4）
-└── work/       词表构建、审计与写作自查脚本
-scripts/
-└── preview.sh  本地预览启动脚本
-.github/workflows/deploy.yml   GitHub Pages 自动构建与发布
+├── scripts/    预览、词表构建、审计与写作自查脚本
+├── docs/plan/  建设计划、阶段任务清单与历史版本（v1–v4）
+└── .github/workflows/deploy.yml   GitHub Pages 自动构建与发布
 ```
 
-站点不在仓库根目录。`site/` 构建时会向上读取 `../data/`，因此目录相对位置不能改动。
+`site/` 与 `data/` 是同级目录，站点构建时读取 `../data/`。
 
 ## 本地预览
 
@@ -34,7 +32,7 @@ cd "$(git rev-parse --show-toplevel)"
 手动启动：
 
 ```bash
-cd 2026-11-19/vocab-site-plan/site
+cd site
 npm ci
 npm run dev
 ```
@@ -44,7 +42,7 @@ npm run dev
 要求 Node 22（Node 18+ 可用）。从仓库根目录执行：
 
 ```bash
-cd 2026-11-19/vocab-site-plan/site
+cd site
 npm ci
 npm run build        # 输出到 site/dist，共 62 个 HTML 页面
 npm run check        # 可选：Astro/TypeScript 类型检查
@@ -78,4 +76,4 @@ git push -u origin main
   该文件仅用于词表生成流程，站点构建不依赖它，入库会显著增大克隆体积。
   需要重建词表时请从 [ECDICT](https://github.com/skywind3000/ECDICT) 获取并放到 `data/vendor/`。
   其许可证保留在 `data/vendor/ECDICT-LICENSE.txt`。
-- `outputs/` 中的历史版本（v1–v4）一并保留，便于追溯方案变更，不参与构建。
+- `docs/plan/` 中的历史版本（v1–v4）一并保留，便于追溯方案变更，不参与构建。
